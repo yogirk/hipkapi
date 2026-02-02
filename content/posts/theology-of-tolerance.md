@@ -30,10 +30,15 @@ With respect to 'tolerance', a word or two might prove useful to reflect about. 
 **windwheel** — 2014-03-30 05:17:00
 
 Reading your recent posts, it appears that you think there some universal, simple, deontic logic such that knowledge of the 'core' dogma of a sect enables an algorithmic derivation of everything it enjoins.
+
 As a matter of fact, not speculation, this isn't true. Orthodox (haredi) Judaism has a concept of 'halachah vein morin kein' such that dogmatic Knowledge of the Law forbids the very action it otherwise enjoins. The context is the slaying of Zimri &amp; Kosbi by the zealot Pinchas. In other words, the action that dogma approves (because it is clearly laid down in Scripture)- viz. slaughtering the 'Devil worshiping' infidel- is forbidden precisely because it is known.
+
 Islam, similarly, has similar workarounds- either involving the pragmatics of farz e kifayya or else by distinguishing insha and khabar in the context of alam al amr and alam al khalq- while, even with Western Christianity there's distinctions between things like synteresis and conscientia such that a gap is created between  Dogmatic beliefs and what is deontically enjoined.
+
 Turning to our own Region, we don't find Zoroastrians and Hindus killing each other though the former consider our 'devas' to be devils while we tend to think of their Ahura as a demonic Asura. No doubt, from time to time some theologically inclined King- like Ashoka- slaughtered sramans of rival sects but this was supererogatory and is generally explained (as is the incarnations of Devas slaughtering Asuras) in terms of Karmic moral economy involving Samrambha Yoga or Virodha Bhakti or something of that sort.
+
 Like my ancestors, I think our Sectarian polemics (Anantanarayanan has given a hilarious account of a debate between a Saivite and a Vaishnavite in his short novel 'Silver pilgrimage') to be delightfully silly, but, like my ancestors, though supposedly bound by one particular dogma, I am happy to go for darshan of any Shraman/Bhraman Acharya and to visit Swami Narayan Temple, or go to Arya Samaji havan or Kabir panthi or Narayana Guru kirtan or whatever. 
+
 Of course, I must mention that as a strict Smarta, I am currently looking for a hitman to kill my cousins so that I can inherit the family property. I would like to remind any Muslim or Christian or Jewish persons who follows this blog that, because it is your Religious duty to kill Hindus, you should charge me the lowest possible rate. Incidentally, my cousins are putting not just tomato but also onion in their sambar. This clearly shows they are acharabrashta and deserving of death.
 Mind it kindly.
 Jai Hind.

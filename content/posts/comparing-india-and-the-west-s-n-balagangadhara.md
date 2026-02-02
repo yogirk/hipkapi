@@ -10,7 +10,7 @@ categories:
 - orientalism
 - published
 tags: []
-toc: false
+toc: true
 aliases:
   - /2011/04/02/comparing-india-and-the-west-s-n-balagangadhara/
 ---
@@ -19,13 +19,13 @@ aliases:
 
 During the last two decades, I have been pursuing an unorthodox way of studying cultural differences, focusing mainly on the Indian and the western cultures. Because I believe that one can answer questions about the circumscription of the words 'Indian' and 'western' cultures satisfactorily (Balangangadhara, 1994), I will assume their intelligibility in what follows. In this paper, I want to raise a rather intriguing problem about comparing these two cultures. I shall do that without looking at other approaches to the issue and in the form of an argument. In order to come to the point quickly, let me make use of Said's *Orientalism.*
 
-**The Challenge of Orientalism**
+## The Challenge of Orientalism
 
 How best should we look at Orientalist discourse? One way: it as a description of the Orient. The second way: it is a description of the western experience of the Orient. I believe the latter to be the case. If we accept that 'Orientalism' is how the western culture came to terms with the reality that the East is, then, 'Orientalism' refers not only to the discourse about experience but also to the way of reflecting about and structuring this experience. In this sense, even though Orientalism is a discourse about western cultural experience, it is *oblique*. It is oblique because *it appears to be about other cultures*. It is '*western*' in the sense that it refers to the experiences of the members from a particular culture. Orientalism is the western way of thinking about its experience of non-western cultures. However, it takes the form of an *apparent discourse about the Orient*.
 
 In this process, western culture built and elaborated conceptual frameworks using resources available from its own culture. These descriptions helped in Europe's description and understanding of itself. That is to say, Europe's description of other cultures is fundamentally entwined in many untold ways with the way it has experienced the world. The challenge of Orientalism, thus, *is a challenge to understand the western culture*. That is, to understand the self-description of the West and the way it has described the others is to begin understanding western culture itself.
 
-**Western Culture from a Comparative Perspective**
+## Western Culture from a Comparative Perspective
 
 I want to draw out one of the implications of this argument explicitly. If we study a culture this way, we begin by conceptualizing the subject matter of our study itself, which is the western culture, in a *comparative* way. The West is what it says about the others and itself. We compare what it says about the others with what it says about itself in order to find a common conceptual structure. In one sense, this stance is congruent with the insight we have about human beings: when a person describes another human being, the resulting description tells us much about the describer himself. The same holds good at the level of individual descriptions provided by members of a particular culture. In other words, if there is a common conceptual structure to the European descriptions of India, then such a structure reflects a shared and common European culture. The research that both predates and postdates Said's *Orientalism* tells us that *such a structure is present*. If the same structure is found to be present in its self-description, then we can justifiably say that such a structure is the western culture. This argument also provides us with a methodology to objectively, non-arbitrarily and scientifically study the western culture *in a comparative way*. Since I have no time to elaborate on this point, let me leave it here and turn my attention to see whether the same consideration holds good with respect to India.
 
@@ -39,7 +39,7 @@ Similar considerations hold good elsewhere. Despite the presence of the volumino
 
 One such example is the famous 'Indian caste system'.We are assured that the Indian social structure is synonymous with 'the caste system' and all we have by way of an explanation (or even justification) of this system are a few verses: in the *Purusha Sukta*, in the *Gita* and in some *Dharmashastras*. No Indian could tell you the 'principles' of this system, even though quite a few modern 'theories' about it float around. Sociologists, anthropologists, political theorists have provided all kinds of descriptions without being sure of the kind of system that 'the caste system' is supposed to be.
 
-**The Absence of Intellectual Reflection**
+## The Absence of Intellectual Reflection
 
 In this sense, we notice two kinds of facts when we try to study Indian culture. First, there is a noticeable absence of intellectual reflection on these and allied phenomena; second, in the course of the last three hundred years or so, Indian intellectuals have merely reproduced western descriptions of the Indian culture and her traditions. When we study India, our question should then be: why is there such a vacuum? It requires noting that this question cannot be answered by appealing to other 'negative facts', for example, the contention that Indian culture did not have 'sciences.' We need to appeal to what exists in the world in order to explain what does not.
 
@@ -51,7 +51,7 @@ When Indians confront such questions in the West, two things happen: (a) they fe
 
 One of the most important consequences of my claim is this: when the western culture quizzes Indians about the nature of their traditions, this culture is telling us about itself. To provide answers to the western interlocutors about Indian traditions one needs to understand the nature of western culture. Simply put: *to understand let alone answer such questions about the Indian traditions, one has to understand the western culture*.
 
-**Cross-Cultural Asymmetry**
+## Cross-Cultural Asymmetry
 
 In other words, we face an asymmetry. To study and understand western culture, we need to study what it says about the others and itself. However, we need to do exactly the same thing even when we want to study Indian culture. Alternately put, we compare the western descriptions (of itself and the others) to understand the West; if we want to understand India, we have to begin by saying why (and in what sense) India is not like the West. Our expectation of wanting to study India by looking at what it says about itself and the others is not met. Nor could we simply continue with the so-called 'empirical' and/or 'textual' studies to understand Indian culture because, in this process, we will merely add to the western descriptions of India and not advance our understanding of the Indian culture.
 
@@ -59,7 +59,7 @@ Why is there such an asymmetry? It has to do with what colonialism is also about
 
 I believe that it is possible to develop a science of culture that is in every way as scientific as physics or biology. However, we shall not get there unless we realize that our road will be comparative in nature: study the West in a comparative way and study other cultures to isolate their *differentia specifica* from the West. They will be two different types of comparison but they will give us what we lack and so badly need today: knowledge of human beings in their societies and cultures.
 
-**References**
+## References
 
 S . N . Balagangadhara, 1994, *'[The Heathen in his Blindness...': Asia, the West and the Dynamic of Religion](http://colonial.consciousness.googlepages.com/HeatheninHisBlindness.pdf)*. Leiden: E.J. Brill. Second edition, New Delhi: Manohar, 2005.
 

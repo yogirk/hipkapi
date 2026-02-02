@@ -9,7 +9,7 @@ categories:
 - published
 - terrorism
 tags: []
-toc: false
+toc: true
 aliases:
   - /2015/02/19/the-magic-of-radicalization/
 ---
@@ -18,7 +18,7 @@ After the Paris attacks came the questions: Is this violence caused by Islam or 
 
 The responses were diverse: ‘Islam is a threat to free speech’. But many Muslims joined the protest marches in defence of the freedom of expression. ‘Not all Muslims are terrorists, but most terrorists are Muslims’. The statistics show otherwise. ‘Madmen have neither colour nor religion’. Yet the ‘professionals’ in Paris screamed ‘Allahu Akbar’.  And then appeared the magical word ‘radicalization’. From the mayor to the teacher, from the politician to the policeman, everyone now knows what the problem is and where we should look for solutions: strict measures against ‘radicalized Muslims’ and ‘deradicalization programmes’ developed by ‘radicalization experts’.
 
-**The moderate and the radical**
+## The moderate and the radical
 
 Do these words have any value? ‘Radicalization’ presupposes a shift from a moderate to a radical position. How do we then distinguish a radicalized from a moderate Muslim?
 
@@ -30,7 +30,7 @@ To Muslims, Islam is the one true revelation of God’s will, to which all human
 
 Of course, only few Muslims go around killing infidels. Does radicalization revolve around the use of violence in the name of beliefs? This condemns the notion to triviality. In that case, ‘radicalization’ should also mark the difference between a man who sues a thief and one who kills him in the name of property rights. From this perspective, resistance fighters become victims of ‘radicalization’, when they fight dictators because of their faith in democracy.
 
-**Terrorism and heroism**
+## Terrorism and heroism
 
 The term ‘radicalization’ is a label that hides our ignorance about the core problem of terrorism. S.N. Balagangadhara, a professor at Ghent University, Belgium, has developed a powerful [hypothesis about this phenomenon](/posts/the-saint-the-criminal-and-the-terrorist-s-n-balagangadhara/). Typical to terrorism is its transformation of crime into heroism. The terrorist commits murders but experiences his acts as expressions of an extraordinary morality.
 
@@ -44,7 +44,7 @@ Terrorists always connect to a specific community and consider the rest of human
 
 Everywhere, terrorism converts the criminal into the praiseworthy. It can graft itself onto almost any group or belief – from nationalism to egalitarianism, from communism to Zionism, from Christianity to Islam. While terrorism exists independently of any religion or ideology, it always attaches itself to one. Criminals metamorphose into heroes by calling upon God’s will, but as easily by invoking American patriotism. By accepting that some terrorists are ‘radical Muslims’, we succumb to their self-description. Today, they merge with Islam to justify their violent crimes. Tomorrow, they might call upon ‘freedom and equality’ and describe their ‘heroic acts’ as a fight against oppression. Will we then re-baptize them as ‘radical Enlightenment thinkers’?
 
-**Subversion**
+## Subversion
 
 This hypothesis throws light onto the disproportional impact terrorism has on our societies. The terrorist seems to share our moral convictions but uses them to convert ordinary murder into extraordinary morality. He equates blowing up a school to saving a baby from a burning building. This is horrifying because it undermines any moral foundation for our societies. We need to examine the learning process that gives shape to the experience of terrorists – the mechanism that allows them to transform crime into heroism. This is the process that takes place in prisons and during training camps and trips to Syria. We could call this ‘radicalization’, but this only misleads.
 

@@ -10,7 +10,7 @@ categories:
 - Jakob
 - secularism
 tags: []
-toc: false
+toc: true
 aliases:
   - /2011/04/02/secularism-colonialism-and-indian-intellectuals/
 ---
@@ -23,7 +23,7 @@ These two steps bring me to the conclusion that the Indian secularists are today
 
 Fortunately, there is a way out of this dilemma. It is to be found in the old human pursuit of knowledge. At a time when societies all around the world are becoming more diverse, we have to be ready to re-examine our long-standing ideas about pluralism and tolerance. More than ever, the search for scientific solutions to the problems of humankind should direct itself at the knowledge developed in the non-western world. The ways of living together of several Asian cultures have proven successful at creating a relative stability and harmony in extremely plural societies. Therefore, I argue, we should set up a massive enterprise to examine the nature and the success of these alternative ways of living together.
 
-**1. A Modern Christian Value?**
+## 1. A Modern Christian Value?
 
 A recent exchange in the Indian weekly *Outlook* revealed some of the damage done by colonialism to the Indian intellectuals and their understanding of secularism. It started with an opinion piece by Kuldip Nayar, who criticised Ashis Nandy's views on secularism (*Outlook*, May 31, 2004). Nandy's reply, "a Billion Gandhis" (June 21, 2004), restated his critique of secularism as "a dry import" from the West unable to find roots in the Indian soil. This in its turn lead to a vitriolic reaction by the historian Sanjay Subrahmanyam (July 5, 2004). The latter accused Nandy of being ignorant of European history. The word "secularism," Subrahmanyam suggested, has never been all that important in western politics. It has acquired "a deep meaning and significance" in India, which it never had in Europe. Therefore, it is ridiculous to call secularism an imported idea. Nandy, he concluded, keeps on repeating his views only because he is "profoundly ill informed" about the history of concepts. Neither the derogatory language used by Subrahmanyam nor his impressive career in the European academia should blind us to his own lack of understanding of the western history of ideas. Unlike what he thinks, the main problem in the Indian secularism debate does not lie in the fact that a thinker like Nandy has not studied European history. Rather, it is rooted in the way Indian scholars have blindly adopted the *self image of the Europeans*.
 
@@ -41,7 +41,7 @@ This Protestant doctrine remains the implicit background of the contemporary pol
 
 Naturally, this does not fit in with the story mainstream scholars like to tell about European history. This is the case, because they have accepted the West's self-understanding – in which it is supposed to have released itself from Christian religious dogma at the time of the Enlightenment. This story is part of the mythology built by the western culture to claim for itself a grandiose place in human history. Earlier, it was the religion of Christianity that was to grant spiritual salvation to all peoples crowding the earth. Nowadays, it is the "secular" modernity of the West, which should bring political salvation to all cultures and societies. In between, the main change has been the shift from an explicitly religious language to a new "secular" vocabulary, which also claims to be "universal" and "rational" (this point is argued extensively by S.N. Balagangadhara in his *"The Heathen in His Blindness …": Asia, the West, and the Dynamic of Religion* (E.J. Brill, 1994); a new edition by Manohar Publishers).
 
-**2. Secularism and the Colonial Project**
+## 2. Secularism and the Colonial Project
 
 If the history of ideas proves that secularism is a Christian idea, why then have so many Indian intellectuals appropriated it as the norm to be attained by the Indian state and its citizens? This question becomes all the more pertinent once we are aware of the many theoretical shortcomings of the concept of secularism. For instance, as I have argued elsewhere, we do not possess a scientific framework today that allows us to distinguish the religious from the secular or the political. We do not even have a clue as to what makes the Hindu traditions into religion. All we have is vague and useless definitions of the word "religion," which do not offer us any understanding of the phenomenon of religion. Still, we keep on saying that "the religious" should be separated from "the political" or that the state ought to be "secular" and not "religious" as though it were eminently clear what distinguished these spheres. Without providing any convincing argument, the secularists never cease to preach that "secularism should be revived in India" (see my "The Vacuity of Secularism," in the Economic and Political Weekly, September 28, 2002, pp. 4047-4053).
 
@@ -55,7 +55,7 @@ A few steps can be discerned in the process of intellectual colonization that sh
 
 The outcome of this process is the dead end we have reached today. The current tensions in the fabric of Indian society can be conceptualized in one way alone, it seems: these are "the predicaments of caste, communalism, and religious conflict." Thus, a particular description of certain phenomena continues to be conflated with these phenomena themselves (*viz*., the tensions among different communities in India). The distinction is ignored between a description and the phenomena it describes. When such constraints are put on the identification of a problem, these will also operate on the solutions that are developed. As a consequence, according to this view, the one supreme virtue India needs today is secularism. As Salman Rushdie once put it: "Secularism, for India, is not simply a point of view, it is a question of survival." This value is seen as the safeguard of peace, order and sanity in society. In the absence of secularism, India is bound to fall apart, so our colonial intuition tells us. Therefore, this point of view transforms any critic of the idea of secularism into a proponent of communalism, fundamentalism, theocracy, caste, inequality, and other evils.
 
-**3. Ways of Living Together**
+## 3. Ways of Living Together
 
 The time has come to move beyond the constraints of this colonial stance. India does not need secularism for its survival. Hindus, Muslims, Christians and several other groups were quite successful at living together in relative peace for a long period of time in India. This plural society did not fall apart. Yet, it had never even heard of "secularism" or "toleration." Therefore, the task ahead is to examine the ways of living together as they have emerged in various regions of India. In what remains, I will briefly consider two strategies that have been dominant in the search for alternatives to the modern western value of secularism. These strategies, I think, have had a harmful impact on this quest.
 

@@ -46,5 +46,7 @@ I beg, therefore, to submit to you that the future of philosophical anthropology
 REFERENCES:
 
 1. The 'etcetera' clause requires further filling out before we could consider it an account of the objecting behavior.
+
 2. Of course, I need some kind of (contingent) causal law governing human behavior before I could be said to have a causal explanation.
+
 3. I cannot argue for it here in any detail but have done so in *Comparative Science of Cultures and the Universality of Religion.* Gent: Centrum voor Godsdienstwetenschappen RUG, Gent 1991 or check his ["The Heathen in his blindness: Asia, the West and the dynamic of religion"](http://colonial.consciousness.googlepages.com/HeatheninHisBlindness.pdf)

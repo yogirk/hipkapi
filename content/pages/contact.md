@@ -13,7 +13,9 @@ aliases:
 ---
 
 1. Please direct your comments to raindoctor@gmail.com
+
 2. This website contains articles of many kinds: published papers; ideas that are yet to be developed in a form of theory; posts that help to clarify/understand the research program "Comparative Science of Cultures".
+
 3. If you have questions, post it here: <https://groups.io/g/TheHeathenInHisBlindness>
 
 

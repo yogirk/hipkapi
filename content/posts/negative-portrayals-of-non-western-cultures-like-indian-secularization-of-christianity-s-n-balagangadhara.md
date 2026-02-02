@@ -12,14 +12,14 @@ tags:
 - Jeffry Kripal
 - Paul Courtright
 - Wendy Doniger
-toc: false
+toc: true
 aliases:
   - /2011/02/28/negative-portrayals-of-non-western-cultures-like-indian-secularization-of-christianity-s-n-balagangadhara/
 ---
 
 I want to raise three issues: (a) how to analyze what Rajiv portrays about Wendy and her children in the field of religious studies; (b) depending on that, what an adequate response consists of. Before we do either (this is one of the things I have discovered through my own research during the last two decades), we need to be clear about (c) how we *should not* analyze this situation. Given that all three (in their general form) have been my obsessions, I have been reflecting on them deeply, seriously and systematically for some time now. I would like to share some of the results of this reflection. In the first part, I will take a (rather slow) run up to tackling the third issue first. And even here, I look at RISA *lila* as an exemplification of a more general issue or as an expression of a much broader tendency.
 
-**I. How *not to* analyze?**
+## I. How *not to* analyze?
 
 Perhaps, it is best to begin in an autobiographical mode. I came to (continental) Europe some 25 years ago, naively thinking that 'cultural difference' is something that 'cosmopolitan' Indians would not experience: after all, I had studied natural sciences in India; knew English rather well; was more familiar with the British and European history than I was with that of India (I once had plans to join the IAS by doing exams on these subjects); felt right at home with the Western philosophy … It took me about 4 years of living in Europe, without relating to any Indian (or even Asian) community because I did not want to land up in an emotional and social ghetto, to realize that I was wrong: 'cultural differences' were no fictitious invention of anthropologists; it involved more than being a vegetarian or being barefoot at home when the weather was not too cold. This realization was instrumental in shaping my research project: what makes the Indian culture different from that of the West? (I never felt anything other than an Indian amongst the Europeans.)
 
@@ -41,7 +41,7 @@ In other words, it would be a *conceptual blunder* to look either at Wendy or he
 
 I will explain the significance of the last sentence later. For the present, let me just say this: our problems do not either begin or end in religious studies or Indology. They are deeper. Much, much deeper. To tackle RISA lila as a separate phenomenon, i.e., to focus either on Wendy or her *parampara* alone, would be to compound tragedy with conceptual blunder. Not only that. It would prevent us from understanding RISA lila for what it is: *a phenomenon that is typical of the western culture*.
 
-**II. How to analyze social sciences: Secularization**
+## II. How to analyze social sciences: Secularization
 
 Earlier, I drew attention to the fact that Wendy and her children draw from the existing social sciences, while contributing at the same time to their further 'development'. In this post, I will elaborate what this statement means, what it implies, and what it says about the 'western culture'. Let me see how far I can go in this post with respect to the objective without being inordinately long. However, it is only fair that I warn you beforehand: I will only be able to isolate an important thread; within the confines of this post, I cannot *prove* my claims. (To those interested in 'proofs', I refer them to my book.)
 
@@ -73,7 +73,7 @@ I claim that Christianity expands in two ways. (This is not just typical of Chri
 
 7. Why do we, the Indian intellectuals, not see this secularization straight away? Why is the process of secularization not visible to the western intellectuals? These are some of the obvious questions I will tackle.
 
-**III. Why Secularization not 'visible' to the Western intellectuals?**
+## III. Why Secularization not 'visible' to the Western intellectuals?
 
 In a way, the answer can be provided in a single sentence: the research questions and the research framework of many-a-social science were set up *explicitly* by Christian theologians using the resources of Christian theology. (I am using 'theology' as a general term here.) Both the questions and answers have retained their intelligibility, even though the 'explicit' theology has faded *into the background*. A theological question does not cease to be theological just because the one who answers it does not know much about theology. The very fact that such questions *make sense at all* (and do not appear nonsensical) is the *proof* of the fact that the questioner remains within the ambit of a religious framework. (If you have no clue about Physics, the question 'when does some stellar object become a quasar?' will not make much sense. To answer it, if you can answer it at all, you need to draw upon the resources of theories in Physics.) However, this single sentence answer fails to capture the complexity and diversity of the process. Therefore, let me just *illustrate* what this process really means, or has meant. (I will be taking random examples, and of different *kinds* just to *indicate* the depth of the process. If one intends doing more than this, one will have to write umpteen books!)
 
@@ -95,7 +95,7 @@ For an example of this sort, take the notion of 'polytheism' that anthropology o
 
 8. The process of secularization of Christianity is complex, rich and varied. In each of the domains I have researched, the form of secularization of theology has been different. The routes travelled have been varied: but the results have been the same. **But this should not transform my suggestion into a mantra**. We need to plot out the rich and varied contours of the process of secularizing of Christianity. When we do so, we will truly be initiating a revolution in human thinking: at last, one can begin to speak in terms of the *sciences* of the social. Until such stage, all we have are bad Christian theologies *masquerading* as 'social sciences'.
 
-**IV. What should be done?**
+## IV. What should be done?
 
 Thus far we have seen that the western representations of India do not so much express the perfidious intentions (or subconscious desires) of the writers as much as the secularized Christian theology that guides research. If this is true, there arise other questions that beg clarification: what, then, could we say about the *Indian* writings in Indology, sociology, etc? Are the Indian writers too not influenced, whether directly or indirectly, by the very same 'theories' that incorporate the secularized Christian theology? If they are, surely, there will be but a thin dividing line between the Indian representations of India and the western ones. If they are not, how could *they* be impervious to and unaffected by secularized Christian theories, while their western colleagues are? [Despite the *enormous* importance of this theme, I shall leave it aside for now.](/posts/on-colonial-experience-and-the-indian-renaissance-a-prolegomenon-to-a-project-s-n-balagangadhara/)
 

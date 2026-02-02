@@ -12,7 +12,7 @@ categories:
 - interests
 - swarjyamag
 tags: []
-toc: false
+toc: true
 aliases:
   - /2015/10/14/how-about-speaking-the-truth-about-reservations/
 ---

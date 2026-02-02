@@ -29,7 +29,7 @@ In other words, there seem to be three different kinds of problems. First: the I
 
 In the current piece, I want to reflect on this situation. For the sake of convenience, I will assume that my impressions (and they are only that, impressions) are by and large true. I will furthermore also assume that they are true for many (if not all) Indians living in the West. I am interested in localizing the problems and seeking solutions for them; I am not interested in either apportioning blame or identifying the 'culprits'. Even though I have some idea why such a situation has come about, I shall be mostly silent on this issue for the time being.
 
-**Setting the Context**
+## Setting the Context
 
 When the British East India Company consolidated its hold over many parts of India and its administrators assumed the position of rulers, a very peculiar kind of hostility towards the Indian traditions became the hallmark of the colonial administrative policy. Of course, this hostility was there from the very beginning: in 'Hinduism', the 'religion' of the Hindus, they found everything that was reprehensible and repugnant. This hostility arose not merely because they 'discovered' that some of the Indian practices were intolerable or immoral, like child marriage, sati and what-have-you. Their repulsion had a deeper root: their understanding of religion taught them that such perversions are integral to false religions. Because 'Hinduism' was a false and degenerate religion, its perversions were not mere accidents but its necessary features.
 
@@ -45,7 +45,7 @@ You must remember that the foundation and the framework of these 'discoveries' w
 
 Therefore, all the ills of Indian society and culture were traced back to 'Hinduism'. They are intrinsic to this religion, the British claimed, and integral parts of the same. Lie, when repeated often enough, becomes the truth; nonsense, when propagated widely, begins to make sense. Such is the case with respect to the story about the Indian 'religions', especially 'Hinduism'.
 
-**Drawing a Parallel**
+## Drawing a Parallel
 
 The Indian intellectuals of yesteryears swallowed this story wholesale. (The 'why' is a very big question, which I shall ignore in this piece.) Thus, two extreme reactions came into existence: at one end of the spectrum, some people wanted to 'reform' the religion of the Hindus. They wanted to go back to the 'purer' religion of the Vedas and the Upanishads. At the other end of the spectrum, rabid defenders of 'Hinduism' also came into existence. As is usual in such cases, any number of intermediate positions between these two extremes also crystallized.
 
@@ -59,7 +59,7 @@ Why is this story important to us today? There are two reasons. The first is thi
 
 There is an additional reason as well. Today, most Indians in the West respond to the questions and challenges posed by their milieu the way the Indian reformers responded to the British criticisms and challenges. In which way are our responses today similar (if not identical) to those of the reformers from yesterday?
 
-**Two Different Ways**
+## Two Different Ways
 
 Consider the following questions, which are routinely asked about our culture in the West. Why do you wear bindi?; Why do you not eat beef?; Is it true that you worship the phallus?; What do you think about the caste-system?; Do they still burn widows in India?; Why do your gods have six or eight arms?; What is your religious symbol?; Do you worship that statue in that temple?; Do you believe in God?; Are you religious? And so on and so forth. What does one do when one faces these questions?
 

@@ -12,7 +12,7 @@ categories:
 - knowledge
 - published
 tags: []
-toc: false
+toc: true
 aliases:
   - /2013/02/13/how-to-speak-for-the-indian-traditions-an-agenda-for-the-future/
 ---
@@ -29,7 +29,7 @@ Questions are … being raised that concern the role of scholarship and scholars
 
 Hailing from such interpreted traditions, viz., the Indian traditions, I do believe there is an urgent need for developing new descriptive and analytical categories. In fact, it will be the primary burden of this paper to suggest that the Indian traditions have been hitherto presented in a distorted form and that more adequate theoretical tools than what we possess today need to be fashioned. However, the organizers of the conference are not likely to give their assent to this proposal without asking searching questions about *who* should undertake such a task. Indeed, as they formulate the issue explicitly, *who has the authority to speak for or about religions?* A workshop panel on the 'The Politics of Representation' sharpens this question further: "Are there legitimate and illegitimate ways of speaking 'for' and 'about' a religious tradition or religions? Who determines these, and how?" In other words, it appears as though one cannot simply argue for developing new ways of describing different religions and traditions without, at the same time, tackling the issue of *who* does any of these things. Consequently, in this paper, I will try to do both and here is how I plan to do it. In the first section, I will very briefly locate the multiple sources of this double question and confine myself to making some general remarks. In the second, third and fourth sections, I provide thumbnail sketches of an alternative description of the Indian traditions. This enables me to make clear what has been distorted by the scholars' notion of religion. In the concluding section, I reflect upon the agenda for the future of religious studies.
 
-**I**
+## I
 
 Let me begin with the 'who speaks for…' question in rather general terms first. Quite obviously, this issue has preoccupied many people in the field of religious studies. The discussions about the 'insider/outsider' problem are familiar to most of us. Equally familiar is the urgency, which the post-colonial writers have brought to the theme by underwriting the relation between knowledge and power in such discussions. While one can resonate to the concerns behind the 'who speaks for…' question, it is with disfavor that I look upon such a general formulation.
 
@@ -45,7 +45,7 @@ Do these general remarks suffice to write off the concerns behind the question '
 
     At the least, that is what I think. Speaking from within my area of expertise, it is my conviction that the Indian traditions have not been adequately described and that there are *fundamental flaws* in the current descriptions. The agenda for the future, as I see it, is to begin the process of developing *different ways of describing the differences between cultures and traditions*. However, I want to make this general point by focusing on the Indian traditions and organizing the next three sections around two reference points: a problem often identified as the 'Aristotelian' question; and an imagery of routes and their description.
 
-**II**
+## II
 
 ***On an Aristotelian Question***
 
@@ -129,7 +129,7 @@ The third possibility is this: the illusion lay in the fact that the middle-aged
 
 Even though I began the paper by putting both the Christian monk and the middle aged person in an analogous situation, their evolution, as we have seen, diverge in fundamental ways. Even the destinations of their journey appear different. I would like to suggest that this is one of the parameters for outlining the differences between entities like Hinduism; Buddhism, Jainism, etc. on the one hand and religions like Christianity on the other. There is a difference in kind between these two sets of entities. What one needs to do in the field of religious studies, to the extent that one speaks about an agenda for the future, is to not only say more clearly what the differences are but also theorize the implications of these differences. Let me continue to spell out some other differences of import between Indian traditions and religions like Christianity.
 
-**III**
+## III
 
 Earlier on, when I located the middle-aged man in the Indian tradition, I did so only to provide him with the means to set up a breakdown. What would be the nature of his insight if he belonged to a particular tradition? That is, how would he *experientially understand his insight* if he was, say, a Buddhist? The reason for this question should be obvious. If Buddhism, Jainism, Hinduism, the Bhakti traditions, etc. were all to be religions, there would be a great difficulty involved in the migration of 'doctrines' across religions.10 To what extent would the Buddhist enlightenment be 'different' from the *advaitic* enlightenment? Given what I have said so far, such a differentiation does not make much sense: *because they are experiential insights, it is not possible to differentiate them 'doctrinally'*. However, it might be possible to postulate such a divide when one starts providing further explanations for these experiential insights. Therefore, let me take a 'Buddhist formulation' of an explanation: *attachment to the worldly things and events is at the root of the illusion that we are agents*. Let me look at the several ways in which this 'explanation' could be recuperated by the different Indian traditions. I will do that by suggesting that the differences between these entities can be re-described in a different way: it makes no reference to the doctrine, but speaks of the activity instead.
 
@@ -169,7 +169,7 @@ The refinements in these phases and the development of further techniques to suc
 
 It requires noting that I have continuously spoken of migration and cross-fertilization. That means to say that the strategies, techniques, and insights can migrate across different traditions and different paths. The Buddhist and the *Dvaita* are examples of different traditions; they do have their 'own' identities. There is a divide between them too, but it is not a doctrinal divide. *We need to conceptualize the difference between traditions in a different way than we do that with respect to philosophies or religions.* The Buddhist insight about desire being at the root of sorrow is as much *Upanishadic* as it is Buddhist. It is an experiential insight not confined to specific traditions. Does that mean that such insights are true descriptions of the world, and nomenclatures like 'Buddhist', '*Advaitic*' etc. simply identify the origin of these truths? Einstein's theory of relativity merely tells us that he formulated it in the first place. Is an analogous claim being advanced here? Not quite. I want to put across the claim that *these insights are primarily guides to action and they are that in a particular way*. These insights are rooted in experience and help you in its transformation. Even though such insights do have a descriptive role, they are not (in any straightforward sense) descriptions of the world. Let us see whether it is possible to make sense of this qualified claim.
 
-**IV**
+## IV
 
 Consider two kinds of descriptions: a description of a route to a destination and a software manual. Both tell you what to do. One tells you of the routes you need to travel, whereas the other tells you what you can do with the software and how to do it. Both are combinations of instruction and description. The software manual tells you what steps to execute, and you can find out whether you have executed the right steps by recognising the description it provides of what you see on the screen. A similar point holds with respect to the description of a route: it tells you turn left and right, and then go straight. To find out whether you took the correct turns, you are provided with landmarks: 'follow the road for 100 meters and then turn left at the petrol station' and such like. It is important to remember that such instruction manuals are useful to us, if we are not familiar with either the software or the route. The insights of the Indian traditions are partially like the software manual or a description of the route: they are guides in orienting ourselves in an unfamiliar territory. In the first place, they tell you what you see. We need remember that the 'unfamiliar territory' refers to our individual experiences. In other words, they help us orient ourselves *in the unfamiliar world of our own experiences*.
 
@@ -203,7 +203,7 @@ Such a tract is virtual gibberish and is anything except 'coherent'. No one has 
 
 It has to do with what happened to the (reflections about) Indian traditions when they encountered the route descriptions that religions are. Instead of being stimulated by encountering such 'alien' forms, Indian intellectuals appear simply to have succumbed.14 Was it merely the fact that these encounters with militant religions occurred within the framework of aggressive military conquests (first the Islamic Persia, later the Christian West)? Were there internal reasons (internal, that is, to the traditions and culture of India) for this state of affairs as well? How could the Indian intellectuals so thoughtlessly take over descriptions that could not have made any sense to them? Could it be because these traditions themselves ceased to make sense to the Indian intellectuals? How and when did reflections about these traditions divorce themselves from the inner life of these traditions? Does it make sense to say that living traditions go 'subterranean', become implicit as it were, and still remain living traditions? These are only a few of the questions we need to answer today.
 
-**V**
+## V
 
 This paper has attempted to tackle one of the questions the organizers of this conference raise: what and who have been neglected and distorted by scholars' ideas of religion? My answer is that there is a fundamental neglect of the differences that differentiate entities like Hinduism, Buddhism, Jainism, etc. from religions like Christianity. Descriptions of the former have been assimilated into the frameworks evolved to describe the latter. Consequently, there is indeed a distortion but that has little to do with who has spoken for the Indian traditions. The distortion and the neglect have to do with a denial of the different kinds of diversities that exist between religions in different cultures and not with who has denied this. In fact, I propose that we replace the question, 'who speaks for religion in the Academy?' with a more meaningful one: *how to speak for religion in the Academy?*
 
@@ -216,18 +216,31 @@ Today, we need to think of the 'otherness' in entirely different terms. One coul
 *Notes*
 
 1. *Nicomachean Ethics*, Book I. P. 1730; my italics.
+
 2. What do the phrases in the scare quotes mean? It will be made clear in the text later on.
+
 3. In front of me lies a book, *The Art of Happiness*, a dialogue with Dalai Lama.
+
 4. That is because, unlike Christianity, there are no 'priests' and 'monks' as convenient starting points. Not only that. I would like to identify one of the *sources for the multiplicity* of Indian traditions.
+
 5. Knowledge is not *Eudaimonia* but the middle-aged person has an 'insight' into what it is. See further.
+
 6. A literal translation from Sanskrit is 'the dawning of knowledge'.
+
 7. Now we can understand why 'happiness' is a loose translation of '*Eudaimonia*', and in what sense it has to do with knowledge. Here is where Aristotle meets another pagan culture.
+
 8. Often, spiritual experience is confused with the religious experience as such.
+
 9. This formulation is a variant of the famous thesis about the 'dependent co-origination of the acts and the agent'.
+
 10. For example, the *Anatta* doctrine of the Buddhists is fundamentally different from the *atman* doctrine of 'Hinduism'. Many suggest that this accounts for their difference as religions the way the doctrine about the Messiah distinguishes Christianity from either Islam or Judaism.
+
 11. In other words, a study of the Indian traditions will also lead to the same point that the study of religion led me to in my 1994.
+
 12. Assuming, of course, that one recognises a 'desert' or a 'mirage' solely on the basis of descriptions alone.
+
 13. Since it is supposed to be 'self-luminescent', why bother figuring it out?
+
 14. This is the observation of the result, not a description of the process.
 
 *References*

@@ -14,7 +14,7 @@ aliases:
   - /2015/04/04/rape-of-a-country-jakob-de-roover/
 ---
 
-**Rape of a Country**
+## Rape of a Country
 
 Jakob De Roover
 

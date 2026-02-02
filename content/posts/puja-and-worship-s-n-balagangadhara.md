@@ -41,6 +41,7 @@ One presumes that Lubbock is talking about 'Ayudha Puja' here. I have claimed t
 I have problems with descriptions that transform entire continents and peoples (over thousands of years) into idiots and cretins. Well, the translation of 'puja' as 'worship' (and not just that one word alone, obviously) does precisely that. There is no way, on 'heaven' or on earth, that cultures could survive for thousands of years comprising only of those suffering from Down's Syndrome. From this it follows that the translation of 'puja' as 'worship' is totally wrong, unless, of course, one does accept that the Indian (in fact, all non-Christian, non-Judaic, non-Muslim peoples) indeed worship the devil.
 
 I do not know about you, but I find it preposterous even to entertain either of the alternatives.
+
 Relevant post:  [Do Hindus worship phallus?](/posts/denying-experience-do-hindoos-worship-do-they-do-pooja-to-a-phalluslinga-s-n-balagangadhara/)
 
 l: unet3

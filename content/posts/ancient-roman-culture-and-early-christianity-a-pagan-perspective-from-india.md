@@ -239,85 +239,149 @@ XI
 Let us summarize this long article and, in doing so, return to the concerns that were expressed at the beginning.  In the pagan milieu of ancient Roman culture and in the pagan milieus of today’s world, similar ideas carry weight: traditions live on because they are sanctioned by ancestral practices. The Romans called it ‘religio’ and the Indians and the Chinese use different terms from different languages for the same. The reason to practice a tradition lies in its nature: something is practiced because it is a tradition. Most of our contemporary notions of ‘religion’ need to use the notion ‘doctrines’, when speaking about Indian and Chinese traditions. This, we would submit, is a Christian understanding of what ‘religion’ is. Such notions make human practices into expressions of beliefs and imply that religions are candidates for truth values. This too is a Christian inheritance. The claim that Christianity makes with respect to its ‘antiquity’ lives on today, we would submit, in the unproven assertion that, in all known cultures and all known human communities, religion has always existed. As far as the pagans are concerned, whether of yesteryears or today, the way Christianity opposed a tradition of a people in order to become the ‘religion of humankind’ remains a category mistake. While we believe each of these points has enormous ramifications for the future of religious studies, analyzing these will have to wait for other times and other places.
 
 [[1]](#_ednref1) However, see the following two books, which capture the nature of the debates between Christianity and the pagan cultures, Japan and India, for example. George Elison, *Deus Destroyed: The Image of Christianity in Early Modern Japan*. Council on East Asian Studies, Harvard University, 1988; Richard Fox Young, *Resistant Hinduism: Sanskrit Sources on Anti-Christian Apolo­getics in Early Nineteenth-Century India*. Leiden: E. J. Brill, 1981.
+
 [[2]](#_ednref2) See: Edward Gibbon, *The Decline and Fall of the Roman Empire* (London: En­cyclo­pædia Brit­annica, 1776, 1952); E.R. Dodds, *Pagan and Christian in an Age of Anxiety: Some Aspects of Reli­gious Experi­ence from Marcus Aurelius to Constantine* (Cambridge: Cam­bridge University Press, 1965); Ramsay MacMullen, *Paganism in the Roman Empire* (New Haven: Yale University Press, 1981); Robert L. Wilken, *The Christians as the Romans Saw Them* (New Haven: Yale Uni­ver­sity Press, 1984); Robin Lane Fox, *Pagans and Christians* (London: Viking Books, 1986).
+
 [[3]](#_ednref3) Thomas Wiedemann, “Polytheism, Monotheism, and Religious Co-existence: Pagan­ism and Christianity in the Roman Empire,” in *Religious Pluralism and Unbelief: Studies Critical and Com­parative*, ed. Ian Hamnet (London: Routledge, 1990), 69.
+
 [[4]](#_ednref4) See W.H.C. Frend, *Martyrdom and Persecution in the Early Church: A Study of Con­flict from the Maccabees to Donatus* (Oxford: Basil Black­well, 1965), 104-126.
+
 [[5]](#_ednref5) Minucius Felix, “The Octavius,” V. Cited from: Minucius Felix. “The Octavius,” in *Fathers of the Third Century*, ed. Alexander Roberts and James Donald­son, vol. 4 of *The Ante-Nicene Fathers: Translations of the Writings of the Fathers down to A.D. 325.* American Reprint of the Edinburgh Edi­tion (Grand Rapids (Michigan): Wm. B. Eerdmans Pub­lishing Com­pany, reprinted in 1989), 175.
+
 [[6]](#_ednref6) Athenagoras the Athenian, *Presbeia*, I. Cited from: Athenagoras. “A Plea for the Christians,” In *Fathers of the Second Cen­tury*, ed. Alexander Roberts and James Donaldson, vol. 2 of *The Ante-Nicene Fathers: Translations of the Writ­ings of the Fathers down to A.D. 325.* American Reprint of the Edinburgh Edition (Grand Rapids (Michigan): Wm. B. Eerdmans Pub­lishing Com­pany, reprinted in 1989), 129.
+
 [[7]](#_ednref7) A.D. Nock, *Conversion* (Oxford: Oxford University Press, 1933), 66-76.
+
 [[8]](#_ednref8) Modern-day writers are reluctant to explain the religious intolerance of pagan Rome in political terms.  They are also unable to agree upon the legal grounds for religious ‘persecution’. Appar­ently, there is some controversy among legal scholars. See about the exist­ence or nonexistence of religious crime in Ro­man law: Simeon L. Guterman, *Religious Toleration and Persecution in Ancient Rome* (London: Aiglon Press Ltd, 1951); G.E.M. de Ste. Croix, “Why were the Early Christians Prosecuted?,” *Past and Pres­ent* 26 (1963): 6-38; G.E.M. de Ste. Croix, “Why were the Early Christians Prosecuted? – A Rejoin­der,” *Past and Present*  27 (1964): 28-33; A.N. Sherwin-White, “Why Were the Early Christians Prosecuted? – An Amend­ment,” *Past and Pres­ent*  27 (1964): 23-27; A.N. Sherwin-White, *The Letters of Pliny: A Historical and Social Commentary* (Oxford: Oxford Uni­versity Press, 1966), 772-787; Timothy Barnes, “Legislation Against the Christians,” *Journal of Roman Stu­dies* 58 (1968): 32-50; J.F. Janssen, “‘Superstitio’ and the Persecution of the Christians,” *Vigiliae Chri­sti­anae* 33(2) (1979): 131-159; P. Keresztes, “The Imperial Roman Government and the Christian Church. I. From Nero to Severi,” in *Aufstieg und Nieder­gang der Römischen Welt: Ge­schichte und Kultur Roms im Spiegel der Neuren For­schung*, 23.1, ed. Hildegard Tempo­rini and Wolf­gang Haase (Berlin: Walter de Gruyter, 1979), 247-315. Most scholars notice that (a) Roman criminal law does not appear to have made any provi­sion for testing when such an offence has been committed; (b) the lack of com­petence of the reli­gious tribunals; (c) the theory implied by the words of Tiber­ius, “the gods avenge their own wrongs”; and (d) the apparent absence of trials in cases of sup­pression (Guterman, “Religious Toleration and Persecution in Ancient Rome,” 47).
+
 [[9]](#_ednref9) Ramsay MacMullen, *Christianizing the Roman Empire, (A. D. 100-400)* (New Haven: Yale Univer­sity Press, 1984), 15.
+
 [[10]](#_ednref10) Cicero, “De Natura Deo­rum,” I, xxii, 61; our italics. Cited from: Cicero. “De Natura Deorum,” in Volume XIX of *Cicero in Twenty-eight Volumes,* trans. H. Rackham. The Loeb Classical Library (London: William Heinemann Ltd. and Cambridge: Harvard University Press, 1933, 1967), 61.
+
 [[11]](#_ednref11) Cicero, “De Natura Deo­rum,” III, ii, 5; our italics. Cited from: Cicero, “De Natura Deorum,” in H. Rackham, 289, 291.
+
 [[12]](#_ednref12) *Ibid.,* III, iii, 7; our italics. Cited from Cicero, “De Natura Deorum,” in H. Rackham, 293.
+
 [[13]](#_ednref13) *Ibid.*, III, iv, 9-10; our italics. Cited from Cicero, “De Natura Deorum,” in H. Rackham, 295.
+
 [[14]](#_ednref14) Plutarch, “Amatorius,” 13. Cited from: T.R. Glover, *The Conflict of Religions in the Early Roman Empire* (London: Me­thuen and Co., 1909).
+
 [[15]](#_ednref15) Minucius Felix, “The Octavius,” VI; our italics. Cited from: Minucius Felix. “The Octavius,” in *Fathers of the Third Century*, ed. Alexander Roberts and James Donald­son, vol. 4 of *The Ante-Nicene Fathers: Translations of the Writings of the Fathers down to A.D. 325.* American Reprint of the Edinburgh Edi­tion (Grand Rapids (Michigan): Wm. B. Eerdmans Pub­lishing Com­pany, reprinted in 1989), 176.
 [[16]](#_ednref16) Wilken, “The Christians as the Romans Saw Them,” 62.
 [[17]](#_ednref17) MacMullen, “Paganism in the Roman Empire,” 2.
 [[18]](#_ednref18) J.H.W.G. Liebeschuetz, *Continuity and Change in Roman Religion* (Oxford: Claren­don Press, 1979), 31-32.
+
 [[19]](#_ednref19) Cicero, “*De Divinatione,”* II, lxxii, 148. Cited from: Peter Gay, *The Enlightenment: An Interpretation, Vol. 1: The Rise of Modern Paganism* (London: Wildwood House, 1973), 155.
 [[20]](#_ednref20) MacMullen, “*Christianizing the Roman Empire,”* 12.
 [[21]](#_ednref21) Molly Whittaker, ed., *Jews and Christians: Graeco-Roman Views* (Cambridge: Cam­bridge Univer­sity Press, 1984), 268.
+
 [[22]](#_ednref22) Quintus Aurelius Symmachus, *Relatio* III; our italics. Cited from R.H. Barrow, trans., *Prefect and Emperor: The Relationes of Symmachus. A.D. 384* (Oxford: The Clarendon Press, 1973), 37-41.
+
 [[23]](#_ednref23) Cicero, “De Natura Deorum,” II, iii, 9; our italics. Cited from: Cicero, “De Natura Deorum,” in H. Rackham, 131.
+
 [[24]](#_ednref24) Minucius Felix, “The Octavius,” VI. Cited from: Minucius Felix, “The Octavius,” in Roberts and Donald­son, 177.
+
 [[25]](#_ednref25) Though this is not the only one; see B.Wardy, “Jewish Religion in Pagan Literature during the Late Repub­lic and Early Em­pire,” in *Auf­stieg und Niedergang der Römischen Welt: Geschi­chte und Kul­tur Roms im Spiegel der Neuren For­schung*, 19.1, ed. Hildegard Temporini and Wolfgang Haase (Berlin: Walter de Gruy­ter, 1979), 592-644.
+
 [[26]](#_ednref26) See H.A. Wolfson, *Philo: Foundations of Religious Philosophy in Judaism, Chris­tian­ity, and Islam*. 2 Volumes (Cambridge (Massachusetts): Har­vard Univer­sity Press, 1947).
+
 [[27]](#_ednref27) Origen, “Contra Celsum,” V, xxv; our italics. Cited from Origen. “Origen against Celsus,” in *The Fathers of the Third Century*, ed. Alexander Roberts and James Donaldson, vol. 4 of *The Ante-Nicene Fathers: Translations of the Writings of the Fathers down to A.D. 325*. American Reprint of the Edinburgh Edition (Grand Rapids (Michigan): WM. B. Eerdmans Publishing Company, reprinted in 1989), 553-554.
 [[28]](#_ednref28) Cornelius Tacitus, “The Histories,” V, 4.
 [[29]](#_ednref29) Cornelius Tacitus, “The Histories,” V, 4.
 [[30]](#_ednref30) Cornelius Tacitus, “The His­tories,” V, 5; our italics. Cited from Cornelius Tacitus, *The Histories*, trans. Kenneth Wellesley (Harmondsworth: Penguin Books, 1964, 1975, 1986), 273.
+
 [[31]](#_ednref31) See Paula Fredriksen, *From Jesus to Christ: The Origins of the New Testament Im­ages of Jesus* (New Haven: Yale University Press1988).
+
 [[32]](#_ednref32) See Hill 1992 for a very good analysis of early Christian chiliasm: Charles E. Hill, *Regnum Caelorum: Patterns of Future Hope in Early Christi­anity* (Oxford: Clarendon Press, 1992).
+
 [[33]](#_ednref33) Eusebius, “Praeparatio Evangelica,” IV, i; our italics. Cited from  Eusebius, *Praeparatio Evangelica*, trans. E. H. Gifford (Oxford: Clarendon Press, 1903), 141-142. See also W. Den Boer, “A Pagan Historian and His Enemies: Porphyry against the Christians,” *Classical Philology*, 69(3) (1974): 198-208.
+
 [[34]](#_ednref34) See: R.M. Grant, “Porphyry among the Early Christians,” in *Roman­itas et Christianitas*, ed. W. den Boer, P. G. van der Nat, C. M. J. Sicking, and J. C. M. van Winden (Am­sterdam: North Holland Pub­lishing Company, 1973), 181-187; Stephen Benko, “Pagan Criticism of Christianity During the First Two Cen­turies A. D.,” in *Aufstieg und Niedergang der Römi­schen Welt: Geschichte und Kultur Roms im* *Spiegel der Neuren Forsch­ung*, 23.2, ed. Hilde­gard Temporini and Wolf­gang Haase (Berlin: Walter de Gruyter, 1980), 1055-1118; Stephen Benko, *Pagan Rome and the Early Christians* (London: E. T. Bats­ford Ltd, 1985); A. Meredith, “Porphyry and Julian Against the Christians,” in *Aufstieg und Nieder­gang der Röm­ischen Welt: Geschichte und Kultur Roms im Spiegel der Neuren For­schung*, 23.2, ed. Hilde­gard Tempo­rini and Wolf­gang Haase (Berlin: Walter de Gruyter, 1980), 1119-1149. Benko (1980, 1064) notes that the hatred of the human race (*odium humanis generis*) with which Tacitus charges the Christians is nearly the same expression previously used to describe the Jews in *Histories*. Therefore, argues Benko, the great fire in Rome was not the main cause of the persecution. Rather, the cause resided in the anti-social tendencies displayed by the Christians – in their *odium humanis generis*, to which also Celsus and Caecilius referred. However, much like Celsus, Tacitus clearly mentions that the Jews were vindicated, regardless of their hatred for mankind. The Jews, too, separated themselves from the rest of humanity and refused to participate in Roman practices. Yet, the Jews had a tradition of not taking part in such practices and were, so to speak, ‘licensed atheists’ (see de Ste. Croix, “Why were the Early Christians Prosecuted?,” 25).
+
 [[35]](#_ednref35) As Wilken, “The Christians as the Romans Saw Them,” 156 sur­mises.
+
 [[36]](#_ednref36) Eusebius, “Praeparatio Evangelica,” I, ii; our italics. Cited from  Eusebius, *Praeparatio Evangelica*, trans. E. H. Gifford (Oxford: Clarendon Press, 1903), 5-6.
+
 [[37]](#_ednref37) Tatian, “Oratio ad Graecos,” 35; our italics. Cited from Tatian. “Address to the Greeks,” in *Fathers of the Second Cen­tury,* ed. Alexander Roberts and James Donaldson, vol. 2 of *The Ante-Nicene Fathers: Translations of the Writ­ings of the Fathers down to A.D. 325*. American Reprint of the Edinburgh Edition (Grand Rapids (Michigan): Wm. B. Eerdmans Pub­lishing Com­pany, reprinted in 1989), 80.
+
 [[38]](#_ednref38) Galerius cited in Lactantius, “De Mortibus Persecutorum,” 34; our italics. Cited from
+
 Lactantius. “Of the Manner in Which the Persecutors Died – Addressed to Donatus,” in *Fathers of the Third and the Fourth Centuries*, ed. Alexander Roberts and James Donaldson, vol. 7 of *The Ante-Nicene Fathers: Translations of the Writings of the Fathers down to A.D. 325.* American Reprint of the Edinburgh Edition (Michigan: WM. B. Eerdmans Publishing Company, reprinted in 1989), 315.
+
 [[39]](#_ednref39) See Origen, “Contra Celsum,” IV, 14;  cited in Origen, “Origen against Celsus,” in Roberts and Donald­son, 502.
+
 [[40]](#_ednref40) See Origen, “Contra Celsum,” IV, 41;  cited in Origen, “Origen against Celsus,” in Roberts and Donald­son, 654.
+
 [[41]](#_ednref41) See Origen, “Contra Celsum,” IV, 62;  cited in Origen, “Origen against Celsus,” in Roberts and Donald­son, 636.
+
 [[42]](#_ednref42) See Origen, “Contra Celsum,” V, 14;  cited in Origen, “Origen against Celsus,” in Roberts and Donald­son, 549.
+
 [[43]](#_ednref43) Minucius Felix, “The Octavius,” XII. Cited from: Minucius Felix, “The Octavius,” in Roberts and Donald­son, 179.
+
 [[44]](#_ednref44) “he following are the rules laid down by them . Let no one come to us who has been instructed, or who is wise or prudent (for such qualifications are deemed evil by us); but if there be any ignorant, or unintelligent, or uninstructed, or foolish persons, let them come with confidence. By which words, acknowledging that such individuals are worthy of their God, they manifestly show that they desire and are able to gain over only the silly, and the mean, and the stupid, with women and children.” See Origen, “Contra Celsum,” III, 44-45; cited in Origen, “Origen against Celsus,” in Roberts and Donald­son, 481-482, see also 484, 486, 578.
+
 [[45]](#_ednref45) Origen, “Contra Celsum,” III, 59; cited in Origen, “Origen against Celsus,” in Roberts and Donald­son, 487.
+
 [[46]](#_ednref46) See R. Joseph Hoffmann, *Porphyry's Against the Christians: The Literary Remains* (New York: Prometheus Books,1994), 44.
 [[47]](#_ednref47) Hoffman, “Porphyry's Against the Christians,” 81.
 [[48]](#_ednref48) Augustine, “City of God,” X, 32. Cited from Augustine. “The City of God,” in Augustine: City of God, Christian Doctrine, ed. Philip Schaff, vol. 2 of *Nicene and Post-Nicene Fathers* (Peabody (Massachusetts): Hendrickson Publishers, reprinted in 1995), 202.
+
 [[49]](#_ednref49) Origen, “Contra Celsum,” VIII, 72; cited in Origen, “Origen against Celsus,” in Roberts and Donald­son, 667.
+
 [[50]](#_ednref50) Mathetes, “The Epistle to Diognetus,” V; our italics. Cited from Mathetes. “Epistle to Diognetus,” in *The Apostolic Fathers*, ed. Alexander Roberts and James Donaldson, vol. 1 of *The Ante-Nicene Fathers: Translations of the Writings of the Fathers down to A.D. 325*. American Reprint of the Edinburgh Edition (Grand Rapids (Michigan): WM. B. Eerdmans Publishing Company, reprinted in 1989), 26-27.
+
 [[51]](#_ednref51) For a broader context, see: C.A. Contreras, “Christian Views of Paganism,” in *Aufstieg und Nieder­gang der Röm­ischen Welt: Geschi­chte und Kultur im Spiegel der Neuren Forschung,* 23.2, ed. Hildegard Tempo­rini and Wolf­gang Haase, 974-1022 (Berlin: Walter de Gruyter, 1980); R.P.C. Hanson, “The Christian Attitude to Pagan Religions up to the Time of Con­stantine the Great,” in Temporini and Haase, 910-973; Robert L. Wilken, “Toward a Social Interpretation of Early Christian Apologe­tics,” *Church History*, 39 (1970): 437-458.
+
 [[52]](#_ednref52) Tatian, “Oratio ad Graecos,” 31; our italics. Cited from Tatian, “Address to the Greeks,” Roberts and Donaldson, 77.
+
 [[53]](#_ednref53) Tatian, “Oratio ad Graecos,” 31; our italics. Cited from Tatian, “Address to the Greeks,” Roberts and Donaldson, 81.
+
 [[54]](#_ednref54) Theophilus of Antioch, “Ad Autolycum,” xxix; our italics. Cited from Theophilus of Antioch. “Theophilus to Autolycus,” in *Fathers of the Second Cen­tury*, ed. Alexander Roberts and James Donaldson, vol.  2 of *The Ante-Nicene Fathers: Translations of the Writ­ings of the Fathers down to A.D. 325*. American Reprint of the Edinburgh Edition (Grand Rapids (Michigan): Wm. B. Eerdmans Pub­lishing Com­pany, reprinted in 1989), 120.
+
 [[55]](#_ednref55) Eusebius, *The History of the Church*, trans. G. A. William­son (Harmondsworth: Penguin Books, 1965), 47,49.
+
 [[56]](#_ednref56) See Jaroslav Pelikan, *The Christian Tradition, Vol. 1: The Emergence of the Cath­olic Tradition (100-600)* (Chicago and London: The University of Chicago Press, 1971); David Rokeah, *Jews, Pagans and Christians in Conflict* (Leiden: E. J. Brill, 1982).
+
 [[57]](#_ednref57) Phillips, C. Roberts, “The Sociology of Religious Knowledge in the Roman Empire to A.D. 284,” in  *Aufstieg und Nieder­gang der Röm­ischen Welt: Geschichte und Kultur Roms im Spiegel der Neuren For­schung*,16.3, ed. Hildegard Tempo­rini and Wolfgang Haase (Berlin: Walter de Gruyter, 1986), 2470).
+
 [[58]](#_ednref58) *Ibid*.: 2471. On this issue, see also Rosemary Ruether, *Faith and Fratricide: The Theological Roots of Anti-Semitism (*New York: Wipf &Stock, 1974) and Marcel Simon, *Versus Israel:* *étude sur les relations entre chrétiens et juifs dans l'empire romain (135-425)* (Paris: E. de Boccard, 1964).
+
 [[59]](#_ednref59) Judith Lieu, “History and Theology in Christian Views of Judaism,” in *The Jews among Pagans and Christians: In the Roman Empire*, ed. Judith Lieu, John North and Tessa Rajak, 79-96 (London: Routledge, 1992).
+
 [[60]](#_ednref60) Augustine, “*The City of God Against the Pagans*, ed. and trans. R.W. Dyson (Cambridge: Cambridge University Press, 1998), 891-892.
 [[61]](#_ednref61) *The Holy Bible*, King James' version, Matthew 7.6.
 [[62]](#_ednref62) *The Holy Bible*, King James' version, Matthew 10.6-7.
 [[63]](#_ednref63) *The Holy Bible*, King James' version, Matthew 15.24.
 [[64]](#_ednref64) *The Holy Bible*, King James' version, Luke, 13.29; see also *The Holy Bible*, King James' version, Matthew 8.11-12.
+
 [[65]](#_ednref65) Geza Vermes, *Jesus and the World of Juda­ism* (Philadel­phia: Fortress Press, 1984), 54-55.
+
 [[66]](#_ednref66) Maxwell Staniforth,  trans., *Early Christian Writers: The Apostolic Fathers* (Harmonds­worth: Penguin Books, 1968), 90.
 [[67]](#_ednref67) Ibid., 90.
 [[68]](#_ednref68) E.g., see chap­ter 3 in Jaroslav Pelikan, *Jesus Through the Centuries: His Place in the History of Culture* (New Haven: Yale University Press, 1985).
+
 [[69]](#_ednref69) Averil Cameron, *Christianity and the Rhetoric of Empire: The Development of Christian Discourse*. Sather Classical Lectures, vol. 55 (Berkeley: University of California Press, 1991), 110; our italics.
+
 [[70]](#_ednref70) Eric Osborn, *The Beginning of Christian Philosophy* (Cambridge: Cam­bridge Uni­ver­sity Press, 1981).
+
 [[71]](#_ednref71) Origen, “Contra Celsum,” III, 50; cited in Origen, “Origen against Celsus,” in Roberts and Donald­son, 484. See also *Ibid*., 486.
+
 [[72]](#_ednref72) Henry Chadwick, *Early Christian Thought and the Classical Tradition: Studies in Justin, Clement, and Origen* (Oxford: Oxford University Press,1966), 3.
+
 [[73]](#_ednref73) Bruno Snell, *The Discovery of the Mind: In Greek Philosophy and Literature* (Mineola: Dover Publications, 1982); David Christie-Murray, *A History of Heresy* (London: New English Library, 1976).
+
 [[74]](#_ednref74) Amos Berry Hulen, *Porphyry's Work Against the Christians: An Interpretation* (Scott­dale: Mennon­ite Press, 1938).
+
 [[75]](#_ednref75) See Benko, “Pagan Rome and the Early Christians” and Keresztes, “The Imperial Roman Government and the Christian Church. II. From Gallienus to the Great Persecution,” in *Aufstieg und Nieder­gang der Röm­ischen Welt: Geschichte und Kultur Roms im Spiegel der Neuren For­schung*, 23.1, ed. Hildegard Tempo­rini and Wolfgang Haase, 375-386 (Berlin: Walter de Gruyter, 1979).
+
 [[76]](#_ednref76) Arnalda Momigliano, “Pagan and Christian Historiography in the Fourth century A. D.,” in *The Conflict Between Paganism and Christi­an­ity in the Fourth Century*, ed. Arnalda Momi­gliano, 79-99 (Oxford: Clarendon Press,1963).
+
 [[77]](#_ednref77) See Kenneth Scott Latourette, “The Christian Understanding of History” in *God, History, and Historians: Modern Christian Views of His­tory*, ed. McIntire, 46-67 (New York: Oxford University Press, 1977); Christopher Dawson, “The Christian View of History,” in *Ibid*.,  28-45.
+
 [[78]](#_ednref78) As Cameron explains the issue, see “Christianity and the Rhetoric of Empire,” 116-117.
+
 [[79]](#_ednref79) Minucius Felix, “The Octavius,” XXVI-XXVII. Cited from: Minucius Felix, “The Octavius,” in Roberts and Donald­son, 189-190.
+
 [[80]](#_ednref80) Quintus Aurelius Symmachus, *Relatio* III. Cited from R.H. Barrow, “Prefect and Emperor,” 37-41.
 
 [[81]](#_ednref81) E.g. Jaroslav Pelikan, *The Vindication of Tradition* (New Haven: Yale University Press, 1984).

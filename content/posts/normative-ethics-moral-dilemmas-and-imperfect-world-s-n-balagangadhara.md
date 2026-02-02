@@ -17,10 +17,15 @@ aliases:
 Let us say that 'X' does something which 'Y' considers corrupt. To keep it simple, let us say that 'Y' expresses the aforementioned judgment. In order to express it, or persuade others about the validity of this moral judgment, 'Y' will have to do something like this:
 
 1. Y defines 'corruption': "All actions which exhibit \_\_\_\_\_\_\_ properties are corrupt"
+
 2. Y's 'ethical principle' (itself justified): "All actions which satisfy \_\_\_\_\_\_ (the principle) are moral".
+
 3. Y infers: "Because all corrupt actions violate principle (2), all corrupt actions are immoral".
+
 4. Y describes: "\_\_\_\_\_\_\_\_ action of X shows \_\_\_\_\_\_\_ properties".
+
 5. Y infers: "By definition, therefore, X's action is corrupt".
+
 6. Y argues: "All corrupt actions are immoral". (Reiteration 3)
 
    "X's action is corrupt". (Reiteration 5)

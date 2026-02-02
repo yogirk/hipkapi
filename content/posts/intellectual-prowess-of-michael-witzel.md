@@ -49,6 +49,8 @@ Further, he suggests that I confuse scientific research with politically inspire
 **Danila Cinellu** — 2015-07-16 14:16:28
 
 Too sorry to know that Western scholars boycott and offend Indian ones in such an arrogant way.
+
 Can I ask why Witzel labels you as 'Hindutva'? Given that Koenraad Elst is mentioned here, I can just guess that your research led you to reject the "Aryan Invasion Hypothesis" (or whatever sub-species of it linguists have been proposing).
+
 As far as I know, Savarkar himself, as author of "Essentials of Hindutva", was quite fond of it. So I seriously do not understand what help Witzel &amp; co are supposed to give to free-minded no-nazist
 

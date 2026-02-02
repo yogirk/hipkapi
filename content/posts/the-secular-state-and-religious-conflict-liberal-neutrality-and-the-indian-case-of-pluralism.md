@@ -296,7 +296,7 @@ Weightman, Simon. 1984. Hinduism. Pp. 191-236 in J. R. Hinnells (ed), *A Handboo
 
 Ziegenbalg, Bartholomeus. 1719. *Thirty Four Conferences Between the Danish Missionaries and the Malabarian Bramans…in the East Indies, Concerning the Truth of the Christian Religion*. London.
 
-**Footnotes:**
+## Footnotes:
 [1] Cited in Chandra 1994, p. 75.
 [2] Madhok 1995, p. 116.
 [3] Nandy 1998, p. 338.
@@ -355,11 +355,16 @@ Interesting. So, the Secular State seeks, if not an interlocutor, then an alteri
 I find myself wondering how this squares with your policy recommendation- viz. 'In response to the economic exigencies of the global market, it has actively stimulated the growth of engineering and allied disciplines. It could do the same with respect to stimulating explorations into the histories and theories of the Indian cultural traditions. The state could make career prospects in such areas exciting, and entice intelligent minds to explore the possibilities of cultural rejuvenation.'
 
 Leaving aside my sense of shock and indignation at your suggestion that some Sarkari initiative could possibly identify let alone 'entice' intelligent minds, that too, to explore the possibilities of 'cultural rejuvenation', as opposed to emigration or suicide, the problem here is that Govt. policy instruments aren't plastic and can't directly impact something essentially inchoate, decentralized and 'pagan'.
+
 The British subsidised madrasas and patshalas and this contributed to, if not the reality , then at least the appearance of, 'organized religions' as an interlocutor. But this broke down because the thing wasn't desirable in the first place and became a motivating factor behind the Freedom Struggle. It meant things like keshadari Sikhs being considered the clients, if not spiritual subjects, of Udasi mahants; Satpanthis being considered the subjects of the Aga Khan, and absurd situations e.g. Vaikom agitation where only Hindus are prohibited from using a road but become free to do so the moment they convert.
+
 True, the British recognized that customary law held greater force than Smriti, but between 1860 and 1930, case law was going in the other direction creating a sense of crisis for even the comprador sub-castes.
+
 Gandhi and Azad, in their different ways, further muddied the waters. Azad, at least, had some notion of becoming the Imam-ul-Hind and did know Arabic, but poor old Gandhi , even if he shared a similar ambition, had no such qualifications. Still, at that time , Sanskritization of vernaculars could appear to be a sop to the Brahmins and Persianized Urdu a pandering to the Ashraf. Mandalization has removed that possibility for Hinduism while Muslim elites have now wholeheartedly embraced 'Convent School' English.
 So how is your Policy recommendation to be implemented?
 Grant more scholarships, expand Univ. Depts, and you end up with a bunch of Witzel worshipping, Pollock spouting  careerists. Just as our IITs and Medical Colleges ended up subsidizing America and Europe through 'brain drain', so too does treating Hinduism as an academic subject.
+
 Similarly money for 'Ayurveda or Yoga or whatever means just more land-grabbing by Baba Ramdev types.
+
   Pruning back the State, on the other hand, and getting rid of compulsory indoctrination in a Conspiracy theory of history in school and, later, for aspiring Civil Servants might be a step forward.
 

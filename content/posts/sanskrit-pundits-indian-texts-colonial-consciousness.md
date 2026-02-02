@@ -8,7 +8,7 @@ categories:
 - Balagangadhara
 - colonial consciousness
 tags: []
-toc: false
+toc: true
 aliases:
   - /2011/04/01/sanskrit-pundits-indian-texts-colonial-consciousness/
 ---
@@ -61,7 +61,7 @@ The point is that we have no access to parts of our experience. So, we do not kn
 
 17. Yes, Ramana would exemplify the type of the person who accessed his experience. I have been told that the learned pundits came to him with interpretative questions about various Indian texts. This possibility of an illiterate man functioning as a guide to pundits strengthens my hypothesis about the nature of the Indian 'texts'.
 
-**II**
+## II
 
 1. Many things, above all the configuration of learning, form the psychology of the Indians. Because what is lost is not the transmission of culture (but merely its adaptation in a particular manner to the surroundings that colonialism was), I am inclined to suggest that colonial consciousness is not a part of the cultural psychology of the Indians, even though it has an impact on our cultural psychology. Otherwise, one would be more inclined to say that a consciousness that is retained and transmitted in a culture for nearly a thousand years should be, properly speaking, considered a part of the cultural psychology of the people in question.
 

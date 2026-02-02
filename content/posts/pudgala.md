@@ -16,8 +16,11 @@ aliases:
 I
 
 1. You say: “'person + Indriya + Manas  is the Bhokta' renders the sentence meaningless to me.” While that could be true, that sentence makes (and made) perfect sense to millions (over the last two millennia) on earth. Would it help if it read instead: “soul + Indriya + Manas  is the Bhokta; ” or “my inner self + Indriya + Manas  is the Bhokta” or “ the pudgala + Indriya + Manas  is the Bhokta” or any such combination? If it does, then I do not see why ‘person’ would make the sentence meaningless; person is used as a synonym here. Moreover, if using ‘atman’ makes the sentence meaningful (irrespective of, as you put it, “whatever it be’), what is the problem if the word ‘person’ is used to translate ‘atman’? If the meaning problem re-emrges, it must lie in what you think the ‘person’ is, is it not?
+
 2. Are you raising a translation issue (how to translate dehinaH) here? It means ‘bodied’, ‘that which is bodied” (whatever that may be, to use your phrase). If you have knowledge of what ‘that’ (tat) is, you might say that it ‘has’ a body, it ‘possesses a body’, it ‘owns’ the body, it is ‘in’ the body, etc., depending on whether ‘thatness’ (tatva) is capable of ‘having’, or ‘owning’ or ‘possessing’ and is ‘indwelling’ and so on.
+
 3. As you can see, it is actually a knowledge issue about ‘tat’ (that) and ‘tatva’ (thatness). You can be a tatva darshi (one who has seen ‘thatness’) but yet not be a gyaani (i.e., not have the knowledge of what tatva is).
+
 4. In my talk that you refer to, I raise a question about a knowledge issue. Is atman ‘inside’ the body, i.e., does dehinaH mean ‘embodied’ or is it merely ‘the bodied’ in the second chapter of the Gita?
 
 II

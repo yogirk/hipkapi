@@ -51,6 +51,7 @@ I'm a Tamil Hindu- our literature shows religion being instrumentalized for viol
 I've translated some sermons by Gujerati and Hindi speaking Jain shravaks- they show that Ashoka himself indulged in this and quote traditional sources re. political instrumentalization of internecine sectarian violence.
 
 In Urdu and Persian, the case is more dramatic yet with Shia-Sunni violence being linked to the rise and fall of the Sayyad bros. and inter Sunni Madhvi &amp; Muhammadiya violence being linked to the vagaries of dynastic politics.
+
 What you describe and attribute to Christendom seems more explicit in Vernacular Indian tradition- the hypocritical mullah or pundit, the cruel tyrant seeking to kill off his brother by accusing him of being heterodox- this story is as old as the hills and deeply embedded in our culture. It is less of a feature in the West because they had primogeniture and monogamy so no Aurangazeb could usurp the throne from a Dara Shikoh on a religious pretext.
 
 It may be that some English speaking intellectuals have, in recent years, started to espouse a Eurocentric theory but my guess is that they are only doing so as part of a Preference falsification based Credentialist Availability Cascade which cashes out as 'all is fault of British divide &amp; rule ' or else (Modi quoting Savarkar's study of the Mutiny) 'Hindus &amp; Muslims were united till Indian National Congress came along and divided them.'

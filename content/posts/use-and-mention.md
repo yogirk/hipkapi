@@ -13,6 +13,7 @@ aliases:
 ---
 
 All works of Balagangadhara make use of [use-mention distinction](http://en.wikipedia.org/wiki/Use%E2%80%93mention_distinction). Please get familiarized with this distinction.
+
 In logic the words 'use' and 'mention' are sometimes used in a technical sense to mark an important distinction, which is explaind by example:
 
 1. 'London' is a word six letters long.

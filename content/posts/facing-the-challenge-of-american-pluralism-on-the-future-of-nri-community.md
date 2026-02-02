@@ -16,7 +16,7 @@ aliases:
 
 In years to come, the Indian community in the U.S. will face a major challenge from American pluralism. This is the first time a powerful community of pagans has to be accommodated within the American society. The NRI community is well-educated, well-to-do and proud of its cultural traditions. At the same time, the representation of the Indian traditions in the U.S. educational system shows a pathetic level of understanding. I will argue that recent events like the California textbook controversy point to a profound problem: *the American model of pluralism is unable to accommodate these pagan traditions*. This is the case, because its structure has emerged from a co-existence of Protestant denominations. Maximally, the resulting model could encompass other variants of the religions of the book: Catholicism, Judaism and Islam. Incorporating the pagan traditions of India, however, will require a fundamental rethinking of American pluralism.
 
-**The Structure of American Pluralism**
+## The Structure of American Pluralism
 
 Although it aspires neutrality towards all religions, the American model of pluralism is deeply religious in nature. The model takes its basic structure from Protestant Christianity. It combines specific notions of 'religion', 'God' and 'church' with a set of principles on toleration, equality and religious liberty--all of which derive from a particular theology.
 
@@ -48,7 +48,7 @@ Finally, all churches or religious groups should be equal in the eyes of the sta
 
 This model of pluralism make perfect historical sense: it addresses the problems that will always emerge where Protestant denominations co-exist. While each denomination believes itself to possess religious truth, all of them share a common understanding of religion, God and church. Together with a shared theological framework, the persistence of religious diversity compels them to endorse certain normative principles: toleration, state neutrality, religious liberty and the equality of churches in the public sphere. Since Roman Catholicism shares the same notion of God and religion, its followers are able to make sense of these principles. Once they agree to renounce the political authority of the pope and the coercive nature of the church, Catholics can be accommodated in this model without much difficulty. *Mutatis mutandis*, the same goes for Jews and Muslims. They might not endorse all of the above principles, but they can fit into the American model of pluralism, because their religions correspond to its basic theological structure. Historically, this is precisely what has happened during the formation of American pluralism.
 
-**The Nature of Pagan Traditions**
+## The Nature of Pagan Traditions
 
 What happens when pagans enter the picture' Let us take the Hindu traditions as the example.
 
@@ -70,7 +70,7 @@ The tenet that all religious groups should be treated as equals by the state and
 
 The trouble is that the only way in which the American model of pluralism allows the Hindus to challenge this depiction presupposes the same theological framework. That is, the notions of religion and church of American pluralism compel the Hindu traditions to represent themselves as variants of biblical religion. They have to appoint individuals or bodies that represent all other members; they have to inform the American educational system about the true teachings of Hinduism; they need to make their traditions respectable in the eyes of American Protestants and their secularized brethren. The consequence is that the NRI community is compelled to cooperate in the transformation of its traditions into inferior variants of the religions of the book. But this takes us to the next question: what challenge confronts American pluralism and the NRI community?
 
-**The Challenge of the NRI Community**
+## The Challenge of the NRI Community
 
 The structure of American pluralism and the nature of the Hindu traditions give rise to two options. These options present themselves as routes that can be traveled by the NRI community in the coming years. On the one hand, the pagan traditions of India could renounce their true nature and transform themselves into variants of biblical religion. Then they will soon fit in as well in the American model of pluralism as the Jews and Muslims. On the other hand, these pagan traditions can remain true to their nature and explicitly represent themselves as completely different from the religions of the book. Then they will turn into a major challenge to American pluralism: the very structure of this model will require rethinking in order to accommodate the Hindu traditions.
 
@@ -98,6 +98,7 @@ Firstly, I commend your sensitivity at both comprehending and presenting the sit
 You are also correct in your assessment of religion in America.  Many different ethnic groups with differing religious constitutions have migrated to America, and all such groups have been more or less accommodated in the structure of American civil religion.  The commonalities of Biblical origin is an obvious reasons, as well as the commonalities in praxis.  However, Indians face a challenge in that their traditions do not trace themselves back to the Bible, and that difference does at times create complications.  That much is true. 
 
 However, where I depart with the description of Indian traditions above is the conception of Indian religion and doctrine.  Yes, it is true that Indians did not traditionally use words like "religion" or "doctrine," which have Latin roots.  Yes, it is true that the Indians did not use words like "God," or "church," which have German roots.  However, it is not 
+
 the case that Indians are so different and so entirely "other" that they are absolutely unable to recognize commonalities of Abrahamic traditions within their own traditions.  
 
 After all, there is the concept of a sampradaya, which is a well understood and utilized means of transmitting traditions in India.  Often times, such as in the case of Vaishnava sampradayas, there is a very specific siddhanta or philosophical conclusion espoused and ascribed to each school.  These sampradayas make their own truth claims based on scriptural interpretations, they congregate and pray in places of worship specific to their sampradaya, and they have rituals and marks specific to each sampradaya.  

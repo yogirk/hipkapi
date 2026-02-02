@@ -10,7 +10,7 @@ categories:
 - NRI
 - published
 tags: []
-toc: false
+toc: true
 aliases:
   - /2011/04/02/courting-controversy-in-the-west/
 ---
@@ -27,7 +27,7 @@ Let us have a look at a few striking cases to assess the nature of this developm
 
 These issues lose some of their weight, once we turn to the massive controversies and pamphlet wars presently raging in academia and beyond. Most of these incidents have particularly agitated the NRI community. Several NRI sponsored or organised foundations have launched campaigns to end the negative portrayal of Hinduism in American education. Many points of the critique are valid. The textbook descriptions of the Hindu religion carry a bias that reminds one of the Christian harangues against "the evil religion of the Hindoos". Scholarly studies of the Hindu traditions often reproduce the judgments of European missionaries and colonials. Rarely does contemporary research on Indian society go beyond the colonial framework of previous centuries. Hence, we cannot but take seriously the impression that something is very wrong with the way in which the Indian culture has been described in the west (and, by connivance, in the Indian universities).
 
-**An 'Alternate' Hinduism**
+## An 'Alternate' Hinduism
 
 Yet, trouble rears its head once we take a step further. What is the alternative? How would these critics of the academia propose to go about studying the Hindu traditions? Usually, worn-out discussions about insider vs outsider perspectives dictate the responses. The negative stereotypes, it is suggested, will disappear once the insider perspective of Hinduism is given its rightful place in the academia. Is this really so? A recent case illustrates well what happens when the issue is made into one of "Hindus should speak for Hinduism", i e, the California textbook controversy. In this case, two prominent Hindu foundations suggested improvements in sections of the California state textbooks concerning India and Hinduism. After the adoption of these "edits", a conflict erupted between a group of Indian scholars and Hindu spokesmen, calling each other Hindu haters and Hindutva fundamentalists respectively. These polemics are of no avail here. It is the "alternate" view of Hinduism offered that concerns us.
 

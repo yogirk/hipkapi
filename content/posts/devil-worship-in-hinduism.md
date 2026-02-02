@@ -49,6 +49,7 @@ Here goes: that 'Hindu' religion is devil's worship is central, crucial and vita
 **E.Roshan** — 2015-06-12 10:59:19
 
 You are correct, Hindus worship devils. Jesus Christ is the son of God, God is in three state, that is Father, Son and the Holy spirit, It is like water, Water also takes three states that is Solid- Ice, Liquid- Water and Air.
+
 Islam's Quran is the copy and paste of Old testament of the Bible. there is no doubt that Hindus worship Devil. Buddha is not God, he was a good person, and he worshiped Devils that is Hinduism.   Judaism, they pray only to the Father like Muslims Hence, Christianity is the True Religion with no Doubt. We can discuss further, please contact me.
 
 **Amrita** — 2015-11-22 17:45:37
@@ -87,6 +88,7 @@ Matthew 7:13-14
 **klaus** — 2016-12-16 05:58:16
 
 Hey guys why do you think that Hinduism is the worship of devil.I mean if Christianity is the only way to forgiveness than why boast about it and why criticize  Hinduism.As a Hindu one is bound by certain principles and those work and give one the satisfaction that he is in this world for a reason and he should fulfill his responsibilities.They respect other religion as they are taught to do so and and they don't about babbling their religion that it's the only one to follow.
+
 So, to say Hinduism is the worship of devil is way out of line.Hope you give it a thinking.
 
 > **Donald Matthews** — 2017-02-10 00:26:25
@@ -96,8 +98,11 @@ So, to say Hinduism is the worship of devil is way out of line.Hope you give it 
 **Varun Nigam** — 2017-02-17 07:41:17
 
 There is nothing fruitful in discussing superior Hindu faith( philosophically, intellectually, Morally, scientifically superior) with Abhrahmic Morons. They still believe the world to be 10000 years old. But now with concrete scientific evidence it has been proven world to be billions of years old as described in Hindu, Jain and Buddhist texts. 
+
 Let them believe in Jew Zombie who would deliver them from eternal hell if they eat his flesh and drink his blood. This act will absolve them from sins committed by Rib women who ate fruit of knowledge after being persuaded by a speaking snake. 
+
 The utterly foolish myth with even worse philosophy will lead its followers to eternal cycle of birth in lower form of life and suffering. 
+
 May wrath of Bhairav burn these fanatics loonies in eternal fire of ignorance and suffering.
 
 **Thyan Challam** — 2017-04-03 03:14:33
@@ -114,9 +119,13 @@ Second, the early Christians, as do Christians of the current age, do not only u
 4. Messiah would come from the line of Abraham.	Genesis 12:3
 Genesis 22:18	
 5. Messiah would be a descendant of Isaac.	Genesis 17:19 Genesis 21:12	
+
 6. Messiah would be a descendant of Jacob.	Numbers 24:17	Matthew 1:2
+
 7. Messiah would come from the tribe of Judah.	Genesis 49:10	
+
 8. Messiah would be heir to King David's throne.	2 Samuel 7:12-13  Isaiah 9:7	
+
 9. Messiah's throne will be anointed and eternal.	Psalm 45:6-7 Daniel 2:44	
 10. Messiah would be called Immanuel.	Isaiah 7:14	
 

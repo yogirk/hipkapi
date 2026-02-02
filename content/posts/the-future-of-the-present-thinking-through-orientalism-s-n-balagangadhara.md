@@ -12,14 +12,14 @@ categories:
 - secularization
 - social sciences
 tags: []
-toc: false
+toc: true
 aliases:
   - /2011/03/05/the-future-of-the-present-thinking-through-orientalism-s-n-balagangadhara/
 ---
 
 Though the book was published nearly two decades ago, Said's *Orientalism* continues to be topical. Many have rejected the message of this work; others have attempted to develop its arguments yet further. This article will not be one more interpretation of Said's book; after all, there are many such interpretations, including Said's own. Instead, it probes the phenomenon of 'post-Orientalism'. Even here, the intention is not to map its contours either historically or conceptually. Rather, the focus is on raising the question: what next after *Orientalism*?
 
-**I**
+## I
 
 ***The Study and the Kitchen***
 
@@ -103,7 +103,7 @@ To appreciate this challenge better, let us pursue the issue conceptually. It is
 
 Let us assume that cultures other than the West exist and that they experience the world differently. In that case, to study Western descriptions of the world as the way one culture experiences it, and to generate alternate descriptions of the same world are the real and only challenges raised by the phenomenon of Orientalism. Before meeting these challenges, however, we need to understand them first. The question is: do we?
 
-**II**
+## II
 
 ***The Nature of a Monologue***
 
@@ -161,7 +161,7 @@ It is also an indirect reproduction of Orientalism in the sense that its constra
 
 This tirade can be justified if and only if the identification of the 'Western self image' with the 'social sciences' can be made sensible. Further, there is also the claim that the social sciences force Orientalism into effacing the differences between cultures. This too has to be made sense of. As though this is not enough, one has to make sense of what, in that case, anthropology is all about. Is it possible to make sense of these, and many more, assertions?
 
-**III**
+## III
 
 It is my conviction that the answer to the above question is in the positive: yes, it is possible. It is also imperative that we do so. However, assaying the possibility of the task is not the same as executing it. It is the hope that this article lends some plausibility to my conviction. As far as executing this task is concerned, well, it is a collective effort. I can do no more than invite the interested to help build the required research programme. Not *ex nihilo* – of course, not. Some spadework has been done, some foundation work is in progress, and some initial results are already in. In fact, these either lend plausibility to the programme or will fail to do so.
 
@@ -249,7 +249,7 @@ Surely, these are the questions that Shweder should be asking, which he does not
 
 On the other hand, if one would like to deny the 'facts' that Orientalism has dredged up – that, for instance, Indians have no moral norms – what routes could one travel? One could suggest that 'Orientalism' was prejudiced; one is more enlightened today; and that Indians are not immoral but merely moral cretins. Take your pick: moral idiocy or total immorality. These are the only two choices open to us, if we do not realize the intimate relationship between Orientalism and the Western theorizing about ethics.
 
-**IV**
+## IV
 
 Much more requires saying than has been said so far. Let me, however, round off – reasons of space forbid anything else. What should the Indian intellectuals be doing today, if their present should have a future? What is the future for what they are doing at present?
 
@@ -265,7 +265,7 @@ Now Partha Chatterjee (1994, P.169):
 
 Now that there is a much greater eagerness to face up to ... historical material, its very richness forces us to throw up our hands and declare that it is much too complex. .... (T)he feeling of unmanageable complexity is, if we care to think of it, nothing other than the result of the inadequacy of the theoretical apparatus with which we work. Those analytical instruments were fashioned primarily out of the process of understanding historical developments in Europe. When those instruments now meet with the resistance of an intractable complex material, the fault surely is not of the Indian material but of the imported instruments. If the day comes when the vast storehouse of Indian social history will become comprehensible to the scientific consciousness, we will have achieved along the way a fundamental restructuring of the edifice of European social philosophy as it exists today.
 
-**References**
+## References
 
 Almond, Philip, C. *The British Discovery of Buddhism.* Cambridge: Cambridge University Press,1988.
 

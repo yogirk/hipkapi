@@ -10,14 +10,14 @@ categories:
 - published
 - dailyo
 tags: []
-toc: false
+toc: true
 aliases:
   - /2017/01/06/smriti-irani-will-destroy-indian-education-for-good/
 ---
 
 Our [recent piece](/posts/why-smriti-irani-as-hrd-minister-was-a-terrible-choice/) on the valedictory speech of the minister of HRD at a Kolkata workshop elicited many replies from the readers. Some found that we indulged in a personal attack, our piece lacked "logic" and "argumentation" and one of her secret admirers, in her defence, even sent us a link to a report by Saptadwipa Ghosal in *The Echo of India*. Such responses demand an adequate reply. Actually, we wanted to show how profound her new education policy is and we failed in demonstrating it. In this piece, through the use of sophisticated hermeneutics, we shall make our mistake good.
 
-**Personal attack**
+## Personal attack
 
 About personal attack, one of the authors has met Smriti twice so far and his impressions of her are very positive. Though rumours are rife about her abrasive and arrogant personality, she came across as a nice, pleasant and witty person in her conversations with him. Nothing in our article suggests anything about her personality, whether positive or negative. In this sense, we could not have indulged in a personal attack.
 
@@ -29,35 +29,35 @@ In all these three senses, our article cannot be seen as a personal attack on Sm
 
 Apparently, Dr Nagesh Thakur, a professor at Shimla University, introduced the "10 points" discussed at the Kolkata workshop that the HRD is going to implement. We begin with a crucial assumption that this man is not one of Smriti Irani"s favourites. She appears to favour people in terms of their degrees of incompetence, immorality and corruption: one of the blue-eyed boys in the servile entourage of the minister, for instance, has "the UGC in the palm of his hands", as one of his erstwhile collaborators proudly and openly declares today. In any other country, this man would be languishing behind bars; in India, under the able guidance of Smriti Irani, this man occupies a whole series of plum positions and lords over multiple commissions with many more in the offing. Thus, assuming that Dr Thakur is a man of intellectual and moral integrity and, therefore, not one of the minister"s favourites, to read some of the "most potent points" that came up for discussion is to taste the "most potent" recipe for generating instant ulcers. Here, we will look at two such.
 
-**The first "potent" idea**
+## The first "potent" idea
 
 One ingredient in that recipe is constituting a "national education commission in India" that "will run independently, in an autonomous manner with *integrated thoughts*". The previous sentence is an exemplary instance, if there was ever one, of disintegrated "thoughts" coming from *disintegrating minds.*
 
-**Argument One**
+## Argument One
 
 What does "integration" mean in this context? This is not a word-quibble, when it is about a national education policy. One could speak of "physical", "psychological" or "religious" or "spiritual" integration, for example, but none of these makes sense with respect to thoughts. One could speak of "logical", "conceptual" or "cognitive" integration of thoughts in a sensible way, of course. However, this use of integration requires that one specifies the sets of thoughts with which any particular set of thought ought to be integrated. Should some set of thoughts, for instance, be integrated with "Vedic" or "Upanishadic" thoughts? Or, perhaps, to aim at the highest and the impossible, namely, "integrated" with Ambedkar's non-existent thoughts? This is not an avenue worth exploring while interpreting the sentence here since we will come back to this towards the end; besides, the word "integration" in this context qualifies the word "thoughts" to tell us something about their nature. The thoughts of the commission should not be disjointed but "integrated", suggests the sentence. Thus, we have to look elsewhere.
 
 [**Also read: Why Smriti Irani as HRD minister was a terrible choice**](/posts/why-smriti-irani-as-hrd-minister-was-a-terrible-choice/)
 
-**Argument Two**
+## Argument Two
 
 Probably, the HRD is vaguely thinking (even if in a "disintegrated" fashion) of the following two possibilities: (a) holistic thinking, or (b) inter- or multi- disciplinary thinking. Very frankly, we cannot imagine what it is to think "holistically" except in health care ("holistic medicine") or in semantics ("meaning holism"). We doubt whether her blue-eyed boy that we spoke about or the current favourite person in her entourage would have even heard of "meaning holism". Smriti could not have; nor could her advisor excelling in citing Sanskrit shlokas or those bureaucrats who are drafting the national educational policy with great care and concern. "Holistic medicine" cannot function as a paradigm for framing policies about teaching physics (unless her vernacular geniuses, unknown to the republic of letters but doing cutting-edge research in physics in Bhojpuri language, have come up with "holistic physics") or Integral calculus. Thus, the only option is that the national commission has "integrated thoughts" in the sense that it thinks inter or multi-disciplinarily.
 
-**Argument Three**
+## Argument Three
 
 There are only two kinds of people who can undertake such a task in, to take an example, the domain of mathematics. The first are the multitudes doing research in social, cultural, psychological and cognitive foundations of mathematics; the second are unsung geniuses like the Infosys founder Narayan Murthy, one such typical individual, who can hold forth on any subject under the sun with a clarity and originality that would put an Einstein to shame. Clearly, choosing the first is not an option: if it is, the national education commission would swell in size to millions with most of them coming from Europe and the US (unless, of course, Smriti's vernacular geniuses in Tulu have accomplished this wondrous task already). That is because of the number of people doing research in all scientific fields and disciplines in this manner is not in single digits nor are they to be found in India. That leaves only one other option: induct windbags and empty heads to sit on the national commission on education. Now, this option makes perfect sense: such an illustrious bunch of intellectuals will truly be "autonomous" from all constraints imposed by disciplined thinking and "will run independently" of all scientific knowledge. Given that they will have no thoughts of any kind, being the null set, the group is tightly "integrated" and well-structured. Indeed, this is a very "potent" idea as the reporter puts it but one capable of destroying whatever little education that is left in this country.
 
-**The second "potent" idea**
+## The second "potent" idea
 
 Consider the next "potent idea" that the HRD is going to implement: "The new education policy must reflect *Indian ethos* and philosophies along with importance for all Indian languages in the higher education". The italicised part of the previous sentence is a real humdinger. Let us reflect a bit on what it could possibly mean and what it will definitely entail.
 
-**Argument one**
+## Argument one
 
 The first question is: what is this "Indian" ethos? To use the language of the postcolonials in India, another pernicious group in the academia, this is a "contested concept". That is to say, today there is a severe "power" struggle to determine the meaning of these two words. Once this question comes into existence, there arises their next favourite questions, which are inane everywhere else except among the postcolonials in India: (a) "who" represents the Indian "ethos"- the "Brahmins", the "upper castes", the "OBC"s" or "the Dalits"? (b) "who" speaks for these groups? Unless these two questions are "settled" to everyone's satisfaction it is ridiculous to introduce it as the aim of a national education policy.
 
 Let us sidestep this issue for a moment and say that "truth", "knowledge" and "intellectual integrity", etc. are being talked about here. Would this do? No, it would not, because these are not "Indian" ethos but of every kind of serious research. Consequently, this is not adequate either. Further, does the education policy intend to induce an "ethos" of a people, an "ethos" of a culture, an "ethos" of a society or an "ethos" of a civilisation, or, failing all these, an "ethos" of a group that shouts the loudest (like the Ambedkarites and their sycophants, for instance), the "chosen" or the "best"? Or, perhaps, the ethos of doing research? The talk of "Indian ethos" is so silly in this context that to propound it as a policy measure is to out-beat the most insane policy that the Congress party ever implemented. And most policies of the Congress party regarding education have been insane.
 
-**Argument two**
+## Argument two
 
 Consider the issue we sidestepped. Who represents whom and who should speak for whom? In India, this issue has taken proportions that defy even the insanity of lunatics. When, everywhere in the world, such people would be admitted to mental institutions, in India they become professors in the universities. The right caste certificate and the chanting the *Ambedkar-naam* with the right intensity and devotion will propel you to a state or central employment quicker than you can say "presto" or "abracadabra".
 
@@ -81,7 +81,7 @@ A national education policy ought to set up research centres and institutes. It 
 
 This being the case, we can now ask the question: Whose "ethos" is "the" Indian "ethos" then? Answer: those of Ambedkarism. Who represents that cult and can speak for it? Why, the Ambedkarites, to be sure. They do that in "the name" of the Dalits, of course. What is "the ethos" of these Ambedkarites? Look around you in the Indian universities and government institutions where they are in the majority, you will discover the facts of the matter. The second "potent" point transforms these old facts into the "New" and "national" education policy.
 
-**Argument three**
+## Argument three
 
 These facts are indicative of a process that confirms one of the oldest ideas about the origin of religion. That idea says that God (or gods) is/are human creations and that people transform some human beings into gods. That is the process that is occurring in India: in about 100 years, if things go the way they are going, Ambedkar will have become GOD and not just one of his avatars or reincarnations. Even if Ambedkarism always remains a cult, it will be soon recognised as a "major religion", more important in India than, say, "Hinduism". Indira Gandhi began this process in order to liquidate Jagjivan Ram and his influence on the Harijans. The successive governments since then have faithfully pursued her political strategy by transforming it into a national religious and educational policy. The current BJP government, under the charismatic and able Leader Modi, is accelerating that trend: never did Ambedkarites have such success as they have now. Ambedkarism is rapidly taking the visible shape of an institutionalised religious cult.
 

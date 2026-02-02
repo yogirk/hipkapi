@@ -9,12 +9,12 @@ categories:
 - religion
 - explanatorily intelligible
 tags: []
-toc: false
+toc: true
 aliases:
   - /2011/03/25/intelligibility-religion-belief-meaning/
 ---
 
-**I**
+## I
 
 Let me begin by clarifying what the notion of intelligibility says.
 
@@ -38,7 +38,7 @@ Let me begin by clarifying what the notion of intelligibility says.
 
 10. I claim that Indian stories are *not like this*. Whether they are about the Origin of the Cosmos, or about Krishna, they do not make either themselves or the world into explanatorily intelligible entities. These stories are intelligible, to be sure. So is a mathematical or physical theory. I claim that stories do not even *explain*, but that is for later. For now, what we need to know is what the notion of 'intelligibility' says and does not say.
 
-**II**
+## II
 
 If it is said that the epistemological claim lays down the necessary condition for anything to become intelligible, is this not applicable to 'belief' as well? (After all, there is nothing objectionable to a metaphysics that considers a 'belief system' as a particular kind of entity as well.) That is, does a 'belief system' become intelligible because it instantiates the intentional states of some agent? This is a very tricky question, which is best approached by stages.
 
@@ -64,7 +64,7 @@ In secularized terms, the notion that meaning is somehow 'shared' between speake
 
 6. Let us then picture another culture, the Indian one, which thinks that intentionality is an illusion, even if a necessary one. If the epistemological claim is applicable to them too, it would follow that they would find the world (as it is) indescribable. What is describable would be 'true' only to the extent the illusion about the world is a necessary one. That is, they would think that the description of the world is both true and false. The world "as it really is" cannot be described by language and only the illusory world is so describable. However, because they think that the 'truth' about the world *is* the realization about the necessity of illusion, they would have to be more concerned about the *role* of language in leading from the world of illusion to the realization about its illusory nature. Consequently, their reflections about language would be less oriented towards 'meaning' and 'reference'. (That is to say, this would not constitute their primary preoccupation.) That means, in so far as they reflected about language they would be *more* concerned about the *syntactical* nature of language and would tend to locate 'meaning' in the syntax of language. (They would have to be forerunners in developing a syntactical theory of 'meaning'.)
 
-**III**
+## III
 
 Let me pursue the reflections presented earlier on intelligibility. (It tried to suggest that the notion of 'understandability' can be extracted from the notion of intelligibility.) They appear logically related but I am not sure that what I describe is also their logical relation.
 

@@ -12,16 +12,16 @@ categories:
 - Gelders
 - Willem
 tags: []
-toc: false
+toc: true
 aliases:
   - /2011/04/02/mantras-of-anti-brahmanism-colonial-experience-of-indian-intellectuals/
 ---
 
-**Colonial Experience of Indian Intellectuals**
+## Colonial Experience of Indian Intellectuals
 
 *Opposing factions in the Orientalist-Anglicist controversy in the 19th century shared a common understanding of Indian religion and society. Europeans from diverse ideological and religious backgrounds identified the brahmins as priests and brahmanism as a 'religion of the priests'. This common understanding derived its consistency from a Christian understanding of religion. Even the writings of Rammohun Roy and Babasaheb Ambedkar, this article suggests, reveal an unconditional acceptance of Europe's conceptualisation in a debate over religion that continued into the 20th century*
 
-**Indian Society in the Orientalist-Anglicist Debate**
+## Indian Society in the Orientalist-Anglicist Debate
 
 Contemporary research that addresses the important period of the early 19th century in India generally takes the controversy between Anglicists and Orientalists as a useful explanatory framework . Convinced that the Indian society was saturated by heathendom, Anglicists considered India to be corrupt. They believed that its culture was degenerate and its population irrational, retarded, superstitious and morally depraved. The Orientalists, on the other hand, genuinely sought to understand the foreign culture. Surely, they wanted to bring reform. But they were certain that a transformation could only be successful if it resonated with the mores of the natives. Hence, they studied the Indian culture, learned its local languages, collected and preserved what belonged to its cultural inheritance, and discovered a grand past that presented an India excelling in the political, social, religious and intellectual domains.
 
@@ -33,7 +33,7 @@ In this article, we propose that both the idea of religious degeneration and the
 
 If this suggestion is convincing, the prevalence of Europe's conceptualisation in the modern Indian intellectual's reflection on his own society is nothing but remarkable. Even though there existed a long tradition of criticism of brahmins and caste in India itself, Rammohun Roy, for example, while criticising contemporary brahmanism vigorously, merely echoed the assessment of the British. Similarly, Babasaheb Ambedkar did the same a century later when he took up its sacerdotal invention of caste along familiar lines. By doing so, both accepted exactly that which Orientalists and Anglicists shared: they ended up criticising 'brahmins' as 'priests' and 'brahmanism' as a deprived 'religion of the priests'.
 
-**Orientalist Conceptualisation of 'Sacerdotal Slavery'**
+## Orientalist Conceptualisation of 'Sacerdotal Slavery'
 
 John Zephania Holwell was one of the first to clearly formulate the principles that would guide the Orientalist approach to India. His *Interesting Historical Events, Relative to the Provinces of Bengal, and the Empire of Indostan,* first published in 1765-67, was highly influential both in England as well as across continental Europe. It had a significant impact on the French philosophes and would be praised by German romantics .
 
@@ -51,7 +51,7 @@ The success of these developments was completely due to the brahmin priests. The
 
 Although the citations speak for themselves, we would like to emphasise some important elements of the picture that is outlined here. The thrust of the argument is the replacement of the original pure religious tenets with something else: a corpus of complex and elaborated expositions and commentaries. What was not part of religion is made part of it and is falsely worshiped. Exterior modes of worship make religion hollow and bereave it from its content, i e, the essence of religion. What is not expressly directed in the original is made obligatory by sophisticated reasoning. Consequently, the religion is no longer accessible without the help of a specialist, i e, the priest. What keeps these developments going is the thirst for more power after the priests first tasted it. What begins as priestly power soon extends itself to a longing for worldly richness and civil authority. The result is caste: a political institution meant to keep a whole nation under the sway of sacerdotal slavery.
 
-**Heydays of Orientalism**
+## Heydays of Orientalism
 
 Despite huge intellectual efforts, future generations of Orientalist scholars never fundamentally challenged the structure of Indian society outlined by Holwell: as far as its religion and its 'priests' were concerned, even sympathetic voices did not change the picture. In the fifth edition of James Mill's *The History of British India*, Horace Hayman Wilson agreed that India was far behind the stage that Europe had reached. Interestingly, he explained the difference by 'the advantages we possess in a purer system of religious belief', as against the character of the Indian religion and institutions (1858: 164 ff. 1).
 
@@ -63,7 +63,7 @@ Degradation also characterised The History of India by Mountstuart Elphinstone. 
 
 Finally, in a series of lectures given at Cambridge in 1882, Max Müller presented 'India such as it was a thousand, two thousand, it may be three thousand years ago' and invited his students to look at its 'religion … if only purified from the dust of 19 centuries…' (1883: 7-12). What we could learn from this course would be the manner in which 'the human mind arrives by a perfectly rational process at all its later irrationalities.' (1883: 195) His preface to *The Sacred Books of the East* had already explained the manner in which the human mind arrived at that stage: 'The priestly influence was at work, even before there were priests by profession, and when the priesthood had once become professional, its influence may account for much that would otherwise seem inexplicable in the sacred codes of the ancient world' (1879: 15).
 
-**Priestly Despotism Taken for Granted**
+## Priestly Despotism Taken for Granted
 
 Orientalist scholars might have presented their case in the garbs of rationality and open-mindedness. However, when it came to the identification of the brahmin 'priests' as the cause for the degeneration of religion, the enslavement of the minds of the people, and the preservation of their own caste, their resemblance to the story told by Protestant zealots is remarkable.
 
@@ -73,7 +73,7 @@ In Grant's view the brahmin tribe could be held responsible for almost everythin
 
 Again, the running thread throughout Grant's account was one of sacerdotal despotism. Where Holwell mentioned a 'new political institution', Grant claimed that the priests had deceived the ignorant masses and installed their superiority in a system of social gradation. This diverges from the genuine principles of equity, truth, and honesty that had truly influenced the spirit and the manners of the people. To demonstrate these principles Grant made more than generous use of William Jones' translation of the Manu Dharma Shastra (1794). The law, Grant said, 'stands upon the same authority as the Hindoo religion; both are parts of one system, which they believe to have been divinely revealed.' (1792: 34). Nothing was clearer than that 'this whole fabric is the work of a crafty and imperious priesthood, who feigned a divine revelation and appointment, to invest their own order, in perpetuity, with the most absolute empire over the civil state of the Hindoos, as well as over their minds' (1792: 35).
 
-**Continuity of Discourse**
+## Continuity of Discourse
 
 The late 18th and 19th century works discussed above suggest a constancy and internal coherence in European accounts of Indian society across religious and ideological boundaries. Evangelicals and secular Orientalists transcended the Orientalist-Anglicist debate: both agreed that brahmanism was a religion created by priests who had used their religious authority to invent a system of social stratification. This conceptualisation would become the stock-in-trade of European knowledge about India and would become standard in the more general writings consumed by the European public at large. One of the most influential works in this genre was James Mill's *The History of British India.*
 
@@ -85,7 +85,7 @@ The original laws demonstrated that the Indian kings were merely instruments in 
 
 Mill's account might have appeared as the secular counterpart of so-called evangelical interpretations. However, he was neither an ardent anglicist, nor was he an orientalist. He nevertheless accepted as self-evident the story which was shared by all of them about religious degeneration, the depraving influence of the brahmins and their creation of caste. When a story transcends all ideological and theoretical boundaries, there must be a more fundamental common framework from which its consistency is derived. We will suggest that this coherence could only be obtained from a christian conception of religion, and more precisely, from its Protestant variety.
 
-**Liberty of Protestantism vs the Tyranny of Priesthood**
+## Liberty of Protestantism vs the Tyranny of Priesthood
 
 The notion of degeneration of religion, as well as the concepts of 'priests' and 'priesthood', were very familiar to the Europeans. Both had been essential to Christianity because they structured its understanding of religion. As the Old Testament told us, god had given mankind true religion upon creation. The same book continued that, ever since, this divine gift had been corrupted due to the efforts of the devil. When god revealed Himself and had chosen the people of Israel to make his first covenant, even the Jews, so the Christians told, were led astray by the multiple laws and the empty regulations which departed from the true religion. Thanks to the coming of Jesus, god restored His original bond with mankind by means of a 'New Covenant'. However, even this was not safe from corruption. Fifteen hundred years after god uniquely revealed Himself in the figure of Christ, Protestants told us that Christianity had gone through a period of degeneration once again. Again a connection with the true religion had to be restored by means of direct access to the word of god, i e, the Bible.
 
@@ -107,7 +107,7 @@ The search for the carefully hidden 'religious texts' became one of Europe's obs
 
 As Catholic priesthood was confined to the selected few, brahmins dominated Indian society through the institution of caste. As the priests of the church of Rome were the only rightful administers of the sacraments, Hinduism turned out to be a religion 'of which the brahmins are the exclusive depositories of its ordinances'. The 'brahmin church' had imposed social hierarchies due to its priestly despotism. Therefore, the most salient feature of this religion became the caste system, imposed upon society to preserve brahmin privileges. 'Absolute empire over the civil state of the Hindus as over their minds' was exactly what priesthood and its craft had given birth to in Europe as well.
 
-**Indian Intellectuals and Mantras of Anti-Brahmanism**
+## Indian Intellectuals and Mantras of Anti-Brahmanism
 
 The Judeo-Christian theme of religious degeneration and the Christian theological interpretation of religion as a religion of the priest did not only structure Europe's identification of the brahmin priests and brahmanism. More remarkably, it even structured the conceptualisation of religion provided by Indian intellectuals in modern times. When Rammohun Roy published the first of his English works he 'appealed to the sacred books…as bearing witness against the idolatry of the priest-ridden masses' (Müller cited in Mookerjee 1970: 32) Echoing European descriptions, Roy exclaimed that the brahmins had emphasised 'to the utmost of their power, that part … which, treating of rites and festivals, is justly considered as the source of their worldly advantages and support of their alleged divinity' (1817: 88). The Hindus didn't know that the Vedanta prohibited that which brahmins entertained because the brahmins permitted 'themselves alone to interpret, or even to touch any book of the kind.' They had kept the 'brahmin bible' secret 'within the dark curtain of the Sanskrit language.' As a result 'the practice of few Hindoos indeed bears the least accordance with its precepts.' (1816: 59) About the source of his inspiration, Roy is very explicit. In a letter to Alexander Duff, he declared that he had read about
 
@@ -125,7 +125,7 @@ That he merely accepted European authority and adopted polemical slogans might w
 
 Both reformers are divided by a century of changing socio-political circumstances. Each had its own political and/or religious agenda as well. Yet it is clear that the difference between orientalists and anglicists or Evangelicals others find so important in the context of modern Indian intellectual movement is of no relevance when it comes to an understanding of Indian religion and society among Indian intellectuals.
 
-**Indian Intellectuals and the European Experience**
+## Indian Intellectuals and the European Experience
 
 If theological concepts structured the experience of the Europeans, how well could they capture the experience of the natives? Wilson suggested that a resistant attachment to caste corresponded with the lower classes. Elphinstone agreed and noticed that the lowest classes started to display a large division of castes among themselves. Indeed, from an empirical point of view, most will agree that a multitude of sub-castes can be identified in the so-called lowest social strata. To argue that priests imposed such an organisation upon society requires, minimally, the identification of an overarching organisation of priests. However, neither in the long haul of Indian history, nor in its present context has such a structure, necessary to impose upon society any social organisation whatsoever, been identified.
 
@@ -139,13 +139,13 @@ There were other elements as well that did not fit the picture of a class of pri
 
 However, when Indian intellectuals began to write their own story, they did not start from those experiences. Neither did they try to make them intelligible: India, as they saw it, had its own religion of priests and the hierarchy of caste system was due to priestly despotism. The implication of this account is the unconditional acceptance of Christianity's theological conception of religion by Indian intellectuals.
 
-**Conclusion and Coda**
+## Conclusion and Coda
 
 The Orientalist-Anglicist distinction is said to have had a decisive influence on the outset of Indian reform movements. Mainly in Bengal, Indian intellectuals began to discover what orientalists had shown them: a golden age in a history of decline. It is said that exclusively due to orientalists, Indians became aware of original scripts and pure religions, of morality and virtue in a long distant past. It is also said that orientalists and anglicists differed in their assessment of Indian society. However, we have tried to show that despite these differences, the opposite camps shared the same conceptions of brahmins in India tout court: the Christian-theological themes that structured christianity's own understanding of the religious and nurtured the attacks against the priesthood in Europe during the reformation, re-emerged in the explanation of contemporary Indian society. Therefore, if what we have suggested in this article is true, it follows that whenever Roy, Ambedkar or the people who are inspired by them accept Europe's conceptualisations, they are not criticising their cultural inheritance at all. They are just repeating christianity's critique against the pagan 'priests'. It is also clear that the so-called differences between anglicist and orientalists are themselves dependent upon the same Judeo-Christian conception of religion and are, therefore, distinctions which make sense within a theological framework only. From this perspective the anglicist was correct in saying that corruption was there from the very beginning – after all, it was a pagan worship inspired by the devil. But the orientalists – working within the same theological background – were correct too when they stressed that compared to the original books, in which sound conceptions of the divine could still be found, these insights were lost due to a mounting corruption of the priests ever since.
 
 When contemporary scholars take this divide as a valuable structuring framework for describing the history of modern India they end up being theologians in a secular guise (see Balagangadhara 1994 for an amplification of this theme). That this framework makes sense after all could be explained by de-christianised Christianity being part of the history of the west, and, hence, being constitutive of the west's cultural and religious experience. However, when Indian intellectuals take the same story for granted, they end up repeating a protestant Christian theme without Christianity being fundamental to the construction of the Indian culture. What they say must, therefore, be vacuous to a double extent. That they keep repeating the west in endless mantras of anti-brahmanism is not only puzzling, it is tragic as well. They do not only stop thinking, they are bereft of their own experience. The world of the west will never be theirs while the world of their own is no longer accessible due to the western mantras which prevent them from seeing and reflecting upon their own experience. Therefore, if a novel and innovating step towards a different approach of Indian culture is desirable and sought after, it is high time that the Indian intellectuals start taking their colonial experience seriously.
 
-**References**
+## References
 
 Ambedkar, B (1917): 'Castes in India. Their Mechanism, Genesis and Development' in Vasant, Moon (ed) *Babasaheb Ambedkar: Writings and Speeches Vol 1*, Bombay: Education Department Government of Maharashtra [1979], pp 3-22.
 –   (1936): 'Annihilation of Caste with a Reply to Mahatma Gandhi' in Vasant, Moon (ed) *Babasaheb Ambedkar: Writings and Speeches Vol 1*, Bombay: Education Department Government of Maharashtra, (1979), pp 23-96.

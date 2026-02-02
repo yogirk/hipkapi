@@ -103,8 +103,12 @@ It is in this spirit that I have heard you out. It is the same spirit that has p
 **Dr. Edward Reilly** — 2016-04-26 14:40:41
 
 My academic reading has been in matters of Linguistics, Mythologies &amp; Poetics, having stumbled across this affair &amp; correspondence quite by accident. I found this article to be one of the more sensible that I've been reading.
+
 It seems that the argument arises from a question of whether Dr. Doniger was entitled to comment upon matters of Indian tradition, as an outsider, or worse still, representative of a foreign imperial power. Doniger is clearly heiress to Sir William Jones, Wolfgang von Goethe and all who hove followed in trying to understand a civilization from which their societies had been severed by the fall of Constantinople in the mid C15. Of course she has come to her studies through a path quite different to her predecessors, but by her own account, and the evidence of others, she knows the field of enquiry more than well enough.
+
 So, what may then be the cause of continued criticism? Tonality? Sympathy for the broad spectrum of humanity she has encountered in her travels &amp; studies? Her feminism or even perceptions of residual Jewishness? Or, is the cause to be found in the ongoing struggle by contemporary Hindus to shake off the remnants of British colonial policies that had denigrated their native religion(s), Hinduism, Jainism, Buddhism, even the Thomas Church, in all their complex varieties, in favour of Islam or their own cold-blooded version of Christianity? 
+
 Perhaps the concept &amp; practice of Hindutva, like Romuva in Lithuania, may need some further investigation &amp; illustration by Mr. Balagangadhara for westerners, such as myself, to follow some of the arguments adduced.
+
 I found "The Hindus: An Alternative History" interesting, but also somewhat irritating, as I had wanted a more systematic, lingusitically rich approach: but that's my preference, and it's not cause enough to have the writer burnt at the stake.
 

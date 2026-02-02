@@ -140,6 +140,7 @@ Without hesitation, he answered it with “Yes”.
 “Then someone wrote this story – I mean: a human being wrote it?”
 “Certainly some human being wrote it”, he said.
 “Then some human being could have also invented it”, I answered and felt triumphant, when I thought that I had con­vinced him.
+
 But he said: “It is quite possible that somebody invented this story. But true it is, in any case.”
 “Then it is the case that Prince Rama did not live on this earth?”
 “What is it that you want to know?” he asked. “*Do you want to know whether the story is true, or merely whether it occurred*?”

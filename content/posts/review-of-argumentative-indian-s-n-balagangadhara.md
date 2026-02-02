@@ -84,5 +84,6 @@ While growing up I knew myself and other people in my community were really 'sec
 **Praveer Nijagal** — 2014-07-25 10:24:00
 
 I have put up a comprehensive review of this Sen's book. The title being so appealing and representative of Vada-Vivada culture of our Indians, i picked it. But thoroughly disappointed. So i wrote this review in my blog site: http://npraveer.blogspot.in/2014/02/the-argumentative-indian-by-amartya-sen.html
+
 I agree here with Balagangadhara, the narrow &amp; limited view of Amartya Sen at the Indian diaspora. Sen being a Nobel Lauereate will be widely read and reffered. His narrow view will have detrimental impact on the future generations and on the external world.
 

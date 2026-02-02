@@ -9,7 +9,7 @@ categories:
 - published
 tags:
 - published
-toc: false
+toc: true
 aliases:
   - /2012/08/28/reconceptualizing-india-studies-by-balagangadhara-a-new-book/
 ---
@@ -28,7 +28,7 @@ This book asserts that postcolonial studies and modern India studies are in need
 
 This book will be of considerable interest to all those interested in understanding Indian society, culture, and traditions. Scholars and students of history, philosophy, sociology, and postcolonial studies will also find this very useful.
 
-**Table of Contents**
+## Table of Contents
 ***Acknowledgements***
 **Introduction**
 1: 'Culture' and the 'Cultural': Problems, Pitfalls and a Proposal
@@ -48,4 +48,5 @@ This book will be of considerable interest to all those interested in understand
 
 <http://www.oup.co.in/isbn/9780198082965>
 <http://www.flipkart.com/reconceptualizing-india-studies-0198082967/p/itmd8z38syb2vtg2?pid=9780198082965&ref=4f336ed4-216b-4328-903a-3cd5282129c0>
+
 [Bookfinder](http://www.bookfinder.com/search/?ac=sl&st=sl&ref=bf_s2_a1_t1_1&qi=PSq4XOIdo5bwbERi7Fv9B9VgqT8_2432289954_1:2988:9687&bq=author%3Ds%2E%2520n%2E%2520balagangadhara%26title%3Dreconceptualizing%2520india%2520studies)

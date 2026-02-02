@@ -8,7 +8,7 @@ categories:
 - Balagangadhara
 - explanatorily intelligible
 tags: []
-toc: false
+toc: true
 aliases:
   - /2011/03/07/chapter-wise-questions-and-answers-to-understand-the-heathen-in-his-blindness-asia-the-west-and-the-dynamic-of-religion/
 ---
@@ -25,9 +25,9 @@ None of the problems raised in the first chapter is formulated properly. We will
 
 When you understand what the contradiction is, how and where it comes into being, you have grasped the first chapter. It would be even better, if you can anticipate several obvious strategies one could use to confuse the reader and convince him that there is 'really' no such contradiction. The more insight you get into this evasive strategy, the deeper your insight into the contradiction will be. You will understand the import of the argument better, if you do this mental exercise.
 
-**Questions and answers to understand every chapter in this book**
+## Questions and answers to understand every chapter in this book
 
-**Chapter 1**
+## Chapter 1
 
 1.1. "What is the contradiction in religious studies?"
 
@@ -75,7 +75,7 @@ Would the following two statements adequately capture your unease?
 
 There does not appear to be a contradiction between (a) and (b). But what is wrong with these two statements, in the context of religious studies?
 
-**Chapter 2**
+## Chapter 2
 
 2.1. What is the ancient puzzle and how can it be solved?
 
@@ -95,7 +95,7 @@ Consider the pagan question: show, how Christianity can be religio when manifest
 
 A false religion is the worship of the devil. Religions could be false in so far they are expressions of false beliefs.
 
-**On Chapter 2: some general points**
+## On Chapter 2: some general points
 
 The second chapter is crucial to the book: it just about introduces all the themes the book will talk about. There is no one particular point the chapter makes, given that it is a story. It contains many different threads: the confrontation of Christianity with its pagan milieu; its inability to understand (or its ability to misunderstand) the pagan traditions; the emergence of a philosophy of history; the theme about the 'universality' of religion; the problem of Rogerius; and so on.
 
@@ -105,9 +105,10 @@ The story I narrate, and the way I structure the same, is not orthodox. Despite 
 
 This of course means that many other classicists will (probably) contest the truth of my description of the Roman religio. However, I have not (as yet) come across any refutations of the ideas I advance in the course of this chapter.
 
-**Chapter 3: The Whore of Babylon and Other Revelations**
+## Chapter 3: The Whore of Babylon and Other Revelations
 
 3.1. Explain the title of the third chapter: Who is the whore of Babylon, and what are the revelations? (You need to look into the New Testament Bible to figure out the answer.)
+
 "The Whore of Babylon and Other Revelations" picks up the story around the sixteenth century. This is the second time that the European culture comes into contact with other cultures elsewhere in the world. The first was during the Greek and Roman civilizations. Empirical investigations, if any, into the universality of religion will have to begin here – if anywhere. Indian culture is the 'other' now.
 
 The travel reports of this and the subsequent periods assume that religion exists in India too, except that it is the religion of the heathens. Before long, in Europe itself, heathens and pagans were to become very important. That is the first obvious reference to Protestantism in the title: we meet the whore of Babylon in the book of revelations and the former, said the Protestants, is what the Roman Catholic Church is.
@@ -138,7 +139,7 @@ The concepts of primitive and abstract reasoning allow for a hierarchy of religi
 
 Ancient Rome (and Athens) always turns up in these discussions. Both ancient arguments are rearticulated and the ancient religio serves as evidence in the Reformation debate on true religion and in the Enlightenment speculations on religion.
 
-**Chapter 4**
+## Chapter 4
 
 4.1. What is the conceptual quandary?
 
@@ -160,7 +161,7 @@ When the Enlightenment thinkers categorized the Ancient and Indian traditions, a
 
 The religious notion about the corruption of religion also came to mould the creation-cum-description of Buddhism. The latter was said to be a reformatory reaction against a degenerated Hinduism. Buddha was described as the 'Luther of the East', and Buddhism was to Hinduism/Brahmanism, what Protestantism had been to Catholicism. The theme of degeneration emerges a second time in this construction of Buddhism. Since only scriptural sources were used in the creation of Buddhism, this came to be seen as its pure and philosophical core, while that what existed in reality was considered to be a degeneration (i.e. popular Buddhism).
 
-**Chapter 5**
+## Chapter 5
 
 5.1. What is a paradigm? What is the 'naturalistic' paradigm about?
 
@@ -178,7 +179,7 @@ An ad hoc explanation is developed in order to explain one and one fact only. Th
 
 Besides their ad hoc nature, their weakness lies in the fact that with equal possibility one could arrive at exactly the opposite conclusions. For instance, many of the existing 'naturalistic' theories can be easily encapsulated by the following idea: the primitive man, living in a chaotic world, was bound to create religion. However, it is not clear at all why the primitive man was bound to do so, since all the evidence suggests that the opposite was true: he or she would have never been compelled to experience the world as being chaotic. In addition, there is no necessity for Early Man to create precisely religion in order to render his chaotic world more orderly. Furthermore, these naturalistic theories use concepts such as scarcity, chaos, etc. as if these were experiential states, while in fact they structure experience. These and other fallacies occur in the naturalistic theories.
 
-**Chapter 6**
+## Chapter 6
 
 6.1. What is the Christological Dilemma and when did it come into existence?
 
@@ -196,7 +197,7 @@ Considering different religions to be different answers to the revelation of the
 
 In Christology the figure of Jesus Christ poses a particular problem: the uniqueness of the revelation of God in Jesus Christ puts constraints on the universality of this revelation. It is very difficult to communicate the exclusivity of an all-inclusive Christ. By shifting focus to the revelation of God (away from Christ) it becomes possible to speak of several revelations, to incorporate different histories into one. But, this solution also implies sacrificing its distinctly Christian character.
 
-**Chapter 7**
+## Chapter 7
 
 7.1. Explain the title: what is the prosecution about? Who is the prosecutor and who is prosecuted?
 
@@ -222,7 +223,7 @@ A fourth question was: "Is the existence question about religion susceptible to 
 
 Finally, the following question is raised: "Why have the scholars of the twentieth century kept on believing that religion is a cultural universal?" In Chapters III to VI, the historical aspect of the answer was spelled out. The Enlightenment thinkers secularized the Biblical claim that religion is God's gift to humankind into the anthropological "fact" that all cultures have a religion. Consequently, the nineteenth- and twentieth-century scholars adopted this piece of theology dressed up in secular garb. Chapter VII explained the linguistic aspect of the answer. A de-Christianized Christian theology has become the only language in which we can discuss the various practices of human cultures. This language compels us to conceive of these practices as religions. The conceptual aspect of the answer remains to be spelled out.
 
-**Chapter 8**
+## Chapter 8
 
 8.1. What is the function of a definition?
 
@@ -239,6 +240,7 @@ Though the discussions about the definition of religion start as a referential p
 8.4. Is it possible to provide counter-examples to a definition? Explain.
 
 No, because definitions do not have consequences, only theories do. A definition merely associates a particular term with a given phenomenon (what is one talking about?) but they do not provide knowledge about the world. For example, suppose that one defines grass as everything that is green. Could the yellow grass that is found beneath a stone be a counter-example to this definition? No, it could not, because according to this definition this yellow grass is not grass at all, because it is not green.
+
 Now take the example of a theory of photosynthesis which explains why grass is green. Contrary to definitions, this theory has consequences or implications, one being that if grass is not exposed to sunlight for a longer period of time, it will not turn green. Hence, the example of the yellow grass under the stone confirms the theory. Suppose that one does find green grass in a dark cave, this grass would indeed be a counter-example to the theory of photosynthesis.
 
 8.5. What is the potential contradiction in the story?
@@ -253,7 +255,7 @@ Religion is what (at least) Christianity is. This definition answers to the qual
 
 To use Christianity as the sole example of religion might well result in an ad hoc theory of religion, in which certain characteristics of Christianity would singled out as the necessary characteristics of religion. Hence limiting the scope of the theory to Christianity alone. Only when it has been demonstrated which characteristics Christianity has by virtue of being a religion, the danger of becoming ad hoc is neutralized. This is one of the important requirements the theory of religion faces.
 
-**Chapter 9**
+## Chapter 9
 
 9.1. What is the characterization of religion?
 
@@ -293,7 +295,7 @@ Since for human beings, only accounts that appeal to reasons or purposes can pro
 
 Worship is the means through which an EI-account retains its character. That is, it sustains a particular experience of the Cosmos. (It is also the manner in which faith is sustained.) To suggest that 'The heathen bows down to wood and stone…', we need to believe that the heathen does really think that the particular idol, the particular crow or cow, do make the cosmos (all that was, is and shall be) intelligible. Of course, to believe this fantastic story, we need more than the assurances of a hymn: we need to have an explanation of 'the' psychology of the heathens that tells us how such a thing is psychologically possible. Until such stage, we cannot plausibly maintain that the heathens bow down to wood and stone, if by 'bowing down', one means that heathens worship wood and stone.
 
-**Chapter 10**
+## Chapter 10
 
 10.1. What is the relation between religion and worldview?
 
@@ -331,7 +333,7 @@ The double dynamic of religion is the dynamic of universalization by both prosel
 
 This is one reason: It turns out to be impossible to study religion without practicing theology –since religion is also what it says about itself. Even the attempt to study religion as a worldview does not help us to avoid that. The only path open to us is to study religion as something that brings forth a specific culture. This, though, is but one characteristic of religion…
 
-**Chapter 11**
+## Chapter 11
 
 11.1. What are learning configurations?
 

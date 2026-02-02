@@ -32,6 +32,7 @@ Religion, as an EI account, talks about the meaning and purpose of existence (fo
 
 II
 If we want to speak about the meaning of human existence, at least one condition has to be met: such an existence (from birth to death at least) must embody a plan or a reason. Such a plan or reason cannot be that of the individual in question for the simple reason that his/her birth (at the least, not to speak of the first years of his/her existence) does not instantiate any of his/her plans. Only in such cases could we say that the human existence has meaning.
+
 In the Indian traditions, I have not found any group of people or texts speaking in such terms. Even those who speak of a creator, speak of creation as a 'lila' not as expressions of the plans or reasons of the creator. In the Semitic religions by contrast, the entire Universe exhibits the plan and order that God intends and wills.
 
 

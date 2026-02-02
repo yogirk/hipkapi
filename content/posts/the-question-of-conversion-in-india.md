@@ -10,7 +10,7 @@ categories:
 - published
 - Sarah
 tags: []
-toc: false
+toc: true
 aliases:
   - /2011/04/02/the-question-of-conversion-in-india/
 ---
@@ -25,7 +25,7 @@ There is much to be said in favour of this conclusion, since all attempts to set
 
 The situation is growing worse today. The encounters between the Hindu traditions and the proselytising religions of Christianity and Islam are more explosive than ever. Little is needed, these days, for hostile feelings to flare up. In recent years, a similar enmity towards the proselytising activities of Christians has surfaced in Sri Lanka. Conversion seems to play a crucial role in these conflicts. Thus, there is an urgent need to understand why so many south Asians are disturbed by the issue of religious conversion. Why has this issue become a bone of contention? As yet, our research does not allow for conclusive answers. However, given the current weight of the issue, we would like to submit some provisional results for consideration.
 
-**Religion and Conversion**
+## Religion and Conversion
 
 The current explanations suggest that the cause for the conflict is not to be located in the issue of conversion itself, but in some hidden agenda of the dominant Hindu community. Some say that high caste Hindus fear they will lose their grip on Indian society if more and more members of the lower castes are converted away from Hinduism . Others suggest that the attack on Christian conversion is merely a convenient pretext of the Sangh parivar to support its agenda of Hindu nationalism . These explanations are not supported by an analysis of the debate on conversion. They seem to consider the viewpoints in this debate as side issues in the struggle between the aggressive Hindutva movement on the one hand and the religious minorities, the downtrodden castes, and their secular protectors on the other. At the very least, a genuine explanation of the clash over conversion in contemporary India should give us insight into the viewpoints of the different parties. It should tell us why so many Indians have invested so much time, energy, and emotion in discussing this particular issue.
 
@@ -41,7 +41,7 @@ What is happening in the Indian debate on conversion? The two parties do not see
 
 On the one hand, we will look at how Christians have attributed certain traits to religion throughout the history of their encounter with the Hindu traditions. These traits explain why, according to the Christian view, belonging to a religion entails the duty and the right to convert others to that religion. On the other hand, we show that Hindus have attributed a different set of properties to religion in their encounter with the Christians. From this perspective, the incomprehension they express towards the professed link between religion and conversion becomes understandable. Finally, we come to the suggestion that Hindus and Christians do not have the same object in mind when talking about religion. If this turns out to be true, the current debate on conversion is predestined to remain the dead end it is today.
 
-**Triumph of the Cross over Idolatry**
+## Triumph of the Cross over Idolatry
 
 From the earliest encounters, missionary zeal characterised the way the European Christians approached Hindu traditions. The Portuguese Catholics who conquered the isle of Goa were the first to put the typical Christian stance towards the traditions of the Indian subcontinent into practice. In 1545, King John III of Portugal gave a series of detailed instructions to the governor of Goa about dealing with Indian heathens:
 
@@ -93,7 +93,7 @@ As the true religion conveys the will of God for the humankind, its truth should
 
 From the 16th to the 21st century, the Christians have viewed their encounter with the Hindu traditions as a battle between Christianity and idolatry. This theological framework attributes certain characteristic properties to religion: it is conceived of as a struggle between the true and the false. The struggle has different aspects to it. Firstly, it involves rivalry between religions with regard to the truth of doctrines. Insofar as different religions are either true or false, they revolve around a set of doctrines or beliefs. Therefore, the Christians oppose the Hindu traditions to the Christian religion in terms of the beliefs these 'rival religions' proclaim. The main issue of religion is to make a choice between these different sets of beliefs – the message of the atoning death of Jesus Christ and the related precepts on the one hand or the errors of false religion on the other. Secondly, the competition between religions revolves around the gaining of converts. The true religion strives to save the souls of men and women, while false religion keeps them in the command of the devil. This can also be put in terms of their respective ends. The true religion is the only path to salvation. Hell is the fatal destination of all other religions. Thirdly, the rivalry does not only concern the life to come, but is also expressed in the conduct of the followers of the different religions here on earth. As false religion, Hinduism embodies immorality.2  And the true religion of Christianity exemplifies morality. Conversion, then, cannot but be a fundamental right, since it allows individuals to be guided from falsity to truth and from depravity to the good.
 
-**Countless Rivers Flowing Seaward**
+## Countless Rivers Flowing Seaward
 
 The attacks of the Christian missionaries on the native traditions provoked reaction among the Indians. Surprisingly, this did not take the form of a plea for the truth of the Hindu religion. Nor did the response consist of a counter-attack on the Christian teachings. We can move back to the 18th century to get a flavour of Hindu resistance to the missionary zeal. In 1719, Ziegenbalg published reports of some conferences in which he had discussed the truth of the Christian religion with the 'Malabarian' natives. The first conference gives an account of Ziegenbalg's attempt to convince one of the local brahmins of the falsity of his religion. When the missionary urged him and his fellow Hindus to "break off the Cords of inveterate Errors, and save your own Souls, seeking diligently the knowledge of the One only True God," the brahmin gave the following retort; "Our Religion is Venerable for its Antiquity, and has been professed by many pious Kings and holy prophets, thro' an Uninterrupted Succession of many incircling Ages …" . His religion could not be an imposture, the brahmin continued, since so many generations had continued its practice. In Ziegenbalg's opinion this was a ridiculous argument:
 
@@ -121,7 +121,7 @@ In the 18th and the 19th century, the Hindus had not as yet adopted the tendency
 
 I came to the conclusion long ago, after a prayerful search and study and discussion with as many people as I could meet, that all religions were true and also that all had some error in them, and that whilst I hold my own, I should hold others as dear as Hinduism, from which it logically follows that we should hold all as dear as our nearest kith and kin and that we should make no distinction between them. So we can only pray, if we are Hindus, not that a Christian should become a Hindu, or if we are Musselmans, not that a Hindu or a Christian should become a Musselman, nor should we ever secretly pray that anyone should be converted, but our inmost prayer should be that a Hindu should be a better Hindu, a Muslim a better Muslim and a Christian a better Christian .
 
-**Different Paths to Realisation**
+## Different Paths to Realisation
 
 All religions are true, Gandhi suggests, and all have some error in them. Again, we can only note how strongly this notion differs from that of the Christians. If no religion is false, there is simply no point in religious conversion. There is no question of turning from falsity to truth by converting from one religion to the other. So, even if Gandhi appropriates the Christian vocabulary of 'religion' and 'truth', the statement 'a religion is true' has a completely different meaning to him. It does not mean that this particular religion is the unique gift of God that leads humanity to salvation. Rather, it means that this religion is one of various roads human beings can take to reach 'the goal'. In his own words: "Religions are different roads converging to the same point. What does it matter that we take different roads so long as we reach the same goal? Wherein is the cause for quarrelling?" When all religions lead to the same goal, one should not try to have others follow one's own path. One should rather strive to improve one's own practice of religion and stimulate the devotees of other religions to do the same.
 
@@ -147,13 +147,13 @@ Any protest against religious conversion is always branded as persecution, becau
 
 "Religious conversion is violence and it breeds violence", the Swami concludes. Thus, when religion is the tradition that makes a people into a people, conversion becomes a disrupting interference in the life of a community.
 
-**Misunderstanding Religion and Conversion**
+## Misunderstanding Religion and Conversion
 
 To conclude this interim research report, we will formulate a hypothesis to account for the lack of mutual understanding in the Indian debate on conversion. In the foregoing, it has become clear that the Christians and the Hindus attribute mutually exclusive properties to religion. The former claim that some religions are false, that different religions are rivals, and that one religion leads to heaven and all others to hell. The latter say that no religion is false, that religions cannot be rivals, and that all religions lead to the same goal. These are contradictory predicates that cannot be ascribed to one and the same object.4  Therefore, we are compelled to conclude that the Hindus and the Christians are talking about two different things when they discuss 'religion'. The implications for the dispute on conversion need further investigation. However, one implication is clear. If it turns out to be true that the advocates and the opponents have different objects in mind when discussing 'religion' (and its relation to conversion), they should continue to have great difficulties in making sense of each other's statements and arguments.
 
 This raises several problems. How come the two parties involved in the debate have not seen that the term 'religion' as they use it does not refer to the same object? This cannot be answered hastily. The conversion debate has gone on for a few centuries and the participants have been as gifted as they come. Thus, the lack of understanding they show towards each other becomes all the more difficult to explain. Likewise, why have they continued to engage in this debate with such vigour, in spite of the mutual incomprehension? Our future research on the question of conversion in India will focus on these and other questions.
 
-**Notes**
+## Notes
 
 1 We have tried to elaborate this point in our ongoing work on conversion, truth, and violence.
 2 For an analysis of the impact which the Christian view of Hinduism as an immoral and false religion has had on the contemporary understanding of the Indian caste system, see Raf Gelders and Willem Derde (2003).
@@ -162,7 +162,7 @@ This raises several problems. How come the two parties involved in the debate ha
 
 4 For a further analysis of this aspect of the Indian debate on conversion and its implications for the neutrality of the secular state in India, see S N Balagangadhara and Jakob De Roover: 'Secular State as the Harbinger of Religious Violence' (forthcoming).
 
-**References**
+## References
 
 Balagangadhara, S N (1994): *'The Heathen in His Blindness…': Asia, The West and the Dynamic of Religion,* E J Brill, Leiden.
 Buyers, Reverend William (1840): *Letters on India: With Special Reference to the Spread of Christianity*, John Snow, London.

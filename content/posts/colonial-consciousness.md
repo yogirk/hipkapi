@@ -24,7 +24,9 @@ Consider the following set statements:
 6. Bribes are rampant in the Indian society.
 7. Untouchability ought to be abolished.
 8. [Caste system is a curse on the Indian society.](/posts/common-sense-ideas-about-the-caste-system/)
+
 9. The Harijans in India are exploited by the high-caste Hindus.
+
 10. Many social reformers like Ambedkar, Periyar, Phule, etc. criticized the immoral nature of the Indian caste system.
 
 This is a random selection from the common sense of the Indian intelligentsia. Are these statements true because they describe the experience of the Indians or because they are parts (or extensions) of an authoritative body of knowledge? Those who think that these statements describe their experience, those who contest the truth of these statements, those make a living by peddling these statements in books and articles, those who do 'scientific' studies to prove the truth of these statements or explain their truth… all of them share what I call colonial consciousness. We do not believe these statements are true because they are a part of some scientific theory or another but because we believe they describe our experience. Many have made names for themselves by selling some of these descriptions as 'truths' about India that have come into existence after Indian independence!

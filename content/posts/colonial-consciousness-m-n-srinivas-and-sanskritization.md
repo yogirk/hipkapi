@@ -36,7 +36,9 @@ It is only when one presupposes this caste hierarchy that it becomes self-eviden
 **windwheel** — 2013-09-27 08:25:00
 
 Ambedkar explicitly mentions Gabriel Tarde's 'Law of imitation' which assumes that 'inferiors' imitate their superiors though his use of Tarde cuts against his own (or rather Ayothi Dasan's) thesis.
+
 Srinivas is a bit of a mystery. Was he pulling our leg all along? There's an amusing report by a bunch of North Eastern Anthropology students who recently did a field trip to Srinivas's famous village. The funniest part of it is the one which reflects the consternation of the young (mainly Christian) students from the North East when confronted with the elderly South Indian Brahmin's love for public defecation- 'communing with nature' as we call it. My theory is that we admire the insouciance of our sacred cows in this respect and, by Tarde's law, seek to emulate them.
+
 One point I don't understand. Why blame Orientalism for everything? Punditry, Western or Eastern, is only about defecating on the public thoroughfare and all are equal in this respect. Quod licet bovi, non licet Jovi. Mooo-ind it kindly.
 
 **Parag Waknis** — 2013-12-12 19:07:00

@@ -8,14 +8,14 @@ categories:
 - india-forum
 - Jakob
 tags: []
-toc: false
+toc: true
 aliases:
   - /2011/04/02/towards-a-positive-portrayal-of-hindu-traditions/
 ---
 
 What is at stake in the California textbook controversy? Few would agree that it concerns only the image of Hinduism as offered to the pupils of the California state schools. The controversy involves much more than that alone. It is the next phase in the NRI community's struggle for a less biased and more benign portrayal of Hinduism in the educational system and in American society in general. In the last three years many similar incidents have occurred: the acrimonious debate about 'Wendy's Child Syndrome'; the Kripal and Courtright controversies; the indignation about the depiction of Hindu deities on bikini's, slippers and toilet seats; etc. These transient outbursts express a solid and growing concern about the derogatory conceptions of the Hindu traditions, which still dominate the western societies and academia. In very general terms, the aim of this struggle could be put as follows: to make the world aware of the positive contributions the Indian culture and its traditions have made and can make to humanity. Since this is an aim I share, I would like to assess the NRI community's progress towards its realization. This evaluation will take the California textbook controversy as a reference point, while addressing some of the broader issues involved.
 
-**I**
+## I
 
 The American Hindus often state their desire for a more positive portrayal of Hinduism. Hence, they point out, this religion should be represented by 'insiders' and by those who are sympathetic towards it. Either Hindus should speak for Hinduism or those 'outsiders' who hold a benign view of its teachings. In the California textbook controversy, we encounter an excellent illustration of the results of this approach.
 
@@ -25,7 +25,7 @@ When we turn to the proposals of the Vedic Foundation, however, dramatic changes
 
 Where the textbooks discuss 'enlightenment' and the 'enlightened' in the Hindu traditions, the Foundation writes 'God realization' and 'God realized'. 'Brahman' is systematically replaced by 'God'. Again, the implications go beyond mere words. Hindu tradition and its notions of Brahman and enlightenment are not in any way related to anything like the 'God' of Christianity--who is believed to be a person without a body who created and governs the universe, but exists outside it. It gets even worse when this Foundation denies that the Hindu traditions revolve around 'multiple gods' and reverence towards these various gods. No, they claim, these many deities are in fact one 'God' or at most various forms of 'God'. Ancient Hindus did not go to temples to 'connect with their gods', but to 'worship God'. Once again, when American children and adults read 'God' in the textbooks, they will obviously understand the Christian God and not something like the 'Brahman' of the Hindu traditions. In fact, when one uses 'God' in English, the one possible referent is the Judeo-Christian God--the creator and sovereign of the universe who demands from humanity perfect obedience to his will and exclusive worship of himself. In effect, the proposal of the Vedic Foundation makes this Christian 'God' into the main focus of Hinduism.
 
-**II**
+## II
 
 Does this transformation of the Hindu traditions constitute a positive portrayal? One would think not. Still, some might point out that sixth-graders will not be confused by theological intricacies. However, the point is not so much what American children will or will not grasp, but rather the fact that these Hindus think they are improving upon the dominant image of Hinduism. Here, one might add that the corrections of the Vedic Foundation were subject to the restrictions imposed by the California education department and that they are certainly less harmful than the concerned sections of the textbooks originally were. But are they really?
 
@@ -41,7 +41,7 @@ The same kind of problem recurs in most of the 'positive' corrections made by to
 
 The negativity is ingrained in the very structure of the dominant image of the Indian culture and its traditions. The entire understanding of the Hindu traditions today is constituted by Christian theological schemes. Therefore, one has to reject the understanding at the root and replace it by a cognitively superior description of the Indian culture. Otherwise, one will simply add 'positive-sounding' layers to the currently dominant conception. Instead of improving the understanding of the Hindu traditions, such corrections simply hide the problems we are facing today in the study of the Indian culture. They superficially cover up the negativity. While doing so, they conceal the main problems to be addressed in the development of an alternative understanding of the Hindu traditions.
 
-**III**
+## III
 
 What, then, is going wrong in the struggle of the NRI community? After all, its general aim of acknowledging and demanding recognition of the positive contributions of the Indian culture is a noble and legitimate one. So is the attempt to resist the negative representation of Hinduism in the western academia and educational systems. Yet, the difficulties arise when an alternate conception of the Hindu traditions is asked for. At that point, it becomes clear that no positive alternative is available today among 'insiders' and scholars sympathetic to Hinduism. That is, in spite of its benevolent tone, the understanding they offer makes all the mistakes of the dominant negative portrayal.
 
@@ -51,7 +51,7 @@ In my analysis, what happens today is a replay of those events. Michael Witzel, 
 
 In the end, the American Hindus will truly complete the work of the missionaries: they will have converted themselves into Hindu Christians. This is what the Brahmo Samaj, the Arya Samaj and their progeny have done in India; this is what the Hindu foundations in America will do if they continue along the same lines. Like the nineteenth-century reform movements, the foundations of today are sanitizing the Hindu traditions into a proper religion according to Judeo-Christian standards. They are neither continuing the traditions as passed on by the Indian ancestors nor critically reflecting upon them. Instead, they transform Hindu tradition into a second-hand Christianity.
 
-**IV**
+## IV
 
 How could we explain this sidetracking of the struggle of the Hindu community in America? This group lives in the West and it legitimately challenges the West's negative stereotypes of India. What we have to understand today, is how the dominant framework of western societies compels them to reshape their traditions into a Christian mould while they are doing so. American identity politics seems to force each minority community to assert itself as a separate 'church' with its own distinct religious or ethnic identity. Only in this way do western societies allow the local Hindu communities to strive for recognition and protection.
 
@@ -61,7 +61,7 @@ The answer is obvious: by shaping the energy, the vehemence and the intellectual
 
 Naturally, things do not happen in a planned way like this. There is no WASP conspiracy against the NRI-community and its self-assertion. The problem lies at the level of the very structure of American society. Its identity politics has defused any threatening cultural alternative in the past. To borrow one of Rajeev Malhotra's ploys: at first, the Irish Catholics were not regarded as 'whites' by the WASP-community. After a struggle in which the Irish were gradually forced to form a Protestant church with Catholic overtones, they were accepted as a proper white community. Next, the same thing happened to the Jews. Later other communities followed. Now, it is the turn of the Hindus. Their cultural identity will be accepted and recognized once it takes a recognizable, non-threatening form, once it ceases being a true alternative to the dominant WASP-culture. This is the task assigned to the Vedic foundations and the Rajeev Malhotra's in today's America. This explains why, for instance, they find support among the conservatives in the California board: these conservatives recognize and acknowledge the fact that the American Hindus are the next community to aspire the proper 'ethnic community' and 'religious identity' status in American society.
 
-**V**
+## V
 
 To conclude, the NRI-community stands at historical crossroads today: (a) It can become 'white' like the Irish, the Jews and other communities have before. This implies it will make its own culture into the next ghetto within the western culture. It will then transform the Hindu traditions into a Hindu-Protestant church with its own sacrosanct teachings and inviolable sensitivities. The tragic consequence is that the NRI foundations become more harmful to the Hindu traditions than the Witzels, the Donigers and the Southern Baptist missionaries of this world. (b) Or it can reflect upon the nature of Indian culture and its traditions and the capacity these have to offer fruitful alternatives to the western culture and its ways of being. Then, it cannot but look for a new way of understanding the Hindu traditions, which goes far beyond the second-hand Christianity of the nineteenth-century Hindu reformers.
 

@@ -23,7 +23,7 @@ Neither conceptually nor historically has satisfactory evidence been provided fo
 
 The question is far too important, however, to leave the argument unexamined. If one can *demonstrate* that the secular state gave rise to the Hindu right in India, then our understanding of  the  relation  between  secularism and  fundamentalism  may be due for revision.  Some  evidence  is  available for  such  a  link. It  has  been  argued that Hindu nationalists appropriated the colonial state’s view of the Hindu traditions as a unified religion and its notion of Indian history as a struggle between Hinduism and Islam[6].  Our question is: what has been the historical relation between the secular state and religious fundamentalism in India?
 
-**I**
+## I
 
 The problem of Hindu fundamentalism is different than it is in Christianity or Islam. Before the nineteenth century, militant traditions existed within the Hindu fold[7], but these did not aspire to found Indian society on a set of Hindu doctrines or principles. Moreover, no text, teaching, or body of law was considered central to all Hindu traditions. While it has been argued that the notion of a monolithic Hindu religion itself is a colonial construction[8],  this has been challenged by other scholars[9].
 
@@ -45,7 +45,7 @@ A  historical  explanation  of  Hindu  fundamentalism  needs to account  
 
 We will outline the genesis of Hindu fundamentalism in terms of four historical and conceptual  moments.  The  first  is  a  moment  of  radical  transformation:  the attempt  to transform the Hindu traditions and their variety of practices, attitudes and stories into a set of scripturally sanctioned doctrines. We argue that the colonial state and its principles of toleration and neutrality were the forces behind this transformation. The second moment involves  the responses  of Indian public intellectuals:  there we see an altered pattern of agreement  and  dissent  emerge.  The  third  moment  conceptually  traces  the  resultant distortions when this pattern took root in the Indian public life. In the fourth moment, we suggest that a normative disjunction occurred in the Indian social life that narrowed the options open to the Indian society and state.
 
-**II**
+## II
 
 The first moment has its focus in the policy decisions that had to be made when the East India Company became a governing power in Bengal. What should be the stance of the colonial state towards native beliefs and practices? In 1793, it was decided that the laws of the Koran and the “*Shaster*” would be preserved in civil and religious usages[27]. Time and again, colonial officials stated “that it is a fundamental principle of the British government, to allow the most complete  toleration  in matters of religion, to all classes of its native subjects.”[28] In this sense, British colonialism established a liberal state in India, which repeatedly reaffirmed “its ancient policy of perfect neutrality in matters affecting the religion of the people of India.”[29]
 
@@ -61,7 +61,7 @@ The debate on the toleration of *sati* or widow-burning revolved around the same
 
 This policy of the colonial state introduced the tendency to found practices in scriptures and doctrines. It involved almost a coercive mechanism to this effect. Indians were informed by the government that their practices would be allowed, if they could prove that these had doctrinal foundations.  Hence, not only the *pundits* in the courts but also Hindus  in society  set out on a mission  to find scriptural  sanctions  for any number  of practices. This turned into a systematic strategy to defend the validity of ancestral traditions.
 
-**III**
+## III
 
 How to make sense of the colonial policy of religious toleration? One approach would be to attribute certain motives to the British: e.g., to avoid rebellion, they wanted to appease the native religious inclinations. However, colonial toleration was a macro-policy, a cooperative result of the activities of multiple agents. One cannot impute intentions and multiple contradictory motives to account for such a macro-policy, as though it expressed the beliefs of  individual  agents.  Moreover,  a  series  of  different  “motives”  for  toleration  can  be discerned  in  colonial  writings:  from  a  prudential  fear  of  alienating  native  subjects  to principles of religious liberty. This generates a thorny question: which of these was the “true intention” or “real motive” for the toleration policy?
 
@@ -85,7 +85,7 @@ The  cognitive  framework  of  the  colonial  state  construed  Hindu  
 
 However, in the case of traditions that do not look at ancestral practices as embodiments of doctrines, the resulting policy generated a mechanism that *compelled* these traditions  to  refashion  themselves  according  to  this  model:  the  Indian  subjects  quickly learned that they needed to give evidence of scriptural foundations to continue practicing their traditions under colonial rule. This is how Hindu fundamentalism first manifested itself: as a child born from the liberal policies of the colonial state. The moment of transformation occurred because the colonial state operated within a theological framework that approached *all traditions as variations on the biblical model of religion*.
 
-**IV**
+## IV
 
 This  transformation  altered  the  pattern  of  dissent  and  agreement  within  the  Hindu traditions. The impact of this second moment is perhaps clearest in the writings of Raja Rammohun Roy and his opponents. A rich Brahmin with a Persian and Arabic education, Roy is still glorified as the father of the modern Indian Renaissance[41]. In fact, we suggest that he took crucial conceptual steps towards the creation of Hindu fundamentalism. Wholeheartedly, he accepted the view that traditional practices ought to be founded on holy scriptures: “The validity of theological controversy, chiefly depends upon Scriptural authority.”[42]
 
@@ -125,7 +125,7 @@ Such moves also gave rise to opposition from traditional Hindus, but again the l
 
 Similar reform movements, such as the *Prarthana Samaj* in Bombay, were started in other parts of the subcontinent, with analogous social effects. From this moment of dissemination grew a generation of intellectuals and politicians in India. Mahadev G. Ranade, Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal and many others had all been involved  in,  or  opposed  to,  these  movements  at  some  point.  All  of  them  would  play significant roles in the development of Hindu nationalism[64].
 
-**V**
+## V
 
 We shall now jump to the twentieth century, since the next two moments are conceptual rather than historical in nature. The first is the moment of distortion. On the one hand, Hindu nationalists adopted the liberal framework and language of the colonial state, but distorted its meaning. On the other, the appropriation of this framework began to distort the experience and self-understanding of the Indian traditions.
 
@@ -153,7 +153,7 @@ This assessment reflected the old belief that political authority should interfe
 
 This suited the program of Hindu fundamentalism, which was fed by colonial liberalism in yet another way. Its proponents began to defend religious liberty as a right to engage in traditional practices, even where this provoked violence. This firebrand advocacy of religious freedom intensified Hindu-Muslim  conflicts, rather than preventing them. It became worse when the principle began to refer to “Hindu rights” as the supposed interests of a community. The colonial legal system inspired, if not compelled, its subjects to adopt its language. In the process, Hindu fundamentalism distorted the concepts to fit in with the sensitivities it intended to cultivate among the population.
 
-**VI**
+## VI
 
 Neutrality, toleration and religious liberty were seen as the norms that ought to direct state policies  regarding  the  religious  realm.  They  constituted  the  *normative  f*ramework  of  the colonial state which shaped its perception of Indian society. From this perspective, each factual situation was understood as a deficiency vis-à-vis the liberal framework and its principles. This is the *moment of normative disjunction*, which reduced the options open to the Indian state and society: either liberal secularism or its normative negation, religious fundamentalism.
 
@@ -177,7 +177,7 @@ As the title of another speech said, the alternatives were either “Toleration 
 
 The Nehruvian secularism of post-Independence  India reproduced the normative disjunction introduced by the colonial state. Civilization was equated to “the liberal secular state.” All opposition was conceived as “religious fundamentalism.” This framework allowed for only one form of opposition, namely, the normative negation of itself: the pursuit of a Hindu nation-state founded in principles of *Hindutva*. The clash between liberal secularism and Hindu fundamentalism in India, then, is a grand colonial struggle. It is a confrontation between a normative framework and the mirror image it has produced.
 
-**VII**
+## VII
 
 In  conclusion,  we  can  return  to  our  original  questions:  What  explains  the  *Hindutva* movement’s quixotic pursuit of a set of beliefs common to all Hindus, upon which it desires to found Indian society? Why do modern Hindus perceive Islam and Christianity as rival religions, incompatible with Hindu doctrines, when this experience was more or less absent before the eighteenth century?
 

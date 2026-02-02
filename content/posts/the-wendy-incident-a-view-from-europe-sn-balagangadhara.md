@@ -36,14 +36,21 @@ This implicit stance (that cannot be effaced by any number of explicit pronounce
 **windwheel** — 2014-03-13 19:44:00
 
 Dear old Wendy! She was such a comfort to me in my adolescence. Indeed, many 'Convent School' Indians of my class and background found people like her, and- of course,  A.K Ramanujan- just what the Doctor ordered to counter our feeling of inferiority towards those of our cousins who attended Ramakrishna Mission Schools and Vernacular Medium Colleges and who scored higher than us in Maths and could compose verse in Sanskrit and- most humiliating of all- wrote English more grammatically, if not idiomatically, than we did.
+
 Wendy and Pollock showed us that all our sacred texts and commentaries and kavyas and itihasasas and manipravalay or Riti type mannerist poetry was the work of really stupid and primitive people who believed in magic and were frightened of women and the polluting touch of the working class. Witzel went one step further and tried to appear a bit of an intellectual by dragging in some psuedo-Scientism about 'primitive minds' and 'highly correlated systems' and (more recently) Gondwanan myths and so forth. 
+
 Sadly, sometime in the early Nineties, we 'Convent School' types woke up to the fact that our provincial cousins were doing better than us in America. Indeed, they were becoming Techie billionaires while the most we could aspire to was a, Gurcharan Das type, genteel fading into Post Retirement garrulity.
+
 We had two choices. Either understand that all literary culture, at all times, is intimately connected with the Mechanism Design and Statistical Decision Theory problematics of the period- and thus preserves a 'trace' of Open Problems in Maths- or else just pretend that our Provincial cousins were secretly V.H.P or Jamaati or whatever.
+
 Since Maths is hard to do and even harder to apply, being an English speaker, wrt to India, inevitably meant assuming Indians have always been and will always be stupid and primitive.
+
 Whether it is Ghalib or Kabir, both the Indian Professor and the American M.F.A poetaster, will always ascribe to them the stupidest and most primitive message.
 
 
 I suppose, Nineteenth Century historicist hermeneutics had the Rousseauian, or Romantic, excuse that it valorized as 'natural' that which it identified as primitive. However, Colonial Anthropology- which Freud drew on for his theory of Religion- minced no memes in equating the primitive with the bestial. 
+
 The corollary was obvious. Indians were incapable of judging their own Culture or Religion. True, as sedulous apes, they might be able to carry forward a non-Indian Indological Research program; indeed, they might even be permitted to enter the durbar of the new Conqueror, but they certainly can't be permitted darshan of Seeta Devi's face. 
+
 Why? Seeta Devi actually represents some abstract Liberalism which cashes out as 'regime change' which aboriginal monkeys can't grasp and whose visage they mustn't be permitted to glimpse- lest they cry out against the foulness of it.
 

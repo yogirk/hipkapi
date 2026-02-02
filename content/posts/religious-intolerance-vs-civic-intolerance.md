@@ -60,5 +60,6 @@ The Protestant-Roman Catholic disputes were essentially political in nature. If 
 > one is intolerant precisely because one believes.
 
 I haven't read your book (first time here), but I will read it to see how you back this up.
+
 I don't have particularly developed views on this, but what I feel is intolerance (persecution?) has a political aspect, in societies where the religion moved on, civic society filled its place. Islam is a late entrant in such spaces and it is not unexpected of them to not fit in, and that's how they coexist peacefully.
 

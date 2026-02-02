@@ -8,7 +8,7 @@ categories:
 - Balagangadhara
 - real
 tags: []
-toc: false
+toc: true
 aliases:
   - /2020/04/28/examples-of-real-vs-existence/
 ---
@@ -35,13 +35,13 @@ There are partial and ad hoc attempts to understand this distinction: ‘phenome
 
 Further reflections and investigations are needed to understand the distinction between ‘real’ and ‘existence’. But the distinction is not unknown or queer or nonsensical or rubbish, prima facie. The natural language examples do not accomplish more than noticing this fact. Further research might even show that this ordinary language distinction is mistaken or wrong.
 
-**II**
+## II
 
 Natural languages are a source of confusion between Real and Existence. But then, they are also our sources of access. We also ask ‘does it really exist?’; ‘is it real?’ (as in ‘Is it a mirage or is it real?’); ‘come on, get real’, etc. They indicate that ‘existence’ does not intersect ‘real’ and that they are disjoint sets. Why I do *not* want to use Sanskrit words (so as to avoid confusion) is that this sense of the difference between ‘real’ and ‘existence’ is also present in English and that the Biblical God raises the distinction as a confusion continuously: ‘God is both immanent and transcendent’ is another way is saying that God (and God alone) is both Real and Exists. (That is, other objects are unreal but merely exist.) Thus, no, you do not need to reform yourself; the world has to!
 
  The confusion that this Biblical God (or our ways of talking about Him) is located here: God is both Real (Transcendent) and Exists (immanent). Now, they also add, “these are ontologically different from each other” or that “they are of different ontological kinds”. The one is the Creator and the other is its ‘creature’ and thus there is an ontological gulf between the two. The problem is: ontology is (and can ONLY be) about what exists in the world. Thus, when one distinguishes between God as the creator and the World as His creature “ontically”, one gets crucified: God becomes an existent (thus His immanence), when He is the Real (thus His Transcendence). He ‘is’ Outside Time and Space but because He ‘is’, He is forced or compelled into existence in the World. The lesson? The distinction between ‘the real’ and ‘existence’ is NOT an ontological (or an ontic) distinction; they are not different in Kind (ie., they do not have different kinds of existence). This, at least, is a lesson from our traditions.
 
-**III**
+## III
 
 If one says Atman is “the only thing” that exists, one’s dispute with me is about the use of a word alone. Nuclear bombs, gravitational waves, trees, Humans… etc. possess properties that Atman does not and the other way round. If all these objects “exist” because of these properties (or have “existence” as a property) their existence establishes the non-existence of Atman. If, on the other hand, one wants to reserve the word ‘existence’ to Atman then all these objects do not and cannot exist. In that case one better quickly give another word because, without it, one is forced to say: “Non-existent nuclear bombs CAUSE Non-existent damages in the non-existent world” and so on.
 
