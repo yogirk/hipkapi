@@ -1,0 +1,6 @@
+{{- $url := .Destination -}}
+{{- if hasPrefix $url "/" -}}
+{{- $base := strings.TrimSuffix "/" (site.BaseURL | urls.Parse).Path -}}
+{{- $url = printf "%s%s" $base $url -}}
+{{- end -}}
+<a href="{{ $url }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
