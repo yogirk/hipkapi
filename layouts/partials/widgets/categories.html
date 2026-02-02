@@ -6,7 +6,7 @@
   {{ $total := len $all }}
   <ul class="categories-list">
     {{ range $i, $t := $all }}
-    <li{{ if ge $i $limit }} class="categories-hidden" hidden{{ end }}><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a><span class="widget-count">{{ .Count }}</span></li>
+    <li{{ if ge $i $limit }} class="categories-hidden"{{ end }}><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a><span class="widget-count">{{ .Count }}</span></li>
     {{ end }}
   </ul>
   {{ if gt $total $limit }}
@@ -19,13 +19,17 @@
       var expanded = this.getAttribute('aria-expanded') === 'true';
       this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
       this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
-      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
-        el.hidden = !el.hidden;
-      });
+      this.closest('.widget-categories').classList.toggle('categories-expanded');
     });
   })();
   </script>
   <style>
+  .widget-categories .categories-hidden {
+    display: none !important;
+  }
+  .widget-categories.categories-expanded .categories-hidden {
+    display: flex !important;
+  }
   .categories-toggle {
     display: inline-block;
     margin-top: var(--space-s, 0.5rem);
