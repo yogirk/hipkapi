@@ -3,3 +3,4 @@ wordpress/
 .DS_Store
 docs/
 public/
+static/pagefind/

@@ -39,13 +39,21 @@ git submodule update --init --recursive
 
 ## Local Development
 
-Start the Hugo development server:
+Start the development server with search support:
+
+```bash
+./dev.sh
+```
+
+This builds the Hugo site, generates the Pagefind search index, copies it to `static/` (so `hugo server` can serve it), and starts the dev server. The site will be available at `http://localhost:1313/hipkapi/`.
+
+To start without search (faster, skips Pagefind):
 
 ```bash
 hugo server -D
 ```
 
-The site will be available at `http://localhost:1313/hipkapi/`. The `-D` flag includes draft posts.
+> **Why the extra step?** `hugo server` serves the site from memory and only serves static files from the `static/` directory — it doesn't use `public/`. Since Pagefind generates its index into `public/pagefind/`, the index must be copied to `static/pagefind/` for search to work during local development. The `dev.sh` script handles this automatically. In production, the CI/CD pipeline builds everything into `public/` directly, so this isn't needed.
 
 ## Building
 
