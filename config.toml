@@ -101,7 +101,7 @@ summaryLength = 70
 
   [params.sidebar]
     # Where to place the widget sidebar. Options: "left", "right", "bottom", "off". Default: "right"
-    globalPosition = "right"
+    globalPosition = "left"
     # Which widgets to show, in order. Available: "recent", "categories", "tags". Default: ["recent", "categories", "tags"]
     widgets = ["recent", "categories", "tags"]
     # Number of posts in the Recent Posts widget. Default: 5
