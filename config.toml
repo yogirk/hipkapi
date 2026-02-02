@@ -106,6 +106,8 @@ summaryLength = 70
     widgets = ["recent", "categories", "tags"]
     # Number of posts in the Recent Posts widget. Default: 5
     recentCount = 5
+    # Number of categories shown before "Show all" toggle. Default: 15
+    categoriesCount = 15
 
 # ---- Post Lists ----
 
