@@ -7,8 +7,8 @@ languageCode = "en-us"
 title = "All Roads Lead to Jerusalem"
 theme = "explore"
 
-# Where Hugo writes the generated site. Change to "public" if not using GitHub Pages.
-publishDir = "docs"
+# Where Hugo writes the generated site.
+publishDir = "public"
 
 # Default length of generated summaries (in words).
 summaryLength = 70

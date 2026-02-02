@@ -1,3 +1,5 @@
 wordpress/
 .venv/
 .DS_Store
+docs/
+public/
