@@ -7,7 +7,7 @@ author: hipkapi
 categories: []
 tags: []
 summary: ''
-toc: true
+toc: false
 ---
 
 This site hosts a collection of posts and articles (both publish and unpublished) about many things related to India, her culture and her traditions.

@@ -7,7 +7,7 @@ author: hipkapi
 categories: []
 tags: []
 summary: ''
-toc: true
+toc: false
 ---
 
 1. ["We shall not cease from exploration ..."](https://sites.google.com/site/colonialconsciousness/We_Shall_Not_Cease_from_Exploration.pdf)

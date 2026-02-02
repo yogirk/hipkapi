@@ -7,7 +7,7 @@ author: hipkapi
 categories: []
 tags: []
 summary: ''
-toc: true
+toc: false
 ---
 
 ![](https://demosites.io/otter/wp-content/uploads/sites/664/2022/09/placeholder-img-21-1.png)

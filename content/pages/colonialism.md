@@ -7,7 +7,7 @@ author: hipkapi
 categories: []
 tags: []
 summary: ''
-toc: true
+toc: false
 ---
 
 1. [Do we understand colonialism?](/posts/do-we-understand-colonialism/)

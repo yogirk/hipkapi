@@ -149,12 +149,37 @@ summaryLength = 70
     url = "/pages/about/"
     weight = 20
   [[menu.main]]
+    identifier = "sitemap"
+    name = "Sitemap"
+    url = "/pages/sitemap/"
+    weight = 30
+  [[menu.main]]
+    identifier = "indic-categories"
+    name = "Indic Categories"
+    url = "/pages/indic-categories/"
+    weight = 40
+  [[menu.main]]
+    identifier = "colonialism"
+    name = "Colonialism"
+    url = "/pages/colonialism/"
+    weight = 50
+  [[menu.main]]
+    identifier = "secularism"
+    name = "Secularism"
+    url = "/pages/secularism/"
+    weight = 60
+  [[menu.main]]
+    identifier = "books"
+    name = "Books"
+    url = "/pages/books/"
+    weight = 70
+  [[menu.main]]
     identifier = "videos"
     name = "Videos"
     url = "/pages/video/"
-    weight = 30
+    weight = 80
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/pages/contact/"
-    weight = 40
+    weight = 90

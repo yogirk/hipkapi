@@ -7,7 +7,7 @@ author: hipkapi
 categories: []
 tags: []
 summary: ''
-toc: true
+toc: false
 ---
 
 1. [Europe, India and the limits of Secularim](http://www.bookfinder.com/search/?keywords=0199460973&new=&used=&ebooks=&classic=&lang=en&st=sh&ac=qr) (OUP, 2015), by Jakob de Roover
