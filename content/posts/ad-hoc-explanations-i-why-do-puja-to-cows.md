@@ -24,7 +24,7 @@ toc: true
 
 5. Having a reason or rationale for a practice (say like doing puja to cows) merely shows that there is a reason or rationale for some action or another. But, without adding other assumptions, it does not explain (see the point in 2) either the practice or its continuation. In fact, it does not even justify the practice, unless you say that some action is justified if and only if some reason or rationale can be given to justify it.
 
-For more on 'sacred' cows, check this: [Beef Bans, Beef Parties, and Sacred Cows](/posts/beef-bans-beef-parties-and-sacred-cows/)
+For more on 'sacred' cows, check this: [Beef Bans, Beef Parties, and Sacred Cows](/posts/why-hindus-do-not-eat-beef/)
 
 
 ---

@@ -19,7 +19,7 @@ If you are new to this site, start with these posts. Majority of these posts are
   5. [Comparing India and the West](/posts/comparing-india-and-the-west-s-n-balagangadhara/)
   6. [Why social sciences are not producing knowledge?](/posts/why-social-sciences-are-not-providing-knowledge-including-the-likes-of-wendy-doniger-and-her-children/)
   7. [Negative portrayals of non-Western cultures: secularization of Christianity](/posts/negative-portrayals-of-non-western-cultures-like-indian-secularization-of-christianity-s-n-balagangadhara/)
-  8. [Reductive explanations in social sciences](/posts/reductive-explanations-in-social-sciences-s-n-balagangadhara/)
+  8. [Reductive explanations in social sciences](/posts/reductive-explanations-in-social-sciences-s-n-balagangadh/)
   9. [Why Westology a la Indology is doomed to fail?](/posts/why-westology-ala-indology-doomed-to-fail-s-n-balagangadhara/)
   10. [The dynamic of religion: secularization and proselytization](/posts/the-dynamic-of-religion-secularization-and-proselytization/)
   11. [India and her traditions: a reply to Jeffrey Kripal](/posts/india-and-her-traditions-a-reply-to-jeffrey-kripal-s-n-balagangadhara/)

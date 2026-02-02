@@ -25,4 +25,4 @@ For more, check these articles:
 
 [What do Indians need: history or past?](/posts/what-do-indians-need-a-history-or-the-past-s-n-balagangadhara/)
 
-[Itihasa vs. History](/posts/itihasa-vs-history-para-happiness/)
+[Itihasa vs. History](/posts/blind-men-and-an-elephant-historicity-of-rama/)
