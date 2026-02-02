@@ -26,7 +26,7 @@ summaryLength = 70
   writeStats = true
 
 [pagination]
-  pagerSize = 5
+  pagerSize = 20
 
 # ============================================================
 # Related Content
@@ -60,11 +60,11 @@ summaryLength = 70
   # Author name shown in post meta and SEO tags.
   author = "Rain Doctor"
   # Site-wide meta description for SEO.
-  description = "A minimal, text-heavy theme for Hugo."
+  description = "Decolonizing social sciences — posts and articles about India, her culture and traditions."
   # Path to logo image in the static/ folder. Leave empty to show the site title as text.
   logo = "images/logo-v2.svg"
   # Short tagline displayed under the site title/logo in the header.
-  tagline = "A minimal, text-heavy theme for Hugo"
+  tagline = "Decolonizing social sciences"
   # Date format used across all templates (Go reference time layout).
   # dateFormat = "Jan 2, 2006"
   # Which content sections appear on the homepage. Default: ["posts"]
@@ -149,7 +149,12 @@ summaryLength = 70
     url = "/pages/about/"
     weight = 20
   [[menu.main]]
+    identifier = "videos"
+    name = "Videos"
+    url = "/pages/video/"
+    weight = 30
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/pages/contact/"
-    weight = 30
+    weight = 40

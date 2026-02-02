@@ -1,0 +1,26 @@
+---
+title: 'Victorian morality of NRI and middle class Hindus: Prostitution, Adultery'
+date: '2011-03-23T05:53:52+05:30'
+draft: false
+description: ''
+author: hipkapi
+categories:
+- Balagangadhara
+- colonial consciousness
+- normative
+- NRI
+- symbolism
+tags: []
+summary: ''
+toc: true
+---
+
+1.1. The Indian traditions did not have the same attitude as Christianity towards prostitution or adultery. And the Indians of yesteryears were not defenders of the Victorian (and Christian) morality. Of course, I approvingly said that the "Indians are not prudes" but this approval has to do with the thrust of Indian thought, as I have understood it: the impossibility of prohibiting or making obligatory some or another action universally. (This is my formulation, of course.) I do believe that the Indians recognized the impossibility of abolishing prostitution (which is why it is called "the oldest profession"). Instead, therefore, of banning and condemning prostitution (and subsequently turn a blind eye towards its existence), Indian thinkers suggested that we treat the prostitutes humanely. I have never been to a prostitute nor will I ever go to one; but that does not mean that I want to ignore their existence and treat them as non-humans. Nor am I willing to call all those who visit prostitutes as criminals and perverts. I know of too many lonely men and women who have found human warmth and personal comfort in the arms and companionship of prostitutes to consider them as perverts.
+
+How about adultery? Again, in so far as my citation of Kamasutra can be construed to mean approval, I do believe that the Indian intellectuals had the right attitude towards this phenomenon as well. Today, evolutionary biology has provided us with ample evidence and arguments to show that adultery is a phenomenon that occurs very frequently in nature. (Coincidentally, The New York Times of 18th March 2008 carries an article, in its 'Science' section titled "In Most Species, Faithfulness is a Fantasy", which is about adultery.) Indians thinkers probably believed that adultery was also frequent in human communities. Instead of fulminating against it from the pulpit, which does not in any way solve the problem, Indians tried to devise ways and means to steer it into more controllable paths. I consider this attitude to be more humane than simply making normative pronouncements about it.
+
+1.2.  In this sense, I do and did approve the attitude of Indian thinkers of yesteryears towards both prostitution and adultery. I consider such an attitude both laudable and humane. From such an approval, does any advice follow? Yes, treat them both humanely. I do not recommend to my daughter that she chooses prostitution as her career just because I tell her to treat prostitutes humanely, do I? By advising my sons to treat murderers humanely, I do not tell them to become murderers, do I? I do not believe that the kids were 'confused' about these issues at all. In that case, why did they raise the questions they apparently raised and acted as though they were confused?
+
+2.  I fail to appreciate the way the Indians regurgitate Victorian, Christian prudishness and become sanctimonious at the faintest whiff of anything to the contrary. Selling an ironed-out, bi-dimensional, puritanical, neo-Vedantic strain of 'Hinduism' to these kids is to do them incalculable harm. It is this attitude which makes them feel embarrassed about being 'Hindus' when they confront the full-blooded Indian traditions. Surely, our devas are adulterous, are they not? Our Apsaras, what are they except prostitutes in the court of Indra? How will one ever explain what a Menaka has done with multiple Rishis, or even why some of the Devatas send Apsaras to distract the tapas of these rishis? What kind of a 'symbolic' explanation will one give for Krishna having a rasalila or rathikreede with 16,000 women? What will one do with the puranic story, which tells us why Shiva is worshipped in the form of a Linga, or why there are hardly any temples of Brahma? What do you do with Draupadi or with the fact that Bhima, Arjuna, etc. not only married many other women but also made children with these women? How will one even explain one of the purusharthas, namely Kama, which is accepted as one of the legitimate goals of human strivings? What will these kids do, when the western intellectuals mock the anti-septic 'Hinduism' they are being taught and come up with stories from our own traditions which say all the above and more?
+
+3.  No matter whether I agree with everything I have been taught and learnt about our culture, I am not ashamed of belonging to the Indian traditions. On the contrary. The more I learn about how the Indian intellectuals have thought about issues like sex, adultery, incest and prostitution, the more my admiration for my traditions grows. I consider their ways of thinking about these issues far, far superior to what either Christianity has said or even what the western ethical theories have done so far. Because of this, I am not worried about talking about these issues openly, whether it is with teenagers or with the older folk. Some people might get shocked; but this did not prevent our traditions from thinking and discussing such issues. Neither will I.

@@ -1,8 +1,45 @@
 ---
-title: "Contact Us"
-date: 2025-08-01T11:05:00+05:30
+title: Contact
+date: '2013-05-01T03:08:10+05:30'
 draft: false
-description: "Get in touch with us."
+description: ''
+author: hipkapi
+categories: []
+tags: []
+summary: ''
+toc: true
 ---
 
-This is the contact page. I don't know if you wish you be contacted. I myself don't. If you do, add your details here. Be mindful of spammers. 
+1. Please direct your comments to raindoctor@gmail.com
+2. This website contains articles of many kinds: published papers; ideas that are yet to be developed in a form of theory; posts that help to clarify/understand the research program "Comparative Science of Cultures".
+3. If you have questions, post it here: <https://groups.io/g/TheHeathenInHisBlindness>
+
+
+---
+
+## Comments
+
+**Guest** — 2013-07-22 19:40:00
+
+Dear Doc White Cloud, 
+
+Thank you for this site. FYI, "Categories" has Nietzsche spelled as Neitsche. 
+
+Kind regards, 
+
+electric monk
+
+**Electric monk** — 2013-07-22 19:41:00
+
+Dear Doc White Cloud, 
+
+Thank you for this site. FYI, "Categories" has Nietzsche spelled as Neitzsche. 
+
+Kind regards, 
+
+electric monk
+
+> **DocWhiteCloud** — 2013-07-23 22:30:00
+> 
+> Corrected, thanks.
+

@@ -1,0 +1,16 @@
+---
+title: 'Secularized Christian Theme: Moral Certainty and Proof Beyond a Reasonable Doubt'
+date: '2011-03-03T23:58:27+05:30'
+draft: false
+description: ''
+author: hipkapi
+categories:
+- Balagangadhara
+- conscience
+- secularization
+tags: []
+summary: ''
+toc: true
+---
+
+Larry Laudan's ["How Reasonable is 'Proof Beyond a Reasonable Doubt'?"](https://www.academia.edu/805698/Is_Reasonable_Doubt_Reasonable) (published in the journal Legal Theory), shows how the principle of proof beyond a reasonable doubt is utterly unreasonable when one analyzes it in terms of  epistemological standards. Laudan's argument is convincing. The problem is it makes all these judges and lawyers look like *fools*. Balu was not satisfied by Laudan's pragmatic justification of proof  beyond a reasonable doubt (of 10 accused, the principle will lead to 9 being legitimately convicted and 1 innocent fellow going to the gallows). Interestingly, the advocacy of this legal principle often invokes a notion of 'moral certainty'. It is as though when a group of 12 (?) jury members and a judge unanimously come to the decision that there is proof beyond a reasonable doubt, then the individual at the other end must be guilty of whatever he or she is accused of. Now, this attitude, Balu suggests, reflects the notion of conscience in the Christian religion. According to the theology of conscience, God has inscribed His Law for humanity in all human creatures. A few definitions can show what conscience means to Christians: "The conscience of man…Is a man's judgement of himselfe, according to the judgement of God of him." Or: "Conscience is that Power, or Faculty of the Mind, which judges of our Actions according to a right Rule, whether they be agreeable to it or not." This rule is God's Will. Conscience is called "that universal Monarch, whose Ubiquitary Throne is establish'd in every mortal Breast." A Quaker writes that conscience is "an Ability in the Understanding of man, by a reflective act to judge of himself in all he does, as to his acceptance or rejection with God" and he adds that "this is the inward Rule he hath to walk by." Before the fall, Adam had been perfectly good and even after the fall, humankind retained the knowledge of the perfectly good in contrast with evil. This perfect knowledge allowed man to distinguish "between Good and Evil," and worked as "a constant witness to God in his soul, and by secret reference to what he was at firrst, tells him what he still ought to be." The left-over of God's Will in us after the Fall is what we still call conscience. In other words, conscience tells us how we ought to act according to God's Will and judges every act of ours in relation to this norm. Given the belief that each individual conscience still reflects the Will of God to some extent (unless it is completely corrupted, but this the selection of jury members is supposed to prevent), the origin of the notions of moral certainty and proof beyond a reasonable doubt becomes clear. When so many good Christians agree on the guilt of the accused, it must be God's Will speaking through their consciences. It is sickening to see how law's reproduction of secularized Christian attitudes towards morality leads to the upholding of a silly principle in the American courts (and to the conviction of innocents).
