@@ -488,7 +488,36 @@ Site under maintenance
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>
