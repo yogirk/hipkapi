@@ -78,7 +78,7 @@ summaryLength = 70
     # Show the search icon in the navigation bar. Default: true
     showSearch = true
     # Search engine to use. Options: "fuse" (client-side), "pagefind" (static). Default: "fuse"
-    searchEngine = "fuse"
+    searchEngine = "pagefind"
 
 # ---- Visual Style ----
 

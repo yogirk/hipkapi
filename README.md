@@ -15,7 +15,7 @@ The site contains 360+ articles organized across topics including colonial consc
 - **Static site generator:** [Hugo](https://gohugo.io/) (extended, v0.154.1)
 - **Theme:** [Explore](https://github.com/yogirk/explore) (included as a git submodule)
 - **Hosting:** GitHub Pages via GitHub Actions
-- **Search:** Client-side fuzzy search powered by [Fuse.js](https://www.fusejs.io/)
+- **Search:** Static search powered by [Pagefind](https://pagefind.app/)
 
 ## Prerequisites
 
@@ -53,9 +53,10 @@ Generate the production site:
 
 ```bash
 hugo --gc --minify
+npx pagefind --site public
 ```
 
-Output is written to `public/`.
+The first command builds the Hugo site into `public/`. The second generates the Pagefind search index inside `public/pagefind/`.
 
 ## Deployment
 
@@ -64,7 +65,8 @@ The site deploys automatically to GitHub Pages when changes are pushed to the `m
 1. Installing Hugo Extended
 2. Checking out the theme submodule
 3. Building with `--gc --minify`
-4. Deploying to GitHub Pages
+4. Generating the Pagefind search index
+5. Deploying to GitHub Pages
 
 No manual deployment steps are needed.
 
@@ -86,6 +88,8 @@ This generates a post from the archetype template with front matter for title, d
 │   ├── pages/           # Static pages (About, Books, Contact, etc.)
 │   └── search/          # Search page
 ├── layouts/             # Custom layout overrides
+│   ├── _default/baseof  # Adds data-pagefind-body to <main>
+│   ├── _default/single  # Justified text alignment
 │   ├── _default/_markup # Custom link rendering
 │   └── partials/widgets # Custom sidebar widgets
 ├── static/              # Static assets (logo, uploads)
@@ -102,6 +106,15 @@ Site configuration lives in `config.toml`. Key settings include:
 - **Related content** matching on tags (weight 100), categories (weight 80), and date (weight 10)
 - **Typography:** Google Sans Flex body font, 75ch content width, justified text
 - **Dark mode** with automatic detection
+
+### Layout Overrides
+
+The following files in `layouts/` override the theme's defaults:
+
+- **`_default/baseof.html`** — Adds `data-pagefind-body` to the `<main>` element so Pagefind only indexes page content (excluding header, footer, and navigation). If the theme's `baseof.html` changes upstream, this override will need to be kept in sync.
+- **`_default/single.html`** — Adds justified text alignment with per-post override (see below).
+- **`_default/_markup/render-link.html`** — Custom link rendering for baseURL subpath handling.
+- **`partials/widgets/categories.html`** — Collapsible categories widget with show/hide toggle.
 
 ### Text Alignment
 
