@@ -8,7 +8,6 @@ categories:
 - bullshit
 - real
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2020/04/28/para-vs-apara/

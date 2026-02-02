@@ -12,7 +12,6 @@ tags:
 - Jeffry Kripal
 - Paul Courtright
 - Wendy Doniger
-summary: ''
 toc: false
 aliases:
   - /2011/02/28/negative-portrayals-of-non-western-cultures-like-indian-secularization-of-christianity-s-n-balagangadhara/

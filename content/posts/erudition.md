@@ -9,7 +9,6 @@ categories:
 - basics
 - erudition
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/10/31/erudition/

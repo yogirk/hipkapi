@@ -9,7 +9,6 @@ categories:
 - Indian traditions
 - real
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2020/05/02/atman-and-experience/

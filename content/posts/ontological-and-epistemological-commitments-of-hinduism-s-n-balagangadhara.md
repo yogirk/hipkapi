@@ -9,7 +9,6 @@ categories:
 - Hinduism
 tags:
 - hipkapi
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/ontological-and-epistemological-commitments-of-hinduism-s-n-balagangadhara/

@@ -11,7 +11,6 @@ categories:
 - supererogation
 - terrorism
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/04/14/the-saint-the-criminal-and-the-terrorist-s-n-balagangadhara/

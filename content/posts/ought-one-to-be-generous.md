@@ -9,7 +9,6 @@ categories:
 - normative
 - supererogation
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/26/ought-one-to-be-generous/

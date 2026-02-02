@@ -9,7 +9,6 @@ categories:
 - basics
 - Christianity
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/03/intentional-operator-and-inconsistent-reasoning/

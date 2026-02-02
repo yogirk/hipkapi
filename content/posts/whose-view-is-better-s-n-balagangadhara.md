@@ -9,7 +9,6 @@ categories:
 - basics
 - criticism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/01/whose-view-is-better-s-n-balagangadhara/

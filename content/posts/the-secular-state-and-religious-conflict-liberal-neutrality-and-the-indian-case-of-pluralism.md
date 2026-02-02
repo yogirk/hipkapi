@@ -11,7 +11,6 @@ categories:
 - secularism
 - tolerance
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2013/03/10/the-secular-state-and-religious-conflict-liberal-neutrality-and-the-indian-case-of-pluralism/

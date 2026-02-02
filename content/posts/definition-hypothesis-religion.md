@@ -9,7 +9,6 @@ categories:
 - Jakob
 - religion
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2014/12/26/definition-hypothesis-religion/

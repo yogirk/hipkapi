@@ -9,7 +9,6 @@ categories:
 - Christianity
 - religion
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/12/21/religion-sui-generis/

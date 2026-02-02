@@ -10,7 +10,6 @@ categories:
 - published
 - transcript
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2022/09/28/narratives-vs-theories/

@@ -14,7 +14,6 @@ categories:
 - published
 - Sulekha
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/03/02/on-colonial-experience-and-the-indian-renaissance-a-prolegomenon-to-a-project-s-n-balagangadhara/

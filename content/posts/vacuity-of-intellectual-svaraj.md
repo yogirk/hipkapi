@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - colonial consciousness
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2014/03/24/vacuity-of-intellectual-svaraj/

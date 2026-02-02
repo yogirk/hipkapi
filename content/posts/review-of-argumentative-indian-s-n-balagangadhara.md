@@ -11,7 +11,6 @@ categories:
 - secular
 - secularization
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/03/05/review-of-argumentative-indian-s-n-balagangadhara/

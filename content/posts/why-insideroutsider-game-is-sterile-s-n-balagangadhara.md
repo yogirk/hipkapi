@@ -9,7 +9,6 @@ categories:
 - puja
 - erudition
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/01/why-insideroutsider-game-is-sterile-s-n-balagangadhara/

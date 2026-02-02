@@ -10,7 +10,6 @@ categories:
 - Jakob
 - secularization
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/03/05/atheism-a-secularized-theism-jakob-de-roover/

@@ -9,7 +9,6 @@ categories:
 - colonial consciousness
 - Jakob
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2013/04/03/colonial-consciousness-m-n-srinivas-and-sanskritization/

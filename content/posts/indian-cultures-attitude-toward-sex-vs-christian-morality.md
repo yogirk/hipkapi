@@ -10,7 +10,6 @@ categories:
 - stories
 - symbolism
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/03/23/indian-cultures-attitude-toward-sex-vs-christian-morality/

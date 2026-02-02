@@ -9,7 +9,6 @@ categories:
 - petitio principii
 - religion
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/could-religion-be-a-neural-disorder/

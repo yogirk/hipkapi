@@ -9,7 +9,6 @@ categories:
 - basics
 - knowledge
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2020/05/22/narrowing-the-search-space-ill-posed-questions/

@@ -10,7 +10,6 @@ categories:
 - concept(category)
 - translation
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/25/colonial-consciousness-and-sanskrit-concepts/

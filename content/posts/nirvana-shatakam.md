@@ -9,7 +9,6 @@ categories:
 - enlightenment
 - Indian traditions
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/01/10/nirvana-shatakam/

@@ -13,7 +13,6 @@ categories:
 - normative
 - published
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/comparative-anthropology-and-moral-domains-an-essay-on-selfless-morality-and-the-moral-self-s-n-balagangadhara/

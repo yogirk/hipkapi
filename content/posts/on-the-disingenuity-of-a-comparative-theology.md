@@ -12,7 +12,6 @@ categories:
 tags:
 - Francis Clooney
 - reduction
-summary: ''
 toc: false
 aliases:
   - /2013/12/23/on-the-disingenuity-of-a-comparative-theology/

@@ -10,7 +10,6 @@ categories:
 - criticism
 - knowledge
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/10/foundationalism-and-virtuous-circularity/

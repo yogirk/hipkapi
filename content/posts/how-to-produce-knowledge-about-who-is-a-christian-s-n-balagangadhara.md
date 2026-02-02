@@ -10,7 +10,6 @@ categories:
 - criticism
 - knowledge
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/04/how-to-produce-knowledge-about-who-is-a-christian-s-n-balagangadhara/

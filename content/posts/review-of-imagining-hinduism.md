@@ -9,7 +9,6 @@ categories:
 - published
 - review
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/02/review-of-imagining-hinduism/

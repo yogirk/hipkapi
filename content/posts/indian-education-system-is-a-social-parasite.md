@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - colonialism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2024/04/28/indian-education-system-is-a-social-parasite/

@@ -9,7 +9,6 @@ categories:
 - basics
 - concept(category)
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/16/fuss-about-indic-categories-ii/

@@ -9,7 +9,6 @@ categories:
 - law
 tags:
 - Derrida
-summary: ''
 toc: false
 aliases:
   - /2015/11/10/an-indian-view-on-derrida-and-post-modernists/

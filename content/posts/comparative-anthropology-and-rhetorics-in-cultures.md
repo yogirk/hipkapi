@@ -9,7 +9,6 @@ categories:
 - Balagangadhara
 - published
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/comparative-anthropology-and-rhetorics-in-cultures/

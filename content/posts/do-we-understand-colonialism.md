@@ -9,7 +9,6 @@ categories:
 - colonial consciousness
 - colonialism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/01/do-we-understand-colonialism/

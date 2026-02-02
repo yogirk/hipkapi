@@ -13,7 +13,6 @@ categories:
 - swarjyamag
 - Islam
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2022/10/26/colonial-consciousness-and-servitude/

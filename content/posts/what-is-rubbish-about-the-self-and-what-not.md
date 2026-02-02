@@ -11,7 +11,6 @@ categories:
 - psychology
 - explication
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/08/27/what-is-rubbish-about-the-self-and-what-not/

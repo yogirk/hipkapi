@@ -9,7 +9,6 @@ categories:
 - basics
 - knowledge
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/01/21/gettier-problem-doxa-and-episteme/

@@ -9,7 +9,6 @@ categories:
 - basics
 - tolerance
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/07/paradox-of-tolerating-intolerance/

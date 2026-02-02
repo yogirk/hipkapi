@@ -9,7 +9,6 @@ categories:
 - real
 tags:
 - Romila Thapar
-summary: ''
 toc: false
 aliases:
   - /2012/04/01/logical-acumen-of-romila-thapar/

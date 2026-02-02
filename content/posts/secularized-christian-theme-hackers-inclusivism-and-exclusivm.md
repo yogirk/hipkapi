@@ -15,7 +15,6 @@ tags:
 - inclusivism
 - Inklusivismus
 - Paul Hacker
-summary: ''
 toc: false
 aliases:
   - /2011/12/12/secularized-christian-theme-hackers-inclusivism-and-exclusivm/

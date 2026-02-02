@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - ignorance
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2022/07/26/agyana-existence-or-absence/

@@ -9,7 +9,6 @@ categories:
 - Jakob
 - secular
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/16/fallacy-of-equivocation-indian-secularism/

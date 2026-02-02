@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - caste
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/01/simulation-of-social-and-cultural-changes-s-n-balagangadhara/

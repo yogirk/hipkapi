@@ -9,7 +9,6 @@ categories:
 - religion
 - explanatorily intelligible
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/26/why-heathens-are-blind-to-religion/

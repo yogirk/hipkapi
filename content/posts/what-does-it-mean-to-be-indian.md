@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - books
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2021/08/31/what-does-it-mean-to-be-indian/

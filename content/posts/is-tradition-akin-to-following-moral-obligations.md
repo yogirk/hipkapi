@@ -11,7 +11,6 @@ categories:
 - practice
 - tradition
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/23/is-tradition-akin-to-following-moral-obligations/

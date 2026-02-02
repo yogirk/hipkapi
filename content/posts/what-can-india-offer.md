@@ -10,7 +10,6 @@ categories:
 - published
 - outlook
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2015/10/01/what-can-india-offer/

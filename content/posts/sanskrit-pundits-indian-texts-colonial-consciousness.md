@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - colonial consciousness
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/01/sanskrit-pundits-indian-texts-colonial-consciousness/

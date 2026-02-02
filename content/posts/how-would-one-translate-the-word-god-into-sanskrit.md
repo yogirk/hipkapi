@@ -11,7 +11,6 @@ categories:
 - translation
 - erudition
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2017/10/01/how-would-one-translate-the-word-god-into-sanskrit/

@@ -12,7 +12,6 @@ categories:
 - secularization
 - social sciences
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/the-future-of-the-present-thinking-through-orientalism-s-n-balagangadhara/

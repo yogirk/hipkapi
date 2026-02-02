@@ -8,7 +8,6 @@ categories:
 - enlightenment
 - real
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2020/05/03/brahman-and-atman/

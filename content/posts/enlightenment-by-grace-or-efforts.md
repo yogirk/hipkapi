@@ -11,7 +11,6 @@ categories:
 - Indian traditions
 tags:
 - Gita
-summary: ''
 toc: false
 aliases:
   - /2018/03/11/enlightenment-by-grace-or-efforts/

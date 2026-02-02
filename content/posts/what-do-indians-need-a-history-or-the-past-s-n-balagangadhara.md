@@ -10,7 +10,6 @@ categories:
 - History
 - stories
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2012/02/16/what-do-indians-need-a-history-or-the-past-s-n-balagangadhara/

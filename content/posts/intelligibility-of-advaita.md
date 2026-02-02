@@ -9,7 +9,6 @@ categories:
 - Indian traditions
 - psychology
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2012/05/21/intelligibility-of-advaita/

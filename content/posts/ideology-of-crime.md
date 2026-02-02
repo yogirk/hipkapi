@@ -9,7 +9,6 @@ categories:
 - supererogation
 - terrorism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/14/ideology-of-crime/

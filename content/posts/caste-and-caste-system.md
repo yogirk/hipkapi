@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - caste
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2012/02/23/caste-and-caste-system/

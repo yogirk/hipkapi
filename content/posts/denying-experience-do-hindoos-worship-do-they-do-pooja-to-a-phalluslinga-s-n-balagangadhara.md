@@ -11,7 +11,6 @@ categories:
 - erudition
 tags:
 - Wendy Doniger
-summary: ''
 toc: false
 aliases:
   - /2011/02/28/denying-experience-do-hindoos-worship-do-they-do-pooja-to-a-phalluslinga-s-n-balagangadhara/

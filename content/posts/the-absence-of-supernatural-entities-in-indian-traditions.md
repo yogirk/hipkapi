@@ -8,7 +8,6 @@ categories:
 - Indian traditions
 - Jakob
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/17/the-absence-of-supernatural-entities-in-indian-traditions/

@@ -10,7 +10,6 @@ categories:
 - God, Satan(Devil)
 - tolerance
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2014/03/25/believers-vs-their-religion/

@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - colonial consciousness
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/23/what-is-the-most-ideal-social-security-system-safety-net/

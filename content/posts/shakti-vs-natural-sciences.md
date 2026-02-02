@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - real
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2020/05/01/shakti-vs-natural-sciences/

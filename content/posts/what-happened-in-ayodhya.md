@@ -9,7 +9,6 @@ categories:
 - published
 - swarjyamag
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2024/04/03/what-happened-in-ayodhya/

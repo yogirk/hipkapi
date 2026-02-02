@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - colonial consciousness
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/26/indian-way-of-westernization/

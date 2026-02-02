@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - secular
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2018/01/19/secular-state-and-hijab/

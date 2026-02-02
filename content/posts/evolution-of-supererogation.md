@@ -10,7 +10,6 @@ categories:
 - supererogation
 tags:
 - Aristotle
-summary: ''
 toc: false
 aliases:
   - /2018/04/27/evolution-of-supererogation/

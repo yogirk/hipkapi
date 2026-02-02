@@ -10,7 +10,6 @@ categories:
 - Sarah
 - secular
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2013/04/30/intercultural-exchange-of-categories/

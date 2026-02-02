@@ -9,7 +9,6 @@ categories:
 - published
 - outlook
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2015/10/04/how-free-are-we/

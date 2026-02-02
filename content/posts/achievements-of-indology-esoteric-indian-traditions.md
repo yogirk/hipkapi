@@ -12,7 +12,6 @@ categories:
 - Indian traditions
 - psychology
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/21/achievements-of-indology-esoteric-indian-traditions/

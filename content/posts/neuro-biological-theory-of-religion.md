@@ -11,7 +11,6 @@ categories:
 - evolution
 - religion
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2013/01/10/neuro-biological-theory-of-religion/

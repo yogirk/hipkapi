@@ -9,7 +9,6 @@ categories:
 - basics
 - criticism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/10/criticism-you-are-a-hindutvavaadin/

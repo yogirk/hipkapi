@@ -9,7 +9,6 @@ categories:
 - law
 - secularization
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/01/law-secularization-and-religious-attitudes/

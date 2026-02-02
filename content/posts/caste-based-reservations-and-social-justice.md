@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - reservations
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2015/10/05/caste-based-reservations-and-social-justice/

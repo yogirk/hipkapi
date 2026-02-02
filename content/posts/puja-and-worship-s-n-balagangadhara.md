@@ -11,7 +11,6 @@ categories:
 - translation
 - worship
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/02/puja-and-worship-s-n-balagangadhara/

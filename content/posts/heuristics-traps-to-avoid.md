@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - basics
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2018/02/13/heuristics-traps-to-avoid/

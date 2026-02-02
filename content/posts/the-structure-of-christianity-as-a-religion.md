@@ -8,7 +8,6 @@ categories:
 - Christianity
 - Jakob
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/the-structure-of-christianity-as-a-religion/

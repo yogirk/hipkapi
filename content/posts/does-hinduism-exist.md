@@ -9,7 +9,6 @@ categories:
 - Hinduism
 tags:
 - hipkapi
-summary: ''
 toc: true
 aliases:
   - /2011/03/17/does-hinduism-exist/

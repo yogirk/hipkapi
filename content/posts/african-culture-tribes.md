@@ -7,7 +7,6 @@ author: hipkapi
 categories:
 - Balagangadhara
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/26/african-culture-tribes/

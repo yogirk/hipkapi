@@ -13,7 +13,6 @@ categories:
 - tolerance
 - faith
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2014/03/24/belief-vs-faith/

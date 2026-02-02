@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - ritual
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/rituals-and-their-meaninglessness-s-n-balagangadhara/

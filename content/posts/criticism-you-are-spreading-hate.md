@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - criticism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/04/criticism-you-are-spreading-hate/

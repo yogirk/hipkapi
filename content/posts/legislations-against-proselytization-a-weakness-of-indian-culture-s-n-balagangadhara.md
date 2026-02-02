@@ -11,7 +11,6 @@ categories:
 - secularization
 - vibrancy
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/04/legislations-against-proselytization-a-weakness-of-indian-culture-s-n-balagangadhara/

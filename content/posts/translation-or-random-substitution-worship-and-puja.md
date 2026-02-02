@@ -10,7 +10,6 @@ categories:
 - translation
 - worship
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/10/16/translation-or-random-substitution-worship-and-puja/

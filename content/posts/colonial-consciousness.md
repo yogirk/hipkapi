@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - colonial consciousness
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/03/25/colonial-consciousness/

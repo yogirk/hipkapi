@@ -11,7 +11,6 @@ categories:
 - symbolism
 - explication
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2020/06/06/interpretations/

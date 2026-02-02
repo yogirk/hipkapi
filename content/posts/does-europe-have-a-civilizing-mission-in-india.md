@@ -7,7 +7,6 @@ author: hipkapi
 categories:
 - Jakob
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/04/does-europe-have-a-civilizing-mission-in-india/

@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - psychology
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/02/01/akrasia-and-will/

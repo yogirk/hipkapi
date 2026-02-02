@@ -12,7 +12,6 @@ categories:
 - Indian traditions
 - knowledge
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2012/04/21/how-to-access-indian-traditions/

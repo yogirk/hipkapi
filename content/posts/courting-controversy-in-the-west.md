@@ -10,7 +10,6 @@ categories:
 - NRI
 - published
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/02/courting-controversy-in-the-west/

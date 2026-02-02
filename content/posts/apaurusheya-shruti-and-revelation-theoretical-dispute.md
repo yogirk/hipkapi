@@ -9,7 +9,6 @@ categories:
 - Indian traditions
 - translation
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/26/apaurusheya-shruti-and-revelation-theoretical-dispute/

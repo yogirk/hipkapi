@@ -10,7 +10,6 @@ categories:
 - published
 - dailyo
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/01/06/smriti-irani-will-destroy-indian-education-for-good/

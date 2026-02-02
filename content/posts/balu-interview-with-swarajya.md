@@ -9,7 +9,6 @@ categories:
 - published
 - swarjyamag
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2022/12/01/balu-interview-with-swarajya/

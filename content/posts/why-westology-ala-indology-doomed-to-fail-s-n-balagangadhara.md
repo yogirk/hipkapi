@@ -10,7 +10,6 @@ categories:
 - Westology
 tags:
 - Rajiv Malhotra
-summary: ''
 toc: false
 aliases:
   - /2011/02/28/why-westology-ala-indology-doomed-to-fail-s-n-balagangadhara/

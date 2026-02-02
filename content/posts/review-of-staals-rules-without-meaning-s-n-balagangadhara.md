@@ -10,7 +10,6 @@ categories:
 - review
 - ritual
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/03/05/review-of-staals-rules-without-meaning-s-n-balagangadhara/

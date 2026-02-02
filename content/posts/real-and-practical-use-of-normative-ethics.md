@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - normative
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2018/04/11/real-and-practical-use-of-normative-ethics/

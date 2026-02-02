@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - tolerance
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/03/03/religious-intolerance-vs-civic-intolerance/

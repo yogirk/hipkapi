@@ -12,7 +12,6 @@ categories:
 - rationality
 - tradition
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2016/06/24/questioning-the-axioms/

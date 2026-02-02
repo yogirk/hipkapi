@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - basics
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/01/25/causality/

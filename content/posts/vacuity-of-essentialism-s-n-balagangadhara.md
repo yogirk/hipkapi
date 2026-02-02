@@ -10,7 +10,6 @@ categories:
 - orientalism
 - explication
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/02/vacuity-of-essentialism-s-n-balagangadhara/

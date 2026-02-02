@@ -9,7 +9,6 @@ categories:
 - corruption
 - normative
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/24/what-is-normative-about-corruption-being-a-hindrance-to-development/

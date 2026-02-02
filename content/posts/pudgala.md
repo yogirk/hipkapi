@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - enlightenment
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2024/01/21/pudgala/

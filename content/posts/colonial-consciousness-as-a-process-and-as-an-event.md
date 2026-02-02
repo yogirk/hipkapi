@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - colonial consciousness
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/colonial-consciousness-as-a-process-and-as-an-event/

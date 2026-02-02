@@ -9,7 +9,6 @@ categories:
 - natural sciences
 - rationality
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/10/21/superstition-and-rationality/

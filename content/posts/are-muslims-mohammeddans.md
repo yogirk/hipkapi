@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - puja
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/02/are-muslims-mohammeddans/

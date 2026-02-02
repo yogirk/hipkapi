@@ -10,7 +10,6 @@ categories:
 - law
 - normative
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/23/colonial-consciousness-and-victorian-morality/

@@ -10,7 +10,6 @@ categories:
 - Jakob
 - secularization
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2012/06/23/evolutionary-explanations-of-religion-an-exercise-in-petitio-principii/

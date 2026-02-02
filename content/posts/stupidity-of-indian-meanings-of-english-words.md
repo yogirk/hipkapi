@@ -9,7 +9,6 @@ categories:
 - colonial consciousness
 - translation
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2018/03/23/stupidity-of-indian-meanings-of-english-words/

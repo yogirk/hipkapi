@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - basics
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2014/08/05/ill-formed-questions/

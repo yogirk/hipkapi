@@ -10,7 +10,6 @@ categories:
 - psychology
 - truth
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2022/10/09/experience-and-truth/

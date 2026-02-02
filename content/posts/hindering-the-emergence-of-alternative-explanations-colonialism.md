@@ -10,7 +10,6 @@ categories:
 - psychology
 tags:
 - Wendy Doniger
-summary: ''
 toc: false
 aliases:
   - /2011/04/06/hindering-the-emergence-of-alternative-explanations-colonialism/

@@ -9,7 +9,6 @@ categories:
 - basics
 - criticism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/25/why-people-resist-to-think-critically/

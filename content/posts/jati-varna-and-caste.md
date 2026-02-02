@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - caste
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2012/04/01/jati-varna-and-caste/

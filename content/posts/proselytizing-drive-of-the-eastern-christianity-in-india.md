@@ -12,7 +12,6 @@ categories:
 - tolerance
 - vibrancy
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/02/12/proselytizing-drive-of-the-eastern-christianity-in-india/

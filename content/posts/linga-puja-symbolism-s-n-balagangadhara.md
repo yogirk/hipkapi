@@ -11,7 +11,6 @@ categories:
 - stories
 - symbolism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/02/linga-puja-symbolism-s-n-balagangadhara/

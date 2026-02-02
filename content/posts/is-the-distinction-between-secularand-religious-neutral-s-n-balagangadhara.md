@@ -11,7 +11,6 @@ categories:
 - secular
 - secularization
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/02/is-the-distinction-between-secularand-religious-neutral-s-n-balagangadhara/

@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - published
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/the-reality-of-elusive-man-s-n-balagangadhara/

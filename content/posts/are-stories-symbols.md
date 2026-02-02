@@ -9,7 +9,6 @@ categories:
 - stories
 - symbolism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/23/are-stories-symbols/

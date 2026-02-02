@@ -11,7 +11,6 @@ categories:
 - sat(asat)
 - real
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2012/04/01/real-vs-existence/

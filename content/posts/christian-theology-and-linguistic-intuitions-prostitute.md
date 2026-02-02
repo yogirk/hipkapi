@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - Christianity
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/03/23/christian-theology-and-linguistic-intuitions-prostitute/

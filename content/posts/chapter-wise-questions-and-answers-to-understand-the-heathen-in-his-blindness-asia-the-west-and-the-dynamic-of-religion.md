@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - explanatorily intelligible
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/07/chapter-wise-questions-and-answers-to-understand-the-heathen-in-his-blindness-asia-the-west-and-the-dynamic-of-religion/

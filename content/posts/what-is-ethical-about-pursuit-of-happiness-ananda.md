@@ -11,7 +11,6 @@ categories:
 - normative
 tags:
 - Aristotle
-summary: ''
 toc: false
 aliases:
   - /2011/03/24/what-is-ethical-about-pursuit-of-happiness-ananda/

@@ -9,7 +9,6 @@ categories:
 - Edward Said
 - orientalism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/03/is-the-division-between-the-west-and-east-orientalist-in-nature/

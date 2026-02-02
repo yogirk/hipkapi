@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - secularization
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2023/03/29/peoples-and-nations/

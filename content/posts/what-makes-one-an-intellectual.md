@@ -12,7 +12,6 @@ tags:
 - Michael Witzel
 - Steve Farmer
 - UR Ananthamurthy
-summary: ''
 toc: false
 aliases:
   - /2012/04/25/what-makes-one-an-intellectual/

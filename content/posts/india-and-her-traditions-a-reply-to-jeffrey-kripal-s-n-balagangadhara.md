@@ -9,7 +9,6 @@ categories:
 - published
 - Sulekha
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/02/28/india-and-her-traditions-a-reply-to-jeffrey-kripal-s-n-balagangadhara/

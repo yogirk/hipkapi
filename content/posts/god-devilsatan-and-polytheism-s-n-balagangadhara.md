@@ -10,7 +10,6 @@ categories:
 - puja
 - worship
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/02/god-devilsatan-and-polytheism-s-n-balagangadhara/

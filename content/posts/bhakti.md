@@ -9,7 +9,6 @@ categories:
 - ignorance
 - Indian traditions
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/09/bhakti/

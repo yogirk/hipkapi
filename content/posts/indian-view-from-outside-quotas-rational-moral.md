@@ -9,7 +9,6 @@ categories:
 - published
 - reservations
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2015/09/10/indian-view-from-outside-quotas-rational-moral/

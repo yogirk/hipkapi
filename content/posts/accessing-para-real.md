@@ -8,7 +8,6 @@ categories:
 - enlightenment
 - real
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2020/04/28/accessing-para-real/

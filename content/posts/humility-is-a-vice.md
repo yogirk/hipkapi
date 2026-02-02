@@ -12,7 +12,6 @@ categories:
 - erudition
 tags:
 - humility
-summary: ''
 toc: false
 aliases:
   - /2017/01/13/humility-is-a-vice/

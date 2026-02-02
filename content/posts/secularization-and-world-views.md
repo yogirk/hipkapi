@@ -9,7 +9,6 @@ categories:
 - secularization
 - world view
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/15/secularization-and-world-views/

@@ -9,7 +9,6 @@ categories:
 - Christianity
 - enlightenment
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2014/04/03/is-jesus-a-mystic/

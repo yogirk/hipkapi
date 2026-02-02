@@ -10,7 +10,6 @@ categories:
 - religion
 - secularism
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2013/02/13/how-do-we-understand-the-concept-of-communal-violence/

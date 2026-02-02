@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - normative
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/18/the-word-normative/

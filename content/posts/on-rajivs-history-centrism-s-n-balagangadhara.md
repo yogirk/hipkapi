@@ -9,7 +9,6 @@ categories:
 - belief
 tags:
 - Rajiv Malhotra
-summary: ''
 toc: false
 aliases:
   - /2011/03/03/on-rajivs-history-centrism-s-n-balagangadhara/

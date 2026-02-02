@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - rationality
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/rationality-and-rhetoric/

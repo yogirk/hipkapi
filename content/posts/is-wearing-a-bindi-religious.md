@@ -9,7 +9,6 @@ categories:
 - basics
 - theory-ladenness
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2014/04/16/is-wearing-a-bindi-religious/

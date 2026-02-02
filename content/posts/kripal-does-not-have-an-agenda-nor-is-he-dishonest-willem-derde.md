@@ -9,7 +9,6 @@ categories:
 - Willem
 tags:
 - Jeffrey Kripal
-summary: ''
 toc: false
 aliases:
   - /2011/04/06/kripal-does-not-have-an-agenda-nor-is-he-dishonest-willem-derde/

@@ -9,7 +9,6 @@ categories:
 - Jakob
 - secular
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/23/bankruptcy-of-postcolonial-intellectuals-and-their-defense-of-secularism/

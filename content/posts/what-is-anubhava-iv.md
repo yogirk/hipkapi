@@ -10,7 +10,6 @@ categories:
 - psychology
 - explication
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/17/what-is-anubhava-iv/

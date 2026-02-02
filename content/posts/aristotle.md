@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - Indian traditions
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/25/aristotle/

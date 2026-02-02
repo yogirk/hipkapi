@@ -15,7 +15,6 @@ categories:
 - truth
 tags:
 - Romila Thapar
-summary: ''
 toc: true
 aliases:
   - /2017/09/20/bullshit-true-sentences-and-knowledge-balagangadhara/

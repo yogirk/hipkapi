@@ -10,7 +10,6 @@ categories:
 - tolerance
 - vibrancy
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2014/04/02/the-loss-of-the-vibrancy-of-indian-traditions/

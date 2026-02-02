@@ -11,7 +11,6 @@ categories:
 - corruption
 - immoral
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/03/colonial-consciousness-burden-of-proof-s-n-balagangadhara/

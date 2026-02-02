@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - knowledge
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/02/knowledge-and-objectivity/

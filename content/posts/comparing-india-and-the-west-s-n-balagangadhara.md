@@ -10,7 +10,6 @@ categories:
 - orientalism
 - published
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/02/comparing-india-and-the-west-s-n-balagangadhara/

@@ -9,7 +9,6 @@ categories:
 - tolerance
 - explanatorily intelligible
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/09/religious-tolerance-and-ecumenism-s-n-balagangadhara/

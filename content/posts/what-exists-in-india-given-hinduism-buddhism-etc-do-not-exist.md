@@ -9,7 +9,6 @@ categories:
 - Indian traditions
 - religion
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/06/what-exists-in-india-given-hinduism-buddhism-etc-do-not-exist/

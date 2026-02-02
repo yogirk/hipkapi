@@ -10,7 +10,6 @@ categories:
 - sat(asat)
 - real
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/01/06/translating-vibhaktis/

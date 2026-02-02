@@ -9,7 +9,6 @@ categories:
 - rationality
 - world view
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2020/06/09/who-needs-a-world-view/

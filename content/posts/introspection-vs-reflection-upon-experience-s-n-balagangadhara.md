@@ -11,7 +11,6 @@ categories:
 - experience
 - psychology
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/introspection-vs-reflection-upon-experience-s-n-balagangadhara/

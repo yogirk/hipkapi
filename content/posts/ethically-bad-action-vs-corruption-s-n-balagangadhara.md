@@ -10,7 +10,6 @@ categories:
 - immoral
 - normative
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/03/ethically-bad-action-vs-corruption-s-n-balagangadhara/

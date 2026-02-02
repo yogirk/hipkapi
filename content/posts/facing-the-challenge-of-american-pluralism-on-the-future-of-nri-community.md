@@ -9,7 +9,6 @@ categories:
 - Jakob
 - NRI
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/04/02/facing-the-challenge-of-american-pluralism-on-the-future-of-nri-community/

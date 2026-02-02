@@ -10,7 +10,6 @@ categories:
 - published
 - review
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/understanding-and-imagination-a-critical-notice-of-halbfass-and-inden-s-n-balagangadhara/

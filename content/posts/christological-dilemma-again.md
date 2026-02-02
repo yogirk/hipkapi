@@ -9,7 +9,6 @@ categories:
 - Christianity
 - criticism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/07/christological-dilemma-again/

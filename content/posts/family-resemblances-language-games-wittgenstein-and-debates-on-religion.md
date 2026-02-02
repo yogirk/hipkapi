@@ -9,7 +9,6 @@ categories:
 - criticism
 - religion
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/01/family-resemblances-language-games-wittgenstein-and-debates-on-religion/

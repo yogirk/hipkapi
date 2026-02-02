@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - basics
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/23/contrast-sets/

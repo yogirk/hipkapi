@@ -13,7 +13,6 @@ categories:
 - petitio principii
 - interests
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/24/normative-assumptions-discriminations-and-caste-discriminations/

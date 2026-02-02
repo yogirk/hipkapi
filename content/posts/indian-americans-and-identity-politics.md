@@ -7,7 +7,6 @@ author: hipkapi
 categories:
 - Jakob
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/23/indian-americans-and-identity-politics/

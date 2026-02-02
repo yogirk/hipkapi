@@ -10,7 +10,6 @@ categories:
 - knowledge
 - bullshit
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/10/09/shock-and-awe-of-enlightenment/

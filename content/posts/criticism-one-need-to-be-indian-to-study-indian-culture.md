@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - criticism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/02/criticism-one-need-to-be-indian-to-study-indian-culture/

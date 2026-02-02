@@ -10,7 +10,6 @@ categories:
 - published
 - secularism
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2015/07/07/dark-hour-of-secularism-hindu-fundamentalism-colonial-liberalism-in-india/

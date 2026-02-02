@@ -10,7 +10,6 @@ categories:
 - published
 - secularism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/02/the-vacuity-of-secularism/

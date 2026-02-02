@@ -10,7 +10,6 @@ categories:
 - enlightenment
 - Indian traditions
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/06/enlightenment-vs-mysticism/

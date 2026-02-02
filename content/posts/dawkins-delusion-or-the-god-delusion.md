@@ -10,7 +10,6 @@ categories:
 - Jakob
 - secularization
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2012/06/23/dawkins-delusion-or-the-god-delusion/

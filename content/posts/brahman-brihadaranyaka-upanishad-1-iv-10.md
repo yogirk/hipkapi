@@ -10,7 +10,6 @@ categories:
 - ignorance
 - real
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2020/05/27/brahman-brihadaranyaka-upanishad-1-iv-10/

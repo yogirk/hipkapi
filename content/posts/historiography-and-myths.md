@@ -9,7 +9,6 @@ categories:
 - History
 - stories
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2020/06/06/historiography-and-myths/

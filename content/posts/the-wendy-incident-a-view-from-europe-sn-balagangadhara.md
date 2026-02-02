@@ -9,7 +9,6 @@ categories:
 - tolerance
 tags:
 - Wendy Doniger
-summary: ''
 toc: true
 aliases:
   - /2014/03/09/the-wendy-incident-a-view-from-europe-sn-balagangadhara/

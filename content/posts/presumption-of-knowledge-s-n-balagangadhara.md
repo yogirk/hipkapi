@@ -9,7 +9,6 @@ categories:
 - Christianity
 - knowledge
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/04/presumption-of-knowledge-s-n-balagangadhara/

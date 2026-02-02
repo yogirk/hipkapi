@@ -10,7 +10,6 @@ categories:
 - reservations
 - dailyo
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/01/06/between-ignorance-and-deception-idea-of-reservations/

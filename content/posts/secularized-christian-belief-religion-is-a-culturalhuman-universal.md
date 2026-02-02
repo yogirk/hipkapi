@@ -8,7 +8,6 @@ categories:
 - Jakob
 - secularization
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/03/secularized-christian-belief-religion-is-a-culturalhuman-universal/

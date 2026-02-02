@@ -9,7 +9,6 @@ categories:
 - criticism
 tags:
 - Will Sweetman
-summary: ''
 toc: false
 aliases:
   - /2011/03/04/on-will-sweetmans-criticism-s-n-balagangadhara/

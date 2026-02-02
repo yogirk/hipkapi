@@ -9,7 +9,6 @@ categories:
 - History
 - stories
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/03/the-past-and-ways-of-talking-about-it/

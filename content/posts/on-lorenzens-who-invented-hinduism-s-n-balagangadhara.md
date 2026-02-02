@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - Hinduism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/02/on-lorenzens-who-invented-hinduism-s-n-balagangadhara/

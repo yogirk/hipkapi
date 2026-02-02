@@ -9,7 +9,6 @@ categories:
 - Christianity
 - tolerance
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2014/03/25/theology-of-tolerance/

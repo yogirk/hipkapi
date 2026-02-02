@@ -10,7 +10,6 @@ categories:
 - social sciences
 - erudition
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2014/04/13/two-kinds-of-research-in-social-sciences/

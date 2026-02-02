@@ -9,7 +9,6 @@ categories:
 - enlightenment
 - Indian traditions
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2014/08/05/on-the-indian-notion-of-enlightenment-reflections-based-on-experience/

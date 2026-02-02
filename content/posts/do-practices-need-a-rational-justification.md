@@ -9,7 +9,6 @@ categories:
 - rationality
 - tradition
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/15/do-practices-need-a-rational-justification/

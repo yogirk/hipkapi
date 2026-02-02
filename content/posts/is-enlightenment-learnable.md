@@ -10,7 +10,6 @@ categories:
 - ignorance
 - Indian traditions
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/11/is-enlightenment-learnable/

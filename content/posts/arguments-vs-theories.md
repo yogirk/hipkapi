@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - basics
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/23/arguments-vs-theories/

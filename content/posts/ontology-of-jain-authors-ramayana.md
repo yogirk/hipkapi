@@ -10,7 +10,6 @@ categories:
 - History
 - stories
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2023/01/28/ontology-of-jain-authors-ramayana/

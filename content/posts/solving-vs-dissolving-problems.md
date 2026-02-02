@@ -9,7 +9,6 @@ categories:
 - Balagangadhara
 - knowledge
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2022/08/01/solving-vs-dissolving-problems/

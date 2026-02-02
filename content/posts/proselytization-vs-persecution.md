@@ -9,7 +9,6 @@ categories:
 - proselytization
 - tolerance
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2014/04/22/proselytization-vs-persecution/

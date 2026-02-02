@@ -10,7 +10,6 @@ categories:
 - puja
 - tradition
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/04/23/ad-hoc-explanations-i-why-do-puja-to-cows/

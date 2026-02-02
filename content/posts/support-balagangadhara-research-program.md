@@ -7,7 +7,6 @@ author: hipkapi
 categories:
 - Uncategorized
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2018/11/22/support-balagangadhara-research-program/

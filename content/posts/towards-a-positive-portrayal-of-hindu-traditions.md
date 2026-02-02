@@ -8,7 +8,6 @@ categories:
 - india-forum
 - Jakob
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/02/towards-a-positive-portrayal-of-hindu-traditions/

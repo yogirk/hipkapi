@@ -12,7 +12,6 @@ categories:
 - psychology
 tags:
 - Gita
-summary: ''
 toc: false
 aliases:
   - /2017/01/19/ignorance-knowledge-psychological-traits-and-enlightenment/

@@ -10,7 +10,6 @@ categories:
 - bullshit
 - truth
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2024/04/24/past-theories-and-knowledge/

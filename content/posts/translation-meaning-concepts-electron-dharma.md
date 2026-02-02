@@ -9,7 +9,6 @@ categories:
 - translation
 - explication
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/04/01/translation-meaning-concepts-electron-dharma/

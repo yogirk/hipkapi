@@ -11,7 +11,6 @@ categories:
 - NRI
 - symbolism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/23/victorian-morality-of-nri-and-middle-class-hindus-prostitution-adultery/

@@ -9,7 +9,6 @@ categories:
 - Indian traditions
 - knowledge
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2024/04/28/how-to-read-gita/

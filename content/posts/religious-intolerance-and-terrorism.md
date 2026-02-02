@@ -9,7 +9,6 @@ categories:
 - terrorism
 - tolerance
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/14/religious-intolerance-and-terrorism/

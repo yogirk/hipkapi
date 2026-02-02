@@ -9,7 +9,6 @@ categories:
 - corruption
 - normative
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/03/normative-ethics-moral-dilemmas-and-imperfect-world-s-n-balagangadhara/

@@ -10,7 +10,6 @@ categories:
 - Christianity
 - indexical
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/10/29/law-of-excluded-middle-christian-beliefs/

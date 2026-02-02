@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - religion
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/23/what-enables-religion-to-spread/

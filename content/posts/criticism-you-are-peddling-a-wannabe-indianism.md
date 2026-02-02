@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - criticism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/02/criticism-you-are-peddling-a-wannabe-indianism/

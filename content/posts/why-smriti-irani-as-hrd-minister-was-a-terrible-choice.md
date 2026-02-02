@@ -10,7 +10,6 @@ categories:
 - published
 - dailyo
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/01/06/why-smriti-irani-as-hrd-minister-was-a-terrible-choice/

@@ -10,7 +10,6 @@ categories:
 - ignorance
 - Indian traditions
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/09/23/is-maya-an-illusion-nonsense-sold-by-scholars/

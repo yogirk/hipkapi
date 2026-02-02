@@ -9,7 +9,6 @@ categories:
 - basics
 - explication
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2014/04/09/what-is-critique/

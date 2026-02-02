@@ -10,7 +10,6 @@ categories:
 - religion
 - worship
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/01/25/is-worship-a-human-invention/

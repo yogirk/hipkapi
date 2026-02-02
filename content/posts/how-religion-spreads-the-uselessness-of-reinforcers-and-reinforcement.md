@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - religion
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/24/how-religion-spreads-the-uselessness-of-reinforcers-and-reinforcement/

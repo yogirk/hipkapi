@@ -7,7 +7,6 @@ author: hipkapi
 categories:
 - Balagangadhara
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2015/11/22/an-open-letter-to-europa/

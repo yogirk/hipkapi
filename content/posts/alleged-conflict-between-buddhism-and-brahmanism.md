@@ -11,7 +11,6 @@ categories:
 - sat(asat)
 - Buddha
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/01/13/alleged-conflict-between-buddhism-and-brahmanism/

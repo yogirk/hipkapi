@@ -10,7 +10,6 @@ categories:
 - colonial consciousness
 - translation
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/25/are-brahmins-priests/

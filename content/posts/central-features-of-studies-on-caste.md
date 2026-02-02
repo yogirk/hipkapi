@@ -9,7 +9,6 @@ categories:
 - basics
 - caste
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/10/22/central-features-of-studies-on-caste/

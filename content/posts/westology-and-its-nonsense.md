@@ -10,7 +10,6 @@ categories:
 - explication
 tags:
 - Rajiv Malhotra
-summary: ''
 toc: false
 aliases:
   - /2014/03/24/westology-and-its-nonsense/

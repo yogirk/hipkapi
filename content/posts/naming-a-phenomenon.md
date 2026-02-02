@@ -10,7 +10,6 @@ categories:
 - basics
 - social sciences
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2018/03/11/naming-a-phenomenon/

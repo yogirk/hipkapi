@@ -8,7 +8,6 @@ categories:
 - basics
 - criticism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2012/11/16/profound-criticism-1-the-logic-is-different/

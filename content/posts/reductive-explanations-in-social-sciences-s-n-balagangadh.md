@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - social sciences
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/02/28/reductive-explanations-in-social-sciences-s-n-balagangadh/

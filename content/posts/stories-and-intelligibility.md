@@ -9,7 +9,6 @@ categories:
 - stories
 - explanatorily intelligible
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/25/stories-and-intelligibility/

@@ -9,7 +9,6 @@ categories:
 - caste
 - Indian traditions
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/17/yoga-shudras-and-women/

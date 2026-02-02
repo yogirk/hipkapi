@@ -10,7 +10,6 @@ categories:
 - NRI
 - religion
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/04/02/why-understand-the-western-culture-s-n-balagangadhara/

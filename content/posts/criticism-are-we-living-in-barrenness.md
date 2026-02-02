@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - criticism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/04/06/criticism-are-we-living-in-barrenness/

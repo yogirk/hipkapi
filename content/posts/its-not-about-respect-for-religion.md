@@ -8,7 +8,6 @@ categories:
 - published
 - religion
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2022/08/01/its-not-about-respect-for-religion/

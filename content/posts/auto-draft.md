@@ -6,7 +6,6 @@ description: ''
 author: hipkapi
 categories: []
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2026/01/27/auto-draft/

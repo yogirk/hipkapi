@@ -8,7 +8,6 @@ categories:
 - Indian traditions
 - real
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2020/05/01/grotesque-nature-of-murtis/

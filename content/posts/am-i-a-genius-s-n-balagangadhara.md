@@ -8,7 +8,6 @@ categories:
 - Balagangadhara
 - criticism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/01/am-i-a-genius-s-n-balagangadhara/

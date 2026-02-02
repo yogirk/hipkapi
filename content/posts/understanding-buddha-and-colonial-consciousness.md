@@ -9,7 +9,6 @@ categories:
 - colonial consciousness
 - Buddha
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/26/understanding-buddha-and-colonial-consciousness/

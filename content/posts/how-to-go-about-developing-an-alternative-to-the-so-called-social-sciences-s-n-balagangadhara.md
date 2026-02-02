@@ -9,7 +9,6 @@ categories:
 - enlightenment
 tags:
 - Gita
-summary: ''
 toc: false
 aliases:
   - /2011/02/28/how-to-go-about-developing-an-alternative-to-the-so-called-social-sciences-s-n-balagangadhara/

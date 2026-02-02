@@ -11,7 +11,6 @@ categories:
 - Indian traditions
 - translation
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2023/12/26/spirituality-adhyatma/

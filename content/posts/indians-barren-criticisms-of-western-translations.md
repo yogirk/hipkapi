@@ -9,7 +9,6 @@ categories:
 - basics
 - translation
 tags: []
-summary: ''
 toc: true
 aliases:
   - /2011/03/16/indians-barren-criticisms-of-western-translations/

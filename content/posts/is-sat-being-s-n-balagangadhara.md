@@ -10,7 +10,6 @@ categories:
 - translation
 - sat(asat)
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/05/is-sat-being-s-n-balagangadhara/

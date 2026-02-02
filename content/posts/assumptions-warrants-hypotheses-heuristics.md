@@ -10,7 +10,6 @@ categories:
 - enlightenment
 - Indian traditions
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2017/01/13/assumptions-warrants-hypotheses-heuristics/

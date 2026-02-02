@@ -11,7 +11,6 @@ categories:
 - secularism
 tags:
 - Will Sweetman
-summary: ''
 toc: false
 aliases:
   - /2011/03/23/why-indian-secularists-do-not-think-but-talk/

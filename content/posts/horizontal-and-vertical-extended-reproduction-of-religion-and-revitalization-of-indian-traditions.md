@@ -11,7 +11,6 @@ categories:
 - vibrancy
 - explanatorily intelligible
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/19/horizontal-and-vertical-extended-reproduction-of-religion-and-revitalization-of-indian-traditions/

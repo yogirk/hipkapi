@@ -9,7 +9,6 @@ categories:
 - criticism
 - essentialism
 tags: []
-summary: ''
 toc: false
 aliases:
   - /2011/03/02/criticism-you-are-essentializing-cultures/

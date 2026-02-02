@@ -12,7 +12,6 @@ tags:
 - Hindutva
 - Michael Witzel
 - Steve Farmer
-summary: ''
 toc: true
 aliases:
   - /2012/05/19/intellectual-prowess-of-michael-witzel/
