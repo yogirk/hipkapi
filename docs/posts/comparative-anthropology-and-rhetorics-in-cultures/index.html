@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Comparative Anthropology and Rhetorics in Cultures. &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/comparative-anthropology-and-rhetorics-in-cultures/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/comparative-anthropology-and-rhetorics-in-cultures/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="Introduction
 Perhaps it is best that we begin on a personal note. Neither of the two authors of this article is a &lsquo;specialist&rsquo; in the domain of argumentation theory. Even though we have picked up smatterings of logic, we are not professionals working on either informal or formal logic. One of us is a practicing anthropologist, while the other is oriented towards comparative anthropology. And yet, we are invited to speak to an audience comprising of people specializing in dialogue logics, argumentation theory, psychology and such like. If the invitation to present a paper is not mistake or an oversight on the part of the organizers of this colloquium, then it could only mean that there is an expectation regarding our contributions: anthropologists have something to say about rhetorics, argumentations and their norms, which is of relevance to specialists like you.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/comparative-anthropology-and-rhetorics-in-cultures/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/comparative-anthropology-and-rhetorics-in-cultures/">
 
 
 
@@ -46,7 +46,7 @@ Perhaps it is best that we begin on a personal note. Neither of the two authors 
   "headline": "Comparative Anthropology and Rhetorics in Cultures.",
   "name": "Comparative Anthropology and Rhetorics in Cultures.",
   "description": "\u003cp\u003e\u003cem\u003e\u003cstrong\u003eIntroduction\u003c\/strong\u003e\u003c\/em\u003e\u003c\/p\u003e\n\u003cp\u003ePerhaps it is best that we begin on a personal note. Neither of the two authors of this article is a \u0026lsquo;specialist\u0026rsquo; in the domain of argumentation theory. Even though we have picked up smatterings of logic, we are not professionals working on either informal or formal logic. One of us is a practicing anthropologist, while the other is oriented towards comparative anthropology. And yet, we are invited to speak to an audience comprising of people specializing in dialogue logics, argumentation theory, psychology and such like. If the invitation to present a paper is not mistake or an oversight on the part of the organizers of this colloquium, then it could only mean that there is an expectation regarding our contributions: anthropologists have something to say about rhetorics, argumentations and their norms, which is of relevance to specialists like you.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/comparative-anthropology-and-rhetorics-in-cultures\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/comparative-anthropology-and-rhetorics-in-cultures\/",
   
   "datePublished": "2011-03-05T20:27:43\u002b05:30",
   "dateModified": "2011-03-05T20:27:43\u002b05:30",
@@ -57,14 +57,14 @@ Perhaps it is best that we begin on a personal note. Neither of the two authors 
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/comparative-anthropology-and-rhetorics-in-cultures\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/comparative-anthropology-and-rhetorics-in-cultures\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -618,7 +618,36 @@ Perhaps it is best that we begin on a personal note. Neither of the two authors 
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Evolutionary explanations of religion: an exercise in petitio principii &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/evolutionary-explanations-of-religion-an-exercise-in-petitio-principii/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/evolutionary-explanations-of-religion-an-exercise-in-petitio-principii/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -23,7 +23,7 @@ It is very disappointing to see how these evolutionary theorists of religion lac
 
 If they did a serious study, it would perhaps strike them that no one has ever given either theoretical or empirical proof for the claim that religion is a human universal. From the 13th century onwards, European travelers, missionaries, merchants and scholars simply assumed that there would be religion in all societies. With this assumption in the background, they looked for the &lsquo;beliefs&rsquo; and &lsquo;gods&rsquo; of these societies. In the process, these western minds invented religions everywhere. Later scholars began to create all kinds of definitions of &ldquo;religion&rdquo; in order to accommodate their (cultural) intuition that religion is universal. As though a definition of a word can help us decide on the universality of a phenomenon. After all, we don&rsquo;t use a definition of the word &ldquo;gravitation&rdquo; in order to find out whether gravitation exists on all planets, do we?">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/evolutionary-explanations-of-religion-an-exercise-in-petitio-principii/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/evolutionary-explanations-of-religion-an-exercise-in-petitio-principii/">
 
 
 
@@ -54,7 +54,7 @@ If they did a serious study, it would perhaps strike them that no one has ever g
   "headline": "Evolutionary explanations of religion: an exercise in petitio principii",
   "name": "Evolutionary explanations of religion: an exercise in petitio principii",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eIt is very disappointing to see how these evolutionary theorists of religion lack knowledge of religions other than garden variety Judeo-Christianity (where they seem to have at least some factual knowledge, as in Scott Atran\u0026rsquo;s case, they reproduce standard textbook stories about Hinduism that have been left behind a few decades back).\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli\u003e\n\u003cp\u003eIf they did a serious study, it would perhaps strike them that no one has ever given either theoretical or empirical proof for the claim that religion is a human universal. From the 13th century onwards, European travelers, missionaries, merchants and scholars simply assumed that there would be religion in all societies. With this assumption in the background, they looked for the \u0026lsquo;beliefs\u0026rsquo; and \u0026lsquo;gods\u0026rsquo; of these societies. In the process, these western minds invented religions everywhere. Later scholars began to create all kinds of definitions of \u0026ldquo;religion\u0026rdquo; in order to accommodate their (cultural) intuition that religion is universal. As though a definition of a word can help us decide on the universality of a phenomenon. After all, we don\u0026rsquo;t use a definition of the word \u0026ldquo;gravitation\u0026rdquo; in order to find out whether gravitation exists on all planets, do we?\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/evolutionary-explanations-of-religion-an-exercise-in-petitio-principii\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/evolutionary-explanations-of-religion-an-exercise-in-petitio-principii\/",
   
   "datePublished": "2012-06-23T04:49:44\u002b05:30",
   "dateModified": "2012-06-23T04:49:44\u002b05:30",
@@ -65,14 +65,14 @@ If they did a serious study, it would perhaps strike them that no one has ever g
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/evolutionary-explanations-of-religion-an-exercise-in-petitio-principii\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/evolutionary-explanations-of-religion-an-exercise-in-petitio-principii\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -545,7 +545,36 @@ If they did a serious study, it would perhaps strike them that no one has ever g
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

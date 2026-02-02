@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Simulation of social and cultural changes?—S.N. Balagangadhara &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/simulation-of-social-and-cultural-changes-s-n-balagangadhara/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/simulation-of-social-and-cultural-changes-s-n-balagangadhara/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="A question: Is it desirable to have a model that can simulate social and cultural changes?
 I cannot see what good reason there is not to find it desirable. It would be eminently desirable. It will take some time though before we get there, but we will surely get there. Thanks to computers, we have a possibility of talking realistically about simulation. However, we have to still go a very long way before we are able to do so. We need to build some theories about social and cultural change and evolution; we need to develop suitable algorithms for simulating these changes; we need to develop more and different kinds of logics (non-monotonic ones) than exist today; we need to simulate some relevant aspects of human reasoning process … It is only now that we are beginning to simulate the evolutionary process and have developed some kinds of algorithms to do so. We need to overlay this with developments (hardly understood today) about social dynamics and cultural dynamics. And then study what could happen. So, it is definitely going to take some time. In all probability, we will first start simulating some fragments of social or cultural reality first (after all, this is what modeling means).">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/simulation-of-social-and-cultural-changes-s-n-balagangadhara/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/simulation-of-social-and-cultural-changes-s-n-balagangadhara/">
 
 
 
@@ -46,7 +46,7 @@ I cannot see what good reason there is not to find it desirable. It would be emi
   "headline": "Simulation of social and cultural changes?—S.N. Balagangadhara",
   "name": "Simulation of social and cultural changes?—S.N. Balagangadhara",
   "description": "\u003cp\u003eA question: Is it desirable to have a model that can simulate social and cultural changes?\u003c\/p\u003e\n\u003cp\u003eI cannot see what good reason there is not to find it desirable. It would be eminently desirable. It will take some time though before we get there, but we will surely get there. Thanks to computers, we have a possibility of talking realistically about simulation. However, we have to still go a very long way before we are able to do so. We need to build some theories about social and cultural change and evolution; we need to develop suitable algorithms for simulating these changes; we need to develop more and different kinds of logics (non-monotonic ones) than exist today; we need to simulate some relevant aspects of human reasoning process … It is only now that we are \u003cem\u003ebeginning\u003c\/em\u003e to simulate the evolutionary process and have developed some kinds of algorithms to do so. We need to overlay this with developments (hardly understood today) about social dynamics and cultural dynamics. And then study what could happen. So, it is definitely going to take some time. In all probability, we will first start simulating some fragments of social or cultural reality first (after all, this is what modeling means).\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/simulation-of-social-and-cultural-changes-s-n-balagangadhara\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/simulation-of-social-and-cultural-changes-s-n-balagangadhara\/",
   
   "datePublished": "2011-03-01T03:10:51\u002b05:30",
   "dateModified": "2011-03-01T03:10:51\u002b05:30",
@@ -57,14 +57,14 @@ I cannot see what good reason there is not to find it desirable. It would be emi
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/simulation-of-social-and-cultural-changes-s-n-balagangadhara\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/simulation-of-social-and-cultural-changes-s-n-balagangadhara\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -501,7 +501,36 @@ I cannot see what good reason there is not to find it desirable. It would be emi
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

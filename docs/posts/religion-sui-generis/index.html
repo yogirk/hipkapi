@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Religion ‘sui generis’? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/religion-sui-generis/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/religion-sui-generis/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Religion ‘sui generis’?">
 <meta property="og:description" content="When a religion claims that it is the word of God and that the word is unconditionally true; and that, further, the word is about the Cosmos: everything that was, is and shall be. So, when I say that religion is such an entity, namely, it claims that it is the word of God and that it claims to be unconditionally true and that it is about the Cosmos, I am accepting the self description of religion. (However, the hypothesis that religion is an EI account formulates it without committing itself to any ontological claims. That is, it takes no stances about what specific religions say or do not say about the existence of entities. The hypothesis does not show how, and in what sense, the Bible, say, is an EI account. It merely says that The Bible has such a status to believers. If you reread the relevant paragraphs of &lsquo;The Heathen&hellip;&rsquo; where I first formulate the hypothesis, you will notice that I formulate it conditionally: &ldquo;If such a being exists, if such an account is forthcoming &hellip; etc then we have an EI account.&rdquo;) If we do not accept the self-description of religion, The Bible becomes a mere book and we cannot study it at all to say anything about Christianity.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/religion-sui-generis/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/religion-sui-generis/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Religion ‘sui generis’?",
   "name": "Religion ‘sui generis’?",
   "description": "\u003cp\u003eWhen a religion claims that it is the word of God and that the word is unconditionally true; and that, further, the word is about the Cosmos: everything that was, is and shall be. So, when I say that religion is such an entity, namely, it claims that it is the word of God and that it claims to be unconditionally true and that it is about the Cosmos, I am accepting the self description of religion. (However, the hypothesis that religion is an EI account formulates it without committing itself to any ontological claims. That is, it takes no stances about what specific religions say or do not say about the existence of entities. The hypothesis does not show how, and in what sense, the Bible, say, is an EI account. It merely says that The Bible has such a status to believers. If you reread the relevant paragraphs of \u0026lsquo;The Heathen\u0026hellip;\u0026rsquo; where I first formulate the hypothesis, you will notice that I formulate it conditionally: \u0026ldquo;If such a being exists, if such an account is forthcoming \u0026hellip; etc then we have an EI account.\u0026rdquo;) If we do not accept the self-description of religion, The Bible becomes a mere book and we cannot study it at all to say anything about Christianity.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/religion-sui-generis\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/religion-sui-generis\/",
   
   "datePublished": "2011-12-21T22:24:49\u002b05:30",
   "dateModified": "2011-12-21T22:24:49\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/religion-sui-generis\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/religion-sui-generis\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -499,7 +499,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

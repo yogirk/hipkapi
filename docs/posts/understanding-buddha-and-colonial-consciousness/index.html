@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Understanding Buddha and Colonial Consciousness &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/understanding-buddha-and-colonial-consciousness/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/understanding-buddha-and-colonial-consciousness/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="&ldquo;How do we understand the idea that an enlightened person has no wants?&rdquo; Before we understand what the idea says, it would be good to find out what it does not say. Understanding this would also allow us to appreciate the depth and extent of colonial consciousness.
 If you look at the way the Buddha was portrayed in the middle-class text books you studied (that is also how he was more or less portrayed during my period), it appears as though he gave up or renounce all his desires. In other words, he became an &lsquo;ascetic&rsquo; man. Yet strangely enough, if we read about the Buddha&rsquo;s road to enlightenment, we find something else: he did take to and practice asceticism, but, he says, it did not help him to get enlightened! That is, even though some people do practice asceticism and can get enlightened (after all, every path can lead to enlightenment), this was not the Buddha&rsquo;s way. The Buddha, then, did not become enlightened by &lsquo;giving up&rsquo; his desires. Almost in a similar vein, Purandara Dasa also says in his &ldquo;Eenu Maadidareenu Bhava Hingadu&rdquo; that &ldquo;punishing his body&rdquo; did not help him.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/understanding-buddha-and-colonial-consciousness/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/understanding-buddha-and-colonial-consciousness/">
 
 
 
@@ -46,7 +46,7 @@ If you look at the way the Buddha was portrayed in the middle-class text books y
   "headline": "Understanding Buddha and Colonial Consciousness",
   "name": "Understanding Buddha and Colonial Consciousness",
   "description": "\u003cp\u003e\u0026ldquo;How do we understand the idea that an enlightened person has no wants?\u0026rdquo; Before we understand what the idea says, it would be good to find out what it does not say. Understanding this would also allow us to appreciate the depth and extent of colonial consciousness.\u003c\/p\u003e\n\u003cp\u003eIf you look at the way the Buddha was portrayed in the middle-class text books you studied (that is also how he was more or less portrayed during my period), it appears as though he \u003cem\u003egave up\u003c\/em\u003e or \u003cem\u003erenounce\u003c\/em\u003e all his desires. In other words, he became an \u0026lsquo;ascetic\u0026rsquo; man. Yet strangely enough, if we read about the Buddha\u0026rsquo;s road to enlightenment, we find something else: he did take to and practice asceticism, but, he says, it did not help him to get enlightened! That is, even though some people do practice asceticism and can get enlightened (after all, every path can lead to enlightenment), this was not the Buddha\u0026rsquo;s way. The Buddha, then, did not become enlightened by \u0026lsquo;giving up\u0026rsquo; his desires. Almost in a similar vein, Purandara Dasa also says in his \u0026ldquo;Eenu Maadidareenu Bhava Hingadu\u0026rdquo; that \u0026ldquo;punishing his body\u0026rdquo; did not help him.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/understanding-buddha-and-colonial-consciousness\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/understanding-buddha-and-colonial-consciousness\/",
   
   "datePublished": "2011-03-26T19:42:41\u002b05:30",
   "dateModified": "2011-03-26T19:42:41\u002b05:30",
@@ -57,14 +57,14 @@ If you look at the way the Buddha was portrayed in the middle-class text books y
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/understanding-buddha-and-colonial-consciousness\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/understanding-buddha-and-colonial-consciousness\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -502,7 +502,36 @@ If you look at the way the Buddha was portrayed in the middle-class text books y
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

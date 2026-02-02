@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What enables religion to spread? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/what-enables-religion-to-spread/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/what-enables-religion-to-spread/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="Question: why religion spreads among (some) human beings? What is it about them that enables the transmission of religion?
 This issue allows multiple answers. In this post, I would like to focus on the simplest answer to the question. In my theory, I presuppose an answer to the question: I assume that there is something in our constitution that allows religion to spread among human beings. The issue now is: why do I presuppose it, i.e. assume this state of affairs as a fact?">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/what-enables-religion-to-spread/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/what-enables-religion-to-spread/">
 
 
 
@@ -46,7 +46,7 @@ This issue allows multiple answers. In this post, I would like to focus on the s
   "headline": "What enables religion to spread?",
   "name": "What enables religion to spread?",
   "description": "\u003cp\u003eQuestion: why religion spreads among (some) human beings? What is it about them that enables the transmission of religion?\u003c\/p\u003e\n\u003cp\u003eThis issue allows multiple answers. In this post, I would like to focus on the simplest answer to the question. In my theory, I presuppose an answer to the question: I assume that there is something in our constitution that allows religion to spread among human beings. The issue now is: why do I presuppose it, i.e. assume this state of affairs as a fact?\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/what-enables-religion-to-spread\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/what-enables-religion-to-spread\/",
   
   "datePublished": "2011-03-23T22:11:00\u002b05:30",
   "dateModified": "2011-03-23T22:11:00\u002b05:30",
@@ -57,14 +57,14 @@ This issue allows multiple answers. In this post, I would like to focus on the s
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/what-enables-religion-to-spread\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/what-enables-religion-to-spread\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -503,7 +503,36 @@ This issue allows multiple answers. In this post, I would like to focus on the s
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Truth vs Usefulness of Theories &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/truth-vs-usefulness-of-theories/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/truth-vs-usefulness-of-theories/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 
 Speaking about the &lsquo;use&rsquo; or the &lsquo;results and effects&rsquo; of theories has a very venerable ancestry in the western philosophy. It is called &ldquo;pragmatism&rdquo;, if the &rsquo;truth&rsquo; is coupled to the &lsquo;uses&rsquo; and &lsquo;results and effects&rsquo;; it becomes &ldquo;instrumentalism&rdquo;, if the notion of truth is dispensed with. So, it might be useful if you were to familiarize with their arguments. (There is nothing specifically &lsquo;Indian&rsquo; with these claims, nor is there (of course) any need for there to be something.)">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/truth-vs-usefulness-of-theories/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/truth-vs-usefulness-of-theories/">
 
 
 
@@ -48,7 +48,7 @@ Speaking about the &lsquo;use&rsquo; or the &lsquo;results and effects&rsquo; of
   "headline": "Truth vs Usefulness of Theories",
   "name": "Truth vs Usefulness of Theories",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eSpeaking about the \u0026lsquo;use\u0026rsquo; or the \u0026lsquo;results and effects\u0026rsquo; of theories has a very venerable ancestry in the western philosophy. It is called \u0026ldquo;pragmatism\u0026rdquo;, if the \u0026rsquo;truth\u0026rsquo; is coupled to the \u0026lsquo;uses\u0026rsquo; and \u0026lsquo;results and effects\u0026rsquo;; it becomes \u0026ldquo;instrumentalism\u0026rdquo;, if the notion of truth is dispensed with. So, it might be useful if you were to familiarize with their arguments. (There is nothing specifically \u0026lsquo;Indian\u0026rsquo; with these claims, nor is there (of course) any need for there to be something.)\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/truth-vs-usefulness-of-theories\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/truth-vs-usefulness-of-theories\/",
   
   "datePublished": "2017-01-25T01:00:38\u002b05:30",
   "dateModified": "2017-01-25T01:00:38\u002b05:30",
@@ -59,14 +59,14 @@ Speaking about the &lsquo;use&rsquo; or the &lsquo;results and effects&rsquo; of
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/truth-vs-usefulness-of-theories\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/truth-vs-usefulness-of-theories\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -510,7 +510,36 @@ Speaking about the &lsquo;use&rsquo; or the &lsquo;results and effects&rsquo; of
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -34,5 +34,5 @@ In other words, we really need to re-think what we have been taught about who we
 
 This applies not merely to the endless diatribes about 'Hinduism' and 'Buddhism', but to many more things, things that we have imbibed along with our mother's milk. A long, arduous job, but worth every inch of the way. It appears to me that those of us, who are living elsewhere, in another culture and at other times than our forefathers, can at least attempt to undertake the job of critically reflecting on our own experiences instead of reproducing barren third-rate ideas borrowed from second-hand sources from elsewhere.
 
- 
+
 l:unet2

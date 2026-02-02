@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>A priori assumptions &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/a-priori-assumptions/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/a-priori-assumptions/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -21,7 +21,7 @@ Claus Oetke also makes the same point. Even if you say that the dialogue between
 But it would be absurd to dismiss Indian culture a priori without an investigation into India&rsquo;s intellectual contributions without entertaining the possibility that Indian culture and tradition might today in a very significant sense be a challenge to the Western traditions which form our intellectual background. Your question shuts it out because it comes from Sanskrit. In your story of the fieldwork model, all Indian parameters answer the sophisticated social scientists model. I am surprised because you have another strand which goes in the opposite direction. But the fundamental framework you are using suggests maximally that we might learn something like Sanskrit aesthetics, rasa theory, etc. or even something like curry. This kind of trivialization has resulted from colonialism: it has been and is, very suppressive.
 pp 42-43 of &ldquo;Classical Indian Thought and the English Language&rdquo; edited by Mullick, et al.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/a-priori-assumptions/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/a-priori-assumptions/">
 
 
 
@@ -50,7 +50,7 @@ pp 42-43 of &ldquo;Classical Indian Thought and the English Language&rdquo; edit
   "headline": "A priori assumptions",
   "name": "A priori assumptions",
   "description": "\u003cp\u003eI am going to ask for a clarification on a question which I find very troubling. Let me first read how you have formulated the problem from the text: Sanskrit scholars need modem social scientists. What disturbs me in anthropological fieldwork is that Sanskrit literature is made to play the role of native informer to social scientists, with the anthropologists asking themselves as they might with Maori culture: is there something valuable which has been lost?\nClaus Oetke also makes the same point. Even if you say that the dialogue between the primitive and the anthropologist is sophisticated, native informers are not merely informants. This idea, this interaction pattern which has existed for the last forty years has a double bias\u0026ndash;that of the anthropologist and that of the native informant. They have very powerful dialogues but anthropologists fundamentally take a priori positions, assuming that Sanskritists are the only ones who hold the key: they do not really believe that non-Sanskritists could possibly have anything to contribute.\nBut it would be absurd to dismiss Indian culture a priori without an investigation into India\u0026rsquo;s intellectual contributions without entertaining the possibility that Indian culture and tradition might today in a very significant sense be a challenge to the Western traditions which form our intellectual background. Your question shuts it out because it comes from Sanskrit. In your story of the fieldwork model, all Indian parameters answer the sophisticated social scientists model. I am surprised because you have another strand which goes in the opposite direction. But the fundamental framework you are using suggests maximally that we might learn something like Sanskrit aesthetics, rasa theory, etc. or even something like curry. This kind of trivialization has resulted from colonialism: it has been and is, very suppressive.\npp 42-43 of \u0026ldquo;Classical Indian Thought and the English Language\u0026rdquo; edited by Mullick, et al.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/a-priori-assumptions\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/a-priori-assumptions\/",
   
   "datePublished": "2022-09-28T14:13:37\u002b05:30",
   "dateModified": "2022-09-28T14:13:37\u002b05:30",
@@ -61,14 +61,14 @@ pp 42-43 of &ldquo;Classical Indian Thought and the English Language&rdquo; edit
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/a-priori-assumptions\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/a-priori-assumptions\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -509,7 +509,36 @@ pp 42-43 of &ldquo;Classical Indian Thought and the English Language&rdquo; edit
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

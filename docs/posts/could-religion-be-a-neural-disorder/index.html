@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Could religion be a neural disorder? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/could-religion-be-a-neural-disorder/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/could-religion-be-a-neural-disorder/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="Religion lays claim to truth, both about itself and the Cosmos. It is true the way no other account (that we know of) is. However, religion also generates (or brings into being) a configuration of learning. That is, it enables a coordination of different learning processes into a configuration. A culture is such a configuration of learning.
 Could religion be a neural disorder? I do not see how we could say any such thing unless we already presuppose (at a minimum) what we have to prove, viz., religion is untrue. One of the difficulties involved in disproving the truth of religion has to do with the fact that religion is true in a way none of the human cognitive products are. (Remember that its truth is founded on nothing else except itself.) Of course, we are free to say that all believers have some kind of pathology. (Many accounts of religion have tended to say this as well.) But this is an assumption that will not allow us to understand religion: we will see it either as a human product or as some kind of virus that affects human brain. In both cases, it is an assumption that begs the question.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/could-religion-be-a-neural-disorder/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/could-religion-be-a-neural-disorder/">
 
 
 
@@ -46,7 +46,7 @@ Could religion be a neural disorder? I do not see how we could say any such thin
   "headline": "Could religion be a neural disorder?",
   "name": "Could religion be a neural disorder?",
   "description": "\u003cp\u003eReligion lays claim to truth, both about itself and the Cosmos. It is true the way no other account (that we know of) is. However, religion also generates (or brings into being) a configuration of learning. That is, it enables a coordination of different learning processes into a configuration. A culture is such a configuration of learning.\u003c\/p\u003e\n\u003cp\u003eCould religion be a neural disorder? I do not see how we could say any such thing unless we already presuppose (at a minimum) what we have to prove, viz., religion is untrue. One of the difficulties involved in disproving the truth of religion has to do with the fact that religion is true in a way none of the human cognitive products are. (Remember that its truth is founded on nothing else except itself.) Of course, we are free to say that all believers have some kind of pathology. (Many accounts of religion have tended to say this as well.) But this is an assumption that will not allow us to understand religion: we will see it either as a human product or as some kind of virus that affects human brain. In both cases, it is an assumption that begs the question.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/could-religion-be-a-neural-disorder\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/could-religion-be-a-neural-disorder\/",
   
   "datePublished": "2011-03-05T22:51:03\u002b05:30",
   "dateModified": "2011-03-05T22:51:03\u002b05:30",
@@ -57,14 +57,14 @@ Could religion be a neural disorder? I do not see how we could say any such thin
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/could-religion-be-a-neural-disorder\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/could-religion-be-a-neural-disorder\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -500,7 +500,36 @@ Could religion be a neural disorder? I do not see how we could say any such thin
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

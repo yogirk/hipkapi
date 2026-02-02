@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Is relative ethics coherent? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/is-relative-ethics-coherent/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/is-relative-ethics-coherent/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Is relative ethics coherent?">
 <meta property="og:description" content="Does the notion of &ldquo;relative ethics&rdquo; make sense within the context of the western ethics? There are some attempts to develop &ldquo;ethical relativism&rdquo;, even though it is not clear what is relativistic about them. One would be a kind of factual claim: different people, different groups, different cultures have different principles which they consider as &ldquo;morally good&rdquo;. This does not make for ethical relativism. The issue still remains: are these principles also ethically good? That is to say, one undertakes a &rsquo;normative&rsquo; enquiry in order to find out whether all these principles are also morally acceptable. The second would be to come up with a moral norm that is &lsquo;relative&rsquo; to some person or group. Any examination would very quickly lead to the conclusion that, in so far as it is a norm, it is universalizable even if the domain of objects appears restricted. (That is because all &lsquo;universal&rsquo; laws specify the domain of objects, whether implicitly or explicitly, where they are applicable. The &lsquo;relativistic&rsquo; norms appear relativistic because they specify the domain explicitly.) In other words, no one has been able to come up with any coherent explication of what &lsquo;relativistic ethics&rsquo; means. (According to me, it is impossible to do so when we speak of normative ethics.)">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/is-relative-ethics-coherent/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/is-relative-ethics-coherent/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Is relative ethics coherent?",
   "name": "Is relative ethics coherent?",
   "description": "\u003cp\u003eDoes the notion of \u0026ldquo;relative ethics\u0026rdquo; make sense within the context of the western ethics? There are some attempts to develop \u0026ldquo;ethical relativism\u0026rdquo;, even though it is not clear what is relativistic about them. One would be a kind of factual claim: different people, different groups, different cultures have different principles which they consider as \u0026ldquo;morally good\u0026rdquo;. This does not make for ethical relativism. The issue still remains: are these principles also ethically good? That is to say, one undertakes a \u0026rsquo;normative\u0026rsquo; enquiry in order to find out whether all these principles are also morally acceptable. The second would be to come up with a moral norm that is \u0026lsquo;relative\u0026rsquo; to some person or group. Any examination would very quickly lead to the conclusion that, in so far as it is a norm, it is universalizable even if the \u003cem\u003edomain of objects\u003c\/em\u003e appears restricted. (That is because all \u0026lsquo;universal\u0026rsquo; laws specify the domain of objects, whether implicitly or explicitly, where they are applicable. The \u0026lsquo;relativistic\u0026rsquo; norms appear relativistic because they specify the domain explicitly.) In other words, no one has been able to come up with any coherent explication of what \u0026lsquo;relativistic ethics\u0026rsquo; means. (According to me, it is impossible to do so when we speak of normative ethics.)\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/is-relative-ethics-coherent\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/is-relative-ethics-coherent\/",
   
   "datePublished": "2011-03-03T01:40:07\u002b05:30",
   "dateModified": "2011-03-03T01:40:07\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/is-relative-ethics-coherent\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/is-relative-ethics-coherent\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -494,7 +494,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -38,5 +38,5 @@ There is Only one God, it is true, but there are false gods as well (according t
 
 Why this long note? Not to provide a short course in theology, but to draw your attention to something else that is far more alluring, important, and worthwhile than having altercations with a Mujeeb or a Naseem. And that is to start reflecting on our experiences, our traditions, our ways of living. Much the same way the Orientalists built an image of the Muslims, they have built even stronger images of ourselves, our so-called 'hindu religion', etc. These images were not built to flatter us (they were not even reasonably accurate descriptions of our part of the world), but to denigrate us. Question is: why should we reproduce their trash (about both ourselves and others) today? Are we not mature or intelligent enough to reflect about our experiences in the world, our traditions, etc. and see what we have and we do not? And who we are and who we are not?
 
- 
+
 l:unet1

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Who needs a world view? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/who-needs-a-world-view/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/who-needs-a-world-view/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Who needs a world view?">
 <meta property="og:description" content="1. In this talk, I would like to focus on the two attitudes that I have towards your project. It is not that I have ambiguous feelings; no, I have two distinct feelings. On the one hand, I am convinced that you will not reach your goal because such a goal is unreachable. Not only that. Your goal is undesirable and best abandoned. On the other hand, if you strive with integrity, clarity and passion to reach your goal, in the process, you will achieve results that are desirable, necessary and important. So, I would like to support and encourage your project. On the one hand, I believe that I can develop a few impossibility arguments that will show why you best abandon your project; on the other hand, I have given no thought to developing such a set of arguments because I want you to work further towards your goal so that you produce the results that we, as humankind, need. This might suggest that I am ambiguous toward your project, but, as I said, I am not. To explain thus attitude better, let me use an illustration from the history of philosophy (albeit in a slightly caricatured form),">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/who-needs-a-world-view/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/who-needs-a-world-view/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Who needs a world view?",
   "name": "Who needs a world view?",
   "description": "\u003cp\u003e\u003cstrong\u003e1\u003c\/strong\u003e. In this talk, I would like to focus on the two attitudes that I have towards your project. It is not that I have ambiguous feelings; no, I have two distinct feelings. On the one hand, I am convinced that you will not reach your goal because such a goal is unreachable. Not only that. Your goal is undesirable and best abandoned. On the other hand, if you strive with integrity, clarity and passion to reach your goal, in the process, you will achieve results that are desirable, necessary and important. So, I would like to support and encourage your project. On the one hand, I believe that I can develop a few impossibility arguments that will show why you best abandon your project; on the other hand, I have given no thought to developing such a set of arguments because I want you to work further towards your goal so that you produce the results that we, as humankind, need. This might suggest that I am ambiguous toward your project, but, as I said, I am not. To explain thus attitude better, let me use an illustration from the history of philosophy (albeit in a slightly caricatured form),\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/who-needs-a-world-view\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/who-needs-a-world-view\/",
   
   "datePublished": "2020-06-09T13:28:33\u002b05:30",
   "dateModified": "2020-06-09T13:28:33\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/who-needs-a-world-view\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/who-needs-a-world-view\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -525,7 +525,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

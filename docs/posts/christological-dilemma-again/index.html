@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Christological Dilemma &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/christological-dilemma-again/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/christological-dilemma-again/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 There are two issues here worth looking at separately.
 Is the problematic artificial? Well, it depends. I am not claiming that every Christian (past, present and future) is aware of this problematic, of course. This is a general formulation that attempts to capture the variety in Christianity as answers to some specific problem. It has the same status as some or another scientific law. Even though what we have in this Cosmos, say, are concrete, moving objects of specific size, volume, density and so on, we have laws that describe such specific movements as instances of a general law. In exactly the same way, I (partially) describe the varieties within Christianity as various answers to the Christological dilemma. Does that make my description artificial? Well, this is an issue about your own metaphysics: what &rsquo;natural&rsquo; is, what &lsquo;social&rsquo; is, what &lsquo;cultural&rsquo; is and what &lsquo;artificial&rsquo; is. All I can say is that my description does partially capture the variety within Christianity.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/christological-dilemma-again/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/christological-dilemma-again/">
 
 
 
@@ -48,7 +48,7 @@ Is the problematic artificial? Well, it depends. I am not claiming that every Ch
   "headline": "Christological Dilemma",
   "name": "Christological Dilemma",
   "description": "\u003cp\u003eX says that Christological dilemma is some kind of theological logic and suggests that ordinary Christians are not affected by this artificial problematic.\u003c\/p\u003e\n\u003cp\u003eThere are two issues here worth looking at separately.\u003c\/p\u003e\n\u003cp\u003eIs the problematic artificial? Well, it depends. I am not claiming that every Christian (past, present and future) is \u003cem\u003eaware\u003c\/em\u003e of this problematic, of course. This is a general formulation that attempts to capture the variety in Christianity as answers to some specific problem. It has the same status as some or another scientific law. Even though what we have in this Cosmos, say, are \u003cem\u003econcrete, moving objects of specific size, volume, density and so on\u003c\/em\u003e, we have laws that describe such specific movements as instances of a \u003cem\u003egeneral\u003c\/em\u003e law. In exactly the same way, I (partially) describe the varieties within Christianity as various answers to the Christological dilemma. Does that make my description artificial? Well, this is an issue about \u003cem\u003eyour own\u003c\/em\u003e metaphysics: what \u0026rsquo;natural\u0026rsquo; is, what \u0026lsquo;social\u0026rsquo; is, what \u0026lsquo;cultural\u0026rsquo; is and what \u0026lsquo;artificial\u0026rsquo; is. All I can say is that my description does partially capture the \u003cem\u003evariety\u003c\/em\u003e within Christianity.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/christological-dilemma-again\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/christological-dilemma-again\/",
   
   "datePublished": "2011-03-07T23:20:19\u002b05:30",
   "dateModified": "2011-03-07T23:20:19\u002b05:30",
@@ -59,14 +59,14 @@ Is the problematic artificial? Well, it depends. I am not claiming that every Ch
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/christological-dilemma-again\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/christological-dilemma-again\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -504,7 +504,36 @@ Is the problematic artificial? Well, it depends. I am not claiming that every Ch
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

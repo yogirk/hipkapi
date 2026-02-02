@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Rape of a Country -- Jakob de Roover &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/rape-of-a-country-jakob-de-roover/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/rape-of-a-country-jakob-de-roover/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 Jakob De Roover
  Imagine. A filmmaker travels to Belgium because she has heard about the pedophilia scandals in the country. She directs a documentary film including an interview with an infamous pedophile, who says that the girls he raped had actually seduced him and that they really enjoyed it. The filmmaker then comments that Belgian society is responsible for creating such pedophiles by teaching them what to think. Most men in this country are programmed in this way, she insists. In fact, this is all part of a larger disease and culture, which is also reflected in Belgian cinema. How would we Belgians react? We would find this shocking and infuriating. It is as though pedophilia is an expression of the core of our culture, as though we are programmed for child abuse.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/rape-of-a-country-jakob-de-roover/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/rape-of-a-country-jakob-de-roover/">
 
 
 
@@ -48,7 +48,7 @@ Jakob De Roover
   "headline": "Rape of a Country -- Jakob de Roover",
   "name": "Rape of a Country -- Jakob de Roover",
   "description": "\u003cp\u003e\u003cstrong\u003eRape of a Country\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003eJakob De Roover\u003c\/p\u003e\n\u003cp\u003e Imagine. A filmmaker travels to Belgium because she has heard about the pedophilia scandals in the country. She directs a documentary film including an interview with an infamous pedophile, who says that the girls he raped had actually seduced him and that they really enjoyed it. The filmmaker then comments that Belgian society is responsible for creating such pedophiles by teaching them what to think. Most men in this country are programmed in this way, she insists. In fact, this is all part of a larger disease and culture, which is also reflected in Belgian cinema. How would we Belgians react? We would find this shocking and infuriating. It is as though pedophilia is an expression of the core of our culture, as though we are programmed for child abuse.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/rape-of-a-country-jakob-de-roover\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/rape-of-a-country-jakob-de-roover\/",
   
   "datePublished": "2015-04-04T21:05:49\u002b05:30",
   "dateModified": "2015-04-04T21:05:49\u002b05:30",
@@ -59,14 +59,14 @@ Jakob De Roover
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/rape-of-a-country-jakob-de-roover\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/rape-of-a-country-jakob-de-roover\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -531,7 +531,36 @@ Jakob De Roover
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

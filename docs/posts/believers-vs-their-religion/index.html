@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Religious Intolerance and Believers &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/believers-vs-their-religion/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/believers-vs-their-religion/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="There are two distinct problems: one involving religions (like Christianity, Judaism and Islam) and the other involving the believers.
 Regarding these three religions: (a) insofar as these religions (Judaism, Christianity and Islam) are concerned, Hinduism is demonic. It is that because, according to all the three religions, &lsquo;Hindus&rsquo; worship the devil (&lsquo;shaitan&rsquo;) and his minions. That is to say, our Rama, Vishnu, Ganesha, Saraswathi, etc. are all lieutenants of the devil himself. The idols, according to their theology, are representations of the devil, and Pat Robertson is simply echoing this standard Christian (Judaic, and Islamic) doctrines. There is nothing &rsquo;extremist&rsquo; about this statement: it is, as I say, one of the basic claims of these three religions. Because we worship the devil, they are convinced, we will all go to hell (do not confuse this with our naraka) for eternity. Because they want to save souls, these religions want to convert others into &lsquo;believers&rsquo;. (By the way, the &lsquo;jealous&rsquo; God is God of the Jews - God of Israel - in one of the more known aspects from the Old Testament Bible. In the New Testament, God is supposed to be &rsquo;loving&rsquo;. If you want to irk a Jew just tell him that his God is jealous and punishing, whereas God of Christianity is loving.)">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/believers-vs-their-religion/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/believers-vs-their-religion/">
 
 
 
@@ -46,7 +46,7 @@ Regarding these three religions: (a) insofar as these religions (Judaism, Christ
   "headline": "Religious Intolerance and Believers",
   "name": "Religious Intolerance and Believers",
   "description": "\u003cp\u003eThere are two distinct problems: one involving religions (like Christianity, Judaism and Islam) and the other involving the believers.\u003c\/p\u003e\n\u003cp\u003eRegarding these three religions: (a) insofar as these religions (Judaism, Christianity and Islam) are concerned, Hinduism is demonic. It is that because, according to all the three religions, \u0026lsquo;Hindus\u0026rsquo; worship the devil (\u0026lsquo;shaitan\u0026rsquo;) and his minions. That is to say, our Rama, Vishnu, Ganesha, Saraswathi, etc. are all lieutenants of the devil himself. The idols, according to their theology, are representations of the devil, and Pat Robertson is simply echoing this standard Christian (Judaic, and Islamic) doctrines. There is nothing \u0026rsquo;extremist\u0026rsquo; about this statement: it is, as I say, one of the basic claims of these three religions. Because we worship the devil, they are convinced, we will all go to hell (do not confuse this with our naraka) for eternity. Because they want to save souls, these religions want to convert others into \u0026lsquo;believers\u0026rsquo;. (By the way, the \u0026lsquo;jealous\u0026rsquo; God is God of the Jews - God of Israel - in one of the more known aspects from the Old Testament Bible. In the New Testament, God is supposed to be \u0026rsquo;loving\u0026rsquo;. If you want to irk a Jew just tell him that his God is jealous and punishing, whereas God of Christianity is loving.)\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/believers-vs-their-religion\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/believers-vs-their-religion\/",
   
   "datePublished": "2014-03-25T21:15:50\u002b05:30",
   "dateModified": "2014-03-25T21:15:50\u002b05:30",
@@ -57,14 +57,14 @@ Regarding these three religions: (a) insofar as these religions (Judaism, Christ
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/believers-vs-their-religion\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/believers-vs-their-religion\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -511,7 +511,36 @@ Regarding these three religions: (a) insofar as these religions (Judaism, Christ
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

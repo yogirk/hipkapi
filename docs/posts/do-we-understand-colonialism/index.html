@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Do we understand Colonialism? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/do-we-understand-colonialism/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/do-we-understand-colonialism/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Do we understand Colonialism?">
 <meta property="og:description" content="Colonialism has been one of the most significant phenomena in the history of humankind in the last three hundred years or so. Its importance can hardly be overstated. Yet, as many have said before, it has not been adequately theorized. There is of course a great deal of material on the histories, the effects, and the political resistances to colonialism. Reading them, however, merely increases the puzzlement about colonialism: though it seems to be at the root of all the ills of the modern world, what is not clear is how or why that is the case. Perhaps, that has to do with an implicit consensus shared by many: everyone appears to know what it is and most agree about its immoral nature. Colonialism emerges as a self-clarifying and a self-explaining phenomenon. If it is self-luminescent and so manifest an evil, why did many people in the Metropolis argue both about the nature of the phenomenon and its moral status for centuries on end?">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/do-we-understand-colonialism/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/do-we-understand-colonialism/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Do we understand Colonialism?",
   "name": "Do we understand Colonialism?",
   "description": "\u003cp\u003eColonialism has been one of the most significant phenomena in the history of humankind in the last three hundred years or so. Its importance can hardly be overstated. Yet, as many have said before, it has not been adequately theorized. There is of course a great deal of material on the histories, the effects, and the political resistances to colonialism. Reading them, however, \u003cstrong\u003emerely increases the puzzlement about colonialism\u003c\/strong\u003e: though it seems to be at \u003cstrong\u003ethe root of all the ills\u003c\/strong\u003e of the modern world, what is not clear is how or why that is the case. Perhaps, that has to do with an implicit consensus shared by many: everyone appears to know what it is and most agree about its immoral nature. \u003cem\u003eColonialism emerges as a self-clarifying and a self-explaining phenomenon. If it is self-luminescent and so manifest an evil, why did many people in the Metropolis argue both about the nature of the phenomenon and its moral status for centuries on end?\u003c\/em\u003e\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/do-we-understand-colonialism\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/do-we-understand-colonialism\/",
   
   "datePublished": "2011-04-01T18:32:33\u002b05:30",
   "dateModified": "2011-04-01T18:32:33\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/do-we-understand-colonialism\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/do-we-understand-colonialism\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -502,7 +502,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Principle of Charity and Normativity &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/principle-of-charity-and-normativity/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/principle-of-charity-and-normativity/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="This one begins to reflect about the principle of charity in relationship to the current US President, Donald Trump (from now on, Trump).
 As you might know, the principle of charity has been formulated in different ways by different people. (Even the first page of a google search of the word ‘principle of charity’ allows you to access many of these documents quickly.) This post will stick strictly to your formulation: “a principle of charity says that (like the rain dance) a long-standing  practice should not be attributed to idiocy without strong evidence”. This formulation itself will not be questioned but assumed as a given. The only evidence used in this post is an extremely fragmentary viewing of the CNN and the BBC World coverages of Trump during the last week or so. (No thorough viewing of either of the two channels is claimed; the references in this post merely pick out fragments from programs as memory ‘recalls’ them today.) Two dramatis personae: Some media coverage and the event of Trump presidency; one question: what does the principle of charity do or advocate in the following cases? Such cases can be indefinitely multiplied but it is restricted here to five. One side of the argument is presented briefly only because that side of the argument is in wide circulation.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/principle-of-charity-and-normativity/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/principle-of-charity-and-normativity/">
 
 
 
@@ -46,7 +46,7 @@ As you might know, the principle of charity has been formulated in different
   "headline": "Principle of Charity and Normativity",
   "name": "Principle of Charity and Normativity",
   "description": "\u003cp\u003eThis one begins to reflect about the principle of charity in relationship to the current US President, Donald Trump (from now on, Trump).\u003c\/p\u003e\n\u003cp\u003eAs you might know, the principle of charity has been formulated in different ways by different people. (Even the first page of a google search of the word ‘principle of charity’ allows you to access many of these documents quickly.) This post will stick strictly to your formulation: “a principle of charity says that (like the rain dance) a long-standing  practice should not be attributed to idiocy without strong evidence”. This formulation itself will not be questioned but assumed as a given. The only evidence used in this post is an extremely fragmentary viewing of the CNN and the BBC World coverages of Trump during the last week or so. (No thorough viewing of either of the two channels is claimed; the references in this post merely pick out fragments from programs as memory ‘recalls’ them today.) Two dramatis personae: Some media coverage and the event of Trump presidency; one question: what does the principle of charity do or advocate in the following cases? Such cases can be indefinitely multiplied but it is restricted here to five. One side of the argument is presented briefly only because that side of the argument is in wide circulation.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/principle-of-charity-and-normativity\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/principle-of-charity-and-normativity\/",
   
   "datePublished": "2017-09-28T12:38:13\u002b05:30",
   "dateModified": "2017-09-28T12:38:13\u002b05:30",
@@ -57,14 +57,14 @@ As you might know, the principle of charity has been formulated in different
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/principle-of-charity-and-normativity\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/principle-of-charity-and-normativity\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -537,7 +537,36 @@ As you might know, the principle of charity has been formulated in different
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

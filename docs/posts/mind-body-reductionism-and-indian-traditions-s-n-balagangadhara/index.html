@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mind-body reductionism and Indian traditions –S.N.Balagangadhara &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/mind-body-reductionism-and-indian-traditions-s-n-balagangadhara/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/mind-body-reductionism-and-indian-traditions-s-n-balagangadhara/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -21,7 +21,7 @@ Consider the everyday phenomenon of sunrise and sunset. We see the movement of t
 
 Of course, appearance is as much a part of Reality as the essence (or underlying reality, or whatever terminology you feel like using) is. So, we have three notions: appearance, the underlying reality, and the Reality that unites appearance with the underlying reality. (One might as well call them reality1, reality2 and reality3. But one does not do this because of the deep-rooted western metaphysical assumption that there is only one reality. However, since I do not want to quarrel with this assumption now, I will make no further remarks on this issue.)">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/mind-body-reductionism-and-indian-traditions-s-n-balagangadhara/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/mind-body-reductionism-and-indian-traditions-s-n-balagangadhara/">
 
 
 
@@ -50,7 +50,7 @@ Of course, appearance is as much a part of Reality as the essence (or underlying
   "headline": "Mind-body reductionism and Indian traditions –S.N.Balagangadhara",
   "name": "Mind-body reductionism and Indian traditions –S.N.Balagangadhara",
   "description": "\u003col\u003e\n\u003cli\u003eConsider the everyday \u003cem\u003ephenomenon\u003c\/em\u003e of sunrise and sunset. We see the movement of the sun on the horizon and, for a very long period of time, people thought that they observed this because that is the way the reality is: the sun moves around the earth. With Galileo Galilei, two things happened. (a) He argued that the earth moves round the sun. (b) On the basis of this theory, he claimed that we are compelled to observe the movement of the sun around the earth. Because of this, a distinction became necessary: the movement of the sun is merely a phenomenon, whereas the movement of the earth is the real truth. What we previously thought as reality became downgraded to a mere appearance and something we did not know until then became the reality underlying this appearance.\u003c\/li\u003e\n\u003c\/ol\u003e\n\u003cp\u003eOf course, appearance is as much a part of Reality as the essence (or underlying reality, or whatever terminology you feel like using) is. So, we have three notions: appearance, the underlying reality, and the Reality that unites appearance with the underlying reality. (One might as well call them reality1, reality2 and reality3. But one does not do this because of the deep-rooted western \u003cem\u003emetaphysical assumption\u003c\/em\u003e that there is only \u003cem\u003eone reality\u003c\/em\u003e. However, since I do not want to quarrel with this assumption now, I will make no further remarks on this issue.)\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/mind-body-reductionism-and-indian-traditions-s-n-balagangadhara\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/mind-body-reductionism-and-indian-traditions-s-n-balagangadhara\/",
   
   "datePublished": "2011-03-03T19:33:42\u002b05:30",
   "dateModified": "2011-03-03T19:33:42\u002b05:30",
@@ -61,14 +61,14 @@ Of course, appearance is as much a part of Reality as the essence (or underlying
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/mind-body-reductionism-and-indian-traditions-s-n-balagangadhara\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/mind-body-reductionism-and-indian-traditions-s-n-balagangadhara\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -529,7 +529,36 @@ Of course, appearance is as much a part of Reality as the essence (or underlying
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

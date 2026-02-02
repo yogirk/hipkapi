@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reductive explanations in social sciences – S.N. Balagangadhara &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/reductive-explanations-in-social-sciences-s-n-balagangadh/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/reductive-explanations-in-social-sciences-s-n-balagangadh/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 
 To begin with, there is the feeling that scientific explanations, with their emphasis on rationality and objectivity, are reductive in nature. Wherein lies the root of this feeling? Let us say that some physical theory describes the motion of a snow flake gently floating down to earth or a rose petal lazily spinning in the air. Or that some branch of human genetics computes the probability of a particular human child being born with absolutely dark eyes or ones that are brilliantly blue. Is either of these two explanations reductive in nature? Not quite: their mathematical calculations tell us very little about the laziness of the petal or about the brilliance of blue eyes, it is true, but it is not their &lsquo;job&rsquo; to do so. If you want to relish descriptions of an autumn evening or a spring morning, you do not open Feynman&rsquo;s Lectures on Physics, do you? You go elsewhere. In other words, the theories in the natural sciences are not &lsquo;reductive&rsquo; in the sense that they do not reduce the beauty of a particular sunset to the motion of earth around the Sun even if they explain sunrise and sunset.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/reductive-explanations-in-social-sciences-s-n-balagangadh/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/reductive-explanations-in-social-sciences-s-n-balagangadh/">
 
 
 
@@ -48,7 +48,7 @@ To begin with, there is the feeling that scientific explanations, with their emp
   "headline": "Reductive explanations in social sciences – S.N. Balagangadhara",
   "name": "Reductive explanations in social sciences – S.N. Balagangadhara",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eTo begin with, there is the feeling that scientific explanations, with their emphasis on rationality and objectivity, are reductive in nature. Wherein lies the \u003cem\u003eroot\u003c\/em\u003e of this feeling? Let us say that some physical theory describes the motion of a snow flake gently floating down to earth or a rose petal lazily spinning in the air. Or that some branch of human genetics computes the probability of a particular human child being born with absolutely dark eyes or ones that are brilliantly blue. Is either of these two explanations reductive in nature? Not quite: their mathematical calculations tell us very little about the laziness of the petal or about the brilliance of blue eyes, it is true, but it is not their \u0026lsquo;job\u0026rsquo; to do so. If you want to relish descriptions of an autumn evening or a spring morning, you do not open Feynman\u0026rsquo;s Lectures on Physics, do you? You go elsewhere. In other words, the theories in the natural sciences are not \u0026lsquo;reductive\u0026rsquo; in the sense that they do not reduce the \u003cem\u003ebeauty\u003c\/em\u003e of a particular sunset to the motion of earth around the Sun even if they explain sunrise and sunset.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/reductive-explanations-in-social-sciences-s-n-balagangadh\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/reductive-explanations-in-social-sciences-s-n-balagangadh\/",
   
   "datePublished": "2011-02-28T21:28:03\u002b05:30",
   "dateModified": "2011-02-28T21:28:03\u002b05:30",
@@ -59,14 +59,14 @@ To begin with, there is the feeling that scientific explanations, with their emp
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/reductive-explanations-in-social-sciences-s-n-balagangadh\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/reductive-explanations-in-social-sciences-s-n-balagangadh\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -532,7 +532,36 @@ To begin with, there is the feeling that scientific explanations, with their emp
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

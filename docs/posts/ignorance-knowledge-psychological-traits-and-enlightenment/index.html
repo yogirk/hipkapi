@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Psychological Traits and Enlightenment: Ignorance and Knowledge &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/ignorance-knowledge-psychological-traits-and-enlightenment/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/ignorance-knowledge-psychological-traits-and-enlightenment/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Psychological Traits and Enlightenment: Ignorance and Knowledge">
 <meta property="og:description" content="About the relationship between scientific knowledge and enlightenment: If every human being can become enlightened (at any time, place or culture), it logically follows that some or another hypothesis about the world cannot be a requirement to become enlightened. People were enlightened (in the past) without possessing knowledge that humankind has today; one can become enlightened without being a physicist or a geneticist; one can believe in the existence of ghosts and spirits and still be enlightened… and so on. In the same way one can seek and find enlightenment while believing that human body is composed of five sheaths, one can also become enlightened by dismissing the idea of five sheaths as a false and primitive belief. There is, however, a caveat that ties knowledge to enlightenment. Perhaps, a contemporary example would help here.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/ignorance-knowledge-psychological-traits-and-enlightenment/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/ignorance-knowledge-psychological-traits-and-enlightenment/">
 
 
 
@@ -46,7 +46,7 @@
   "headline": "Psychological Traits and Enlightenment: Ignorance and Knowledge",
   "name": "Psychological Traits and Enlightenment: Ignorance and Knowledge",
   "description": "\u003cp\u003eAbout the relationship between scientific knowledge and enlightenment: If every human being can become enlightened (at any time, place or culture), it logically follows that some or another hypothesis about the world cannot be a requirement to become enlightened. People were enlightened (in the past) without possessing knowledge that humankind has today; one can become enlightened without being a physicist or a geneticist; one can believe in the existence of ghosts and spirits and still be enlightened… and so on. In the same way one can seek and find enlightenment while believing that human body is composed of five sheaths, one can also become enlightened by dismissing the idea of five sheaths as a false and primitive belief. There is, however, a caveat that ties knowledge to enlightenment. Perhaps, a contemporary example would help here.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/ignorance-knowledge-psychological-traits-and-enlightenment\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/ignorance-knowledge-psychological-traits-and-enlightenment\/",
   
   "datePublished": "2017-01-19T21:30:43\u002b05:30",
   "dateModified": "2017-01-19T21:30:43\u002b05:30",
@@ -57,14 +57,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/ignorance-knowledge-psychological-traits-and-enlightenment\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/ignorance-knowledge-psychological-traits-and-enlightenment\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -517,7 +517,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

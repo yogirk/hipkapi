@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Colonial Consciousness as a process and as an event &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/colonial-consciousness-as-a-process-and-as-an-event/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/colonial-consciousness-as-a-process-and-as-an-event/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="It is an event because the colonial consciousness that I am talking about comprises of multiplicity of actions executed by indefinitely many Indians over a long period. It is a process because colonial consciousness reproduces itself, colonial consciousness is transmitted from generation to generation and it is learnt. Consequently, we need to understand the mechanisms of this process and the structure of that event.
 At the minimum, this process has to be cognitive in nature. It must be cognitive because a cognitive framework (and theories within that framework) denies access to our experience and makes us reproduce some sets of descriptions as though they are descriptions of our experience. It has to be cognitive at the minimum because in reproducing some sets of descriptions and in embellishing them with details, we act as though we understand such descriptions. In other words, the growth and spread of colonial consciousness requires some kind of a cognitive explanation.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/colonial-consciousness-as-a-process-and-as-an-event/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/colonial-consciousness-as-a-process-and-as-an-event/">
 
 
 
@@ -46,7 +46,7 @@ At the minimum, this process has to be cognitive in nature. It must be cognitive
   "headline": "Colonial Consciousness as a process and as an event",
   "name": "Colonial Consciousness as a process and as an event",
   "description": "\u003cp\u003eIt is an event because the colonial consciousness that I am talking about comprises of multiplicity of actions executed by indefinitely many Indians over a long period. It is a process because colonial consciousness reproduces itself, colonial consciousness is transmitted from generation to generation and it is learnt. Consequently, we need to understand the mechanisms of this process and the structure of that event.\u003c\/p\u003e\n\u003cp\u003eAt the minimum, this process has to be cognitive in nature. It must be cognitive because a cognitive framework (and theories within that framework) denies access to our experience and makes us reproduce some sets of descriptions as though they are descriptions of our experience. It has to be cognitive at the minimum because in reproducing some sets of descriptions and in embellishing them with details, we act as though we understand such descriptions. In other words, the growth and spread of colonial consciousness requires some kind of a cognitive explanation.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/colonial-consciousness-as-a-process-and-as-an-event\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/colonial-consciousness-as-a-process-and-as-an-event\/",
   
   "datePublished": "2011-03-05T09:27:35\u002b05:30",
   "dateModified": "2011-03-05T09:27:35\u002b05:30",
@@ -57,14 +57,14 @@ At the minimum, this process has to be cognitive in nature. It must be cognitive
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/colonial-consciousness-as-a-process-and-as-an-event\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/colonial-consciousness-as-a-process-and-as-an-event\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -510,7 +510,36 @@ At the minimum, this process has to be cognitive in nature. It must be cognitive
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

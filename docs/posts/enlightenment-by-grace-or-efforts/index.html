@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Enlightenment by Grace or Efforts or Birth? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/enlightenment-by-grace-or-efforts/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/enlightenment-by-grace-or-efforts/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -25,7 +25,7 @@ te&rsquo; pi yānti parāṃ gatim
 
 The situation is a bit more complex. The word &lsquo;yoni&rsquo; here does much more work than one assumes. All the four are born from &lsquo;Yoni&rsquo; but yet are distinguished in terms of punya and paapa. The last two are earnt by the organism in question: &lsquo;svayaarjita&rsquo;, suggesting that being a brahmana and a rajarshi are earnt titles. As against it, we have a gender and a shudra. ">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/enlightenment-by-grace-or-efforts/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/enlightenment-by-grace-or-efforts/">
 
 
 
@@ -60,7 +60,7 @@ The situation is a bit more complex. The word &lsquo;yoni&rsquo; here does much 
   "headline": "Enlightenment by Grace or Efforts or Birth?",
   "name": "Enlightenment by Grace or Efforts or Birth?",
   "description": "\u003cblockquote\u003e\n\u003cp\u003e9.32 Bhagavadgita\u003c\/p\u003e\n\u003cp\u003emāṃ hi pārtha vyapāśritya\nye \u0026lsquo;pi syuḥ pāpayonayaḥ\nstriyo vaiśyāstathā śūdrās\nte\u0026rsquo; pi yānti parāṃ gatim\u003c\/p\u003e\n\u003c\/blockquote\u003e\n\u003cp\u003eThe situation is a bit more complex. The word \u0026lsquo;yoni\u0026rsquo; here does much more work than one assumes. All the four are born from \u0026lsquo;Yoni\u0026rsquo; but yet are distinguished in terms of punya and paapa. The last two are earnt by the organism in question: \u0026lsquo;svayaarjita\u0026rsquo;, suggesting that being a brahmana and a rajarshi are earnt titles. As against it, we have a gender and a shudra. \u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/enlightenment-by-grace-or-efforts\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/enlightenment-by-grace-or-efforts\/",
   
   "datePublished": "2018-03-11T13:41:52\u002b05:30",
   "dateModified": "2018-03-11T13:41:52\u002b05:30",
@@ -71,14 +71,14 @@ The situation is a bit more complex. The word &lsquo;yoni&rsquo; here does much 
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/enlightenment-by-grace-or-efforts\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/enlightenment-by-grace-or-efforts\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -530,7 +530,36 @@ te&rsquo; pi yānti parāṃ gatim</p>
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Christian theology and linguistic intuitions: prostitute &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/christian-theology-and-linguistic-intuitions-prostitute/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/christian-theology-and-linguistic-intuitions-prostitute/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 
 In so far as the suggestion is that the English word &lsquo;prostitute&rsquo; does not capture the connotations of the earlier uses of &lsquo;Veshya&rsquo;, as I said, I agree with all of you. In this sense, if you further suggest that &lsquo;Apsara&rsquo; should not be considered as a synonym for &lsquo;prostitute&rsquo;, I would also agree. I do not suggest that &lsquo;apsara&rsquo; and &lsquo;prostitute&rsquo; are synonyms: for two words to be synonymous in this context, we need that both words refer to one and the same set of objects. This cannot be the case here because &lsquo;apsara&rsquo; picks out only non-human entities, whereas &lsquo;prostitute&rsquo; can also refer to human beings. I would also be grateful if anyone has a better suggestion for translating &lsquo;Veshya&rsquo;. As I said in an earlier post,&lsquo;courtesan&rsquo; is an alternative. However, a &lsquo;courtesan&rsquo; is also a prostitute, whatever else she is. On this, linguistic part, there are no disagreements.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/christian-theology-and-linguistic-intuitions-prostitute/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/christian-theology-and-linguistic-intuitions-prostitute/">
 
 
 
@@ -48,7 +48,7 @@ In so far as the suggestion is that the English word &lsquo;prostitute&rsquo; do
   "headline": "Christian theology and linguistic intuitions: prostitute",
   "name": "Christian theology and linguistic intuitions: prostitute",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eIn so far as the suggestion is that the English word \u0026lsquo;prostitute\u0026rsquo; does not capture the connotations of the earlier uses of \u0026lsquo;Veshya\u0026rsquo;, as I said, I agree with all of you. In this sense, if you further suggest that \u0026lsquo;Apsara\u0026rsquo; should not be considered as a synonym for \u0026lsquo;prostitute\u0026rsquo;, I would also agree. I do not suggest that \u0026lsquo;apsara\u0026rsquo; and \u0026lsquo;prostitute\u0026rsquo; are synonyms: for two words to be synonymous in this context, we need that both words refer to one and the same set of objects. This cannot be the case here because \u0026lsquo;apsara\u0026rsquo; picks out only non-human entities, whereas \u0026lsquo;prostitute\u0026rsquo; can also refer to human beings. I would also be grateful if anyone has a better suggestion for translating \u0026lsquo;Veshya\u0026rsquo;. As I said in an earlier post,\u0026lsquo;courtesan\u0026rsquo; is an alternative. However, a \u0026lsquo;courtesan\u0026rsquo; is also a prostitute, whatever else she is. On this, linguistic part, there are no disagreements.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/christian-theology-and-linguistic-intuitions-prostitute\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/christian-theology-and-linguistic-intuitions-prostitute\/",
   
   "datePublished": "2011-03-23T06:30:50\u002b05:30",
   "dateModified": "2011-03-23T06:30:50\u002b05:30",
@@ -59,14 +59,14 @@ In so far as the suggestion is that the English word &lsquo;prostitute&rsquo; do
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/christian-theology-and-linguistic-intuitions-prostitute\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/christian-theology-and-linguistic-intuitions-prostitute\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -541,7 +541,36 @@ In so far as the suggestion is that the English word &lsquo;prostitute&rsquo; do
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

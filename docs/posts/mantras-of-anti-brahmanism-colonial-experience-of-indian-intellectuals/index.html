@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mantras of Anti-Brahmanism: Colonial Experience of Indian Intellectuals &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/mantras-of-anti-brahmanism-colonial-experience-of-indian-intellectuals/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/mantras-of-anti-brahmanism-colonial-experience-of-indian-intellectuals/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="Colonial Experience of Indian Intellectuals
 Opposing factions in the Orientalist-Anglicist controversy in the 19th century shared a common understanding of Indian religion and society. Europeans from diverse ideological and religious backgrounds identified the brahmins as priests and brahmanism as a &lsquo;religion of the priests&rsquo;. This common understanding derived its consistency from a Christian understanding of religion. Even the writings of Rammohun Roy and Babasaheb Ambedkar, this article suggests, reveal an unconditional acceptance of Europe&rsquo;s conceptualisation in a debate over religion that continued into the 20th century">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/mantras-of-anti-brahmanism-colonial-experience-of-indian-intellectuals/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/mantras-of-anti-brahmanism-colonial-experience-of-indian-intellectuals/">
 
 
 
@@ -46,7 +46,7 @@ Opposing factions in the Orientalist-Anglicist controversy in the 19th century s
   "headline": "Mantras of Anti-Brahmanism: Colonial Experience of Indian Intellectuals",
   "name": "Mantras of Anti-Brahmanism: Colonial Experience of Indian Intellectuals",
   "description": "\u003cp\u003e\u003cstrong\u003eColonial Experience of Indian Intellectuals\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cem\u003eOpposing factions in the Orientalist-Anglicist controversy in the 19th century shared a common understanding of Indian religion and society. Europeans from diverse ideological and religious backgrounds identified the brahmins as priests and brahmanism as a \u0026lsquo;religion of the priests\u0026rsquo;. This common understanding derived its consistency from a Christian understanding of religion. Even the writings of Rammohun Roy and Babasaheb Ambedkar, this article suggests, reveal an unconditional acceptance of Europe\u0026rsquo;s conceptualisation in a debate over religion that continued into the 20th century\u003c\/em\u003e\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/mantras-of-anti-brahmanism-colonial-experience-of-indian-intellectuals\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/mantras-of-anti-brahmanism-colonial-experience-of-indian-intellectuals\/",
   
   "datePublished": "2011-04-02T09:08:41\u002b05:30",
   "dateModified": "2011-04-02T09:08:41\u002b05:30",
@@ -57,14 +57,14 @@ Opposing factions in the Orientalist-Anglicist controversy in the 19th century s
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/mantras-of-anti-brahmanism-colonial-experience-of-indian-intellectuals\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/mantras-of-anti-brahmanism-colonial-experience-of-indian-intellectuals\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -601,7 +601,36 @@ Wilson, Horace Hayman (1828): &lsquo;A Sketch of the Religious Sects of the Hind
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

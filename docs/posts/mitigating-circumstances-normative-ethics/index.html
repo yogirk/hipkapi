@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mitigating circumstances, normative ethics &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/mitigating-circumstances-normative-ethics/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/mitigating-circumstances-normative-ethics/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="The universalisability of norms does not mean that the western people all factually follow these norms. Even if everyone were to lie, the ethical statement &ldquo;No one ought to lie&rdquo; is a universal moral statement.
 The existence of debates about abortion, war, etc. is indicative of the nature of normative rules. Because &ldquo;one ought not to kill&rdquo;, debates and doctrines about &ldquo;justified war&rdquo; come into being. It is important to note that these doctrines do not contradict the injunction not to kill but provide justifications for undertaking such an immoral action. (They provide, so to speak, the mitigating circumstances.)">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/mitigating-circumstances-normative-ethics/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/mitigating-circumstances-normative-ethics/">
 
 
 
@@ -46,7 +46,7 @@ The existence of debates about abortion, war, etc. is indicative of the nature o
   "headline": "Mitigating circumstances, normative ethics",
   "name": "Mitigating circumstances, normative ethics",
   "description": "\u003cp\u003eThe universalisability of norms does not mean that the western people all factually follow these norms. Even if everyone were to lie, the ethical statement \u0026ldquo;No one ought to lie\u0026rdquo; is a universal moral statement.\u003c\/p\u003e\n\u003cp\u003eThe existence of \u003cem\u003edebates\u003c\/em\u003e about abortion, war, etc. is indicative of the nature of normative rules. Because \u0026ldquo;one ought not to kill\u0026rdquo;, debates and doctrines about \u0026ldquo;justified war\u0026rdquo; come into being. It is important to note that these doctrines do not contradict the injunction not to kill but provide justifications for undertaking such an immoral action. (They provide, so to speak, the mitigating circumstances.)\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/mitigating-circumstances-normative-ethics\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/mitigating-circumstances-normative-ethics\/",
   
   "datePublished": "2011-03-03T03:55:58\u002b05:30",
   "dateModified": "2011-03-03T03:55:58\u002b05:30",
@@ -57,14 +57,14 @@ The existence of debates about abortion, war, etc. is indicative of the nature o
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/mitigating-circumstances-normative-ethics\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/mitigating-circumstances-normative-ethics\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -498,7 +498,36 @@ The existence of debates about abortion, war, etc. is indicative of the nature o
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

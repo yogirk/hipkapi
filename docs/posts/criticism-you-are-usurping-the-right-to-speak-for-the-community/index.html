@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Criticism: you are usurping the right to speak for the community. &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/criticism-you-are-usurping-the-right-to-speak-for-the-community/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/criticism-you-are-usurping-the-right-to-speak-for-the-community/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="Let me lay this fear to rest: I am not speaking for the community. To the question, &lsquo;Who speaks for the Indian traditions?&rsquo; my reply is simple: anyone, everyone, whoever feels like. (Of course, I do not consider the question very sensible, but that is a side-issue for the moment.)
 Having said this much, let me also say that my discussion with Jeffrey Kripal is not about the moral right to speak in the name of the community but whether such speeches constitute knowledge. In other words, I evaluate what someone says about the Indian traditions for its veracity and it is here that I find Kripal falling way short.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/criticism-you-are-usurping-the-right-to-speak-for-the-community/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/criticism-you-are-usurping-the-right-to-speak-for-the-community/">
 
 
 
@@ -46,7 +46,7 @@ Having said this much, let me also say that my discussion with Jeffrey Kripal is
   "headline": "Criticism: you are usurping the right to speak for the community.",
   "name": "Criticism: you are usurping the right to speak for the community.",
   "description": "\u003cp\u003eLet me lay this fear to rest: I am \u003cem\u003enot\u003c\/em\u003e speaking for the community. To the question, \u0026lsquo;Who speaks for the Indian traditions?\u0026rsquo; my reply is simple: \u003cem\u003eanyone, everyone, whoever feels like\u003c\/em\u003e. (Of course, I do not consider the question very sensible, but that is a side-issue for the moment.)\u003c\/p\u003e\n\u003cp\u003eHaving said this much, let me also say that my discussion with Jeffrey Kripal is not about the moral right to speak in the name of the community but whether such speeches \u003cem\u003econstitute knowledge\u003c\/em\u003e. In other words, I \u003cem\u003eevaluate\u003c\/em\u003e what someone says about the Indian traditions for its veracity and it is here that I find Kripal falling way short.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/criticism-you-are-usurping-the-right-to-speak-for-the-community\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/criticism-you-are-usurping-the-right-to-speak-for-the-community\/",
   
   "datePublished": "2011-03-02T07:47:05\u002b05:30",
   "dateModified": "2011-03-02T07:47:05\u002b05:30",
@@ -57,14 +57,14 @@ Having said this much, let me also say that my discussion with Jeffrey Kripal is
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/criticism-you-are-usurping-the-right-to-speak-for-the-community\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/criticism-you-are-usurping-the-right-to-speak-for-the-community\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -497,7 +497,36 @@ Having said this much, let me also say that my discussion with Jeffrey Kripal is
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

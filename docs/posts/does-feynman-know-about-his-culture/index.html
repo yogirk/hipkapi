@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Does Feynman know about his culture? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/does-feynman-know-about-his-culture/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/does-feynman-know-about-his-culture/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -21,7 +21,7 @@
 
 I am not in the least impressed by (in fact, I am disgusted by and contemptuous about) the attitude of the likes of Feynman. Here is one reason why: I too have a criticism of (some) social sciences and (some) aspects of the western philosophy. I too consider that some of these social sciences are not sciences in any sense of the term. But that is because I believe that some of these disciplines endlessly embroider theology and I feel that my research might go someway in setting the situation straight. In other words, as far as I am concerned, the current state of social science is a problem which requires to be addressed seriously. The reason for the seriousness must be obvious: we need to urgently understand the nature of human beings in all its facets, if we have to survive as a species. Making fun of philosophy and social sciences is one thing; to do something about it is entirely different.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/does-feynman-know-about-his-culture/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/does-feynman-know-about-his-culture/">
 
 
 
@@ -50,7 +50,7 @@ I am not in the least impressed by (in fact, I am disgusted by and contemptuous 
   "headline": "Does Feynman know about his culture?",
   "name": "Does Feynman know about his culture?",
   "description": "\u003cp\u003eParaphrasing Feynman: \u0026ldquo;the answers proposed like counting angels that can dance on the head of a pin are trivial.\u0026rdquo;\u003c\/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eI am not in the least impressed by (in fact, I am disgusted by and contemptuous about) the attitude of the likes of Feynman. Here is one reason why: I too have a criticism of (some) social sciences and (some) aspects of the western philosophy. I too consider that some of these social sciences are not sciences in any sense of the term. But that is because I believe that some of these disciplines endlessly embroider theology and I feel that my research might go someway in setting the situation straight. In other words, as far as I am concerned, the current state of social science is a problem which requires to be addressed seriously. The reason for the seriousness must be obvious: we \u003cem\u003eneed\u003c\/em\u003e to urgently understand the nature of human beings in all its facets, if we have to survive as a species. Making fun of philosophy and social sciences is one thing; to do something about it is entirely different.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/does-feynman-know-about-his-culture\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/does-feynman-know-about-his-culture\/",
   
   "datePublished": "2011-08-27T08:15:46\u002b05:30",
   "dateModified": "2011-08-27T08:15:46\u002b05:30",
@@ -61,14 +61,14 @@ I am not in the least impressed by (in fact, I am disgusted by and contemptuous 
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/does-feynman-know-about-his-culture\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/does-feynman-know-about-his-culture\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -517,7 +517,36 @@ I am not in the least impressed by (in fact, I am disgusted by and contemptuous 
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

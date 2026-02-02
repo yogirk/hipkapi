@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Why Social sciences are not providing knowledge, including the likes of Wendy Doniger and her children? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/why-social-sciences-are-not-providing-knowledge-including-the-likes-of-wendy-doniger-and-her-children/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/why-social-sciences-are-not-providing-knowledge-including-the-likes-of-wendy-doniger-and-her-children/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 
 The general pattern that has come to the fore is that Wendy and her children (including Jeffrey Kripal) systematically portray the Indian traditions in an unfavorable light, even when compared to how religions like Christianity, Islam and Judaism are portrayed. This claim is made in several articles, independent of whether these religions and the Indian traditions are true or false, whether they are irrational or rational, and so on. The discussion is not about the truth-claims of these religions and traditions but about their depictions.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/why-social-sciences-are-not-providing-knowledge-including-the-likes-of-wendy-doniger-and-her-children/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/why-social-sciences-are-not-providing-knowledge-including-the-likes-of-wendy-doniger-and-her-children/">
 
 
 
@@ -58,7 +58,7 @@ The general pattern that has come to the fore is that Wendy and her children (in
   "headline": "Why Social sciences are not providing knowledge, including the likes of Wendy Doniger and her children?",
   "name": "Why Social sciences are not providing knowledge, including the likes of Wendy Doniger and her children?",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eThe general pattern that has come to the fore is that Wendy and her children (including Jeffrey Kripal) \u003cem\u003esystematically\u003c\/em\u003e portray the Indian traditions in an unfavorable light, even when compared to how religions like Christianity, Islam and Judaism are portrayed. This claim is made in several articles, independent of whether these religions and the Indian traditions are true or false, whether they are irrational or rational, and so on. The discussion is not about the truth-claims of these religions and traditions but about their depictions.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/why-social-sciences-are-not-providing-knowledge-including-the-likes-of-wendy-doniger-and-her-children\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/why-social-sciences-are-not-providing-knowledge-including-the-likes-of-wendy-doniger-and-her-children\/",
   
   "datePublished": "2011-02-28T22:08:03\u002b05:30",
   "dateModified": "2011-02-28T22:08:03\u002b05:30",
@@ -69,14 +69,14 @@ The general pattern that has come to the fore is that Wendy and her children (in
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/why-social-sciences-are-not-providing-knowledge-including-the-likes-of-wendy-doniger-and-her-children\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/why-social-sciences-are-not-providing-knowledge-including-the-likes-of-wendy-doniger-and-her-children\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -563,7 +563,36 @@ The general pattern that has come to the fore is that Wendy and her children (in
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>On the Indian Notion of Enlightenment: Reflections Based on Experience &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/on-the-indian-notion-of-enlightenment-reflections-based-on-experience/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/on-the-indian-notion-of-enlightenment-reflections-based-on-experience/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 . Check the embedded PDF file: PDF Document
 ">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/on-the-indian-notion-of-enlightenment-reflections-based-on-experience/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/on-the-indian-notion-of-enlightenment-reflections-based-on-experience/">
 
 
 
@@ -48,7 +48,7 @@
   "headline": "On the Indian Notion of Enlightenment: Reflections Based on Experience",
   "name": "On the Indian Notion of Enlightenment: Reflections Based on Experience",
   "description": "\u003cp\u003eBalagangadhara\u0026rsquo;s recent article on Enlightenment (Gyanodaya); this is based on his enlightenment. If you got questions on this paper, participate on \u003ca href=\u0022https:\/\/groups.yahoo.com\/neo\/groups\/TheHeathenInHisBlindness\/info\u0022 rel=\u0022noopener\u0022\u003eThe Heathen in His Blindness Yahoo group\u003c\/a\u003e\n. Check the embedded PDF file: \u003ca href=\u0022\/hipkapi\/uploads\/Enlightenment.pdf\u0022\u003ePDF Document\u003c\/a\u003e\n\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/on-the-indian-notion-of-enlightenment-reflections-based-on-experience\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/on-the-indian-notion-of-enlightenment-reflections-based-on-experience\/",
   
   "datePublished": "2014-08-05T23:57:30\u002b05:30",
   "dateModified": "2014-08-05T23:57:30\u002b05:30",
@@ -59,14 +59,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/on-the-indian-notion-of-enlightenment-reflections-based-on-experience\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/on-the-indian-notion-of-enlightenment-reflections-based-on-experience\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -503,7 +503,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

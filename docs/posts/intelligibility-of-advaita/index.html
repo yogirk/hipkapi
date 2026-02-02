@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Intelligibility of Advaita &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/intelligibility-of-advaita/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/intelligibility-of-advaita/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Intelligibility of Advaita">
 <meta property="og:description" content="The problem with the advaita tradition today is its lack of intelligibility. &lsquo;Maya&rsquo;, for instance, does a tremendous lot of explanatory work, but it is hardly clear what it is; multiple concepts like &lsquo;manas&rsquo;, &lsquo;buddhi&rsquo; and &lsquo;chitta&rsquo; occur and we do not know how these concepts relate to each other, whether they refer, whether they are a part of psychological theorizing or merely an exercise in philosophical anthropology. It is further unclear whether they are &lsquo;psychological faculties&rsquo; or theoretical terms. The nature of &lsquo;atman&rsquo; is unclear: is it a physical body or non-physical body? What its relationship to the organic body? Is it a form of monism (&rsquo;everything is atman&rsquo;) or dualism (&lsquo;atman is the sovereign&rsquo;) or something entirely different altogether? How do these terms relate to the different forms of psychological theories we have: from commonsense psychology to cognitive science? Further, it is unclear too what gets reborn if &lsquo;punarjanma&rsquo; means rebirth. If atman is not the organic body, is it an emergent property of the brain, or of consciousness? If not, how can it ever become &lsquo;self-conscious&rsquo;? And, of course, there is the preoccupation whether Advaita is compatible with the results of scientific research. These are merely some of the reasons why Advaita lacks intelligibility today.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/intelligibility-of-advaita/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/intelligibility-of-advaita/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Intelligibility of Advaita",
   "name": "Intelligibility of Advaita",
   "description": "\u003cp\u003eThe problem with the advaita tradition today is its lack of intelligibility. \u0026lsquo;Maya\u0026rsquo;, for instance, does a tremendous lot of explanatory work, but it is hardly clear what it is; multiple concepts like \u0026lsquo;manas\u0026rsquo;, \u0026lsquo;buddhi\u0026rsquo; and \u0026lsquo;chitta\u0026rsquo; occur and we do not know how these concepts relate to each other, whether they refer, whether they are a part of psychological theorizing or merely an exercise in philosophical anthropology. It is further unclear whether they are \u0026lsquo;psychological faculties\u0026rsquo; or theoretical terms. The nature of \u0026lsquo;atman\u0026rsquo; is unclear: is it a physical body or non-physical body? What its relationship to the organic body? Is it a form of monism (\u0026rsquo;everything is atman\u0026rsquo;) or dualism (\u0026lsquo;atman is the sovereign\u0026rsquo;) or something entirely different altogether? How do these terms relate to the different forms of psychological theories we have: from commonsense psychology to cognitive science? Further, it is unclear too what gets reborn if \u0026lsquo;punarjanma\u0026rsquo; means rebirth. If atman is not the organic body, is it an emergent property of the brain, or of consciousness? If not, how can it ever become \u0026lsquo;self-conscious\u0026rsquo;? And, of course, there is the preoccupation whether Advaita is compatible with the results of scientific research. These are merely some of the reasons why Advaita lacks intelligibility today.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/intelligibility-of-advaita\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/intelligibility-of-advaita\/",
   
   "datePublished": "2012-05-21T07:30:31\u002b05:30",
   "dateModified": "2012-05-21T07:30:31\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/intelligibility-of-advaita\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/intelligibility-of-advaita\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -497,7 +497,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

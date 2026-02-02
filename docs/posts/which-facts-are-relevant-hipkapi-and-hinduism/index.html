@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Which facts are relevant? Hipkapi and Hinduism &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/which-facts-are-relevant-hipkapi-and-hinduism/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/which-facts-are-relevant-hipkapi-and-hinduism/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 
 Many facts are interconnected within a culture. (The same applies to Nature too.) Some hypothesis or another notices some of these facts as facts, and it is able to provide an explanation (using the term &rsquo;explanation&rsquo; rather loosely) for them. This explanation helps us understand the phenomenon (means merely the appearance) in question because the theory or hypothesis under discussion is able to show what that interconnection between the sets of facts is. (That is, it tells us of the pattern that unifies these facts into a whole of some sort.)">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/which-facts-are-relevant-hipkapi-and-hinduism/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/which-facts-are-relevant-hipkapi-and-hinduism/">
 
 
 
@@ -50,7 +50,7 @@ Many facts are interconnected within a culture. (The same applies to Nature too.
   "headline": "Which facts are relevant? Hipkapi and Hinduism",
   "name": "Which facts are relevant? Hipkapi and Hinduism",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eMany facts are interconnected within a culture. (The same applies to Nature too.) Some hypothesis or another notices some of these facts as facts, and it is able to provide an explanation (using the term \u0026rsquo;explanation\u0026rsquo; rather loosely) for them. This explanation helps us understand the phenomenon (means merely the appearance) in question because the theory or hypothesis under discussion is able to show what that interconnection between the sets of facts is. (That is, it tells us of the pattern that unifies these facts into a whole of some sort.)\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/which-facts-are-relevant-hipkapi-and-hinduism\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/which-facts-are-relevant-hipkapi-and-hinduism\/",
   
   "datePublished": "2011-03-16T01:37:29\u002b05:30",
   "dateModified": "2011-03-16T01:37:29\u002b05:30",
@@ -61,14 +61,14 @@ Many facts are interconnected within a culture. (The same applies to Nature too.
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/which-facts-are-relevant-hipkapi-and-hinduism\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/which-facts-are-relevant-hipkapi-and-hinduism\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -535,7 +535,36 @@ Many facts are interconnected within a culture. (The same applies to Nature too.
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

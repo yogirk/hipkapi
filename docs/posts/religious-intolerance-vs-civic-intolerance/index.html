@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Religious intolerance vs. civic intolerance I &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/religious-intolerance-vs-civic-intolerance/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/religious-intolerance-vs-civic-intolerance/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -21,7 +21,7 @@ Today, in countries like England, Belgium, Germany, Italy and the United States,
 
 Or does it mean that these countries have become more tolerant of the existence of several religions and religious denominations in the interstices of their society than they were a few centuries ago?">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/religious-intolerance-vs-civic-intolerance/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/religious-intolerance-vs-civic-intolerance/">
 
 
 
@@ -50,7 +50,7 @@ Or does it mean that these countries have become more tolerant of the existence 
   "headline": "Religious intolerance vs. civic intolerance I",
   "name": "Religious intolerance vs. civic intolerance I",
   "description": "\u003col\u003e\n\u003cli\u003eToday, in countries like England, Belgium, Germany, Italy and the United States, many religions (Judaism, Christianity, Islam) and many brands of some of these religions (Catholicism, Protestantism of various shades, Orthodox Churches, etc) coexist. In Belgium or Italy, for instance, the Catholic Christians do not \u003cem\u003eimpose\u003c\/em\u003e their faiths on those who are not Catholics, i.e., they do not go around \u0026ldquo;proselytizing\u0026rdquo; the non-Catholics in their countries; in The Netherlands and Germany, for instance, the Catholics and the Protestants do not go around assaulting each other the way they did during the period of Reformation. Even the Jehovah\u0026rsquo;s Witnesses do not \u003cem\u003eimpose\u003c\/em\u003e their faith, when they canvass the \u0026ldquo;Good Word\u0026rdquo; from door to door. The Muslims in Britain, for instance, do not go around converting all non-Muslims either. Questions: Does that mean that Catholic Christianity in Belgium and Italy (for instance) has become \u003cem\u003emore tolerant\u003c\/em\u003e than it was couple of centuries ago? Does it mean that Protestantism has become \u003cem\u003emore tolerant\u003c\/em\u003e than it was some three centuries or so ago? Does it mean that Islam in Britain (or in the United States) is \u003cem\u003emore tolerant\u003c\/em\u003e than Islam, say, in Africa?\u003c\/li\u003e\n\u003c\/ol\u003e\n\u003cp\u003eOr does it mean that these countries have become \u003cem\u003emore tolerant\u003c\/em\u003e of the existence of several religions and religious denominations in the interstices of their society than they were a few centuries ago?\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/religious-intolerance-vs-civic-intolerance\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/religious-intolerance-vs-civic-intolerance\/",
   
   "datePublished": "2011-03-03T20:45:45\u002b05:30",
   "dateModified": "2011-03-03T20:45:45\u002b05:30",
@@ -61,14 +61,14 @@ Or does it mean that these countries have become more tolerant of the existence 
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/religious-intolerance-vs-civic-intolerance\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/religious-intolerance-vs-civic-intolerance\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -553,7 +553,36 @@ I don&rsquo;t have particularly developed views on this, but what I feel is into
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

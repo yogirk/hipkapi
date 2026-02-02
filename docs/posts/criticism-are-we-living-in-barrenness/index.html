@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Criticism: Are we living in barrenness? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/criticism-are-we-living-in-barrenness/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/criticism-are-we-living-in-barrenness/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Criticism: Are we living in barrenness?">
 <meta property="og:description" content="I do not assume that, as you put it, &ldquo;we are living in complete barrenness of thought but for the light which Balu has thrown.&rdquo; One would be doing the members of this forum a great disservice by attributing such an assumption to them. They do not believe in this claim anymore than I do. I do not accept this claim at all. From the many reasons I have for not accepting this ridiculous claim, let me mention just two. The first is my belief that my intellectual endeavors merely reproduce the macro-pattern of India on an atomic scale: my life is the Indian history writ small. I know far too many people on so many parallel paths involved in the kind of research I am doing to make myself believe that I am the genius the world has been waiting for. There is a second reason. The development of my story would have been impossible but for the existence of stories penned by other people and the earlier generations of both Indians and westerners. Every single error&#39; and mistake&rsquo; made by, say, the colonial writers on India is a problem to solve: why did they make the mistakes they did? Answers to this question constitute one of the parameters that render my story scientific. The scientificity of my story presupposes the errors&#39; and mistakes&rsquo; of the earlier generations. In much the same way, my errors and mistakes will be the presuppositions for the subsequent attempts in building a better theory. (This is also a prosaic formulation of the Hegelian-Marxist notion of `critique&rsquo;.)">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/criticism-are-we-living-in-barrenness/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/criticism-are-we-living-in-barrenness/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Criticism: Are we living in barrenness?",
   "name": "Criticism: Are we living in barrenness?",
   "description": "\u003cp\u003eI do not assume that, as you put it, \u0026ldquo;we are living in complete barrenness of thought but for the light which Balu has thrown.\u0026rdquo; One would be doing the members of this forum a great disservice by attributing such an assumption to them. They do not believe in this claim anymore than I do. I do not accept this claim at all. From the many reasons I have for not accepting this ridiculous claim, let me mention just two. The first is my belief that my intellectual endeavors merely reproduce the macro-pattern of India on an atomic scale: my life is the Indian history writ small. I know far too many people on so many parallel paths involved in the kind of research I am doing to make myself believe that I am the genius the world has been waiting for. There is a second reason. The development of my story would have been impossible but for the existence of stories penned by other people and the earlier generations of both Indians and westerners. Every single \u003ccode\u003eerror\u0027 and \u003c\/code\u003emistake\u0026rsquo; made by, say, the colonial writers on India is a problem to solve: why did they make the mistakes they did? Answers to this question constitute one of the parameters that render my story scientific. The scientificity of my story presupposes the \u003ccode\u003eerrors\u0027 and \u003c\/code\u003emistakes\u0026rsquo; of the earlier generations. In much the same way, my errors and mistakes will be the presuppositions for the subsequent attempts in building a better theory. (This is also a prosaic formulation of the Hegelian-Marxist notion of \u0060critique\u0026rsquo;.)\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/criticism-are-we-living-in-barrenness\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/criticism-are-we-living-in-barrenness\/",
   
   "datePublished": "2011-04-06T20:33:00\u002b05:30",
   "dateModified": "2011-04-06T20:33:00\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/criticism-are-we-living-in-barrenness\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/criticism-are-we-living-in-barrenness\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -495,7 +495,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Does Hinduism Exist? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/does-hinduism-exist/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/does-hinduism-exist/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -21,7 +21,7 @@
 I think these issues are far too important to allow for their dissipation as debating points. If we could arrive at something approximating a consensus, we will have made a substantial headway. At the least, we can critically read the material on Hinduism with our answers to these questions.
 I suggest we begin with (a). To start the ball rolling, I will mention some possible kinds of evidence and formulate my problems with each of these possibilities. Anyone who feels inclined is welcome to join the building of the list at any point in time and add or delete depending on the arguments.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/does-hinduism-exist/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/does-hinduism-exist/">
 
 
 
@@ -52,7 +52,7 @@ I suggest we begin with (a). To start the ball rolling, I will mention some poss
   "headline": "Does Hinduism Exist?",
   "name": "Does Hinduism Exist?",
   "description": "\u003cp\u003e(a) Which evidence (what kind of evidence) could prove the existence of Hinduism?\u003c\/p\u003e\n\u003cp\u003e(b) Idem. for the non-existence of Hinduism.\u003c\/p\u003e\n\u003cp\u003eI think these issues are far too important to allow for their dissipation as debating points. If we could arrive at something approximating a consensus, we will have made a substantial headway. At the least, we can critically read the material on Hinduism with our answers to these questions.\u003c\/p\u003e\n\u003cp\u003eI suggest we begin with (a). To start the ball rolling, I will mention some possible kinds of evidence and formulate my problems with each of these possibilities. Anyone who feels inclined is welcome to join the building of the list at any point in time and add or delete depending on the arguments.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/does-hinduism-exist\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/does-hinduism-exist\/",
   
   "datePublished": "2011-03-17T01:05:44\u002b05:30",
   "dateModified": "2011-03-17T01:05:44\u002b05:30",
@@ -63,14 +63,14 @@ I suggest we begin with (a). To start the ball rolling, I will mention some poss
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/does-hinduism-exist\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/does-hinduism-exist\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -574,7 +574,36 @@ I suggest we begin with (a). To start the ball rolling, I will mention some poss
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

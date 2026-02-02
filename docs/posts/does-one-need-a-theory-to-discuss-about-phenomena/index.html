@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Does one need a theory to discuss about phenomena? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/does-one-need-a-theory-to-discuss-about-phenomena/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/does-one-need-a-theory-to-discuss-about-phenomena/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -21,7 +21,7 @@
 
 Indeed, &lsquo;modern&rsquo; prostitution is all these things and more. However, I did not claim anywhere that Apsaras are &lsquo;modern&rsquo; prostitutes in any sense of the word. Nor did I suggest that there was &lsquo;institutionalized prostitution&rsquo; in India or that our stories suggest that there is such an institution in &lsquo;Swarga&rsquo;. The whole discussion is about a single sentence and I responded by laying out my reasons to call Apsaras as &lsquo;prostitutes in the court of Indra&rsquo;. To say today what I thought was evident (&rsquo;evident&rsquo; because that is what I learned as a child), I do not need to have any kind of a specific theory about &lsquo;modern prostitution&rsquo; or even one about what &lsquo;prostitution&rsquo; generally is about.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/does-one-need-a-theory-to-discuss-about-phenomena/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/does-one-need-a-theory-to-discuss-about-phenomena/">
 
 
 
@@ -50,7 +50,7 @@ Indeed, &lsquo;modern&rsquo; prostitution is all these things and more. However,
   "headline": "Does one need a theory to discuss about phenomena?",
   "name": "Does one need a theory to discuss about phenomena?",
   "description": "\u003cp\u003eX says: \u0026ldquo;Modern prostitution is a very specific institution with the features of pimps, forced sex, kidnapped women, drug addicted women, immigrants lured to foreign shores on false pretences, and so on. If we insist on precision in ideas, then it is counterproductive to confuse matters by calling Apsaras prostitutes without first showing that at least some of the above conditions hold true and there is some structural similarity.\u0026rdquo;\u003c\/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eIndeed, \u0026lsquo;modern\u0026rsquo; prostitution is all these things and more. However, I did not claim anywhere that Apsaras are \u0026lsquo;modern\u0026rsquo; prostitutes in any sense of the word. Nor did I suggest that there was \u0026lsquo;institutionalized prostitution\u0026rsquo; in India or that our stories suggest that there is such an institution in \u0026lsquo;Swarga\u0026rsquo;. The whole discussion is about a single sentence and I responded by laying out my reasons to call Apsaras as \u0026lsquo;prostitutes in the court of Indra\u0026rsquo;. To say today what I thought was evident (\u0026rsquo;evident\u0026rsquo; because that is what I learned as a child), I do not need to have any kind of a specific theory about \u0026lsquo;modern prostitution\u0026rsquo; or even one about what \u0026lsquo;prostitution\u0026rsquo; generally is about.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/does-one-need-a-theory-to-discuss-about-phenomena\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/does-one-need-a-theory-to-discuss-about-phenomena\/",
   
   "datePublished": "2011-03-23T06:51:56\u002b05:30",
   "dateModified": "2011-03-23T06:51:56\u002b05:30",
@@ -61,14 +61,14 @@ Indeed, &lsquo;modern&rsquo; prostitution is all these things and more. However,
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/does-one-need-a-theory-to-discuss-about-phenomena\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/does-one-need-a-theory-to-discuss-about-phenomena\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -514,7 +514,36 @@ Indeed, &lsquo;modern&rsquo; prostitution is all these things and more. However,
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>How to understand corruption? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/how-to-understand-corruption/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/how-to-understand-corruption/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -24,7 +24,7 @@ The first is purely historical in nature. You raised a question about the moral 
 More concretely: how were questions asked about tradition? Can we use the resources of our ancient Indian literature to tackle and explain this problem? I find the Indian tradition powerful because it can help generate scientific hypotheses beyond the reach of Western social scientists. That’s why I am against the latter, not because they are Western. I am not against everything Western: Physics, Chemistry, Mathematics, Biology come from the Western tradition.
 (pp 206-8 &ldquo;Classical Indian Thought and the English Language&rdquo; edited by Mullick, et al.)">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/how-to-understand-corruption/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/how-to-understand-corruption/">
 
 
 
@@ -56,7 +56,7 @@ More concretely: how were questions asked about tradition? Can we use the resour
   "headline": "How to understand corruption?",
   "name": "How to understand corruption?",
   "description": "\u003cp\u003eLet us take the word ‘duty’ for the moment. Conflict in duties does not give you a moral dilemma. For a moral dilemma to occur two necessary conditions must exist: the prescribed set of duties must be logically consistent by virtue of which one is obliged to perform them all.  A dilemma pertains to a situation where one has an obligation to do A and an obligation to do B; but can in fact do only one. It is the perfect consistency of the system of duty that gives rise to the dilemma: a choice between A and B, between a banana and an orange is not a dilemma. It becomes a dilemma when you want both and can have only one. So, a moral dilemma cannot possibly describe a conflict of duties if one uses the word ‘duty’ here.  A conflict of \u003cem\u003edharmas\u003c\/em\u003e is not a dilemma at all.\nWhat I mean by decolonizing social Sciences is very simple thing. There are many domains today: sociology, political science, psychology, and anthropology that call themselves social sciences as distinct from humanities. So, I am not talking about decolonizing science in the specific sense given by Mohini Mullick. I do not consider the theories in these domains which call themselves social sciences to be science at all. Today, I see all of them without exception as ideologies. I call my project ‘Comparative Science of Culture’ because existing theories are not social sciences.\nFor instance: political corruption refers to the act of an individual public servant who is part of a state or a government and who acts against the public interest of the people or the interest of the state. Because state has an interest which coincides with the interest of the society, then any action that supports an individual’s interest is morally wrong. This is the meaning of political corruption.\nI am very conservative. I want a scientific hypothesis in the sense that it solves a problem, has an explanatory potential and there is some way to test it. In this sense, political theory is completely bankrupt. I proffer two hypotheses which at least minimally do what you expect a hypothesis to do.\nThe first is purely historical in nature. You raised a question about the moral evaluations which comes from a completely Western ethics and is not Indian at all. We in India had our own forms of social organization. We had certain indigenous ways of governing, of organizing production. But with colonization came industrialization, bringing with it management institutions from the West; structures were imposed on native Indian industries, on native structures, which today are taught in MBA courses all over India. The result is institutional distortion, so that you come across extraordinary things that baffle management theorists.\nMore concretely: how were questions asked about tradition? Can we use the resources of our ancient Indian literature to tackle and explain this problem? I find the Indian tradition powerful because it can help generate scientific hypotheses beyond the reach of Western social scientists. That’s why I am against the latter, not because they are Western. I am not against everything Western: Physics, Chemistry, Mathematics, Biology come from the Western tradition.\n(pp 206-8 \u0026ldquo;Classical Indian Thought and the English Language\u0026rdquo; edited by Mullick, et al.)\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/how-to-understand-corruption\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/how-to-understand-corruption\/",
   
   "datePublished": "2022-09-30T09:21:28\u002b05:30",
   "dateModified": "2022-09-30T09:21:28\u002b05:30",
@@ -67,14 +67,14 @@ More concretely: how were questions asked about tradition? Can we use the resour
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/how-to-understand-corruption\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/how-to-understand-corruption\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -521,7 +521,36 @@ More concretely: how were questions asked about tradition? Can we use the resour
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Is tradition akin to following moral obligations? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/is-tradition-akin-to-following-moral-obligations/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/is-tradition-akin-to-following-moral-obligations/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="Traditions are inherited practices, which mean two things: they are both transmitted and learnt. The learning occurs through imitation, following instructions, through stories and so on. Consequently, traditions &lsquo;change&rsquo; (i.e. undergo modifications) even as they are being transmitted and learnt. This makes traditions flexible and adaptive.
 Human practices conserve, that is, we do not go around inventing new practices every day. In this sense, traditions are essentially conserving in their nature. This is one of the reasons why we see &lsquo;being traditional&rsquo; as `being conservative&rsquo; as well.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/is-tradition-akin-to-following-moral-obligations/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/is-tradition-akin-to-following-moral-obligations/">
 
 
 
@@ -46,7 +46,7 @@ Human practices conserve, that is, we do not go around inventing new practices e
   "headline": "Is tradition akin to following moral obligations?",
   "name": "Is tradition akin to following moral obligations?",
   "description": "\u003cp\u003eTraditions are inherited practices, which mean two things: they are both transmitted and learnt. The learning occurs through imitation, following instructions, through stories and so on. Consequently, traditions \u0026lsquo;change\u0026rsquo; (i.e. undergo modifications) even as they are being transmitted and learnt. This makes traditions flexible and adaptive.\u003c\/p\u003e\n\u003cp\u003eHuman practices conserve, that is, we do not go around inventing new practices every day. In this sense, traditions are essentially conserving in their nature. This is one of the reasons why we see \u0026lsquo;being traditional\u0026rsquo; as \u0060being conservative\u0026rsquo; as well.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/is-tradition-akin-to-following-moral-obligations\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/is-tradition-akin-to-following-moral-obligations\/",
   
   "datePublished": "2011-03-23T04:45:38\u002b05:30",
   "dateModified": "2011-03-23T04:45:38\u002b05:30",
@@ -57,14 +57,14 @@ Human practices conserve, that is, we do not go around inventing new practices e
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/is-tradition-akin-to-following-moral-obligations\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/is-tradition-akin-to-following-moral-obligations\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -513,7 +513,36 @@ Human practices conserve, that is, we do not go around inventing new practices e
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Secularization and world views &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/secularization-and-world-views/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/secularization-and-world-views/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="To begin with the question raised in `The Heathen in his blindness: Asia, the West and the dynamic of religion&rsquo;: Do all cultures, peoples, and individuals need a world view to navigate themselves in the world? The answer is in the negative because religion is not a cultural universal and the only examples we have of world views are religions.
 Are the atheists, free thinkers, and people ignorant of religious doctrines of Christianity (in the West) also religious? This question has a positive answer because of the process of secularization of religion. In this sense, keeping in mind that the process of secularization is how a religion attempts to transcend its constraints, the atheists etc. in the west do have a Christian world view. This means the following: they accept the doctrines of a de-Christianized Christianity and, for these to be continually transmitted and make sense to those who accept them, this religion requires to be present in the background (and is subject to secularization movement). That is to say, we can identify elements of a Christian world view in the west, and we can do that only because that religion is present in the culture. We need to keep in mind that these beliefs are part of a world view only because such a world view is present in that culture.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/secularization-and-world-views/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/secularization-and-world-views/">
 
 
 
@@ -46,7 +46,7 @@ Are the atheists, free thinkers, and people ignorant of religious doctrines of C
   "headline": "Secularization and world views",
   "name": "Secularization and world views",
   "description": "\u003cp\u003eTo begin with the question raised in \u0060The Heathen in his blindness: Asia, the West and the dynamic of religion\u0026rsquo;: Do all cultures, peoples, and individuals need a world view to navigate themselves in the world? The answer is in the negative because religion is not a cultural universal and the only examples we have of world views are religions.\u003c\/p\u003e\n\u003cp\u003eAre the atheists, free thinkers, and people ignorant of religious doctrines of Christianity (in the West) also religious? This question has a positive answer because of the process of secularization of religion. In this sense, keeping in mind that the process of secularization is how a religion attempts to transcend its constraints, the atheists etc. in the west do have a Christian world view. This means the following: they accept the doctrines of a de-Christianized Christianity and, for these to be continually transmitted and make sense to those who accept them, this religion requires to be present in the background (and is subject to secularization movement). That is to say, we can identify elements of a Christian world view in the west, and we can do that only because that religion is present in the culture. We need to keep in mind that these beliefs are part of a world view only because such a world view is present in that culture.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/secularization-and-world-views\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/secularization-and-world-views\/",
   
   "datePublished": "2011-03-15T19:03:29\u002b05:30",
   "dateModified": "2011-03-15T19:03:29\u002b05:30",
@@ -57,14 +57,14 @@ Are the atheists, free thinkers, and people ignorant of religious doctrines of C
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/secularization-and-world-views\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/secularization-and-world-views\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -506,7 +506,36 @@ Are the atheists, free thinkers, and people ignorant of religious doctrines of C
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

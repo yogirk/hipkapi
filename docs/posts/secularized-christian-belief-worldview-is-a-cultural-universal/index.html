@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Secularized Christian belief: worldview is a cultural universal &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/secularized-christian-belief-worldview-is-a-cultural-universal/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/secularized-christian-belief-worldview-is-a-cultural-universal/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -22,7 +22,7 @@ The word carries multiple meanings. It has partly to do with the multiple meanin
 
 As though this is not enough, the word &lsquo;world view&rsquo; also carries additional multiple meanings: it picks out a totality of beliefs that some individual has; it refers at times exclusively to false beliefs (the Marxist use of the notion of ideology); it is either necessary or strictly superfluous (depending on how one interprets the scope of &lsquo;ideology&rsquo;); it picks out the common denominator among a group of people and the latter itself can refer to a nation, a class, a culture, the species, etc.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/secularized-christian-belief-worldview-is-a-cultural-universal/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/secularized-christian-belief-worldview-is-a-cultural-universal/">
 
 
 
@@ -52,7 +52,7 @@ As though this is not enough, the word &lsquo;world view&rsquo; also carries add
   "headline": "Secularized Christian belief: worldview is a cultural universal",
   "name": "Secularized Christian belief: worldview is a cultural universal",
   "description": "\u003cp\u003eLets become clear about the nature of my claims about worldviews.\u003c\/p\u003e\n\u003col\u003e\n\u003cli\u003eThe word carries multiple meanings. It has partly to do with the multiple meanings of the component words: world\u0026rsquo; and \u0026lsquo;view\u0026rsquo;. In daily language-use, \u0026lsquo;world\u0026rsquo; is used to pick out (a) a spatial and temporal slice of the cosmos (b) and\/or the entire Cosmos itself. The first, the slices, are many: from the \u0026lsquo;social world\u0026rsquo; to the \u0026rsquo;emotional world\u0026rsquo;; from earth (\u0026lsquo;our world\u0026rsquo;) to parts of the same (\u0026lsquo;our part of the world\u0026rsquo;, \u0026lsquo;in different parts of the world\u0026rsquo;) and so on. The same consideration applies to \u0026lsquo;view\u0026rsquo;: it could refer to perspectives (\u0026lsquo;my view of the issue\u0026rsquo;) and to the totality (\u0026lsquo;we now have a clear view of the situation\u0026rsquo;).\u003c\/li\u003e\n\u003c\/ol\u003e\n\u003cp\u003eAs though this is not enough, the word \u0026lsquo;world view\u0026rsquo; also carries additional multiple meanings: it picks out a totality of beliefs that some individual has; it refers at times exclusively to false beliefs (the Marxist use of the notion of ideology); it is either necessary or strictly superfluous (depending on how one interprets the scope of \u0026lsquo;ideology\u0026rsquo;); it picks out the common denominator among a group of people and the latter itself can refer to a nation, a class, a culture, the species, etc.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/secularized-christian-belief-worldview-is-a-cultural-universal\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/secularized-christian-belief-worldview-is-a-cultural-universal\/",
   
   "datePublished": "2011-03-15T20:50:58\u002b05:30",
   "dateModified": "2011-03-15T20:50:58\u002b05:30",
@@ -63,14 +63,14 @@ As though this is not enough, the word &lsquo;world view&rsquo; also carries add
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/secularized-christian-belief-worldview-is-a-cultural-universal\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/secularized-christian-belief-worldview-is-a-cultural-universal\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -534,7 +534,36 @@ As though this is not enough, the word &lsquo;world view&rsquo; also carries add
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Why Insider/Outsider game is sterile?—S.N.Balagangadhara &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/why-insideroutsider-game-is-sterile-s-n-balagangadhara/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/why-insideroutsider-game-is-sterile-s-n-balagangadhara/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -23,7 +23,7 @@ The first point is the difficulty involved in specifying what the &ldquo;real me
 
 Assuming that the first problem somehow gets solved, the second problem lies in the multiplicities of such meanings: if people differ on what any particular experience means to them (for instance, what doing Puja to Ganesha means to my brother does not mean the same to my sister), which should we choose and for what reason? This problem is virtually unsolvable, especially when you take the interpretations of the past into consideration as well.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/why-insideroutsider-game-is-sterile-s-n-balagangadhara/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/why-insideroutsider-game-is-sterile-s-n-balagangadhara/">
 
 
 
@@ -54,7 +54,7 @@ Assuming that the first problem somehow gets solved, the second problem lies in 
   "headline": "Why Insider\/Outsider game is sterile?—S.N.Balagangadhara",
   "name": "Why Insider\/Outsider game is sterile?—S.N.Balagangadhara",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eThe first point is the difficulty involved in specifying what the \u0026ldquo;real meaning of an experience\u0026rdquo; consists of. Asking an insider would not help us here: the insider may or may not know what the real meaning of his\/her own experience is or even how to go about putting it in words.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli\u003e\n\u003cp\u003eAssuming that the first problem somehow gets solved, the second problem lies in the \u003cem\u003emultiplicities\u003c\/em\u003e of such meanings: if people differ on what any particular experience means to them (for instance, what doing Puja to Ganesha means to my brother does not mean the same to my sister), which should we choose and for what reason? This problem is virtually unsolvable, especially when you take the interpretations of the past into consideration as well.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/why-insideroutsider-game-is-sterile-s-n-balagangadhara\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/why-insideroutsider-game-is-sterile-s-n-balagangadhara\/",
   
   "datePublished": "2011-03-01T00:20:56\u002b05:30",
   "dateModified": "2011-03-01T00:20:56\u002b05:30",
@@ -65,14 +65,14 @@ Assuming that the first problem somehow gets solved, the second problem lies in 
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/why-insideroutsider-game-is-sterile-s-n-balagangadhara\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/why-insideroutsider-game-is-sterile-s-n-balagangadhara\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -530,7 +530,36 @@ Assuming that the first problem somehow gets solved, the second problem lies in 
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

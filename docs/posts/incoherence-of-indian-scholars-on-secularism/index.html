@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Incoherence of Indian scholars on secularism &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/incoherence-of-indian-scholars-on-secularism/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/incoherence-of-indian-scholars-on-secularism/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 It is downright incoherent. He obviously thinks that a theory about secularism (which is a political theory) is about &lsquo;possessing the concept of the secular&rsquo; (which is a psychological theory about having concepts
  in general). The latter, he says, is different about a philosophical theory about how any concept &lsquo;represents&rsquo;. It is true, a political theory about secularism is different from a psychological theory about human beings acquire concepts and both of these are different from a philosophical theory about how any concept represents what it purports to represent.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/incoherence-of-indian-scholars-on-secularism/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/incoherence-of-indian-scholars-on-secularism/">
 
 
 
@@ -48,7 +48,7 @@ It is downright incoherent. He obviously thinks that a theory about secularism (
   "headline": "Incoherence of Indian scholars on secularism",
   "name": "Incoherence of Indian scholars on secularism",
   "description": "\u003cp\u003eSasheej Hegde in his EPW article says: \u0026ldquo;A theory of secularism in the sense of a theory about possessing the concept \u0026lsquo;secular\u0026rsquo; is quite distinct from a theory about how the concept secular represents.\u0026rdquo;\u003c\/p\u003e\n\u003cp\u003eIt is downright incoherent. He obviously thinks that a theory about secularism (which is a political theory) is about \u0026lsquo;possessing the concept of the secular\u0026rsquo; (which is \u003ca href=\u0022\/hipkapi\/posts\/fuss-about-indic-categories-ii\/\u0022\u003ea psychological theory about having concepts\u003c\/a\u003e\n in general). The latter, he says, is different about a philosophical theory about how any concept \u0026lsquo;represents\u0026rsquo;. It is true, a political theory about secularism is different from a psychological theory about human beings acquire concepts and both of these are different from a philosophical theory about how any concept represents what it purports to represent.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/incoherence-of-indian-scholars-on-secularism\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/incoherence-of-indian-scholars-on-secularism\/",
   
   "datePublished": "2011-04-06T20:42:04\u002b05:30",
   "dateModified": "2011-04-06T20:42:04\u002b05:30",
@@ -59,14 +59,14 @@ It is downright incoherent. He obviously thinks that a theory about secularism (
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/incoherence-of-indian-scholars-on-secularism\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/incoherence-of-indian-scholars-on-secularism\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -501,7 +501,36 @@ It is downright incoherent. He obviously thinks that a theory about secularism (
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

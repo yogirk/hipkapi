@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Vibrancy of Indian traditions &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/vibrancy-of-indian-traditions/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/vibrancy-of-indian-traditions/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Vibrancy of Indian traditions">
 <meta property="og:description" content="The discussion about re-accessing the vibrancy of the Indian culture and the question whether or not to legislate against conversion, are best treated separately. An answer to the latter does not necessarily count as an answer to the first. In fact, the tendency to counter the proselytising drive of Christianity and Islam by voting laws against conversion is itself an indication of India’s cultural weakness. Hence, it cannot be a means to re-kindle the flame of India’s pluralistic tradition. ">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/vibrancy-of-indian-traditions/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/vibrancy-of-indian-traditions/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Vibrancy of Indian traditions",
   "name": "Vibrancy of Indian traditions",
   "description": "\u003cp\u003eThe discussion about re-accessing the vibrancy of the Indian culture and the question whether or not to legislate against conversion, are best treated separately. An answer to the latter does not necessarily count as an answer to the first. In fact, the tendency to counter the proselytising drive of Christianity and Islam by voting laws against conversion is itself an \u003cem\u003eindication\u003c\/em\u003e of India’s cultural weakness. Hence, it cannot be a means to re-kindle the flame of India’s pluralistic tradition. \u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/vibrancy-of-indian-traditions\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/vibrancy-of-indian-traditions\/",
   
   "datePublished": "2014-04-22T22:21:39\u002b05:30",
   "dateModified": "2014-04-22T22:21:39\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/vibrancy-of-indian-traditions\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/vibrancy-of-indian-traditions\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -499,7 +499,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

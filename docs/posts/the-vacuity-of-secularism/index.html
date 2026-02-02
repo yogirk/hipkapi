@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Vacuity of Secularism &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/the-vacuity-of-secularism/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/the-vacuity-of-secularism/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="On the Indian Debate and Its Western Origins
 The rise of Hindutva has often been interpreted as a threat to the secular state. Similarly, the recent outbursts of Hindu-Muslim conflict are said to be related to the decay of secularism. The author argues that the concept of secularism is fundamentally obscure, since it is founded upon an arbitrary distinction between the religious and the secular. The belief that religion should be separated from politics is a normative dogma that precedes all theoretical analysis of the Indian situation. Therefore, this concept of secularism prevents us from understanding the problems of pluralism in contemporary India, instead of helping us to solve them.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/the-vacuity-of-secularism/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/the-vacuity-of-secularism/">
 
 
 
@@ -46,7 +46,7 @@ The rise of Hindutva has often been interpreted as a threat to the secular state
   "headline": "The Vacuity of Secularism",
   "name": "The Vacuity of Secularism",
   "description": "\u003cp\u003e\u003cstrong\u003eOn the Indian Debate and Its Western Origins\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cem\u003eThe rise of Hindutva has often been interpreted as a threat to the secular state. Similarly, the recent outbursts of Hindu-Muslim conflict are said to be related to the decay of secularism. The author argues that the concept of secularism is fundamentally obscure, since it is founded upon an arbitrary distinction between the religious and the secular. The belief that religion should be separated from politics is a normative dogma that precedes all theoretical analysis of the Indian situation. Therefore, this concept of secularism prevents us from understanding the problems of pluralism in contemporary India, instead of helping us to solve them.\u003c\/em\u003e\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/the-vacuity-of-secularism\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/the-vacuity-of-secularism\/",
   
   "datePublished": "2011-04-02T09:20:34\u002b05:30",
   "dateModified": "2011-04-02T09:20:34\u002b05:30",
@@ -57,14 +57,14 @@ The rise of Hindutva has often been interpreted as a threat to the secular state
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/the-vacuity-of-secularism\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/the-vacuity-of-secularism\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -580,7 +580,36 @@ Van Baal, J (1971): <em>Symbols for Communication: An Introduction to the Anthr
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

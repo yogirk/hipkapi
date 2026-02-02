@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What can India offer? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/what-can-india-offer/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/what-can-india-offer/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="Today, India has become a global player of significant political and economical impact. Europe and India are facing each other as equal partners in pursuit of greater economic and political co-operation. This confronts both India and Europe with a challenge. The intelligentsia, the business world, politicians, educators and others, will have to answer the following question: What can India offer to the world of today and tomorrow?
 I will not tackle this problem directly but instead take up one of its sub-questions: to whom is this problem important and why? I believe it is important to both Indians and Europeans but for different reasons. In this article, I will spell out and reflect upon some of these reasons.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/what-can-india-offer/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/what-can-india-offer/">
 
 
 
@@ -46,7 +46,7 @@ I will not tackle this problem directly but instead take up one of its sub-quest
   "headline": "What can India offer?",
   "name": "What can India offer?",
   "description": "\u003cp\u003eToday, India has become a global player of significant political and economical impact. Europe and India are facing each other as equal partners in pursuit of greater economic and political co-operation. This confronts both India and Europe with a challenge. The intelligentsia, the business world, politicians, educators and others, will have to answer the following question: What can India offer to the world of today and tomorrow?\u003c\/p\u003e\n\u003cp\u003eI will not tackle this problem directly but instead take up one of its sub-questions: to whom is this problem important and why? I believe it is important to both Indians and Europeans but for different reasons. In this article, I will spell out and reflect upon some of these reasons.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/what-can-india-offer\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/what-can-india-offer\/",
   
   "datePublished": "2015-10-01T23:26:46\u002b05:30",
   "dateModified": "2015-10-01T23:26:46\u002b05:30",
@@ -57,14 +57,14 @@ I will not tackle this problem directly but instead take up one of its sub-quest
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/what-can-india-offer\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/what-can-india-offer\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -529,7 +529,36 @@ Let me sketch the context by raising a question: what has the world to learn fro
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Law of Excluded Middle: Christian Beliefs &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/law-of-excluded-middle-christian-beliefs/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/law-of-excluded-middle-christian-beliefs/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -28,7 +28,7 @@ Regarding my reasoning, this is what you say:
 
 Hindus may have ideas/opinions about the beliefs of the Christians but &ldquo;beliefs about&rdquo; cannot be compared to &ldquo;beliefs&rdquo; and I think that is the error.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/law-of-excluded-middle-christian-beliefs/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/law-of-excluded-middle-christian-beliefs/">
 
 
 
@@ -64,7 +64,7 @@ Hindus may have ideas/opinions about the beliefs of the Christians but &ldquo;be
   "headline": "Law of Excluded Middle: Christian Beliefs",
   "name": "Law of Excluded Middle: Christian Beliefs",
   "description": "\u003cp\u003eI was expecting you to show me where \u003ca href=\u0022\/hipkapi\/posts\/intentional-operator-and-inconsistent-reasoning\/\u0022\u003ethe reasoning I formulated goes wrong\u003c\/a\u003e\n, but you do not do so. The analogy you draw, I am afraid, does not quite do the job you want it to.\u003c\/p\u003e\n\u003col\u003e\n\u003cli\u003eOne can easily hold the following two beliefs (your example) without any fear of contradiction:\n(a) There is only one way to Bombay (this is it) and (b) There are many ways to Bombay (this is one of them).\nThe \u0026lsquo;how\u0026rsquo; of it must be obvious: the \u0026rsquo;this\u0026rsquo; is an indexical. Consequently, any person can hold both these beliefs together (at the same time or about the same route) without being contradictory (depending upon what he points out using the word \u0026rsquo;this\u0026rsquo;).\nIn fact, even statements like (c) \u0026ldquo;Route 19 is the only way to Bombay\u0026rdquo; and (d) \u0026ldquo;Route 24 is one of the ways to Bombay\u0026rdquo; can be held to be true by one and the same person at the same time without fear of contradiction. ( Both  statements would be true if Route 24 allows one to join Route 19 at some point or the other.) In other words, Minimus, your examples do not work the way you want them to.\u003c\/li\u003e\n\u003cli\u003eRegarding my reasoning, this is what you say:\u003c\/li\u003e\n\u003c\/ol\u003e\n\u003cblockquote\u003e\n\u003cp\u003eHindus may have ideas\/opinions about the beliefs of the Christians but \u0026ldquo;beliefs about\u0026rdquo; cannot be compared to \u0026ldquo;beliefs\u0026rdquo; and I think that is the error.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/law-of-excluded-middle-christian-beliefs\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/law-of-excluded-middle-christian-beliefs\/",
   
   "datePublished": "2017-10-29T13:09:46\u002b05:30",
   "dateModified": "2017-10-29T13:09:46\u002b05:30",
@@ -75,14 +75,14 @@ Hindus may have ideas/opinions about the beliefs of the Christians but &ldquo;be
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/law-of-excluded-middle-christian-beliefs\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/law-of-excluded-middle-christian-beliefs\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -534,7 +534,36 @@ Even if it is an &ldquo;error&rdquo;,  it is <em>not contradictory</em> and th
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

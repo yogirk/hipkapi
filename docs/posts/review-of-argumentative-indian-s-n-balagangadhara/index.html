@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Review of Amartya Sen&#39;s Argumentative Indian—S.N. Balagangadhara &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/review-of-argumentative-indian-s-n-balagangadhara/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/review-of-argumentative-indian-s-n-balagangadhara/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Review of Amartya Sen&#39;s Argumentative Indian—S.N. Balagangadhara">
 <meta property="og:description" content="Today, there are multiple images of India current in the West. There is the mystic India, an image that the German Romantics created and the &lsquo;flower children&rsquo; of the sixties made popular. There is the third world India with enormous poverty and suffering, which the developmental workers have projected. There is also the India, the centre of IT outsourcing, which the developments in the last decade have brought into existence, and so on. Amartya Sen, the Indian noble prize-winner in Economics, has written a book on &ldquo;The Argumentative Indian&rdquo; which speaks of an India that he wants us to consider. This India is an India with a history of toleration and pluralism, an India that has brought forth its own version of &lsquo;secularism&rsquo;, and an India that is every bit rational, discursive and analytical as the western culture itself.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/review-of-argumentative-indian-s-n-balagangadhara/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/review-of-argumentative-indian-s-n-balagangadhara/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Review of Amartya Sen\u0027s Argumentative Indian—S.N. Balagangadhara",
   "name": "Review of Amartya Sen\u0027s Argumentative Indian—S.N. Balagangadhara",
   "description": "\u003cp\u003eToday, there are multiple images of India current in the West. There is the mystic India, an image that the German Romantics created and the \u0026lsquo;flower children\u0026rsquo; of the sixties made popular. There is the third world India with enormous poverty and suffering, which the developmental workers have projected. There is also the India, the centre of IT outsourcing, which the developments in the last decade have brought into existence, and so on. Amartya Sen, the Indian noble prize-winner in Economics, has written a book on \u0026ldquo;The Argumentative Indian\u0026rdquo; which speaks of an India that he wants us to consider. This India is an India with a history of toleration and pluralism, an India that has brought forth its own version of \u0026lsquo;secularism\u0026rsquo;, and an India that is every bit rational, discursive and analytical as the western culture itself.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/review-of-argumentative-indian-s-n-balagangadhara\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/review-of-argumentative-indian-s-n-balagangadhara\/",
   
   "datePublished": "2011-03-05T06:17:06\u002b05:30",
   "dateModified": "2011-03-05T06:17:06\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/review-of-argumentative-indian-s-n-balagangadhara\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/review-of-argumentative-indian-s-n-balagangadhara\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -556,7 +556,36 @@ I agree here with Balagangadhara, the narrow &amp; limited view of Amartya Sen a
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

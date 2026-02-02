@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Are Indian Christians not bound by Christian Theology? –S.N.Balagangadhara &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/are-indian-christians-not-bound-by-christian-theology-s-n-balagangadhara/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/are-indian-christians-not-bound-by-christian-theology-s-n-balagangadhara/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="You say: Thus when one says that many Indian Christians are pluralistic &hellip; it cannot be refuted simply by saying, well Christian doctrine fundamentally cannot be pluralistic &ndash; because all doctrine ultimately always gets interpreted at the level of the individual.
 While it is indeed true that, in the last analysis, everything happens at the level of the individual, it is wrong to say that, therefore, claims about the Indian Christians cannot be refuted by referring to Christian theology.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/are-indian-christians-not-bound-by-christian-theology-s-n-balagangadhara/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/are-indian-christians-not-bound-by-christian-theology-s-n-balagangadhara/">
 
 
 
@@ -46,7 +46,7 @@ While it is indeed true that, in the last analysis, everything happens at the le
   "headline": "Are Indian Christians not bound by Christian Theology? –S.N.Balagangadhara",
   "name": "Are Indian Christians not bound by Christian Theology? –S.N.Balagangadhara",
   "description": "\u003cp\u003eYou say: Thus when one says that many Indian Christians are pluralistic \u0026hellip; it cannot be refuted simply by saying, well Christian doctrine fundamentally cannot be pluralistic \u0026ndash; because all doctrine ultimately always gets interpreted at the level of the individual.\u003c\/p\u003e\n\u003cp\u003eWhile it is indeed true that, in the last analysis, everything happens at the level of the individual, it is wrong to say that, \u003cem\u003etherefore\u003c\/em\u003e, claims about the Indian Christians cannot be refuted by referring to Christian theology.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/are-indian-christians-not-bound-by-christian-theology-s-n-balagangadhara\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/are-indian-christians-not-bound-by-christian-theology-s-n-balagangadhara\/",
   
   "datePublished": "2011-03-04T00:34:15\u002b05:30",
   "dateModified": "2011-03-04T00:34:15\u002b05:30",
@@ -57,14 +57,14 @@ While it is indeed true that, in the last analysis, everything happens at the le
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/are-indian-christians-not-bound-by-christian-theology-s-n-balagangadhara\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/are-indian-christians-not-bound-by-christian-theology-s-n-balagangadhara\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -502,7 +502,36 @@ While it is indeed true that, in the last analysis, everything happens at the le
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

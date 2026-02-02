@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What exists in India,  given ‘Hinduism’, ‘Buddhism’, etc. do not exist &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/what-exists-in-india-given-hinduism-buddhism-etc-do-not-exist/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/what-exists-in-india-given-hinduism-buddhism-etc-do-not-exist/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -24,7 +24,7 @@ The first thing is that my book
 
 You are right in saying that I deny that &lsquo;religions&rsquo; called &lsquo;Hinduism&rsquo;, &lsquo;Buddhism&rsquo;, &lsquo;Jainism&rsquo; exist in India. Indeed, I show why the western culture had to necessarily create (for itself) such &lsquo;religions&rsquo;. This is one half of a story.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/what-exists-in-india-given-hinduism-buddhism-etc-do-not-exist/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/what-exists-in-india-given-hinduism-buddhism-etc-do-not-exist/">
 
 
 
@@ -56,7 +56,7 @@ You are right in saying that I deny that &lsquo;religions&rsquo; called &lsquo;H
   "headline": "What exists in India,  given ‘Hinduism’, ‘Buddhism’, etc. do not exist",
   "name": "What exists in India,  given ‘Hinduism’, ‘Buddhism’, etc. do not exist",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eThe first thing is that \u003ca href=\u0022http:\/\/colonial.consciousness.googlepages.com\/HeatheninHisBlindness.pdf\u0022 rel=\u0022noopener\u0022\u003emy book\u003c\/a\u003e\n is about the western culture and a specific religion, which brought the former forth. It is only \u003cem\u003eindirectly\u003c\/em\u003e about India because I interrogate the way India was looked at by the western culture. I proffer some hypotheses about India there by consciously remaining within the western framework.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli\u003e\n\u003cp\u003eYou are right in saying that I deny that \u0026lsquo;religions\u0026rsquo; called \u0026lsquo;Hinduism\u0026rsquo;, \u0026lsquo;Buddhism\u0026rsquo;, \u0026lsquo;Jainism\u0026rsquo; exist in India. Indeed, I show why the western culture had to \u003cem\u003enecessarily\u003c\/em\u003e create (for itself) such \u0026lsquo;religions\u0026rsquo;. This is one half of a story.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/what-exists-in-india-given-hinduism-buddhism-etc-do-not-exist\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/what-exists-in-india-given-hinduism-buddhism-etc-do-not-exist\/",
   
   "datePublished": "2011-04-06T20:45:28\u002b05:30",
   "dateModified": "2011-04-06T20:45:28\u002b05:30",
@@ -67,14 +67,14 @@ You are right in saying that I deny that &lsquo;religions&rsquo; called &lsquo;H
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/what-exists-in-india-given-hinduism-buddhism-etc-do-not-exist\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/what-exists-in-india-given-hinduism-buddhism-etc-do-not-exist\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -526,7 +526,36 @@ You are right in saying that I deny that &lsquo;religions&rsquo; called &lsquo;H
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

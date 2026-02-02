@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Proselytizing drive of the Eastern Christianity in India &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/proselytizing-drive-of-the-eastern-christianity-in-india/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/proselytizing-drive-of-the-eastern-christianity-in-india/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 
 Actually, there are two questions that need to be distinguished from each other. There is, firstly, the question about the nature of &lsquo;Eastern&rsquo; Christianity. If it is muted in its proselytizing drive in all cultures the same way and if it is &rsquo;tolerant&rsquo; in exactly the same way in all cultures, it makes sense to ask the question whether (a) different factors in all these cultures have brought about the same effect (different &lsquo;causes&rsquo; can generate one and the same effect in differing circumstances) or (b) it is due to the nature of the &lsquo;Eastern&rsquo; Christianity itself. Nobody is able to make such a claim today. We do not possess the theoretical apparatus which would allow us to make sense of the remarks I have made in italics.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/proselytizing-drive-of-the-eastern-christianity-in-india/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/proselytizing-drive-of-the-eastern-christianity-in-india/">
 
 
 
@@ -48,7 +48,7 @@ Actually, there are two questions that need to be distinguished from each other.
   "headline": "Proselytizing drive of the Eastern Christianity in India",
   "name": "Proselytizing drive of the Eastern Christianity in India",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eActually, there are two questions that need to be distinguished from each other. There is, firstly, the question about the nature of \u0026lsquo;Eastern\u0026rsquo; Christianity. If it is muted in its proselytizing drive in all cultures the \u003cem\u003esame way\u003c\/em\u003e and if it is \u0026rsquo;tolerant\u0026rsquo; in \u003cem\u003eexactly the same way\u003c\/em\u003e in all cultures, it makes sense to ask the question whether (a) different factors in all these cultures have brought about the same effect (different \u0026lsquo;causes\u0026rsquo; can generate one and the same effect in differing circumstances) or (b) it is due to the nature of the \u0026lsquo;Eastern\u0026rsquo; Christianity itself. Nobody is able to make such a claim today. We do not possess the theoretical apparatus which would allow us to make sense of the remarks I have made in italics.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/proselytizing-drive-of-the-eastern-christianity-in-india\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/proselytizing-drive-of-the-eastern-christianity-in-india\/",
   
   "datePublished": "2017-02-12T22:31:31\u002b05:30",
   "dateModified": "2017-02-12T22:31:31\u002b05:30",
@@ -59,14 +59,14 @@ Actually, there are two questions that need to be distinguished from each other.
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/proselytizing-drive-of-the-eastern-christianity-in-india\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/proselytizing-drive-of-the-eastern-christianity-in-india\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -523,7 +523,36 @@ Actually, there are two questions that need to be distinguished from each other.
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

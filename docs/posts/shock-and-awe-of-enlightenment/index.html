@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Knowledge and Bullshit about Daffodil &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/shock-and-awe-of-enlightenment/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/shock-and-awe-of-enlightenment/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="To help you think through the problem you &ldquo;whether Christians can get enlightened&rdquo;, try using this analogy. Something, let us call it ‘daffodil’, fascinates us. Let us also assume that a great deal of concern and interest is expressed about it. Consider two scenarios now, each of which testifies to our fascination.
 The first scenario is this. There is versification (call it ‘poetry’) and ‘embodiment’ (paintings and sculptures) of ‘daffodil’; imaginative eulogies (novels) and intimidating discourses (‘philosophy’) about ‘daffodil’ abound, etc. These classifications are based on our understanding of what art, poetry, philosophy etc. are. There are also many collations of fragmentary sentences that appear to violate metres of poetry or styles of prose. They are revered as revolutionary breakthroughs (made by the heroes of the ‘masses’ transgressing such elitist notions like ‘grammar’, ‘style’, etc.) that are ‘blinding in their beauty’. In short, there is a huge collection of material about ‘daffodil’.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/shock-and-awe-of-enlightenment/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/shock-and-awe-of-enlightenment/">
 
 
 
@@ -46,7 +46,7 @@ The first scenario is this. There is versification (call it ‘poetry’) and �
   "headline": "Knowledge and Bullshit about Daffodil",
   "name": "Knowledge and Bullshit about Daffodil",
   "description": "\u003cp\u003eTo help you think through the problem you \u0026ldquo;whether Christians can get enlightened\u0026rdquo;, try using this analogy. Something, let us call it ‘daffodil’, fascinates us. Let us also assume that a great deal of concern and interest is expressed about it. Consider two scenarios now, each of which testifies to our fascination.\u003c\/p\u003e\n\u003cp\u003eThe first scenario is this. There is versification (call it ‘poetry’) and ‘embodiment’ (paintings and sculptures) of ‘daffodil’; imaginative eulogies (novels) and intimidating discourses (‘philosophy’) about ‘daffodil’ abound, etc. These classifications are based on our understanding of what art, poetry, philosophy etc. are. There are also many collations of fragmentary sentences that appear to violate metres of poetry or styles of prose. They are revered as revolutionary breakthroughs (made by the heroes of the ‘masses’ transgressing such elitist notions like ‘grammar’, ‘style’, etc.) that are ‘blinding in their beauty’. In short, there is a huge collection of material about ‘daffodil’.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/shock-and-awe-of-enlightenment\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/shock-and-awe-of-enlightenment\/",
   
   "datePublished": "2017-10-09T15:38:53\u002b05:30",
   "dateModified": "2017-10-09T15:38:53\u002b05:30",
@@ -57,14 +57,14 @@ The first scenario is this. There is versification (call it ‘poetry’) and �
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/shock-and-awe-of-enlightenment\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/shock-and-awe-of-enlightenment\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -513,7 +513,36 @@ The first scenario is this. There is versification (call it ‘poetry’) and �
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

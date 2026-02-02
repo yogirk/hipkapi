@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Moral domain not defined by norms &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/moral-domain-not-defined-by-norms-s-n-balagangadhara/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/moral-domain-not-defined-by-norms-s-n-balagangadhara/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Moral domain not defined by norms">
 <meta property="og:description" content="The inability of the Chinese language to express counterfactuals is even more intriguing. As you know, Confucius wrote his &ldquo;Analects&rdquo; in the Classical Chinese language. In order to see where I am heading, consider some of the thoughts that Rosemont, Jr. expresses. (Rosemont, Jr., H., &ldquo;Against Relativism.&rdquo; In Larson G. J. and E. Deutsch (eds.), Interpreting Across Boundaries: New Essays in Comparative Philosophy. Princeton: Princeton University Press, 1988) Not only is there an absence of the concept of &lsquo;morality&rsquo; in the Classical Chinese, but also the very cluster of concepts required to speak about moral issues.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/moral-domain-not-defined-by-norms-s-n-balagangadhara/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/moral-domain-not-defined-by-norms-s-n-balagangadhara/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Moral domain not defined by norms",
   "name": "Moral domain not defined by norms",
   "description": "\u003cp\u003eThe inability of the Chinese language to express counterfactuals is even more intriguing. As you know, Confucius wrote his \u0026ldquo;Analects\u0026rdquo; in the Classical Chinese language. In order to see where I am heading, consider some of the thoughts that Rosemont, Jr. expresses. (Rosemont, Jr., H., \u0026ldquo;Against Relativism.\u0026rdquo; In Larson G. J. and E. Deutsch (eds.), \u003cem\u003eInterpreting Across Boundaries: New Essays in Comparative Philosophy\u003c\/em\u003e. Princeton: Princeton University Press, 1988) Not only is there an absence of the concept of \u0026lsquo;morality\u0026rsquo; in the Classical Chinese, but also the very cluster of concepts required to speak about moral issues.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/moral-domain-not-defined-by-norms-s-n-balagangadhara\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/moral-domain-not-defined-by-norms-s-n-balagangadhara\/",
   
   "datePublished": "2011-03-03T01:33:47\u002b05:30",
   "dateModified": "2011-03-03T01:33:47\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/moral-domain-not-defined-by-norms-s-n-balagangadhara\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/moral-domain-not-defined-by-norms-s-n-balagangadhara\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -501,7 +501,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The dynamic of religion: secularization and proselytization &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/the-dynamic-of-religion-secularization-and-proselytization/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/the-dynamic-of-religion-secularization-and-proselytization/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 
 Let us begin with the idea that religion is some kind of a system (or structure or whatever you feel like using) that maintains itself. That is to say, it is able to reproduce itself, and sustain itself. I call this the `simple reproduction&rsquo; of religion. This dynamic enables not only the reproduction of the community of believers but also the experiential intelligibility that the Cosmos has for them. (Worship, for instance, is one such means for the reproduction of religion.)">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/the-dynamic-of-religion-secularization-and-proselytization/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/the-dynamic-of-religion-secularization-and-proselytization/">
 
 
 
@@ -48,7 +48,7 @@ Let us begin with the idea that religion is some kind of a system (or structure 
   "headline": "The dynamic of religion: secularization and proselytization",
   "name": "The dynamic of religion: secularization and proselytization",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eLet us begin with the idea that religion is some kind of a system (or structure or whatever you feel like using) that maintains itself. That is to say, it is able to reproduce itself, and sustain itself. I call this the \u0060simple reproduction\u0026rsquo; of religion. This dynamic enables not only the reproduction of the community of believers but also the experiential intelligibility that the Cosmos has for them. (Worship, for instance, is one such means for the reproduction of religion.)\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/the-dynamic-of-religion-secularization-and-proselytization\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/the-dynamic-of-religion-secularization-and-proselytization\/",
   
   "datePublished": "2011-03-19T03:05:49\u002b05:30",
   "dateModified": "2011-03-19T03:05:49\u002b05:30",
@@ -59,14 +59,14 @@ Let us begin with the idea that religion is some kind of a system (or structure 
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/the-dynamic-of-religion-secularization-and-proselytization\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/the-dynamic-of-religion-secularization-and-proselytization\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -538,7 +538,36 @@ Let us begin with the idea that religion is some kind of a system (or structure 
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

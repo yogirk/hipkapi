@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Is humility a virtue? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/is-humility-a-virtue/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/is-humility-a-virtue/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Is humility a virtue?">
 <meta property="og:description" content="First: there is nothing morally wrong in posting an opinion. My problem is that (a) it occurs within the context of generating and criticising knowledge; (b) its cognitive value is either zero or negative; (c) it is presented as though thoughtless opinions (almost all opinions are thoughtless) form a counterpoint to knowledge or are themselves candidates for knowledge (the latter are the hypotheses); (d) one acts as though the fact that opinions could have some moral value (because a human being expresses them) is sufficient to make them cognitively worthy; (e) cognitive nonsense is provided with a foundation in Christian (and Semitic) religious value (like ‘IMHO’, ‘humility’ for example), which is itself placed beyond discussion as though its importance is universally recognized; (Neither the Ancient Pagans nor the Asian traditions consider ‘humility’ a moral virtue. It is immoral to these traditions because it is seen as dissimulation and deception.); and so on. There is place on this forum for dissent, disagreement and criticism, but their foundation is not moral but cognitive. I do not tolerate opinions on this board, but I am willing to think about any hypothesis that appears reasonable. I will respond to misunderstandings, queries and criticisms. However, those who find my reactions (to their ‘humble opinions’) offensive should leave this group.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/is-humility-a-virtue/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/is-humility-a-virtue/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Is humility a virtue?",
   "name": "Is humility a virtue?",
   "description": "\u003cp\u003eFirst: there is nothing morally wrong in posting an opinion. My problem is that (a) it occurs within the context of generating and criticising knowledge; (b) its cognitive value is either zero or negative; (c) it is presented as though thoughtless opinions (almost all opinions are thoughtless) form a counterpoint to knowledge or are themselves candidates for knowledge (the latter are the hypotheses); (d) one acts as though the fact that opinions could have some moral value (because a human being expresses them) is sufficient to make them cognitively worthy; (e) cognitive nonsense is provided with a foundation in Christian (and Semitic) religious value (like ‘IMHO’, ‘humility’ for example), which is itself placed beyond discussion as though its importance is universally recognized; (Neither the Ancient Pagans nor the Asian traditions consider ‘humility’ a moral virtue. It is immoral to these traditions because it is seen as dissimulation and deception.); and so on. There is place on this forum for dissent, disagreement and criticism, but their foundation is not moral but cognitive. I do not tolerate opinions on this board, but I am willing to think about any hypothesis that appears reasonable. I will respond to misunderstandings, queries and criticisms. However, those who find my reactions (to their ‘humble opinions’) offensive should leave this group.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/is-humility-a-virtue\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/is-humility-a-virtue\/",
   
   "datePublished": "2017-01-13T21:37:03\u002b05:30",
   "dateModified": "2017-01-13T21:37:03\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/is-humility-a-virtue\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/is-humility-a-virtue\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -499,7 +499,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

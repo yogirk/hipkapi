@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Superstition and rationality &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/superstition-and-rationality/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/superstition-and-rationality/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Superstition and rationality">
 <meta property="og:description" content="Consider the question: &ldquo;why superstition?&rdquo; Our problem lies in circumscribing this notion itself: is it something we should use to characterize beliefs, or attitudes, or theories or actions or all of them? Our linguistic usage allows it mostly of &lsquo;beliefs&rsquo; and to the act of believing: to believe that walking under the ladder brings bad; to believe that vampires exist and walk as ordinary humans in the night; to believe in the fairy who watches over you, etc. are all instances of superstition. It also allows us to use it in connection to the truth status of theories like, for instance, the claim that it is superstitious to believe in astrology. However, accepting this usage is not enough: what makes a belief a superstitious belief or an act of believing a superstitious act? It is here that many, many problems come to the fore. One easy way out is to use science and scientific theories as the contrast set: any belief that is not countenanced by the scientific theories of today is a superstitious belief. Of course, this is too broad: on this account, every belief that displaces the current scientific beliefs (i.e., the new scientific theories) becomes superstitious. If you try and circumvent this problem by speaking about &lsquo;scientific theories&rsquo; in the abstract (i.e., do not circumscribe them in time), the danger is that every belief (almost) escapes the net. Just because scientific theories of today do not recognize the existence of ghosts, it does not follow, one could argue, that the sciences of tomorrow cannot recognize the role that mediums play in talking to the spirits of the long departed. You can try and say that all beliefs disproved by science should belong to the set of superstitious beliefs: however, similar problems occur. On top of it, you have the difficulty of saying why one should not have superstitious beliefs. And so on.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/superstition-and-rationality/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/superstition-and-rationality/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Superstition and rationality",
   "name": "Superstition and rationality",
   "description": "\u003cp\u003eConsider the question: \u0026ldquo;why superstition?\u0026rdquo; Our problem lies in circumscribing this notion itself: is it something we should use to characterize beliefs, or attitudes, or theories or actions or all of them? Our linguistic usage allows it mostly of \u0026lsquo;beliefs\u0026rsquo; and to the act of believing: to believe that walking under the ladder brings bad; to believe that vampires exist and walk as ordinary humans in the night; to believe in the fairy who watches over you, etc. are all instances of superstition. It also allows us to use it in connection to the truth status of theories like, for instance, the claim that it is superstitious to believe in astrology. However, accepting this usage is not enough: what makes a belief a superstitious belief or an act of believing a superstitious act? It is here that many, many problems come to the fore. One easy way out is to use science and scientific theories as the contrast set: any belief that is not countenanced by the scientific theories of today is a superstitious belief. Of course, this is too broad: on this account, every belief that displaces the current scientific beliefs (i.e., the new scientific theories) becomes superstitious. If you try and circumvent this problem by speaking about \u0026lsquo;scientific theories\u0026rsquo; in the abstract (i.e., do not circumscribe them in time), the danger is that every belief (almost) escapes the net. Just because scientific theories of today do not recognize the existence of ghosts, it does not follow, one could argue, that the sciences of tomorrow cannot recognize the role that mediums play in talking to the spirits of the long departed. You can try and say that all beliefs disproved by science should belong to the set of superstitious beliefs: however, similar problems occur. On top of it, you have the difficulty of saying why one should not have superstitious beliefs. And so on.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/superstition-and-rationality\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/superstition-and-rationality\/",
   
   "datePublished": "2011-10-21T18:40:29\u002b05:30",
   "dateModified": "2011-10-21T18:40:29\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/superstition-and-rationality\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/superstition-and-rationality\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -505,7 +505,36 @@ Note: for more on how Christianity has the changed the reference and meaning of 
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Caste Sytem III &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/caste-system-iii/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/caste-system-iii/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -21,7 +21,7 @@
 As I have said before, my hypothesis
  is meant to guide the research and, as such, suggests that we find that the Brahmins will exhibit more of a heterarchical organization than a hierarchical one. Let us assume that what you say is true. In that case, this anomaly (or these anomalies) will become the problem(s) that my hypothesis has to solve. That is, the hypothesis will force one to look for an explanation in multiple directions: for instance, have these hierarchies emerged due to induction of new groups and individuals in the course of history? (That means, this hypothesis forces one to probe the truth of the statement that once one is born into a jati, there is no way of moving to another Jati. The Madhva conversion in South India has disproved it but no one I know has taken this fact into consideration.) Who were the majority jati&rsquo;s in the area and what was the nature of interaction between these Brahmin groups and other Jati&rsquo;s? And so on. In other words, each anomaly we confront forces further research. There is always the possibility that my research hypothesis will crumble under the weight of accumulated anomalies but that is not the case yet. At the moment, they merely call for further research.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/caste-system-iii/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/caste-system-iii/">
 
 
 
@@ -50,7 +50,7 @@ As I have said before, my hypothesis
   "headline": "Caste Sytem III",
   "name": "Caste Sytem III",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eAs I have said before, my \u003ca href=\u0022\/hipkapi\/posts\/caste-system-i\/\u0022\u003ehypothesis\u003c\/a\u003e\n is meant to guide the research and, as such, suggests that we find that the Brahmins will exhibit more of a heterarchical organization than a hierarchical one. Let us assume that what you say is true. In that case, this anomaly (or these anomalies) will become the problem(s) that my hypothesis has to solve. That is, the hypothesis will force one to look for an explanation in multiple directions: for instance, have these hierarchies emerged due to induction of new groups and individuals in the course of history? (That means, this hypothesis forces one to probe the truth of the statement that once one is born into a jati, there is no way of moving to another Jati. The Madhva conversion in South India has disproved it but no one I know has taken this fact into consideration.) Who were the majority jati\u0026rsquo;s in the area and what was the nature of interaction between these Brahmin groups and other Jati\u0026rsquo;s? And so on. In other words, each anomaly we confront forces further research. There is always the possibility that my research hypothesis will crumble under the weight of accumulated anomalies but that is not the case yet. At the moment, they merely call for further research.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/caste-system-iii\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/caste-system-iii\/",
   
   "datePublished": "2015-01-04T18:09:15\u002b05:30",
   "dateModified": "2015-01-04T18:09:15\u002b05:30",
@@ -61,14 +61,14 @@ As I have said before, my hypothesis
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/caste-system-iii\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/caste-system-iii\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -514,7 +514,36 @@ As I have said before, my hypothesis
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Two kinds of research in social sciences &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/two-kinds-of-research-in-social-sciences/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/two-kinds-of-research-in-social-sciences/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Two kinds of research in social sciences">
 <meta property="og:description" content="There is, on the one hand, the intellectual tradition of expressing opinions and points of view. Here, as it suits thoughtful minds, one tries to express ideas carefully and in a nuanced fashion. Recent peer-opinions are taken into account; generalizations are avoided; the attention is on the specific and the concrete; and, where possible, one’s ideas are either founded upon or embroidered by some or another of the many philosophical stances that are available. The goal of the discussion is to endorse these opinions, or express disagreement on the broad idea expressed by the author. Any other kind of intellectual exercise of often seen as either nit-picking or engaging in polemics. To those who have grown up in this culture, it is obvious what the sought-after intellectual virtues are and how one should cultivate it. In other words, this culture surrounds itself with meta-arguments that is either founded upon or embroidered by some or another meta-philosophy about what intellectuals are, what their role in the realm of ideas should be and how they should relate to the rest of society.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/two-kinds-of-research-in-social-sciences/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/two-kinds-of-research-in-social-sciences/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Two kinds of research in social sciences",
   "name": "Two kinds of research in social sciences",
   "description": "\u003cp\u003eThere is, on the one hand, the intellectual tradition of expressing opinions and points of view. Here, as it suits thoughtful minds, one tries to express ideas carefully and in a nuanced fashion. Recent peer-opinions are taken into account; generalizations are avoided; the attention is on the specific and the concrete; and, where possible, one’s ideas are either founded upon or embroidered by some or another of the many philosophical stances that are available. The goal of the discussion is to endorse these opinions, or express disagreement on the broad idea expressed by the author. Any other kind of intellectual exercise of often seen as either nit-picking or engaging in polemics. To those who have grown up in this culture, it is obvious what the sought-after intellectual virtues are and how one should cultivate it. In other words, this culture surrounds itself with meta-arguments that is either founded upon or embroidered by some or another meta-philosophy about what intellectuals are, what their role in the realm of ideas should be and how they should relate to the rest of society.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/two-kinds-of-research-in-social-sciences\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/two-kinds-of-research-in-social-sciences\/",
   
   "datePublished": "2014-04-13T22:27:00\u002b05:30",
   "dateModified": "2014-04-13T22:27:00\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/two-kinds-of-research-in-social-sciences\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/two-kinds-of-research-in-social-sciences\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -501,7 +501,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

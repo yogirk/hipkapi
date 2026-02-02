@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>How to produce knowledge about “Who is a Christian”—S.N.Balagangadhara &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/how-to-produce-knowledge-about-who-is-a-christian-s-n-balagangadhara/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/how-to-produce-knowledge-about-who-is-a-christian-s-n-balagangadhara/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="How to produce knowledge about “Who is a Christian”—S.N.Balagangadhara">
 <meta property="og:description" content="Imagine that I were to say the following: Christ and Ganesha are manifestations of the same divinity; Christ came about 2000 years ago in the Middle East, whereas Ganesha is how he has appeared in India some 4000 years ago. Now no one can forbid me from saying this and calling myself a Christian. Question: what should a theory about Christianity do? Show how anyone who decides to call himself a &lsquo;Christian&rsquo; is, in fact, also a Christian? In that case, all such a &rsquo;theory&rsquo; can do is say something like the following: anyone who calls himself some name (&lsquo;Christian&rsquo;, &lsquo;Democrat&rsquo;, &lsquo;Marxist&rsquo;, etc) is also whatever he calls himself. Such an attitude simply ends up making any knowledge of society and human beings impossible.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/how-to-produce-knowledge-about-who-is-a-christian-s-n-balagangadhara/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/how-to-produce-knowledge-about-who-is-a-christian-s-n-balagangadhara/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "How to produce knowledge about “Who is a Christian”—S.N.Balagangadhara",
   "name": "How to produce knowledge about “Who is a Christian”—S.N.Balagangadhara",
   "description": "\u003cp\u003eImagine that I were to say the following: Christ and \u003cem\u003eGanesha\u003c\/em\u003e are manifestations of the same divinity; Christ came about 2000 years ago in the Middle East, whereas \u003cem\u003eGanesha\u003c\/em\u003e is how he has appeared in India some 4000 years ago. Now no one can forbid me from saying this and \u003cem\u003ecalling myself a Christian\u003c\/em\u003e. Question: what should a theory about Christianity do? Show \u003cem\u003ehow\u003c\/em\u003e anyone who decides to call himself a \u0026lsquo;Christian\u0026rsquo; is, in fact, also a Christian? In that case, all such a \u0026rsquo;theory\u0026rsquo; can do is say something like the following: anyone who calls himself some name (\u0026lsquo;Christian\u0026rsquo;, \u0026lsquo;Democrat\u0026rsquo;, \u0026lsquo;Marxist\u0026rsquo;, etc) is also whatever he calls himself. Such an attitude simply ends up making any knowledge of society and human beings impossible.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/how-to-produce-knowledge-about-who-is-a-christian-s-n-balagangadhara\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/how-to-produce-knowledge-about-who-is-a-christian-s-n-balagangadhara\/",
   
   "datePublished": "2011-03-04T23:27:00\u002b05:30",
   "dateModified": "2011-03-04T23:27:00\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/how-to-produce-knowledge-about-who-is-a-christian-s-n-balagangadhara\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/how-to-produce-knowledge-about-who-is-a-christian-s-n-balagangadhara\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -505,7 +505,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Creation: Spontaneous or Intentional &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/do-indian-traditions-claim-that-the-universe-is-an-expression-of-gods-intention/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/do-indian-traditions-claim-that-the-universe-is-an-expression-of-gods-intention/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Creation: Spontaneous or Intentional">
 <meta property="og:description" content="If we want to grasp the nature of the discussions in the Indian traditions, there is much we need to do beforehand: (a) identify the entity they were talking about; (b) identify the specific questions they were answering; (c) identify the generic questions that defined both the outlines of the acceptable answers and the formulation of the specific questions; etc. (The &lsquo;cetera&rsquo; indicates that I do not know how to enumerate all the things we need to grasp.) In the case of the propositions you have formulated, I assume that &lsquo;God&rsquo; is Vishnu (or even Krishna) and not, say, Shiva or Brahma because you are talking about the Madhvas. However, to keep the discussion faithful to your formulations, I will use the word &lsquo;God&rsquo; to refer to Vishnu.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/do-indian-traditions-claim-that-the-universe-is-an-expression-of-gods-intention/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/do-indian-traditions-claim-that-the-universe-is-an-expression-of-gods-intention/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Creation: Spontaneous or Intentional",
   "name": "Creation: Spontaneous or Intentional",
   "description": "\u003cp\u003eIf we want to grasp the nature of the discussions in the Indian traditions, there is much we need to do beforehand: (a) identify the entity they were talking about; (b) identify the specific questions they were answering; (c) identify the generic questions that defined both the outlines of the acceptable answers and the formulation of the specific questions; etc. (The \u0026lsquo;cetera\u0026rsquo; indicates that I do not know how to enumerate all the things we need to grasp.) In the case of the propositions you have formulated, I assume that \u0026lsquo;God\u0026rsquo; is Vishnu (or even Krishna) and not, say, Shiva or Brahma because you are talking about the Madhvas. However, to keep the discussion faithful to your formulations, I will use the word \u0026lsquo;God\u0026rsquo; to refer to Vishnu.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/do-indian-traditions-claim-that-the-universe-is-an-expression-of-gods-intention\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/do-indian-traditions-claim-that-the-universe-is-an-expression-of-gods-intention\/",
   
   "datePublished": "2011-10-24T22:10:37\u002b05:30",
   "dateModified": "2011-10-24T22:10:37\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/do-indian-traditions-claim-that-the-universe-is-an-expression-of-gods-intention\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/do-indian-traditions-claim-that-the-universe-is-an-expression-of-gods-intention\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -522,7 +522,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>How to speak for the Indian traditions: an agenda for the future--SN Balagangadhara &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/how-to-speak-for-the-indian-traditions-an-agenda-for-the-future/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/how-to-speak-for-the-indian-traditions-an-agenda-for-the-future/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 Abstract
 The paper attempts a contrast between the process and the structure of the Christian and the Indian spirituality. Drawing attention to their dissimilarities, it attempts to reformulate the differences among the Indian traditions in a novel way. It argues that cultures and traditions are not just different; but that they differ from each other in different ways as well. The future of religious studies, it is suggested, is dependent on developing the ability to develop new ways of describing the differences between cultures and traditions. This is the agenda for the future. As a correlate to this task, the paper suggests that we replace the question &ldquo;who speaks &lsquo;for&rsquo; and &lsquo;about&rsquo; a religion?&rdquo; with a more pregnant and a more accurate reformulation: &ldquo;how to speak for a religion in the Academy?&rdquo;">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/how-to-speak-for-the-indian-traditions-an-agenda-for-the-future/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/how-to-speak-for-the-indian-traditions-an-agenda-for-the-future/">
 
 
 
@@ -48,7 +48,7 @@ The paper attempts a contrast between the process and the structure of the Chris
   "headline": "How to speak for the Indian traditions: an agenda for the future--SN Balagangadhara",
   "name": "How to speak for the Indian traditions: an agenda for the future--SN Balagangadhara",
   "description": "\u003cp\u003e\u003cem\u003eEditor\u0026rsquo;s note: This article appeared in the Journal of American Academy of Religion\u003c\/em\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cstrong\u003eAbstract\u003c\/strong\u003e\u003c\/em\u003e\u003c\/p\u003e\n\u003cp\u003eThe paper attempts a contrast between the process and the structure of the Christian and the Indian spirituality. Drawing attention to their dissimilarities, it attempts to reformulate the differences among the Indian traditions in a novel way. It argues that cultures and traditions are not just different; but that they differ from each other in different ways as well. The future of religious studies, it is suggested, is dependent on developing the ability to develop new ways of describing the differences between cultures and traditions. This is the agenda for the future. As a correlate to this task, the paper suggests that we replace the question \u0026ldquo;who speaks \u0026lsquo;for\u0026rsquo; and \u0026lsquo;about\u0026rsquo; a religion?\u0026rdquo; with a more pregnant and a more accurate reformulation: \u0026ldquo;how to speak for a religion in the Academy?\u0026rdquo;\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/how-to-speak-for-the-indian-traditions-an-agenda-for-the-future\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/how-to-speak-for-the-indian-traditions-an-agenda-for-the-future\/",
   
   "datePublished": "2013-02-13T05:56:19\u002b05:30",
   "dateModified": "2013-02-13T05:56:19\u002b05:30",
@@ -59,14 +59,14 @@ The paper attempts a contrast between the process and the structure of the Chris
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/how-to-speak-for-the-indian-traditions-an-agenda-for-the-future\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/how-to-speak-for-the-indian-traditions-an-agenda-for-the-future\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -632,7 +632,36 @@ The paper attempts a contrast between the process and the structure of the Chris
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

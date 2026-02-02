@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Criticism: you are spreading hate &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/criticism-you-are-spreading-hate/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/criticism-you-are-spreading-hate/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="Criticism: You are spreading hate by citing Deschner&rsquo;s work–Kriminalgeschichte des Christentumsand ANY idiot knows even the title is stupid.
 I have not cited a single atrocity that Christianity has committed in order to incite hate towards Christianity. In fact, I have not even discussed any specific theological doctrine of any kind of Christianity, except to speak of the Christological dilemma. This dilemma is discussed by theologians, themselves Christians, in the field of Christology. And even here, I localise in it the dynamics of Christianity. The intolerance of Christianity, I say very explicitly, is its property by virtue of being a religion. That is to say, according to my research, all religions are intolerant. You might want to disagree with it; you are welcome to put your arguments across that refute the result of my research. But how does this constitute spreading hate? I am puzzled.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/criticism-you-are-spreading-hate/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/criticism-you-are-spreading-hate/">
 
 
 
@@ -46,7 +46,7 @@ I have not cited a single atrocity that Christianity has committed in order to i
   "headline": "Criticism: you are spreading hate",
   "name": "Criticism: you are spreading hate",
   "description": "\u003cp\u003eCriticism: You are spreading hate by citing Deschner\u0026rsquo;s work–\u003cem\u003e\u003cstrong\u003eKriminalgeschichte des Christentums\u003c\/strong\u003e\u003c\/em\u003eand ANY idiot knows even the title is stupid.\u003c\/p\u003e\n\u003cp\u003eI have not cited a single atrocity that Christianity has committed in order to incite hate towards Christianity. In fact, I have not even discussed any specific theological doctrine of any kind of Christianity, except to speak of the Christological dilemma. This dilemma is discussed by theologians, themselves Christians, in the field of Christology. And even here, I localise in it the dynamics of Christianity. The intolerance of Christianity, I say very explicitly, is its property by virtue of being a \u003cem\u003e\u003cstrong\u003ereligion\u003c\/strong\u003e\u003c\/em\u003e. That is to say, according to my research, all \u003cem\u003e\u003cstrong\u003ereligions are intolerant\u003c\/strong\u003e\u003c\/em\u003e. You might want to disagree with it; you are welcome to put your arguments across that refute the result of my research. But how does this constitute spreading hate? I am puzzled.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/criticism-you-are-spreading-hate\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/criticism-you-are-spreading-hate\/",
   
   "datePublished": "2011-03-04T23:15:18\u002b05:30",
   "dateModified": "2011-03-04T23:15:18\u002b05:30",
@@ -57,14 +57,14 @@ I have not cited a single atrocity that Christianity has committed in order to i
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/criticism-you-are-spreading-hate\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/criticism-you-are-spreading-hate\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -498,7 +498,36 @@ I have not cited a single atrocity that Christianity has committed in order to i
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Whose view is better?—S.N.Balagangadhara &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/whose-view-is-better-s-n-balagangadhara/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/whose-view-is-better-s-n-balagangadhara/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="&ldquo;Every one of us believes our own viewpoint to be the best one: such is human nature.&rdquo; This is not quite how I would put it. Let me, therefore say what I think with respect to this issue.
 Whenever I formulate a theory, I believe that my description is &rsquo;true&rsquo;. If I thought that it was &lsquo;false&rsquo;, I would not write what I write. This is a belief about the status of my description and its relationship to the part of reality I describe. Let us call this the &lsquo;object-level&rsquo; belief.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/whose-view-is-better-s-n-balagangadhara/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/whose-view-is-better-s-n-balagangadhara/">
 
 
 
@@ -46,7 +46,7 @@ Whenever I formulate a theory, I believe that my description is &rsquo;true&rsqu
   "headline": "Whose view is better?—S.N.Balagangadhara",
   "name": "Whose view is better?—S.N.Balagangadhara",
   "description": "\u003cp\u003e\u0026ldquo;Every one of us believes our own viewpoint to be the best one: such is human nature.\u0026rdquo; This is not quite how I would put it. Let me, therefore say what I think with respect to this issue.\u003c\/p\u003e\n\u003cp\u003eWhenever I formulate a theory, I believe that my description is \u0026rsquo;true\u0026rsquo;. If I thought that it was \u0026lsquo;false\u0026rsquo;, I would not write what I write. This is a belief about the status of my description and its relationship to the part of reality I describe. Let us call this the \u0026lsquo;object-level\u0026rsquo; belief.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/whose-view-is-better-s-n-balagangadhara\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/whose-view-is-better-s-n-balagangadhara\/",
   
   "datePublished": "2011-03-01T03:32:42\u002b05:30",
   "dateModified": "2011-03-01T03:32:42\u002b05:30",
@@ -57,14 +57,14 @@ Whenever I formulate a theory, I believe that my description is &rsquo;true&rsqu
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/whose-view-is-better-s-n-balagangadhara\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/whose-view-is-better-s-n-balagangadhara\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -502,7 +502,36 @@ Whenever I formulate a theory, I believe that my description is &rsquo;true&rsqu
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

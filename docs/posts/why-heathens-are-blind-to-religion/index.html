@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Why Heathens are blind to religion? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/why-heathens-are-blind-to-religion/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/why-heathens-are-blind-to-religion/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="Of course, the concept of explanatorily intelligible account is not easy to grasp: if it were, the &lsquo;heathens&rsquo; would not be blind to the existence of religion. However, that does not mean we cannot grasp it either.
 I am glad you are beginning to see why the story about &lsquo;Jesus as a Yogi&rsquo; (Sankrant&rsquo;s famous interpretation) is wrong; and why discussions on Sulekha drive me sometimes to despair and the believers (remember Gargoyle Minimus?) into utter rage. Why I keep saying that we think we understand Christianity (Pradip Gangopadhyay even claims that no Christian has understood the teachings of Christ, except himself), whereas we simply do not know what we are talking about.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/why-heathens-are-blind-to-religion/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/why-heathens-are-blind-to-religion/">
 
 
 
@@ -46,7 +46,7 @@ I am glad you are beginning to see why the story about &lsquo;Jesus as a Yogi&rs
   "headline": "Why Heathens are blind to religion?",
   "name": "Why Heathens are blind to religion?",
   "description": "\u003cp\u003eOf course, the concept of explanatorily intelligible account is not easy to grasp: if it were, the \u0026lsquo;heathens\u0026rsquo; would not be \u003cem\u003eblind\u003c\/em\u003e to the existence of religion. However, that does not mean we cannot grasp it either.\u003c\/p\u003e\n\u003cp\u003eI am glad you are beginning to see why the story about \u0026lsquo;Jesus as a Yogi\u0026rsquo; (Sankrant\u0026rsquo;s famous interpretation) is wrong; and why discussions on Sulekha drive me sometimes to despair and the believers (remember Gargoyle Minimus?) into utter rage. Why I keep saying that we \u003cem\u003ethink\u003c\/em\u003e we understand Christianity (Pradip Gangopadhyay even claims that no Christian has understood the teachings of Christ, except himself), whereas we simply do not know what we are talking about.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/why-heathens-are-blind-to-religion\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/why-heathens-are-blind-to-religion\/",
   
   "datePublished": "2011-03-26T00:03:37\u002b05:30",
   "dateModified": "2011-03-26T00:03:37\u002b05:30",
@@ -57,14 +57,14 @@ I am glad you are beginning to see why the story about &lsquo;Jesus as a Yogi&rs
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/why-heathens-are-blind-to-religion\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/why-heathens-are-blind-to-religion\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -504,7 +504,36 @@ I am glad you are beginning to see why the story about &lsquo;Jesus as a Yogi&rs
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

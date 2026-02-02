@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Atheism: a secularized theism—Jakob de Roover &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/atheism-a-secularized-theism-jakob-de-roover/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/atheism-a-secularized-theism-jakob-de-roover/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Atheism: a secularized theism—Jakob de Roover">
 <meta property="og:description" content="1: Atheism is a phenomenon that came into being in the western culture at around the time of the so-called Enlightenment. The West claims that it liberated itself from the dogmas of the Christian religion in this Enlightenment, and those who call themselves atheists mean by this that they belong to the enlightened people who &ldquo;have escaped from the dogmatic illusions of religion.&rdquo; Now, as it has always done, Christian Europe simply identified its own history with human history in general, and it claimed that all cultures had so far been under the ignorant spell of religion, but that they could now be liberated by the Enlightened West. This claim needs two separate premises: (a) That all cultures have religion (b) That atheism was a new and rational system of beliefs that could liberate people from all cultures from this illusion of religion.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/atheism-a-secularized-theism-jakob-de-roover/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/atheism-a-secularized-theism-jakob-de-roover/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Atheism: a secularized theism—Jakob de Roover",
   "name": "Atheism: a secularized theism—Jakob de Roover",
   "description": "\u003cp\u003e1: Atheism is a phenomenon that came into being in the western culture at around the time of the so-called Enlightenment. The West claims that it liberated itself from the dogmas of the Christian religion in this Enlightenment, and those who call themselves atheists mean by this that they belong to the enlightened people who \u0026ldquo;have escaped from the dogmatic illusions of religion.\u0026rdquo; Now, as it has always done, Christian Europe simply identified its own history with human history in general, and it claimed that all cultures had so far been under the ignorant spell of religion, but that they could now be liberated by the Enlightened West. This claim needs two separate premises: (a) That all cultures have religion (b) That atheism was a new and rational system of beliefs that could liberate people from all cultures from this illusion of religion.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/atheism-a-secularized-theism-jakob-de-roover\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/atheism-a-secularized-theism-jakob-de-roover\/",
   
   "datePublished": "2011-03-05T01:25:17\u002b05:30",
   "dateModified": "2011-03-05T01:25:17\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/atheism-a-secularized-theism-jakob-de-roover\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/atheism-a-secularized-theism-jakob-de-roover\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -536,7 +536,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

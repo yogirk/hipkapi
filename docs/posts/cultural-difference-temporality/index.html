@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cultural difference: temporality &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/cultural-difference-temporality/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/cultural-difference-temporality/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Cultural difference: temporality">
 <meta property="og:description" content="Experiences are structured differently in different cultures. We believe that it is possible to give a true description of this difference, at some level or the other, asa difference regarding the experience of time itself. Consider the traditions of Hinduism, Buddhism, and Jainism. One of the central notions in these traditions is that of temporality. That is, they believe that all events, processes, and objects are transient, irreversible, and fleeting. From this experience of transience and very few assumptions about human psychology, these traditions have quasi-derived some of the most fascinating doctrines that we know of. It is worthwhile to contrast these with Judeo-Christian traditions, where this kind of temporality plays no role. It is possible to explain the actions of people in these cultures, at some level of adequacy, by appealing to their conceptions and/or experiences of time. One can research on the question &ldquo;does not theirexperience of transience play a causal role in the actions they perform?&rdquo;">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/cultural-difference-temporality/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/cultural-difference-temporality/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Cultural difference: temporality",
   "name": "Cultural difference: temporality",
   "description": "\u003cp\u003eExperiences are structured differently in different cultures. We believe that it is possible to give a \u003cem\u003etrue\u003c\/em\u003e description of this difference, at some level or the other, \u003cem\u003eas\u003c\/em\u003ea difference regarding the \u003cem\u003eexperience of time\u003c\/em\u003e itself. Consider the traditions of Hinduism, Buddhism, and Jainism. One of the central notions in these traditions is that of \u003cem\u003etemporality\u003c\/em\u003e. That is, they believe that all events, processes, and objects are transient, irreversible, and fleeting. From this \u003cem\u003eexperience\u003c\/em\u003e of transience and very few assumptions about human psychology, these traditions have quasi-derived some of the most fascinating doctrines that we know of. It is worthwhile to contrast these with Judeo-Christian traditions, where this kind of temporality plays no role. It is possible to explain the \u003cem\u003eactions\u003c\/em\u003e of people in these cultures, at some level of adequacy, by appealing to their conceptions and\/or experiences of time. One can research on the question \u0026ldquo;does not \u003cem\u003etheir\u003c\/em\u003eexperience of transience play a causal role in the actions they perform?\u0026rdquo;\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/cultural-difference-temporality\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/cultural-difference-temporality\/",
   
   "datePublished": "2011-03-05T08:46:19\u002b05:30",
   "dateModified": "2011-03-05T08:46:19\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/cultural-difference-temporality\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/cultural-difference-temporality\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -494,7 +494,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

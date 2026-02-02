@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Questioning the axioms &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/questioning-the-axioms/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/questioning-the-axioms/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Questioning the axioms">
 <meta property="og:description" content="There are three ideas in the West about Law that are taken as axioms. The first: all societies are founded on Law; if they are not, they ought to be. The second is that Law teaches and educates a people. Third is their corollary: only thus do a people become a Nation. As far as I know, none has shown their empirical truth or proved that they are logically necessary. But their truth-value is undisputed. When they ruled India, the British followed these axioms: they tried to educate us through Law, interfered in our festivals and social practices and the State tried to educate a barbaric people by enacting  ‘just’ laws. Romulus gave Law and made a group into a people; Moses gave Law and made a people into a Nation; Mohammed gave Law and transformed multiple nations into a caliphate; Manu acquires the exalted status of a Law-giver for the ‘Hindus’. These ideas are not dated, apparently. Today, they enjoy the same privilege they had during the colonial rule.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/questioning-the-axioms/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/questioning-the-axioms/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Questioning the axioms",
   "name": "Questioning the axioms",
   "description": "\u003cp\u003eThere are three ideas in the West about Law that are taken as axioms. The first: all societies are founded on Law; if they are not, they ought to be. The second is that Law teaches and educates a people. Third is their corollary: only thus do a people become a Nation. As far as I know, none has shown their empirical truth or proved that they are logically necessary. But their truth-value is undisputed. When they ruled India, the British followed these axioms: they tried to educate us through Law, interfered in our festivals and social practices and the State tried to educate a barbaric people by enacting  ‘just’ laws. Romulus gave Law and made a group into a people; Moses gave Law and made a people into a Nation; Mohammed gave Law and transformed multiple nations into a caliphate; Manu acquires the exalted status of a Law-giver for the ‘Hindus’. These ideas are not dated, apparently. Today, they enjoy the same privilege they had during the colonial rule.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/questioning-the-axioms\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/questioning-the-axioms\/",
   
   "datePublished": "2016-06-24T22:22:15\u002b05:30",
   "dateModified": "2016-06-24T22:22:15\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/questioning-the-axioms\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/questioning-the-axioms\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -515,7 +515,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

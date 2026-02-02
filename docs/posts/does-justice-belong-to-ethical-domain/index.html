@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Does Justice belong to ethical domain? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/does-justice-belong-to-ethical-domain/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/does-justice-belong-to-ethical-domain/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -21,7 +21,7 @@ In &ldquo;An Enquiry Concerning the Principles of Morals&rdquo;, David Hume, the
 
 Ever since the German Romantics, another thought, which reverses the above question, is also a part of the modern-day consciousness: is it moral to be rational? However, the elaboration of this question is not only implicit but it is also confined mostly to a criticism of local rationalities: the economic rationality, the technological rationality, the scientific rationality, the rationality of progress, etc. The reversal is only implicit and the criticisms only local because even where some person formulates criticisms of (some such) rationality in some domain or the other, there the same individual chooses to be rational in other fields of human endeavor. Of course, there is nothing wrong with this attitude: we are rightly afraid of obscurantist rejections of rationality. However, the problems are these: of what kind of rationality ought we to be critical? That is to say, when are we morally obliged to criticize rationality? What kind of rationality is susceptible to such a moral criticism?">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/does-justice-belong-to-ethical-domain/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/does-justice-belong-to-ethical-domain/">
 
 
 
@@ -50,7 +50,7 @@ Ever since the German Romantics, another thought, which reverses the above quest
   "headline": "Does Justice belong to ethical domain?",
   "name": "Does Justice belong to ethical domain?",
   "description": "\u003col\u003e\n\u003cli\u003eIn \u0026ldquo;An Enquiry Concerning the Principles of Morals\u0026rdquo;, David Hume, the philosopher of the Scottish Enlightenment, raises a question, which has always been one of the basic concerns of ethical investigations in the modern western intellectual tradition: what theory of morals could serve any useful purpose, he asks, unless it can be shown that all the duties it recommends are also in the true interest of each individual? Even though there are several interesting things about this question, I will just indicate two of them. Firstly, the belief is that an individual requires reasons to behave morally which is what a theory of morals is supposed to provide. Secondly, he requires reasons to be moral because moral rules constrain his actions. Since it is rational that each individual pursues his \u0026lsquo;own\u0026rsquo; interests, any constraint placed on his behavior requires some kind of justification. Together, these two assumptions yield us the better-known question in ethical theorizing: is it rational to be moral? Or, more imply put in terms of an even older question: why ought we to be moral?\u003c\/li\u003e\n\u003c\/ol\u003e\n\u003cp\u003eEver since the German Romantics, another thought, which reverses the above question, is also a part of the modern-day consciousness: is it moral to be rational? However, the elaboration of this question is not only implicit but it is also confined mostly to a criticism of local rationalities: the economic rationality, the technological rationality, the scientific rationality, the rationality of progress, etc. The reversal is only implicit and the criticisms only local because even where some person formulates criticisms of (some such) rationality in some domain or the other, there the same individual chooses to be rational in other fields of human endeavor. Of course, there is nothing wrong with this attitude: we are rightly afraid of obscurantist rejections of rationality. However, the problems are these: of what kind of rationality ought we to be critical? That is to say, when are we morally obliged to criticize rationality? What kind of rationality is susceptible to such a moral criticism?\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/does-justice-belong-to-ethical-domain\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/does-justice-belong-to-ethical-domain\/",
   
   "datePublished": "2011-03-24T21:45:11\u002b05:30",
   "dateModified": "2011-03-24T21:45:11\u002b05:30",
@@ -61,14 +61,14 @@ Ever since the German Romantics, another thought, which reverses the above quest
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/does-justice-belong-to-ethical-domain\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/does-justice-belong-to-ethical-domain\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -511,7 +511,36 @@ Ever since the German Romantics, another thought, which reverses the above quest
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

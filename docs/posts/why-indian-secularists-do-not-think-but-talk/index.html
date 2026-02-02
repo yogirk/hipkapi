@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Why Indian Secularists do not think but talk? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/why-indian-secularists-do-not-think-but-talk/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/why-indian-secularists-do-not-think-but-talk/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="I want to go deeper into the claim of my earlier post
  that Shabnum Tejanis and Neera Chandhokes of this world do not think but merely talk. In other words, is it possible to identify the problems with their accounts (that explicates more clearly why I say that they do not think) in such a way that it is susceptible to some sort of solution? If, indeed, we can show that such people do not think and we can show that their mistakes have some cognitive roots, then we can also provide additional explanations. In such a case, our answer would be richer and more complex than any other available at the market place.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/why-indian-secularists-do-not-think-but-talk/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/why-indian-secularists-do-not-think-but-talk/">
 
 
 
@@ -48,7 +48,7 @@
   "headline": "Why Indian Secularists do not think but talk?",
   "name": "Why Indian Secularists do not think but talk?",
   "description": "\u003cp\u003eI want to go deeper into the claim of \u003ca href=\u0022\/hipkapi\/posts\/meanings-and-historical-context-the-arguments-from-indian-scholars-%e2%80%93s-n-balagangadhara\/\u0022 title=\u0022Meanings and Historical Context: the arguments from Indian scholars –S.N.Balagangadhara\u0022\u003emy earlier post\u003c\/a\u003e\n that Shabnum Tejanis and Neera Chandhokes of this world do not think but merely talk. In other words, is it possible to identify the problems with their accounts (that explicates more clearly why I say that they do not think) in such a way that it is susceptible to some sort of solution? If, indeed, we can show that such people do not think and we can show that their mistakes have some cognitive roots, then we can also provide additional explanations. In such a case, our answer would be richer and more complex than any other available at the market place.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/why-indian-secularists-do-not-think-but-talk\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/why-indian-secularists-do-not-think-but-talk\/",
   
   "datePublished": "2011-03-23T20:26:41\u002b05:30",
   "dateModified": "2011-03-23T20:26:41\u002b05:30",
@@ -59,14 +59,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/why-indian-secularists-do-not-think-but-talk\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/why-indian-secularists-do-not-think-but-talk\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -533,7 +533,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

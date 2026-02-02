@@ -1,0 +1,45 @@
+<div class="widget widget-categories">
+  <h3 class="widget-title">{{ i18n "categories" }}</h3>
+  {{ if .Site.Taxonomies.categories }}
+  {{ $all := .Site.Taxonomies.categories.ByCount }}
+  {{ $limit := .Site.Params.sidebar.categoriesCount | default 15 }}
+  {{ $total := len $all }}
+  <ul class="categories-list">
+    {{ range $i, $t := $all }}
+    <li{{ if ge $i $limit }} class="categories-hidden" hidden{{ end }}><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a><span class="widget-count">{{ .Count }}</span></li>
+    {{ end }}
+  </ul>
+  {{ if gt $total $limit }}
+  <button class="categories-toggle" aria-expanded="false">Show all ({{ $total }})</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total = {{ $total }};
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
+  {{ end }}
+  {{ end }}
+</div>

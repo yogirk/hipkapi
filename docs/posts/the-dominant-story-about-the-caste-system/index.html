@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The dominant story about the ‘caste system’ &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/the-dominant-story-about-the-caste-system/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/the-dominant-story-about-the-caste-system/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -21,7 +21,7 @@
 
 First of all, it does not follow (either empirically or logically) that if Jati is a social group much like alumini associations, trades unions, etc it has no special status in Indian society. That depends upon the role, function and the nature of such social groups and these are issues for empirical investigation. For instance, the &ldquo;old boys&rdquo; network&quot; in Britian (comprising of aluminis from public schools and Oxbridge students) apparently plays a very important role in the British society. In certain circles of power in India, alumminis from private schools (like the Doon school, Lawrence school) and colleges like St. Stephens have built sophisticated networks that function like service clubs. In this sense, one cannot claim that alumini networks, by virtue of their composition, do not have a special status in a society. This is an empirical question. Your alumini association might indeed have no special place; that does not preclude some other alumini association from having an important place. (Similarly, by virtue of the fact that some particular trade union does not have a special status in Indian society, it is not possible to make claims about whether trades unions have a special status or not.)">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/the-dominant-story-about-the-caste-system/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/the-dominant-story-about-the-caste-system/">
 
 
 
@@ -50,7 +50,7 @@ First of all, it does not follow (either empirically or logically) that if Jati 
   "headline": "The dominant story about the ‘caste system’",
   "name": "The dominant story about the ‘caste system’",
   "description": "\u003cp\u003eYou say: \u0026ldquo;If \u0026lsquo;caste\u0026rsquo; or \u0026lsquo;jati\u0026rsquo; has the same status as alumni associations and similar social groups, with their varying practices, it seems we are prepared to say that \u0026lsquo;jati\u0026rsquo; has no special place in the Indian society in the same way that my alumni association has no special status in Indian society.\u0026rdquo; This sentence is the problematic one.\u003c\/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eFirst of all, it does not follow (either empirically or logically) that if Jati is a social group much like alumini associations, trades unions, etc it has no special status in Indian society. That depends upon the role, function and the nature of such social groups and these are issues for empirical investigation. For instance, the \u0026ldquo;old boys\u0026rdquo; network\u0026quot; in Britian (comprising of aluminis from public schools and Oxbridge students) apparently plays a very important role in the British society. In certain circles of power in India, alumminis from private schools (like the Doon school, Lawrence school) and colleges like St. Stephens have built sophisticated networks that function like service clubs. In this sense, one cannot claim that alumini networks, by virtue of their composition, do not have a special status in a society. This is an empirical question. Your alumini association might indeed have no special place; that does not preclude some other alumini association from having an important place. (Similarly, by virtue of the fact that some particular trade union does not have a special status in Indian society, it is not possible to make claims about whether trades unions have a special status or not.)\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/the-dominant-story-about-the-caste-system\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/the-dominant-story-about-the-caste-system\/",
   
   "datePublished": "2012-02-23T07:25:46\u002b05:30",
   "dateModified": "2012-02-23T07:25:46\u002b05:30",
@@ -61,14 +61,14 @@ First of all, it does not follow (either empirically or logically) that if Jati 
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/the-dominant-story-about-the-caste-system\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/the-dominant-story-about-the-caste-system\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -512,7 +512,36 @@ First of all, it does not follow (either empirically or logically) that if Jati 
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

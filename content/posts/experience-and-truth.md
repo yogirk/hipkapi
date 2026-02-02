@@ -20,5 +20,5 @@ Of course, you can use Kant (or anyone other philosopher of your liking) to talk
 In contrast stands Indian thinking that talks about ‘forms’ (Rupa, Rasa, Sparsha, Sabda, Gandha etc) that interact with our abilities (that includes cognition as a part) and about how this world of forms interacts with us. This leads to our notion(s) of experience. In this case, we do not talk about indoctrination but about learning and changing the processes of learning.
 I have decided to take the second route because it helps me find solutions to problems. The first route blocks even the noticing that there are problems.
 Of course, I have not yet written out even the outlines of the second route, whereas the first has many champions over the last 500 years. To outline the second route absorbing what cognitive sciences and multiple psychologies (not to speak of biology) tell us about ourselves is a huge undertaking, which I cannot possibly complete before I die. Yet.
- 
+
 p112

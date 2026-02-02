@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Is every description knowledge? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/is-every-description-knowledge/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/is-every-description-knowledge/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Is every description knowledge?">
 <meta property="og:description" content="Let us call the descriptions of what you see &lsquo;facts&rsquo;. Are your &lsquo;facts&rsquo; a contribution to human knowledge? In one sense they are; the way any description of anything by anybody is a &lsquo;fact&rsquo; and thus knowledge. One needs, and one has, a way of not wanting to call every piece of &lsquo;fact&rsquo; as knowledge. Hence, we can reformulate the issue: does it contribute towards building a scientific theory of cultural differences? Do your observations in some African country tell us what makes their drinking habits and body decorations into a cultural difference? And how these and other differences allow us to say what the &lsquo;African culture&rsquo; is? In other words, not every fact, because it is a fact about people from another culture, is interesting from the point of view of building a scientific theory.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/is-every-description-knowledge/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/is-every-description-knowledge/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Is every description knowledge?",
   "name": "Is every description knowledge?",
   "description": "\u003cp\u003eLet us call the descriptions of what you see \u0026lsquo;facts\u0026rsquo;. Are your \u0026lsquo;facts\u0026rsquo; a contribution to human knowledge? In one sense they are; the way any description of anything by anybody is a \u0026lsquo;fact\u0026rsquo; and thus knowledge. One needs, and one has, a way of not wanting to call every piece of \u0026lsquo;fact\u0026rsquo; as knowledge. Hence, we can reformulate the issue: does it contribute towards building a scientific theory of cultural differences? Do your observations in some African country tell us what \u003cem\u003emakes\u003c\/em\u003e their drinking habits and body decorations into a cultural difference? And how these and other differences allow us to say what the \u0026lsquo;African culture\u0026rsquo; is? In other words, not every fact, because it is a fact about people from another culture, is interesting from the point of view of building a scientific theory.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/is-every-description-knowledge\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/is-every-description-knowledge\/",
   
   "datePublished": "2011-03-02T08:10:08\u002b05:30",
   "dateModified": "2011-03-02T08:10:08\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/is-every-description-knowledge\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/is-every-description-knowledge\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -497,7 +497,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

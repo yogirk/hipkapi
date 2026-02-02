@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Kids of NRI and their Balvihar education &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/kids-of-nri-and-their-balvihar-education/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/kids-of-nri-and-their-balvihar-education/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Kids of NRI and their Balvihar education">
 <meta property="og:description" content="Irrespective of what Hindu kids are told we have, they will discover later that that all the beliefs they have heard and been taught about, everything about the Ten Commandments and the manifestations of the &lsquo;brahman&rsquo;, and so on are based on stories. They will discover too that these gods of their, these &lsquo;manifestations&rsquo; of Brahman, display immoral and disgusting behaviors: like incest, adultery, lying, cheating, murder, and so on and so forth. They will discover furthermore that there is no theology worth speaking of in the Indian traditions, and they will become one deeply ashamed Indian if they come across the Christian evangelicals or writers like the future Kripals or Courtrights. Their training (in Balvihar) will have set them up as an easy target for conversion into a Christianity or Islam (if (s)he remains &lsquo;religious&rsquo;).If not, they might grow up to loathe the tradition they are part of. They will not have been provided with the weapons they need in order to survive a theological discussion about the nature of &lsquo;Hinduism&rsquo;.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/kids-of-nri-and-their-balvihar-education/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/kids-of-nri-and-their-balvihar-education/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Kids of NRI and their Balvihar education",
   "name": "Kids of NRI and their Balvihar education",
   "description": "\u003cp\u003eIrrespective of what Hindu kids are told we have, they will discover later that that all the beliefs they have heard and been taught about, everything about the Ten Commandments and the manifestations of the \u0026lsquo;brahman\u0026rsquo;, and so on are based on stories. They will discover too that these gods of their, these \u0026lsquo;manifestations\u0026rsquo; of Brahman, display immoral and disgusting behaviors: like incest, adultery, lying, cheating, murder, and so on and so forth. They will discover furthermore that there is no theology worth speaking of in the Indian traditions, and they will become one deeply ashamed Indian if they come across the Christian evangelicals or writers like the future Kripals or Courtrights. Their training (in Balvihar) will have set them up as an easy target for conversion into a Christianity or Islam (if (s)he remains \u0026lsquo;religious\u0026rsquo;).If not, they might grow up to loathe the tradition they are part of. They will not have been provided with the weapons they need in order to survive a theological discussion about the nature of \u0026lsquo;Hinduism\u0026rsquo;.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/kids-of-nri-and-their-balvihar-education\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/kids-of-nri-and-their-balvihar-education\/",
   
   "datePublished": "2011-03-25T05:40:09\u002b05:30",
   "dateModified": "2011-03-25T05:40:09\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/kids-of-nri-and-their-balvihar-education\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/kids-of-nri-and-their-balvihar-education\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -495,7 +495,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Question of Conversion in India &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/the-question-of-conversion-in-india/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/the-question-of-conversion-in-india/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="The Question of Conversion in India">
 <meta property="og:description" content="The Indian debate on religious conversion has been an ongoing one for a few centuries now. However, the mutual understanding between the advocates and the adversaries of conversion has not advanced much. This paper suggests that this is due to the fact that Hindus and Christians refer to two different objects when they discuss &lsquo;religion&rsquo;. The traits which the Christians ascribe to religion account for the premium they put on the right to convert, while the traits of the Hindu view of religion explain the opposition to conversion. As the two parties attribute mutually exclusive properties to religion, they encounter difficulties while seeking to make sense of each other&rsquo;s claims about religion and conversion">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/the-question-of-conversion-in-india/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/the-question-of-conversion-in-india/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "The Question of Conversion in India",
   "name": "The Question of Conversion in India",
   "description": "\u003cp\u003e\u003cem\u003eThe Indian debate on religious conversion has been an ongoing one for a few centuries now. However, the mutual understanding between the advocates and the adversaries of conversion has not advanced much. This paper suggests that this is due to the fact that Hindus and Christians refer to two different objects when they discuss \u0026lsquo;religion\u0026rsquo;. The traits which the Christians ascribe to religion account for the premium they put on the right to convert, while the traits of the Hindu view of religion explain the opposition to conversion. As the two parties attribute mutually exclusive properties to religion, they encounter difficulties while seeking to make sense of each other\u0026rsquo;s claims about religion and conversion\u003c\/em\u003e\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/the-question-of-conversion-in-india\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/the-question-of-conversion-in-india\/",
   
   "datePublished": "2011-04-02T09:14:25\u002b05:30",
   "dateModified": "2011-04-02T09:14:25\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/the-question-of-conversion-in-india\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/the-question-of-conversion-in-india\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -601,7 +601,36 @@ Ziegenbalg, Bartholomeus (1719): <em>Thirty Four Conferences between the Danish
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

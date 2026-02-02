@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Published on All Roads Lead to Jerusalem</title>
-    <link>http://localhost:1313/hipkapi/tags/published/</link>
+    <link>https://yogirk.github.io/hipkapi/tags/published/</link>
     <description>Recent content in Published on All Roads Lead to Jerusalem</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Aug 2012 06:25:24 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/hipkapi/tags/published/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yogirk.github.io/hipkapi/tags/published/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reconceptualizing India Studies by Balagangadhara--a new book</title>
-      <link>http://localhost:1313/hipkapi/posts/reconceptualizing-india-studies-by-balagangadhara-a-new-book/</link>
+      <link>https://yogirk.github.io/hipkapi/posts/reconceptualizing-india-studies-by-balagangadhara-a-new-book/</link>
       <pubDate>Tue, 28 Aug 2012 06:25:24 +0530</pubDate>
-      <guid>http://localhost:1313/hipkapi/posts/reconceptualizing-india-studies-by-balagangadhara-a-new-book/</guid>
+      <guid>https://yogirk.github.io/hipkapi/posts/reconceptualizing-india-studies-by-balagangadhara-a-new-book/</guid>
       <description>&lt;p&gt;What does it mean to be an Indian in this time and age? What does India have to give to the contemporary world? These overarching questions that echo in the mind of the post-colonial Indian cannot be truly answered by Western frameworks instituted at the behest of colonialism.&lt;/p&gt;&#xA;&lt;p&gt;This book sets the stage for a reconceptualization of India studies. Clearing away intellectual deadwood, it initiates a process of comparative study of cultures. The volume scrutinizes the Western studies on India, including contemporary writings on Hinduism, the nature of inter-cultural dialogues, and their implications for normative political philosophy.&lt;/p&gt;</description>
     </item>
   </channel>

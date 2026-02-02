@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Bhakti &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/bhakti/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/bhakti/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Bhakti">
 <meta property="og:description" content="Is bhakti what the bhaktas do, or are people bhaktas because they &lsquo;follow&rsquo; (bad choice of words, but there is no other way to put it) the &lsquo;bhakti marga&rsquo;, or is bhakti neither of the two? I mean: is the bhakta moved because, for example, the child who stole the butter happens to be the Kannan, or because the child, who also happens to be the Lord, stole the butter? If it is the first, it is worthless: it is the same as being a sycophant (as the Americans would put it: one sucks up to &hellip;). If the second, it is false: surely, we are not moved to tears when our children steal and the lie about it. When the mother gets to hear from a child: &ldquo;&lsquo;I&rsquo; did not steal&rdquo; and, as proof, gets to see the &lsquo;vishwarupa&rsquo; (in the mouth where the speech manifests itself) and &lsquo;sees&rsquo; the Cosmos (all that ever was, is and shall be) in an &lsquo;I&rsquo; &ndash; what is the question, and what the answer?">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/bhakti/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/bhakti/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Bhakti",
   "name": "Bhakti",
   "description": "\u003cp\u003eIs bhakti what the bhaktas do, or are people bhaktas because they \u0026lsquo;follow\u0026rsquo; (bad choice of words, but there is no other way to put it) the \u0026lsquo;bhakti marga\u0026rsquo;, or is bhakti \u003cem\u003eneither\u003c\/em\u003e of the two? I mean: is the bhakta moved because, for example, the child who stole the butter happens to be the \u003cem\u003eKannan\u003c\/em\u003e, or because the \u003cem\u003echild\u003c\/em\u003e, who also happens to be the Lord, stole the butter? If it is the first, it is \u003cem\u003eworthless\u003c\/em\u003e: it is the same as being a sycophant (as the Americans would put it: one sucks up to \u0026hellip;). If the second, it is false: surely, we are not moved to tears when our children steal and the lie about it. When the mother gets to hear from a child: \u0026ldquo;\u0026lsquo;I\u0026rsquo; did not steal\u0026rdquo; and, as proof, gets to see the \u0026lsquo;vishwarupa\u0026rsquo; (in the mouth where the speech manifests itself) and \u0026lsquo;sees\u0026rsquo; the Cosmos (all that ever was, is and shall be) in an \u0026lsquo;I\u0026rsquo; \u0026ndash; what is the question, and what the answer?\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/bhakti\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/bhakti\/",
   
   "datePublished": "2011-04-09T01:03:15\u002b05:30",
   "dateModified": "2011-04-09T01:03:15\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/bhakti\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/bhakti\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -504,7 +504,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Proselytization vs. Persecution &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/proselytization-vs-persecution/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/proselytization-vs-persecution/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -23,7 +23,7 @@ Most of us would not know the difference between the Syrian Orthodox, the Greek 
 
 Rajiv, regarding your #82 (from Sulekha board). The Emperor Constantine did not start a trend. UrChristenthum was as viciously proselytizing as the most rabid Protestant of today. Before one addresses oneself to the role that &lsquo;power&rsquo; played in the proselytizing drive of Christianity, one needs to know what proselytization means. Consider the role that the Emperors played in Rome (and the role played by some Kings in India.) They would promote some or another tradition (or &lsquo;cult&rsquo;, as they were called in the Roman Empire), persecute the followers of some or another tradition (or cult). Does that mean that the cults proselytized too, or that they were as &lsquo;intolerant&rsquo; as the Semitic religions? To affirm either of the two is to lose any ability to understand the difference between Indian traditions (or the Roman cults) and the Semitic religions. ">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/proselytization-vs-persecution/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/proselytization-vs-persecution/">
 
 
 
@@ -54,7 +54,7 @@ Rajiv, regarding your #82 (from Sulekha board). The Emperor Constantine did not
   "headline": "Proselytization vs. Persecution",
   "name": "Proselytization vs. Persecution",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eMost of us would not know the difference between the Syrian Orthodox, the Greek Orthodox and the Russian Orthodox Churches; many will be hard put to differentiate between the Pope and the Patriarch. In these circumstances, it is foolish to write \u003cem\u003eapologetica\u003c\/em\u003e for \u0026lsquo;Eastern Christianity\u0026rsquo; and criticise \u0026lsquo;Western Christianity\u0026rsquo;. Let those concerned with the nature of Christian theologies do that. But that does not concern us.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli\u003e\n\u003cp\u003eRajiv, regarding your #82 (from Sulekha board). The Emperor Constantine \u003cstrong\u003edid not\u003c\/strong\u003e start a trend. \u003cem\u003eUrChristenthum\u003c\/em\u003e was as viciously proselytizing as the most rabid Protestant of today. Before one addresses oneself to the role that \u0026lsquo;power\u0026rsquo; played in the proselytizing drive of Christianity, one needs to know what \u003cem\u003eproselytization\u003c\/em\u003e means. Consider the role that the Emperors played in Rome (and the role played by some Kings in India.) They would promote some or another tradition (or \u0026lsquo;cult\u0026rsquo;, as they were called in the Roman Empire), \u003cem\u003epersecute the followers\u003c\/em\u003e of some or another tradition (or cult). \u003cstrong\u003eDoes that mean that the cults proselytized too, or that they were as \u0026lsquo;intolerant\u0026rsquo; as the Semitic religions?\u003c\/strong\u003e To affirm either of the two is to lose any ability to understand the difference between Indian traditions (or the Roman cults) and the Semitic religions. \u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/proselytization-vs-persecution\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/proselytization-vs-persecution\/",
   
   "datePublished": "2014-04-22T22:03:20\u002b05:30",
   "dateModified": "2014-04-22T22:03:20\u002b05:30",
@@ -65,14 +65,14 @@ Rajiv, regarding your #82 (from Sulekha board). The Emperor Constantine did not
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/proselytization-vs-persecution\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/proselytization-vs-persecution\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -517,7 +517,36 @@ Rajiv, regarding your #82 (from Sulekha board). The Emperor Constantine did not
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

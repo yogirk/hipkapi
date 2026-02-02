@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ideology of Crime &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/ideology-of-crime/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/ideology-of-crime/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 
 The first thing to notice is that I use the word &ldquo;ideology&rdquo; in a technical sense, which is both counter-intuitive and, for the time being, idiosyncratic. It is the first, namely counter-intuitive, because, as I use it, my use of the word does not refer to any theory, or to sets of beliefs, or to what one believes in. Normally, as we use the word in English, &lsquo;ideology&rsquo; has multiple meanings: a false consciousness; accepting a theory known to be false; presenting the interests of a small strata of people as the universal interests of all; subscribing to premises that are either unjustified or not-examined; and so on. My use has no such connotation. It is the second, namely idiosyncratic, because I have not yet developed a hypothesis about ideology that can explain and justify my use of the word.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/ideology-of-crime/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/ideology-of-crime/">
 
 
 
@@ -48,7 +48,7 @@ The first thing to notice is that I use the word &ldquo;ideology&rdquo; in a tec
   "headline": "Ideology of Crime",
   "name": "Ideology of Crime",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eThe first thing to notice is that I use the word \u0026ldquo;ideology\u0026rdquo; in a technical sense, which is both counter-intuitive and, for the time being, idiosyncratic. It is the first, namely counter-intuitive, because, as I use it, my use of the word does not refer to any theory, or to sets of beliefs, or to what one believes in. Normally, as we use the word in English, \u0026lsquo;ideology\u0026rsquo; has multiple meanings: a false consciousness; accepting a theory known to be false; presenting the interests of a small strata of people as the universal interests of all; subscribing to premises that are either unjustified or not-examined; and so on. My use has no such connotation. It is the second, namely idiosyncratic, because I have not yet developed a hypothesis about ideology that can explain and justify my use of the word.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/ideology-of-crime\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/ideology-of-crime\/",
   
   "datePublished": "2011-04-14T19:16:11\u002b05:30",
   "dateModified": "2011-04-14T19:16:11\u002b05:30",
@@ -59,14 +59,14 @@ The first thing to notice is that I use the word &ldquo;ideology&rdquo; in a tec
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/ideology-of-crime\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/ideology-of-crime\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -528,7 +528,36 @@ The first thing to notice is that I use the word &ldquo;ideology&rdquo; in a tec
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

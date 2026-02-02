@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Knowledge and objectivity &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/knowledge-and-objectivity/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/knowledge-and-objectivity/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Knowledge and objectivity">
 <meta property="og:description" content="Assuming that our theories in Physics are not false, would there be gravitational force in the Cosmos (or on our planet) whether or not there was a theory about it? This is the question about the &rsquo;truth&rsquo; and &lsquo;objectivity&rsquo; of our theories. If we say &lsquo;yes&rsquo;, I do not see how one can say the opposite, then the truth or falsity of, say, Aristotelian theory is not dependent on the &lsquo;consumer&rsquo; of that theory. Of course, once upon a time, people believed it was true but this &lsquo;belief&rsquo; does not make Aristotle&rsquo;s theory true. (In Western Europe, people once believed that witches not only exist, but that they also had sexual intercourse with the Devil. There were &rsquo;eye witnesses&rsquo;, who provided graphic descriptions of the sexual organ and sexual prowess of the Devil. We would be hard put to call it &rsquo;true&rsquo; today in Europe or in India around the same time, irrespective of what these people thought then.) That human beings believe different stories to be true, which later turn out to be false, does not make &rsquo;truth&rsquo; relative to an audience. What it does is to make the belief-in-the-truth-of-a-theory relative to the &lsquo;consumer&rsquo;. This is the issue about the &lsquo;objectivity&rsquo; of theories. That is: could we have theories about human beings and cultures that are &lsquo;objective&rsquo; in this sense? I think so. That is why the discussion with Wendy and her children: they are not producing knowledge.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/knowledge-and-objectivity/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/knowledge-and-objectivity/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Knowledge and objectivity",
   "name": "Knowledge and objectivity",
   "description": "\u003cp\u003eAssuming that our theories in Physics are not false, would there be gravitational force in the Cosmos (or on our planet) whether or not there was a theory about it? This is the question about the \u0026rsquo;truth\u0026rsquo; and \u0026lsquo;objectivity\u0026rsquo; of our theories. If we say \u0026lsquo;yes\u0026rsquo;, I do not see how one can say the opposite, then the truth or falsity of, say, Aristotelian theory is \u003cem\u003enot\u003c\/em\u003e dependent on the \u0026lsquo;consumer\u0026rsquo; of that theory. Of course, once upon a time, people believed it was true but this \u0026lsquo;belief\u0026rsquo; does not \u003cem\u003emake\u003c\/em\u003e Aristotle\u0026rsquo;s theory true. (In Western Europe, people once believed that witches not only exist, but that they also had sexual intercourse with the Devil. There were \u0026rsquo;eye witnesses\u0026rsquo;, who provided graphic descriptions of the sexual organ and sexual prowess of the Devil. We would be hard put to call it \u0026rsquo;true\u0026rsquo; today in Europe or in India around the same time, irrespective of what these people thought then.) That human beings believe different stories to be true, which later turn out to be false, does not make \u0026rsquo;truth\u0026rsquo; relative to an audience. What it does is to make the belief-in-the-truth-of-a-theory relative to the \u0026lsquo;consumer\u0026rsquo;. This is the issue about the \u0026lsquo;objectivity\u0026rsquo; of theories. That is: could we have theories about human beings and cultures that are \u0026lsquo;objective\u0026rsquo; in this sense? I think so. That is why the discussion with Wendy and her children: they are not producing \u003cem\u003eknowledge\u003c\/em\u003e.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/knowledge-and-objectivity\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/knowledge-and-objectivity\/",
   
   "datePublished": "2011-03-02T19:39:53\u002b05:30",
   "dateModified": "2011-03-02T19:39:53\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/knowledge-and-objectivity\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/knowledge-and-objectivity\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -494,7 +494,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

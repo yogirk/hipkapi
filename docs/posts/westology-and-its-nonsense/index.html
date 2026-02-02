@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Westology and its nonsense &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/westology-and-its-nonsense/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/westology-and-its-nonsense/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -23,7 +23,7 @@ If we are not to simply sell slogans and our claims should carry bite, we need t
 
 1.1. What does it mean (however intuitively plausible it might appear at first sight) to build a &lsquo;westology&rsquo; that is, say, an Indian counterpart to &lsquo;indology&rsquo;? Are we to assume that we need to build Indian theories of &lsquo;democracy&rsquo;, &lsquo;state&rsquo;, &lsquo;market&rsquo;, &lsquo;firm&rsquo;, &lsquo;society&rsquo;, &lsquo;religion&rsquo; and such like? If the answer is &rsquo;no&rsquo;, then the notion of &lsquo;westology&rsquo; does not make sense. Therefore, the answer has to be &lsquo;yes&rsquo;.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/westology-and-its-nonsense/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/westology-and-its-nonsense/">
 
 
 
@@ -56,7 +56,7 @@ If we are not to simply sell slogans and our claims should carry bite, we need t
   "headline": "Westology and its nonsense",
   "name": "Westology and its nonsense",
   "description": "\u003cp\u003eWhat is the logic of \u003ca href=\u0022\/hipkapi\/posts\/why-study-the-western-culture\/\u0022\u003emy argument\u003c\/a\u003e\n? Am I proposing a \u0026lsquo;westology\u0026rsquo;? Let me briefly explicate my stances, beginning with the last question.\u003c\/p\u003e\n\u003col\u003e\n\u003cli\u003eIf we are not to simply sell slogans and our claims should carry bite, we need to say what this \u0026lsquo;westology\u0026rsquo; is or could be. My stance: such a \u0026lsquo;westology\u0026rsquo; cannot even be properly conceptualized, let alone carried out.\u003c\/li\u003e\n\u003c\/ol\u003e\n\u003cp\u003e1.1. What does it mean (however intuitively plausible it might appear at first sight) to build a \u0026lsquo;westology\u0026rsquo; that is, say, an Indian counterpart to \u0026lsquo;indology\u0026rsquo;? Are we to assume that we need to build \u003cem\u003eIndian\u003c\/em\u003e theories of \u0026lsquo;democracy\u0026rsquo;, \u0026lsquo;state\u0026rsquo;, \u0026lsquo;market\u0026rsquo;, \u0026lsquo;firm\u0026rsquo;, \u0026lsquo;society\u0026rsquo;, \u0026lsquo;religion\u0026rsquo; and such like? If the answer is \u0026rsquo;no\u0026rsquo;, then the notion of \u0026lsquo;westology\u0026rsquo; does not make sense. Therefore, the answer has to be \u0026lsquo;yes\u0026rsquo;.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/westology-and-its-nonsense\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/westology-and-its-nonsense\/",
   
   "datePublished": "2014-03-24T06:25:05\u002b05:30",
   "dateModified": "2014-03-24T06:25:05\u002b05:30",
@@ -67,14 +67,14 @@ If we are not to simply sell slogans and our claims should carry bite, we need t
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/westology-and-its-nonsense\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/westology-and-its-nonsense\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -539,7 +539,36 @@ If we are not to simply sell slogans and our claims should carry bite, we need t
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

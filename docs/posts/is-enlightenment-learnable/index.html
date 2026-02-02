@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Is enlightenment learnable? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/is-enlightenment-learnable/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/is-enlightenment-learnable/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Is enlightenment learnable?">
 <meta property="og:description" content="Is enlightenment learnable? (In a less loaded formulation: Can all people be happy?) My answer is an unequivocal &lsquo;yes&rsquo;. Before we go further, we need to be clear what exactly this sentence says: enlightenment is not, say, the result of some genes (that explains why we get molars and not tusks, for instance), nor is it a law of nature (that explains why, say, water boils when heated and does not become gold instead) and so on. While individual psychology (and the combination of the chromosomes in each individual) does have a certain role to play in our lives, they cannot explain why I learnt something (say, English) at all. At best, if we are able to develop our understanding to the extent that we can explain such questions, they could explain why I learnt English slowly or mastered in two weeks&rsquo; time. To understand why I learnt English, you have to look elsewhere: at my biography and not into the structure of my genes. However, that I could learn a natural language at all might be explained by evolutionary biology one day. But its explanation, in such a case, will encompass all human beings. It is in this sense that I say that Enlightenment is learnable or that all human beings can be happy. (This is something that out traditions have always taught and I think they are right.)">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/is-enlightenment-learnable/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/is-enlightenment-learnable/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Is enlightenment learnable?",
   "name": "Is enlightenment learnable?",
   "description": "\u003cp\u003eIs enlightenment learnable? (In a less loaded formulation: Can all people be happy?) My answer is an unequivocal \u0026lsquo;yes\u0026rsquo;. Before we go further, we need to be clear what exactly this sentence says: enlightenment is not, say, the result of some genes (that explains why we get molars and not tusks, for instance), nor is it a law of nature (that explains why, say, water boils when heated and does not become gold instead) and so on. While individual psychology (and the combination of the chromosomes in each individual) does have a certain role to play in our lives, they cannot explain why I learnt something (say, English) at all. At best, if we are able to develop our understanding to the extent that we can explain such questions, they could explain why I learnt English slowly or mastered in two weeks\u0026rsquo; time. To understand why I learnt English, you have to look elsewhere: at my biography and not into the structure of my genes. However, that I could learn a natural language at all might be explained by evolutionary biology one day. But its explanation, in such a case, will encompass all human beings. It is in this sense that I say that Enlightenment is learnable or that all human beings can be happy. (This is something that out traditions have always taught and I think they are right.)\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/is-enlightenment-learnable\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/is-enlightenment-learnable\/",
   
   "datePublished": "2011-03-11T18:51:24\u002b05:30",
   "dateModified": "2011-03-11T18:51:24\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/is-enlightenment-learnable\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/is-enlightenment-learnable\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -506,7 +506,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

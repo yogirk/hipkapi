@@ -45,5 +45,5 @@ X says: There is lot of junk in Sanskrit and Hindu philosophy and no definitive�
 
 Again, yes and no. There is a lot of junk both from today and yesteryears, this part is true. No 'definitive' answers? Yes: if you mean by 'definitive', that which is true for all time to come. The only one who can give such answers, according to the Judaic, Christian and Islamic religions anyway, is the personal being referred to as 'God'. They agree too that 'literal translations and deep philosophical debates and discussions' do not bring 'definitive answers', and that only *revelation* does. Tertullian, one of the early church fathers, summarized this thought in a rhetorical question: What has Athens to do with Jerusalem? Nothing, he said. "Our wisdom comes from the porch of Solomon", and not from the Academy (referring to the Greek and Roman institutions of learning). Surely, you do not want to say this. At least, I do not. In this sense, the reply is a no as well: all answers (in so far as we search and hypothesize) are tentative, hypothetical, and provisional as it befits the beings who formulate them, viz., human beings. Human knowledge is fallible, and it is not infallible 'divine knowledge'. So what? That is the only kind of knowledge we produce.
 
- 
+
 l:unet4

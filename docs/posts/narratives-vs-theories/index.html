@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Narratives vs Theories &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/narratives-vs-theories/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/narratives-vs-theories/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -21,7 +21,7 @@ Regarding the first question as to whether we reject social science itself, I am
 Your second question was about Indians having different ways of understanding experience: you spoke of narratives and the autobiography of Tulsi Ram. This raises the question of what form these reflections are going to take. To give a crude example: are they going to be mathematized? Will they take the form of scientific laws or of narratives? That is a very interesting question. But all narratives are not social science: in that case every novelist would have a scientific theory. If a text is an autobiography, it is not social science.
 pp 103-4 of &ldquo;Classical Indian Thought and the English Language&rdquo; edited by Mullick, et al.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/narratives-vs-theories/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/narratives-vs-theories/">
 
 
 
@@ -50,7 +50,7 @@ pp 103-4 of &ldquo;Classical Indian Thought and the English Language&rdquo; edit
   "headline": "Narratives vs Theories",
   "name": "Narratives vs Theories",
   "description": "\u003cp\u003eThe question requires deeper handling so you will forgive me for the brevity of my response but you will get some idea of where I stand.\nRegarding the first question as to whether we reject social science itself, I am aware that many people have made this suggestion. I am not so much hung up on the word \u0026lsquo;social science\u0026rsquo; but I do believe that we need to systematically reflect on our experiences in the world. A systematic reflection on experiences in the form of a theory is what we can conveniently call social science. We need theories about the world to understand the World. Systematic thinking means use of certain criteria to decide which theories are good or not, etc. and which to choose. The best thing would be to appeal to the history of the natural sciences over say four hundred years to see how they have done it, what kind of criteria they used. Thus, I belong to the group which advocates systematic reflection on experience, and in that sense, I belong to the group which says we need social science.\nYour second question was about Indians having different ways of understanding experience: you spoke of narratives and the autobiography of Tulsi Ram. This raises the question of what form these reflections are going to take. To give a crude example: are they going to be mathematized? Will they take the form of scientific laws or of narratives? That is a very interesting question. But all narratives are not social science: in that case every novelist would have a scientific theory. If a text is an autobiography, it is not social science.\npp 103-4 of \u0026ldquo;Classical Indian Thought and the English Language\u0026rdquo; edited by Mullick, et al.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/narratives-vs-theories\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/narratives-vs-theories\/",
   
   "datePublished": "2022-09-28T14:34:39\u002b05:30",
   "dateModified": "2022-09-28T14:34:39\u002b05:30",
@@ -61,14 +61,14 @@ pp 103-4 of &ldquo;Classical Indian Thought and the English Language&rdquo; edit
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/narratives-vs-theories\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/narratives-vs-theories\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -509,7 +509,36 @@ pp 103-4 of &ldquo;Classical Indian Thought and the English Language&rdquo; edit
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

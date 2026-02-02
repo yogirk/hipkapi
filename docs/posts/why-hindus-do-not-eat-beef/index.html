@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Why Hindus do not eat beef? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/why-hindus-do-not-eat-beef/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/why-hindus-do-not-eat-beef/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Why Hindus do not eat beef?">
 <meta property="og:description" content="I think there is a simpler answer to why we do not eat beef: &ldquo;we do not see it as food.&rdquo; In the same way people in the Nazi concentration camps and the Ethiopians during the famine did not see fellow human beings as edible items, we do not see cows as food. (Contrast this with the story of a plane crash in the Andes Mountain some three decades ago, where the dead were cannibalized by the living in order to survive.) Culture, upbringing and even beliefs (in the case of some people) could help explain this situation. The central point, however, is that we do not see it as food.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/why-hindus-do-not-eat-beef/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/why-hindus-do-not-eat-beef/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Why Hindus do not eat beef?",
   "name": "Why Hindus do not eat beef?",
   "description": "\u003cp\u003eI think there is a simpler answer to why we do not eat beef: \u0026ldquo;we do not see it as food.\u0026rdquo; In the same way people in the Nazi concentration camps and the Ethiopians during the famine did not see fellow human beings as edible items, we do not see cows as food. (Contrast this with the story of a plane crash in the Andes Mountain some three decades ago, where the dead were cannibalized by the living in order to survive.) Culture, upbringing and even beliefs (in the case of some people) could help explain this situation. The central point, however, is that we do not see it as food.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/why-hindus-do-not-eat-beef\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/why-hindus-do-not-eat-beef\/",
   
   "datePublished": "2011-03-23T04:47:55\u002b05:30",
   "dateModified": "2011-03-23T04:47:55\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/why-hindus-do-not-eat-beef\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/why-hindus-do-not-eat-beef\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -491,7 +491,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

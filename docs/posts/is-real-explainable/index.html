@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Is Sat explainable? &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/is-real-explainable/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/is-real-explainable/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="No, I cannot explain the real; nor has anybody else in the world. Even more radically: the Real can never be ‘explained’, nor will there be an explanatory theory, ever (that is what is meant by ‘providing an explanation’ or speak of explaining) about the real.
 Well, if the ‘Real’ comprises of “all these doctrines” then the Real is the world of ideas as distinct from the material and the mental world. Popper believed this to be the case, and called it the ‘third world’. You are, therefore, right on the spot when you call me ignorant. Yes, indeed, I did not know that Indians were Popperians avant la letter: avant la letter, because Popper did it with a clarity and verve that Indians never attained. This is the second reason I do not want to wake up. ‘Awakening’ of the type you propagate is terribly depressing because the resultant ‘gyaanodaya’ is this: Buddha, Shankara, Ramanuja, Madva (to mention only a few names) merely “prepared” the advent of Sir Karl Popper, in exactly the same way all cultures in the world before Christ were merely ‘Praeparatione Evangelica’. I wish you, who appears to be a disciple of this new ‘praeparatione’ (the famous ‘Second Coming’?), the best of luck.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/is-real-explainable/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/is-real-explainable/">
 
 
 
@@ -46,7 +46,7 @@ Well, if the ‘Real’ comprises of “all these doctrines” then the Real is 
   "headline": "Is Sat explainable?",
   "name": "Is Sat explainable?",
   "description": "\u003cp\u003eNo, I cannot explain the real; nor has anybody else in the world. Even more radically: the Real can never be ‘explained’, nor will there be an explanatory theory, ever (that is what is meant by ‘providing an explanation’ or speak of explaining) about the real.\u003c\/p\u003e\n\u003cp\u003eWell, if the ‘Real’ comprises of “all these doctrines” then the Real is the world of ideas as distinct from the material and the mental world. Popper believed this to be the case, and called it the ‘third world’. You are, therefore, right on the spot when you call me ignorant. Yes, indeed, I did not know that Indians were Popperians \u003cem\u003eavant la letter\u003c\/em\u003e: avant la letter, because Popper did it with a clarity and verve that Indians never attained. This is the second reason I do not want to wake up. ‘Awakening’ of the type you propagate is terribly depressing because the resultant ‘gyaanodaya’ is this: Buddha, Shankara, Ramanuja, Madva (to mention only a few names) merely “prepared” the advent of Sir Karl Popper, in exactly the same way all cultures in the world before Christ were merely ‘Praeparatione Evangelica’. I wish you, who appears to be a disciple of this new ‘praeparatione’ (the famous ‘Second Coming’?), the best of luck.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/is-real-explainable\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/is-real-explainable\/",
   
   "datePublished": "2017-01-13T21:25:55\u002b05:30",
   "dateModified": "2017-01-13T21:25:55\u002b05:30",
@@ -57,14 +57,14 @@ Well, if the ‘Real’ comprises of “all these doctrines” then the Real is 
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/is-real-explainable\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/is-real-explainable\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -506,7 +506,36 @@ Well, if the ‘Real’ comprises of “all these doctrines” then the Real is 
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Causality &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/causality/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/causality/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Causality">
 <meta property="og:description" content="&ldquo;Causality&rdquo; is not a notion in physics but  comes from philosophy. Perhaps, you have forgotten that there existed (and exist) generations of scientists and philosophers of science who deny that &ldquo;causality&rdquo; has anything to do with sciences. Some argue this by suggesting that scientific theories do not describe the structure of the world but are merely useful instruments in prediction and control. These theories are not &ldquo;useful&rdquo; because they identify the causal forces in the world (and, hence,&ldquo;true&rdquo; in the semantic sense) anymore than the efficacy of the igloo proves that the Eskimo&rsquo;s theory about the igloo is true.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/causality/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/causality/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Causality",
   "name": "Causality",
   "description": "\u003cp\u003e\u0026ldquo;Causality\u0026rdquo; is not a notion in physics but  comes from philosophy. Perhaps, you have forgotten that there existed (and exist) generations of scientists and philosophers of science who deny that \u0026ldquo;causality\u0026rdquo; has anything to do with sciences. Some argue this by suggesting that scientific theories do not describe the structure of the world but are merely useful instruments in prediction and control. These theories are not \u0026ldquo;useful\u0026rdquo; because they identify the causal forces in the world (and, hence,\u0026ldquo;true\u0026rdquo; in the semantic sense) anymore than the efficacy of the igloo proves that the Eskimo\u0026rsquo;s theory about the igloo is true.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/causality\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/causality\/",
   
   "datePublished": "2017-01-25T00:44:07\u002b05:30",
   "dateModified": "2017-01-25T00:44:07\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/causality\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/causality\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -494,7 +494,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

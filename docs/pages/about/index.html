@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Decolonizing social sciences &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/pages/about/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/pages/about/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="This site hosts a collection of posts and articles (both publish and unpublished) about many things related to India, her culture and her traditions.
 Today, whatever descriptions exist about Indian culture is a product of labors of generations of western intellectuals. These descriptions are laden with many common sense themes, which are taken as true, because the whole western culture believes in their truth. The common sense of the western culture is a product of secularization of  Christianity as a religion. And Christianity has 2000 years of history. Christianity, as a socio-political entity, has faced many problems and reformulated the problems and questions it faced and provided solutions. Western intellectuals have taken over these problems and their solutions as a starting point of what we call social sciences today.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/pages/about/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/pages/about/">
 
 
 
@@ -46,7 +46,7 @@ Today, whatever descriptions exist about Indian culture is a product of labors o
   "headline": "Decolonizing social sciences",
   "name": "Decolonizing social sciences",
   "description": "\u003cp\u003eThis site hosts a collection of posts and articles (both publish and unpublished) about many things related to India, her culture and her traditions.\u003c\/p\u003e\n\u003cp\u003eToday, whatever descriptions exist about Indian culture is a product of labors of generations of western intellectuals. These descriptions are laden with many common sense themes, which are taken as true, because the whole western culture believes in their truth. The common sense of the western culture is a product of secularization of  Christianity as a religion. And Christianity has 2000 years of history. Christianity, as a socio-political entity, has faced many problems and reformulated the problems and questions it faced and provided solutions. Western intellectuals have taken over these problems and their solutions as a starting point of what we call social sciences today.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/pages\/about\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/pages\/about\/",
   
   "datePublished": "2011-02-28T04:18:07\u002b05:30",
   "dateModified": "2011-02-28T04:18:07\u002b05:30",
@@ -57,14 +57,14 @@ Today, whatever descriptions exist about Indian culture is a product of labors o
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/pages\/about\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/pages\/about\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -509,7 +509,36 @@ Today, whatever descriptions exist about Indian culture is a product of labors o
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

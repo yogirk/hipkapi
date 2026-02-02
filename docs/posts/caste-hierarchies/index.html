@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Caste hierarchies &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/caste-hierarchies/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/caste-hierarchies/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -20,7 +20,7 @@
 
 You ask whether &ldquo;there is a perception of caste hierarchies among Brahmins&rdquo;. My guess is that there is no such general perception, even if, regionally, multiple Brahmin jati&rsquo;s fight for superiority. There is no way to establish, say, that the &lsquo;Babburkamme&rsquo; is superior to &lsquo;Havyaka&rsquo; in Karnataka. In fact, many from either of the two would not even know of the existence of the other. In Bangalore itself, for instance, where the former is preponderant, I did not even know of their existence until I was 15 years old. In this sense, even in areas where they might claim to &lsquo;superiority&rsquo;, it is difficult to establish hierarchies among the Brahmins in any one region. This, as I say, is my guess.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/caste-hierarchies/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/caste-hierarchies/">
 
 
 
@@ -48,7 +48,7 @@ You ask whether &ldquo;there is a perception of caste hierarchies among Brahmins
   "headline": "Caste hierarchies",
   "name": "Caste hierarchies",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eYou ask whether \u0026ldquo;there is a perception of caste hierarchies among Brahmins\u0026rdquo;. My guess is that there is no such general perception, even if, regionally, multiple Brahmin jati\u0026rsquo;s fight for superiority. There is no way to establish, say, that the \u0026lsquo;Babburkamme\u0026rsquo; is superior to \u0026lsquo;Havyaka\u0026rsquo; in Karnataka. In fact, many from either of the two would not even know of the existence of the other. In Bangalore itself, for instance, where the former is preponderant, I did not even know of their existence until I was 15 years old. In this sense, even in areas where they might claim to \u0026lsquo;superiority\u0026rsquo;, it is difficult to establish hierarchies among the Brahmins in any one region. This, as I say, is my guess.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/caste-hierarchies\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/caste-hierarchies\/",
   
   "datePublished": "2015-01-04T17:41:03\u002b05:30",
   "dateModified": "2015-01-04T17:41:03\u002b05:30",
@@ -59,14 +59,14 @@ You ask whether &ldquo;there is a perception of caste hierarchies among Brahmins
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/caste-hierarchies\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/caste-hierarchies\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -511,7 +511,36 @@ You ask whether &ldquo;there is a perception of caste hierarchies among Brahmins
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

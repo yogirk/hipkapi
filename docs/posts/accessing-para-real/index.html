@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Accessing &#39;Para&#39; (Real) &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/accessing-para-real/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/accessing-para-real/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <meta property="og:title" content="Accessing &#39;Para&#39; (Real)">
 <meta property="og:description" content="It would be a good thing to narrow-in on the ‘spookiness’ of the accessing &lsquo;Real&rsquo;. However, because there is a very great danger that ‘access’ can be conceptualised as an access to a ‘supra-mundane’ or a ‘spiritual’ world, or to a world that is not accessible to ‘sciences’  but can be ‘spiritually’ accessed, etc. a few extra words are required. Therefore, an attempt that might reduce one possible kind of spookiness that you might be referring to.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/accessing-para-real/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/accessing-para-real/">
 
 
 
@@ -44,7 +44,7 @@
   "headline": "Accessing \u0027Para\u0027 (Real)",
   "name": "Accessing \u0027Para\u0027 (Real)",
   "description": "\u003cp\u003eIt would be a good thing to narrow-in on the ‘spookiness’ of the accessing \u0026lsquo;Real\u0026rsquo;. However, because there is a very great danger that ‘access’ can be conceptualised as an access to a ‘supra-mundane’ or a ‘spiritual’ world, or to a world that is not accessible to ‘sciences’  but can be ‘spiritually’ accessed, etc. a few extra words are required. Therefore, an attempt that might reduce one possible kind of spookiness that you might be referring to.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/accessing-para-real\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/accessing-para-real\/",
   
   "datePublished": "2020-04-28T23:04:00\u002b05:30",
   "dateModified": "2020-04-28T23:04:00\u002b05:30",
@@ -55,14 +55,14 @@
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/accessing-para-real\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/accessing-para-real\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -523,7 +523,36 @@
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Peoples and Nations &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/peoples-and-nations/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/peoples-and-nations/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -23,7 +23,7 @@ II
 One is the meaning of ‘nation-state’, which is also abbreviated in colloquial use as ‘nation’. This picks out individual countries with physical borders that have sovereign states internally: U.S., India, Saudi Arabia, Yemen, etc are such nation-states.
 The second idea, which has a venerable history of more than 2000 years, is one which sees ‘nation’ as a ‘people’. In that sense the Jews are a ‘nation’ as are the Christians (as they saw themselves earlier and many, even now) and Muslims. Both the Muslims and the British saw a ‘Hindu’ nation in India as well.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/peoples-and-nations/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/peoples-and-nations/">
 
 
 
@@ -54,7 +54,7 @@ The second idea, which has a venerable history of more than 2000 years, is one w
   "headline": "Peoples and Nations",
   "name": "Peoples and Nations",
   "description": "\u003cp\u003eThe Ancient Romans spoke of ‘Peoples’ and ‘Nations’. They saw traditions making a group into a people and distinguishing people (and, sometimes, ‘nations’) from each other. Different peoples (distinguished from each other on the basis of ancestral traditions) could live together in a nation and a nation itself could host multiple peoples and traditions. Consequently, they did not see Christians as a people because they did not have ancestral traditions to follow.\nThe Christians redefined what it is to be a people: they became a ‘communitas’ (a community) because of their ‘religio’. The Christians became a community because they were united “in God” and “in Christ”. They were united too in their “search for God”, which was what “conversio” (‘conversion’) meant to them. Christians were a ‘people’ now, a community that came into existence by their ‘unity in Christ’. The idea that individuals are “united” in “God and Christ” is what brings about a community and thus a people. This is a very Christian idea, which is based on the thought that individuals are united only in God. When secularized, it takes the shape of the idea that “a people” have a “common religion”. Or that every people is a people (or becomes one) because of religion.\nIt is this direction that one will have to go. I am working this idea out (every now and then) in my attempt to build a foundation for a theory of comparative politics, where I contrast these Christain ideas with the Indian ones.\nII\nOne is the meaning of ‘nation-state’, which is also abbreviated in colloquial use as ‘nation’. This picks out individual countries with physical borders that have sovereign states internally: U.S., India, Saudi Arabia, Yemen, etc are such nation-states.\nThe second idea, which has a venerable history of more than 2000 years, is one which sees ‘nation’ as a ‘people’. In that sense the Jews are a ‘nation’ as are the Christians (as they saw themselves earlier and many, even now) and Muslims. Both the Muslims and the British saw a ‘Hindu’ nation in India as well.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/peoples-and-nations\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/peoples-and-nations\/",
   
   "datePublished": "2023-03-29T09:39:21\u002b05:30",
   "dateModified": "2023-03-29T09:39:21\u002b05:30",
@@ -65,14 +65,14 @@ The second idea, which has a venerable history of more than 2000 years, is one w
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/peoples-and-nations\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/peoples-and-nations\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -509,7 +509,36 @@ The second idea, which has a venerable history of more than 2000 years, is one w
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

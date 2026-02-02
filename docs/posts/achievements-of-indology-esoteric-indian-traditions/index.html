@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Achievements of Indology: Esoteric Indian traditions &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/achievements-of-indology-esoteric-indian-traditions/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/achievements-of-indology-esoteric-indian-traditions/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -19,7 +19,7 @@
 <meta property="og:description" content="A science of cultures is not Atmagyaana or Brahmagyaana. Let me also add that I find a quest for happiness a normal human striving.
 According to the Indian traditions, experience itself is a state of being: anubhava. In my story, so is happiness (or atmasaakshaatkaara). Need one be enlightened in order to speak about enlightenment? Should that be the case, one cannot strive for enlightenment at all and I think that enlightenment (or happiness) is a legitimate goal for human beings. If happiness is not an esoteric state of being but a legitimate goal for all human beings, there are indefinitely many roads to that state of being. The strength of the Indian traditions lies not merely in recognizing this but also in working out many such routes.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/achievements-of-indology-esoteric-indian-traditions/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/achievements-of-indology-esoteric-indian-traditions/">
 
 
 
@@ -46,7 +46,7 @@ According to the Indian traditions, experience itself is a state of being: anubh
   "headline": "Achievements of Indology: Esoteric Indian traditions",
   "name": "Achievements of Indology: Esoteric Indian traditions",
   "description": "\u003cp\u003eA science of cultures is not Atmagyaana or Brahmagyaana. Let me also add that I find a quest for happiness a normal human striving.\u003c\/p\u003e\n\u003cp\u003eAccording to the Indian traditions, experience itself is a state of being: anubhava. In my story, so is happiness (or atmasaakshaatkaara). Need one be enlightened in order to speak about enlightenment? Should that be the case, one cannot strive for enlightenment at all and I think that enlightenment (or happiness) is a legitimate goal for human beings. If happiness is not an esoteric state of being but a legitimate goal for all human beings, there are indefinitely many roads to that state of being. The strength of the Indian traditions lies not merely in recognizing this but also in working out many such routes.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/achievements-of-indology-esoteric-indian-traditions\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/achievements-of-indology-esoteric-indian-traditions\/",
   
   "datePublished": "2011-03-21T23:10:30\u002b05:30",
   "dateModified": "2011-03-21T23:10:30\u002b05:30",
@@ -57,14 +57,14 @@ According to the Indian traditions, experience itself is a state of being: anubh
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/achievements-of-indology-esoteric-indian-traditions\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/achievements-of-indology-esoteric-indian-traditions\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -512,7 +512,36 @@ According to the Indian traditions, experience itself is a state of being: anubh
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

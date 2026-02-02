@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Caste system I &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/caste-system-i/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/caste-system-i/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -21,7 +21,7 @@
 Let me reconsider the hypothesis I propose: what we call &rsquo;the caste system&rsquo; in India today is a hybrid beast. It is not a social structure but a linguistic entity (i.e., a set of sentences) which is an incoherent admixture to two unconnected descriptions (of the world): a generalization of the description of a structured set of interactions (let us leave aside the question of what kind of mathematical properties that this &lsquo;structured set&rsquo; has: how it is ordered, whether the ordering is strong or weak and so on) among the so-called &rsquo;lower castes&rsquo;
 , while fitting this description within the framework of the varna system, which, I say, is a description of social stratification at a very high level of abstraction or generality. It is incoherent by virtue of its claim to being a &lsquo;unified&rsquo; (and unifying) description of the social structure of Indian society: it collapses descriptions of different things at different levels (of descriptions) into a single alleged description of social reality. That is why these &rsquo;theories&rsquo; of caste are either incoherent, nonsensical or, where neither, false.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/caste-system-i/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/caste-system-i/">
 
 
 
@@ -50,7 +50,7 @@ Let me reconsider the hypothesis I propose: what we call &rsquo;the caste system
   "headline": "Caste system I",
   "name": "Caste system I",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eLet me reconsider the hypothesis I propose: what we call \u0026rsquo;the caste system\u0026rsquo; in India today is a hybrid beast. It is not a social structure but a linguistic entity (i.e., a set of sentences) which is an incoherent admixture to two unconnected descriptions (of the world): a generalization of the description of a structured set of interactions (let us leave aside the question of what kind of mathematical properties that this \u0026lsquo;structured set\u0026rsquo; has: how it is ordered, whether the ordering is strong or weak and so on) among \u003ca href=\u0022\/hipkapi\/posts\/caste-hierarchies\/\u0022\u003ethe so-called \u0026rsquo;lower castes\u0026rsquo;\u003c\/a\u003e\n, while fitting this description within the framework of the varna system, which, I say, is a description of social stratification at a very high level of abstraction or generality. It is incoherent by virtue of its claim to being a \u0026lsquo;unified\u0026rsquo; (and unifying) description of the social structure of Indian society: it collapses descriptions of different things at different levels (of descriptions) into a single alleged description of social reality. That is why these \u0026rsquo;theories\u0026rsquo; of caste are either incoherent, nonsensical or, where neither, false.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/caste-system-i\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/caste-system-i\/",
   
   "datePublished": "2015-01-04T17:32:11\u002b05:30",
   "dateModified": "2015-01-04T17:32:11\u002b05:30",
@@ -61,14 +61,14 @@ Let me reconsider the hypothesis I propose: what we call &rsquo;the caste system
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/caste-system-i\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/caste-system-i\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -523,7 +523,36 @@ Let me reconsider the hypothesis I propose: what we call &rsquo;the caste system
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>

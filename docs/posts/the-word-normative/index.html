@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head><script src="/hipkapi/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hipkapi/livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The word ‘Normative’ &middot; All Roads Lead to Jerusalem</title>
 
 <meta name="description" content="Decolonizing social sciences — posts and articles about India, her culture and traditions.">
 <meta name="author" content="hipkapi">
-<link rel="canonical" href="http://localhost:1313/hipkapi/posts/the-word-normative/">
+<link rel="canonical" href="https://yogirk.github.io/hipkapi/posts/the-word-normative/">
 
 
 <link rel="icon" href="/hipkapi/favicon.svg" type="image/svg+xml">
@@ -23,7 +23,7 @@ There are other normative statements besides ethical ones: even aesthetic statem
 
 If there are standards to measure some entity or phenomenon and that such measurements are not &ldquo;necessarily normative&rdquo;, of course, you are right. We can say whether a car has been properly assembled by referring to the standards of putting the parts of the car together; we can say that rice has been adulterated or even that storm has a strength measured by the Beaufort scale. None of these is normative. I am not claiming that &lsquo;all&rsquo; measurements (or evaluations) are normative.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/hipkapi/posts/the-word-normative/">
+<meta property="og:url" content="https://yogirk.github.io/hipkapi/posts/the-word-normative/">
 
 
 
@@ -54,7 +54,7 @@ If there are standards to measure some entity or phenomenon and that such measur
   "headline": "The word ‘Normative’",
   "name": "The word ‘Normative’",
   "description": "\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eThere are other normative statements besides ethical ones: even aesthetic statements are normative (when you judge something to be ugly or beautiful) or statements about the presence of other values (say, \u0026rsquo;the meaning of life\u0026rsquo; questions). I have never denied it. As you rightly point out, legal norms are normative but they are not co-extensive with the ethical ones.\u003c\/p\u003e\n\u003c\/li\u003e\n\u003cli\u003e\n\u003cp\u003eIf there are standards to measure some entity or phenomenon and that such measurements are not \u0026ldquo;necessarily normative\u0026rdquo;, of course, you are right. We can say whether a car has been properly assembled by referring to the standards of putting the parts of the car together; we can say that rice has been adulterated or even that storm has a strength measured by the Beaufort scale. None of these is normative. I am not claiming that \u0026lsquo;all\u0026rsquo; measurements (or evaluations) are normative.\u003c\/p\u003e",
-  "url": "http:\/\/localhost:1313\/hipkapi\/posts\/the-word-normative\/",
+  "url": "https:\/\/yogirk.github.io\/hipkapi\/posts\/the-word-normative\/",
   
   "datePublished": "2011-03-18T23:03:56\u002b05:30",
   "dateModified": "2011-03-18T23:03:56\u002b05:30",
@@ -65,14 +65,14 @@ If there are standards to measure some entity or phenomenon and that such measur
   
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http:\/\/localhost:1313\/hipkapi\/posts\/the-word-normative\/"
+    "@id": "https:\/\/yogirk.github.io\/hipkapi\/posts\/the-word-normative\/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "All Roads Lead to Jerusalem",
     "logo": {
       "@type": "ImageObject",
-      "url": "http:\/\/localhost:1313\/hipkapi\/apple-touch-icon.png"
+      "url": "https:\/\/yogirk.github.io\/hipkapi\/apple-touch-icon.png"
     }
   }
 }
@@ -516,7 +516,36 @@ If there are standards to measure some entity or phenomenon and that such measur
     
   </ul>
   
-  <button class="categories-toggle" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') === 'false' ? 'true' : 'false'); this.textContent = this.getAttribute('aria-expanded') === 'true' ? 'Show less' : 'Show all (95)'; this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) { el.hidden = !el.hidden; })">Show all (95)</button>
+  <button class="categories-toggle" aria-expanded="false">Show all (95)</button>
+  <script>
+  (function() {
+    var btn = document.currentScript.previousElementSibling;
+    var total =  95 ;
+    btn.addEventListener('click', function() {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.closest('.widget-categories').querySelectorAll('.categories-hidden').forEach(function(el) {
+        el.hidden = !el.hidden;
+      });
+    });
+  })();
+  </script>
+  <style>
+  .categories-toggle {
+    display: inline-block;
+    margin-top: var(--space-s, 0.5rem);
+    padding: 0;
+    background: none;
+    border: none;
+    color: var(--color-primary, #1a73e8);
+    cursor: pointer;
+    font-size: 0.85em;
+  }
+  .categories-toggle:hover {
+    text-decoration: underline;
+  }
+  </style>
   
   
 </div>
