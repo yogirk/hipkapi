@@ -141,44 +141,44 @@ summaryLength = 70
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 10
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/pages/about/"
-    weight = 20
-  [[menu.main]]
     identifier = "sitemap"
     name = "Sitemap"
     url = "/pages/sitemap/"
-    weight = 30
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
   [[menu.main]]
     identifier = "indic-categories"
     name = "Indic Categories"
     url = "/pages/indic-categories/"
-    weight = 40
+    weight = 30
   [[menu.main]]
     identifier = "colonialism"
     name = "Colonialism"
     url = "/pages/colonialism/"
-    weight = 50
+    weight = 40
   [[menu.main]]
     identifier = "secularism"
     name = "Secularism"
     url = "/pages/secularism/"
-    weight = 60
+    weight = 50
   [[menu.main]]
     identifier = "books"
     name = "Books"
     url = "/pages/books/"
-    weight = 70
+    weight = 60
   [[menu.main]]
     identifier = "videos"
     name = "Videos"
     url = "/pages/video/"
+    weight = 70
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/pages/about/"
     weight = 80
   [[menu.main]]
     identifier = "contact"
