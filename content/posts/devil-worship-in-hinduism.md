@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/03/25/devil-worship-in-hinduism/
 ---
 
 Here goes: that 'Hindu' religion is devil's worship is central, crucial and vital to the religions that Judaism, Christianity and Islam are. 'Why is that?', you may ask. It is impossible to cover this question in the space of a post, and with the details the question demands. So, here is what can be done: (a) I will provide a very crude outline with respect to Christianity; (b) reread what [I wrote about God and devil .](/posts/belief-vs-faith/)

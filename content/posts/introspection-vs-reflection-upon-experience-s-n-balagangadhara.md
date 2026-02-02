@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/introspection-vs-reflection-upon-experience-s-n-balagangadhara/
 ---
 
 In this post, I want to reflect on what it means *to access and think* about experience. Perhaps, not so much on what these words mean but what is entailed by (or what happens when we indulge in) this kind of activity. I think the best way to begin this analysis is by asking the following two questions about an activity familiar to most of us: what do we do when we think about ourselves? Do we do it the 'right' way? Let me begin with the first question and postpone looking at the second for a later stage, including how we should understand it. Because most of us know how we think about ourselves most of the times, I will take a trivial example and skip over certain explanations and analyses. The holes in my reasoning can either be filled by our memories or by discussing them at a later stage.

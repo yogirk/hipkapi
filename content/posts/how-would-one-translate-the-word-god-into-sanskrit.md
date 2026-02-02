@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/10/01/how-would-one-translate-the-word-god-into-sanskrit/
 ---
 
 Here is the question: How would one translate the word 'God' into, say, Sanskrit? Now, the answer has to satisfy certain conditions because the question also meets certain conditions. Let me say very clearly what all these are, so that the playground and the rules are transparent and favour no one party in the dispute.

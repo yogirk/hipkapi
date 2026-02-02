@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/10/05/colonial-consciousness-and-enlightenment/
 ---
 
 This post will use an imagery as its organising thread, which tracks the search for enlightenment in terms of notions known to us from our secondary and higher education.

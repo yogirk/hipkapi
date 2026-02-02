@@ -13,6 +13,8 @@ tags:
 - Gita
 summary: ''
 toc: true
+aliases:
+  - /2018/03/11/enlightenment-by-grace-or-efforts/
 ---
 
 > 9.32 Bhagavadgita

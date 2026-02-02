@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/10/22/central-features-of-studies-on-caste/
 ---
 
 [This article](http://creative.sulekha.com/the-hindu-defeat-role-of-caste_103411_blog) on Sulekha says:

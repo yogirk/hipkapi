@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2022/09/30/how-to-understand-corruption/
 ---
 
 Let us take the word ‘duty’ for the moment. Conflict in duties does not give you a moral dilemma. For a moral dilemma to occur two necessary conditions must exist: the prescribed set of duties must be logically consistent by virtue of which one is obliged to perform them all.  A dilemma pertains to a situation where one has an obligation to do A and an obligation to do B; but can in fact do only one. It is the perfect consistency of the system of duty that gives rise to the dilemma: a choice between A and B, between a banana and an orange is not a dilemma. It becomes a dilemma when you want both and can have only one. So, a moral dilemma cannot possibly describe a conflict of duties if one uses the word ‘duty’ here.  A conflict of *dharmas* is not a dilemma at all.

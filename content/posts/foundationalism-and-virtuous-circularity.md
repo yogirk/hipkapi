@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/10/foundationalism-and-virtuous-circularity/
 ---
 
 You do not want to call our natural sciences as 'knowledge'. I do not even mind that. (For instance, you might want to define 'knowledge' as 'true and justified belief'. You might show me that our theories in natural sciences are only believed to be true and are not proved to be true. Therefore, you might want to say that our natural sciences are not 'knowledge' according to your definition. Fair enough.) Since you want to conduct a discussion about knowledge and if our sciences are not examples of knowledge, I need to know whether there are other examples of knowledge. If such an entity exists, our discussions make sense. If we have no examples of knowledge at all, according to some or another definition of the word, how could we discuss about that? I mean to say, if not even the logics we use in out argument is an example of knowledge, how could we ever have any discussion about the scope, range, etc. of knowledge? We cannot. In other words, if we want to have discussions about knowledge, we need to have examples of knowledge and need to use these examples in our discussions about their nature. So, you have to tell me: (a) whether we have examples of knowledge; (b) what they are; (c) how we should use them in our discussions; (d) show that their use does not pervert our discussions about knowledge.

@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/01/04/caste-hierarchies/
 ---
 
 1. You ask whether "there is a perception of caste hierarchies among Brahmins". My guess is that there is no such general perception, even if, regionally, multiple Brahmin jati's fight for superiority. There is no way to establish, say, that the 'Babburkamme' is superior to 'Havyaka' in Karnataka. In fact, many from either of the two would not even know of the existence of the other. In Bangalore itself, for instance, where the former is preponderant, I did not even know of their existence until I was 15 years old. In this sense, even in areas where they might claim to 'superiority', it is difficult to establish hierarchies among the Brahmins in any one region. This, as I say, is my guess.

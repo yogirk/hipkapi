@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/15/is-bible-an-explanatorily-intelligle-account-of-cosmos-and-of-itself/
 ---
 
 When a religion claims that it is the word of God and that the word is unconditionally true; and that, further, the word is about the Cosmos: everything that was, is and shall be. So, when I say that religion is such an entity, namely, it claims that it is the word of God and that it claims to be unconditionally true and that it is about the Cosmos, I am accepting the self description of religion. (However, the hypothesis that religion is an explanatorily intelligible (EI) account formulates it without committing itself to any ontological claims. That is, it takes no stances about what specific religions say or do not say about the existence of entities. The hypothesis does not show how, and in what sense, the Bible, say, is an EI account. It merely says that The Bible has such a status to believers. If you reread the relevant paragraphs of 'The Heathen in his blindness: Asia, the West and the dynamic of religion' where I first formulate the hypothesis, you will notice that I formulate it conditionally: "If such a being exists, if such an account is forthcoming ... etc then we have an EI account.") If we do not accept the self-description of religion, The Bible becomes a mere book and we cannot study it at all to say anything about Christianity.

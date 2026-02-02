@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/26/ought-one-to-be-generous/
 ---
 
 There is ethics in India, but it is not normative ethics. It is a non-normative ethics. To get you going, consider acts like 'generosity', 'kindness', 'bravery', 'friendliness' and such like. Often called 'virtues', these actions do not come under the scope of normative ethics. You cannot say: "one ought to be generous", because generosity implies doing 'more than' what is expected in the act of giving. Such notions are also called 'supererogatory' in the literature, i.e. they are 'over and beyond the call of duty'. This is one way to start coming to grips with the idea of non-normative ethics.

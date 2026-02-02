@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/02/28/india-and-her-traditions-a-reply-to-jeffrey-kripal-s-n-balagangadhara/
 ---
 
 Before addressing this writing to Jeffrey Kripal, I would like to very clearly stipulate some of my basic stances so that the discussion does not get derailed into these issues.

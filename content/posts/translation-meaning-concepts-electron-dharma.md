@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/01/translation-meaning-concepts-electron-dharma/
 ---
 
 In our daily life, we hardly pause to reflect upon many problematic things that we routinely assume as self-evident. Such an attitude is useful since it allows us to focus on other things that occupy us at that moment. One such attitude is not to bestow too much care on how we use language: we routinely speak of similarity in meaning, identical concepts, exact and accurate translations and so on. As long as issues like meaning etc. are not at dispute, talking like this causes no harm. However, in the current case, we are talking about the meaning of 'meaning' (in a manner of speaking). Consequently, we have to be careful about how we use language to convey what we want to say, and be clear about what thesis we intend to argue for.

@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2012/06/23/secularized-christian-theology-and-evolutionary-explanations-of-religion/
 ---
 
 1. People like Scott Atran and Sloan Wilson abuse evolutionary biology to produce ad hoc explanations of an explanandum whose truth they presuppose: the universality of religion. Their explanations are no better than those discussed by Balu in chapter 5 of '[The Heathen in his blindness: Asia, the West and the dynamic of religion.](https://sites.google.com/site/colonialconsciousness/theheatheninhisblindness)'. Paraphrasing Balu, we may say that they consist of 'two quarters of theology, a quarter of evolutionary biology and a quarter of illiterate ethnology'.

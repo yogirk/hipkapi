@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/why-understand-the-western-culture-s-n-balagangadhara/
 ---
 
 Let me begin this contribution, the third piece about our culture and traditions([[1]](/posts/to-follow-our-forefathers-the-nature-of-tradition-s-n-balagangadhara/), [[2]](/posts/translations-or-travesty-of-traditions-s-n-balagangadhara/)), by sharing something you are familiar with. Very often, I have heard the NRI parents in the USA making the following remark:

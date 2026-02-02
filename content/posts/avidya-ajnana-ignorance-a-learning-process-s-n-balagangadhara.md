@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/avidya-ajnana-ignorance-a-learning-process-s-n-balagangadhara/
 ---
 
 1. When we speak about ignorance, we can do so in two ways. One is by talking about 'how the world is'; the other is by talking about 'how we think the world is'. Even though we could use both ways to characterize 'ignorance', they are not coextensive (or synonyms) because (a) they are about different things – in the first case it is about the world; in the second case it is about what we take to exist in the world – and, therefore, (b) they have different consequences.

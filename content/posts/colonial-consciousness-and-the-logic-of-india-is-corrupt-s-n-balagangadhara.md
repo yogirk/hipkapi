@@ -14,6 +14,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/colonial-consciousness-and-the-logic-of-india-is-corrupt-s-n-balagangadhara/
 ---
 
 **(A)** Consider the following sequence of sentences:

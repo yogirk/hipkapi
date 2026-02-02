@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/06/incoherence-of-indian-scholars-on-secularism/
 ---
 
 Sasheej Hegde in his EPW article says: "A theory of secularism in the sense of a theory about possessing the concept 'secular' is quite distinct from a theory about how the concept secular represents."

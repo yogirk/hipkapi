@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2012/06/23/evolutionary-explanations-of-religion-an-exercise-in-petitio-principii/
 ---
 
 1. It is very disappointing to see how these evolutionary theorists of religion lack knowledge of religions other than garden variety Judeo-Christianity (where they seem to have at least some factual knowledge, as in Scott Atran's case, they reproduce standard textbook stories about Hinduism that have been left behind a few decades back).

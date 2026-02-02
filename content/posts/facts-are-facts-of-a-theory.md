@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/09/facts-are-facts-of-a-theory/
 ---
 
 1. Until the sixties of the previous century, there was some kind of consensus about the nature of scientific enterprise. One strand within it had to do with the nature of facts. One thought that scientists collected facts (data) and formulated hypothesis (or theories) to explain them. This distinction between theory and facts was seen as an absolute distinction: facts (or data) existed in Nature (or culture) and theories explained them. However, today, the consensus tells us that this is not the case. (This distinction has been scrutinized from many different points of view since the fifties: in terms of language, in terms of the history of the sciences, in terms of scientific revolutions, in terms of philosophy of sciences...) Today, one accepts that facts are not some theory-neutral entities existing in either Nature or culture and that the distinction between them is a relative distinction. All our facts are theory-dependent; in some contexts we treat some of the claims of a background theory as facts. In another context, the same facts are discussed as theoretical claims.

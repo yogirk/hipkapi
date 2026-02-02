@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/25/kids-of-nri-and-their-balvihar-education/
 ---
 
 Irrespective of what Hindu kids are told we have, they will discover later that that all the beliefs they have heard and been taught about, everything about the Ten Commandments and the manifestations of the 'brahman', and so on are based on stories. They will discover too that these gods of their, these 'manifestations' of Brahman, display immoral and disgusting behaviors: like incest, adultery, lying, cheating, murder, and so on and so forth. They will discover furthermore that there is no theology worth speaking of in the Indian traditions, and they will become one deeply ashamed Indian if they come across the Christian evangelicals or writers like the future Kripals or Courtrights. Their training (in Balvihar) will have set them up as an easy target for conversion into a Christianity or Islam (if (s)he remains 'religious').If not, they might grow up to loathe the tradition they are part of. They will not have been provided with the weapons they need in order to survive a theological discussion about the nature of 'Hinduism'.

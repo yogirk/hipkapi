@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/the-reality-of-elusive-man-s-n-balagangadhara/
 ---
 
 Speaking of 'the greatest mystery of our humanness', Sinari raises the following questions: "Why are we present in the world rather than not being there at all? Why are we present to ourselves as world-experiencers and world-explorers rather than being simply there as perhaps animals are" (p.1) In brief reply to his provocative paper, I would like to reflect on the nature of these queries and with the issue: what would count as an answer to these questions

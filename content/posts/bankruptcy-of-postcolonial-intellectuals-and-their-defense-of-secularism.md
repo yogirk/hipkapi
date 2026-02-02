@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/bankruptcy-of-postcolonial-intellectuals-and-their-defense-of-secularism/
 ---
 
 We have developed partial explanations of why the secularism debate in India takes such peculiar forms and why otherwise intelligent people talk nonsense here. But we don't do so by pegging our use of the word secularism "onto Balu's theory about the nature of religion and how that entity religion behaves in the world" and then expecting that other people do the same.

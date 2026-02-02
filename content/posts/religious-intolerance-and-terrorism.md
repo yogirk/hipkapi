@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/14/religious-intolerance-and-terrorism/
 ---
 
 "What is the relationship between religious intolerance and the acts committed in Mumbai?" This is an empirical question at many levels. If some or another religion is used to defend the attacks in Mumbai, then it depends very much on the kinds of justifications used; the kind of theology in question; the relationship between the belief-states of the perpetrators and their motives; the relationship between their acts and their religious beliefs; and so on. Religious intolerance might or might not lead to conversion, to persecution of those who have 'other' beliefs, to playing the 'priest' and so on. What cannot be said, anyway, is that religious intolerance necessarily leads to Mumbai attacks. However, religious intolerance always harbors such a possibility. Whether or not such a possibility also occurs in our world depends on many, many empirical circumstances I have no clear view of.

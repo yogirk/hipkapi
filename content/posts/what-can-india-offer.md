@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/10/01/what-can-india-offer/
 ---
 
 Today, India has become a global player of significant political and economical impact. Europe and India are facing each other as equal partners in pursuit of greater economic and political co-operation. This confronts both India and Europe with a challenge. The intelligentsia, the business world, politicians, educators and others, will have to answer the following question: What can India offer to the world of today and tomorrow?

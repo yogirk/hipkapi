@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/01/sanskrit-pundits-indian-texts-colonial-consciousness/
 ---
 
 1. When we go-about with our fellow human beings, we need to possess some or another idea about the nature of ourselves and our fellow human beings. (Call it, for the sake of convenience, an 'intuitive theory' about human beings.) It is an implicit understanding because each one of us does not have to be a professional philosopher or psychologist to get along with ourselves and fellow human beings. So, in principle, we must possess a vocabulary to talk about human beings; if we do not, we can neither talk about human beings nor could we make sense of their actions in the world.

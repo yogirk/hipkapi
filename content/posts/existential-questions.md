@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/24/existential-questions/
 ---
 
 If we want to speak about the meaning of human existence, at least one condition has to be met: such an existence (from birth to death at least) must embody a plan or a reason. Such a plan or reason cannot be that of the individual in question for the simple reason that his/her birth (at the least, not to speak of the first years of his/her existence) does not instantiate any of his/her plans. Only in such cases could we say that the human existence has meaning.

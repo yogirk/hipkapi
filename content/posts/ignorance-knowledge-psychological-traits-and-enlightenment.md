@@ -14,6 +14,8 @@ tags:
 - Gita
 summary: ''
 toc: true
+aliases:
+  - /2017/01/19/ignorance-knowledge-psychological-traits-and-enlightenment/
 ---
 
 About the relationship between scientific knowledge and enlightenment: If every human being can become enlightened (at any time, place or culture), it logically follows that some or another hypothesis about the world cannot be a requirement to become enlightened. People were enlightened (in the past) without possessing knowledge that humankind has today; one can become enlightened without being a physicist or a geneticist; one can believe in the existence of ghosts and spirits and still be enlightened… and so on. In the same way one can seek and find enlightenment while believing that human body is composed of five sheaths, one can also become enlightened by dismissing the idea of five sheaths as a false and primitive belief. There is, however, a caveat that ties knowledge to enlightenment. Perhaps, a contemporary example would help here.

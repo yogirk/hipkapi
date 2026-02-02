@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/is-normative-ethics-richer-s-n-balagangadhara/
 ---
 
 1. Are western traditions innately richer because they have the moral ought?

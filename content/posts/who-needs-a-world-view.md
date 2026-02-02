@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/06/09/who-needs-a-world-view/
 ---
 
 **1**. In this talk, I would like to focus on the two attitudes that I have towards your project. It is not that I have ambiguous feelings; no, I have two distinct feelings. On the one hand, I am convinced that you will not reach your goal because such a goal is unreachable. Not only that. Your goal is undesirable and best abandoned. On the other hand, if you strive with integrity, clarity and passion to reach your goal, in the process, you will achieve results that are desirable, necessary and important. So, I would like to support and encourage your project. On the one hand, I believe that I can develop a few impossibility arguments that will show why you best abandon your project; on the other hand, I have given no thought to developing such a set of arguments because I want you to work further towards your goal so that you produce the results that we, as humankind, need. This might suggest that I am ambiguous toward your project, but, as I said, I am not. To explain thus attitude better, let me use an illustration from the history of philosophy (albeit in a slightly caricatured form),

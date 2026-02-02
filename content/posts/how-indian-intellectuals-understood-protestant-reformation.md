@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/25/how-indian-intellectuals-understood-protestant-reformation/
 ---
 
 In the second half of the nineteenth century, some western-educated, Bombay intellectuals came together in the Prarthana Samaj (inspired by Keshub Sunder Sen of the Brahmo Samaj). Perhaps the best known members of the Prarthana Samaj were Mahadev Govind Ranada and Narayan Chandavarkar (the Vice-Chancellor of Bombay University). Both reformers advocated what they literally called *Hindu Protestantism*. Below, I will present what I believe to be illustrations of the distortion that occurs when these intellectuals talk about reform.

@@ -15,6 +15,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/comparative-anthropology-and-action-sciences-an-essay-on-knowing-to-act-and-acting-to-know-s-n-balagangadhara/
 ---
 
 [ [Original](https://www.philosophica.ugent.be/article/82484/galley/202298/view/), published  *Philosophica* **40** (2): 77–107]

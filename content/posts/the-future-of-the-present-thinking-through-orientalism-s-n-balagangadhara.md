@@ -14,6 +14,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/the-future-of-the-present-thinking-through-orientalism-s-n-balagangadhara/
 ---
 
 Though the book was published nearly two decades ago, Said's *Orientalism* continues to be topical. Many have rejected the message of this work; others have attempted to develop its arguments yet further. This article will not be one more interpretation of Said's book; after all, there are many such interpretations, including Said's own. Instead, it probes the phenomenon of 'post-Orientalism'. Even here, the intention is not to map its contours either historically or conceptually. Rather, the focus is on raising the question: what next after *Orientalism*?

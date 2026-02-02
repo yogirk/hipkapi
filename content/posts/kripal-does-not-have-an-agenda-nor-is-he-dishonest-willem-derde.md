@@ -11,6 +11,8 @@ tags:
 - Jeffrey Kripal
 summary: ''
 toc: true
+aliases:
+  - /2011/04/06/kripal-does-not-have-an-agenda-nor-is-he-dishonest-willem-derde/
 ---
 
 I do understand the anger that people feel when they read Jeffrey Kripal's and other people's assessment of Indian traditions. If someone were to come up with a similar distortion of my own cultural heritage, I would probably feel the same. However, I do feel troubled when people end up calling Kripal a "cheat'', a "spiritual bandit" or begin to speculate about hidden 'agendas'. My problem is not that these accusations are ad hominem. My problem is that they threaten to obscure a genuine intellectual problem of a more serious nature.

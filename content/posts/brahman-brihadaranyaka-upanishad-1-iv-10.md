@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/05/27/brahman-brihadaranyaka-upanishad-1-iv-10/
 ---
 
 Two caveats. One: the commentary is very, very short. To write down all the things I want to say about this citation requires a long paper and not a brief mail. Two: I have not checked either the citation or the reference (Brihadaranyaka upanishad - I.iv.10). I assume that both are accurate.

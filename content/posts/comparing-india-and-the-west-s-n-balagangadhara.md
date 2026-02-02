@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/comparing-india-and-the-west-s-n-balagangadhara/
 ---
 
 [[Original](http://asianetwork.org/ane-archived-issues/2008-fall/anex2008-fall-balagangadhara.pdf), published in ASIANetwork Exchange **XVI** (1): 57–63.]

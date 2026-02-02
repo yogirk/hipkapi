@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2023/12/26/spirituality-adhyatma/
 ---
 
 One could justifiably see spirituality (the Jewish, Christian and Islamic) as ‘Adhyatma’ if one focusses on the psychological transformations that a human being undergoes in the process of moving from the mundane life to a ‘spiritual’ one. You would be closer to the notion of ‘Adhyatma’ if you can also additionally guide such a process. Such guidance requires, of course, that there is some deep understanding of such transformative processes and their mechanisms.

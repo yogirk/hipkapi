@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2021/08/31/what-does-it-mean-to-be-indian/
 ---
 
 Here is a new book by S. N. Balagangadhara and Sarika Rao: *What does it mean to be 'Indian'?*

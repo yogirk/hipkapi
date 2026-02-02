@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/review-of-imagining-hinduism/
 ---
 
 Review of *Imaging Hinduism: A Postcolonial perspective.* By Sharada Sugirtharajah. Routledge, 2003. 164 pages

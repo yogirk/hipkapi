@@ -14,6 +14,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2013/02/13/how-to-speak-for-the-indian-traditions-an-agenda-for-the-future/
 ---
 
 *Editor's note: This article appeared in the Journal of American Academy of Religion*

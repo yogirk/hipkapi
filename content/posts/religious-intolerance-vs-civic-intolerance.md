@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/religious-intolerance-vs-civic-intolerance/
 ---
 
 1. Today, in countries like England, Belgium, Germany, Italy and the United States, many religions (Judaism, Christianity, Islam) and many brands of some of these religions (Catholicism, Protestantism of various shades, Orthodox Churches, etc) coexist. In Belgium or Italy, for instance, the Catholic Christians do not *impose* their faiths on those who are not Catholics, i.e., they do not go around "proselytizing" the non-Catholics in their countries; in The Netherlands and Germany, for instance, the Catholics and the Protestants do not go around assaulting each other the way they did during the period of Reformation. Even the Jehovah's Witnesses do not *impose* their faith, when they canvass the "Good Word" from door to door. The Muslims in Britain, for instance, do not go around converting all non-Muslims either. Questions: Does that mean that Catholic Christianity in Belgium and Italy (for instance) has become *more tolerant* than it was couple of centuries ago? Does it mean that Protestantism has become *more tolerant* than it was some three centuries or so ago? Does it mean that Islam in Britain (or in the United States) is *more tolerant* than Islam, say, in Africa?

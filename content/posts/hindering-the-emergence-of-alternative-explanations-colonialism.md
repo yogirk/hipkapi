@@ -12,6 +12,8 @@ tags:
 - Wendy Doniger
 summary: ''
 toc: true
+aliases:
+  - /2011/04/06/hindering-the-emergence-of-alternative-explanations-colonialism/
 ---
 
 1. Earlier, I suggested that the psychoanalytical explanations (like the transformation of Linga into a penis as a fertility symbol etc.) not only trivialize and distort but also deny access to our own experience. In this post, I want to highlight *one* of the consequences of transforming our experiences in this fashion. In at least two different ways, *these explanations hinder the emergence of alternative or different explanations of our experiences*. This is relevant to both of us. That is why, when confronted with such explanations, we do not know *what to say*. These explanations rob us not only of our experience; while doing so, they shut us up as well. As far as you are concerned, while rendering you deaf to the silence from our end, it further *blinds* you. If this is the case, one might as well ask oneself what you describe. Are you describing what you 'see' in the mystical Ramakrishna? You could not: after all, what can you see, when you are blind? Nor it could be that you describe what you hear: you have become deaf to us. What, then, are you describing when you describe *your experience*? This issue is what this post will be about.

@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2022/09/28/a-priori-assumptions/
 ---
 
 I am going to ask for a clarification on a question which I find very troubling. Let me first read how you have formulated the problem from the text: Sanskrit scholars need modem social scientists. What disturbs me in anthropological fieldwork is that Sanskrit literature is made to play the role of native informer to social scientists, with the anthropologists asking themselves as they might with Maori culture: is there something valuable which has been lost?

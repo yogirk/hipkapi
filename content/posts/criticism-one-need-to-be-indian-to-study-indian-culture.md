@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/criticism-one-need-to-be-indian-to-study-indian-culture/
 ---
 
 In a way, and in some sense, I do agree with you that one's acquaintance with a culture is useful in writing about that culture. It is not sufficient, of course (think of the nonsense written by most anthropologists during the last 100 years on other cultures); nor are there any compelling reasons to believe that it is a sine qua non to understanding cultures. However, I am not challenging the claim that the context of the person might be relevant to producing knowledge.

@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/18/normativity-as-parasitic-behavior/
 ---
 
 We need to tackle the following issues properly if we want to get a handle on normativity and its relation to a configuration of learning.

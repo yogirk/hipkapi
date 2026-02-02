@@ -13,6 +13,8 @@ tags:
 - Will Sweetman
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/why-indian-secularists-do-not-think-but-talk/
 ---
 
 I want to go deeper into the claim of [my earlier post](/posts/meanings-and-historical-context-the-arguments-from-indian-scholars-%e2%80%93s-n-balagangadhara/ "Meanings and Historical Context: the arguments from Indian scholars –S.N.Balagangadhara") that Shabnum Tejanis and Neera Chandhokes of this world do not think but merely talk. In other words, is it possible to identify the problems with their accounts (that explicates more clearly why I say that they do not think) in such a way that it is susceptible to some sort of solution? If, indeed, we can show that such people do not think and we can show that their mistakes have some cognitive roots, then we can also provide additional explanations. In such a case, our answer would be richer and more complex than any other available at the market place.

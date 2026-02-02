@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/indian-cultures-attitude-toward-sex-vs-christian-morality/
 ---
 
 Let us begin with the assumption that our stories about Indra and the Gandharvas are just that: stories, authored by human beings, without truth-content. (That is to say, they are neither true nor false.) When human beings write stories, their imagination is (partially) constrained by their societies, cultures and the times they live in. None quite knows how exactly the latter constrain human imagination even though the extant theories about myths try to explicate this relation: some see in them a mirroring of society, some see in them a disguised historiography or sociology, some see in them a personification of virtues, and so on. Because this issue is not settled yet, I shall presuppose the truth of none of the theories about myths that dot the landscape. However, I take the 'constraint' I spoke about to incorporate the following minimal claim: the myths suggest that some attitudes fall within the limits (or transgress them, as the case may be) of the cultures whose myths they are. Under this assumption, let me isolate some of the attitudes that come to the fore if we look at our stories about apsaras.

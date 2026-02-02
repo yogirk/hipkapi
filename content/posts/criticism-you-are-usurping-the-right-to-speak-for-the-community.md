@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/criticism-you-are-usurping-the-right-to-speak-for-the-community/
 ---
 
 Let me lay this fear to rest: I am *not* speaking for the community. To the question, 'Who speaks for the Indian traditions?' my reply is simple: *anyone, everyone, whoever feels like*. (Of course, I do not consider the question very sensible, but that is a side-issue for the moment.)

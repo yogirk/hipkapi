@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/04/28/accessing-para-real/
 ---
 
 It would be a good thing to narrow-in on the ‘spookiness’ of the accessing 'Real'. However, because there is a very great danger that ‘access’ can be conceptualised as an access to a ‘supra-mundane’ or a ‘spiritual’ world, or to a world that is not accessible to ‘sciences’  but can be ‘spiritually’ accessed, etc. a few extra words are required. Therefore, an attempt that might reduce one possible kind of spookiness that you might be referring to.

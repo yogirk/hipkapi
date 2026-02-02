@@ -14,6 +14,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/to-follow-our-forefathers-the-nature-of-tradition-s-n-balagangadhara/
 ---
 
 While reading this contribution and all the others ([[1]](/posts/translations-or-travesty-of-traditions-s-n-balagangadhara/), [[3]](/posts/why-understand-the-western-culture-s-n-balagangadhara/)) I hope to write, we need to keep the context in mind. The context is this: many intellectuals, both in India and among the NRIs elsewhere, appear bent on transforming our multiple traditions into a single 'religion' called 'Hinduism'. The problem does not lie in the transformation of variety and diversity into a unity. Rather, it lies in trying to fit our traditions into the straightjacket of 'religion'. While calling ourselves 'Hindus' might be a convenient way of talking, the danger lies in going further and trying to develop 'doctrines', 'theologies', 'catechisms' and 'Ten Commandments' so that those around us in the West could recognize us as followers of a religion called 'Hinduism'. (These reflections are also applicable to 'Buddhism', 'Jainism', 'Saivism' and all such entities.) In the course of my future contributions, I will look at some of the compulsions that force us to manufacture 'Hinduism as a religion'. In this piece, I want to focus on the nature of traditions. What is a tradition? What differentiates religions from traditions? The second question will remain implicit until the end. By that time, we should have a better understanding of what it means to speak of a tradition.

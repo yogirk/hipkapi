@@ -14,6 +14,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/10/14/how-about-speaking-the-truth-about-reservations/
 ---
 
 **What happens to the future of Indian intellectual scene when most of projects driven by its intelligentsia propagate perverted truths for self-seeking purposes?**

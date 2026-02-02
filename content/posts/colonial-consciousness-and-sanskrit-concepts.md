@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/25/colonial-consciousness-and-sanskrit-concepts/
 ---
 
 1. Many are concerned that English translations of some words from native languages distort their meaning. If we restrict ourselves to terms like 'Deva', 'Dharma' and such like, the worry is not just that their translations distort the meaning of these words (as we use them in our native languages) but that they suggest something (by way of reference and meaning) that does not even exist in these languages.

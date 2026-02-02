@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/01/is-rain-dance-superstitious-willem-derde/
 ---
 
 Some consider it to be a "superstitious practice", the implication being that it is irrational to believe that dancing *causes* the rain to fall: no reasonable people on earth can buy the story that dancing actually causes rain to fall. I am not willing to buy it. However, it is a fact that in some cultures people *do* perform 'rain dances'. However, to explain the 'rain dance' by attributing a 'causative story' is to trivialize such an experience: *you are transforming the members of that group into a bunch of idiots.*

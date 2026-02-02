@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2018/01/19/secular-state-and-hijab/
 ---
 
 1. We can all accept the fact, I suppose, that some thing or another is a religious symbol to someone when s/he belongs to that religion whose symbol it is. In this sense, the Cross (for a long period of time), the figure of the Prophet Mohammed (also for a long period of time) and the star of David (in the course of this century) are symbols that carry religious significance to the Christians, Muslims and the Jews respectively. We are also agreed, I suppose, that there is no way of characterizing any of these as religious symbols in a religiously neutral way.

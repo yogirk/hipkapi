@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2013/04/30/intercultural-exchange-of-categories/
 ---
 
 What is wrong with the intercultural exchange of categories? Throughout one gets the impression that there is something “fundamentally wrong” with categories shifting in meaning over time or with the introduction of categories from one culture into another culture. But what is important about these shifts in meaning? What exactly is the problem in introducing the category of religion into India or among Native Americans? The category “yuppie” did not exist in the Middle Ages, while “orange” came through Arabic from Sanskrit, and “girl” used to refer to a young person of either sex. When we analyse the genetics of early modern populations, we are also introducing categories that they did not possess. Or take the word “silly,” which in Old English used to mean blessed. So what? An historical analysis of discourse and categories is significant not to identify shifts in meaning per se. Shifts in meaning become significant only against the background of a theory on the historical development of the western culture and its understanding of other cultures. Such a theory is needed to clarify as to why a shift in the meaning of “religion” or “the secular” is of crucial importance.

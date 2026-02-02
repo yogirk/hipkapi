@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/27/religious-colonialism-islamic-vs-christian/
 ---
 
 1. As Indians, if we have to access the Indian traditions we need two things: (a) it must be possible for us to access them; (b) we must know *how* to access them. That is to say, growing up in the Indian traditions not merely means that we have the possibility of accessing them if we want to but we have also learnt how to access them when we want to.

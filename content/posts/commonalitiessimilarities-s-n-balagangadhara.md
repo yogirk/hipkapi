@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/commonalitiessimilarities-s-n-balagangadhara/
 ---
 
 1. Whether or not we observe 'commonalities' has to do with the descriptive framework we use. Things might share common properties in one description; at the same time, share nothing common in another description. Both could be true descriptions of the same set of objects. 'Perception of similarity' is (at the moment our knowledge is in) is extremely difficult to analyze and understand. On the one hand, our perceptual abilities (as they have evolved out of a successful adaptation to the world) must tell us what is present in the world. Otherwise, we could not have evolved. (We share this with other products of evolutionary development, i.e. with other species.) On the other hand, we cannot *say* what that similarity is without using a descriptive frame work. (When the notion of 'similarity' poses such problems, the problem of 'commonality' is even more difficult to solve. This is a matter of *huge* philosophical debate: do two objects share the 'common property' of "being blue" or are they merely similar to each other?) Even though I have no solution to this problem, I fail to see the relevance of solving it for my enterprise.

@@ -8,5 +8,7 @@ categories: []
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2026/01/27/auto-draft/
 ---
 

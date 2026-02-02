@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2022/07/24/moral-luck-and-gyanodaya/
 ---
 
 I

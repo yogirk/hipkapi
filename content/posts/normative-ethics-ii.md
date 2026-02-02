@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/18/normative-ethics-ii/
 ---
 
 Whenever I discuss the absence of normative ethics in India, people, especially Indians, get agitated. They hear me say that India has no ethics. Consequently, they want to show that I could never be right in my claim. This has happened on the Abhinavagupta forum as well.

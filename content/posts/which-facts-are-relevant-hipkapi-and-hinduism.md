@@ -12,6 +12,8 @@ tags:
 - hipkapi
 summary: ''
 toc: true
+aliases:
+  - /2011/03/16/which-facts-are-relevant-hipkapi-and-hinduism/
 ---
 
 1. Many facts are interconnected within a culture. (The same applies to Nature too.) Some hypothesis or another notices some of these facts as facts, and it is able to provide an explanation (using the term 'explanation' rather loosely) for them. This explanation helps us understand the phenomenon (means merely the appearance) in question because the theory or hypothesis under discussion is able to show what that interconnection between the sets of facts is. (That is, it tells us of the pattern that unifies these facts into a whole of some sort.)

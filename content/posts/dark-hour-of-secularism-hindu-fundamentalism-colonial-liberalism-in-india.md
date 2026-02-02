@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/07/07/dark-hour-of-secularism-hindu-fundamentalism-colonial-liberalism-in-india/
 ---
 
 The relation between religion and politics remains one of the important issues of our time. The discussions on this relation swing between two extremes: religious fundamentalism and liberal secularism. These are regarded as opposites. As the liberal perspective sees it, the secular state and its principles of neutrality and toleration are antidotes to religious fundamentalism[1]. Recently, this view has been challenged. Several authors point out that fundamentalism and secularism are not self-contained opposites, but are intertwined in significant ways[2].

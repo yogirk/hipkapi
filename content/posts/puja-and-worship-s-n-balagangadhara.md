@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/puja-and-worship-s-n-balagangadhara/
 ---
 
 X says: if "pujya" means "worthy of worship", wouldn't "puja" mean worship?

@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/god-devilsatan-and-polytheism-s-n-balagangadhara/
 ---
 
 It is true that the modern Jewish thought, which is more influenced by the Rabbinic than by apocalyptic or Qumranic literature, places less emphasis on the Devil. Rabbinic Judaism was less interested in building a demonology than others. It is one thing to say this, but quite another to say that the Judaic tradition knows of the Devil only in terms of the psychological 'inclinations' in man. (It is equivalent to suggesting that there is no demonology in Judaic thought, a preposterous suggestion on any count.) Belial, Mastema, Azazel, Satanail, Sammael, Semyzza, or Satan do not name either psychological or spiritual 'inclinations', surely. (Think further of what Behemoth, Leviathan, etc. are). The Satan in the Book of Job is already an emissary of God (though not yet the personification of evil), and not a mere 'inclination'. The Testaments of the Twelve Patriarchs name Belial or Satan as Chief of evil angels commanding the spirits of wrath, hatred, etc. and as lord of war, fornication, bloodshed, destruction, etc. He tempts and seduces humankind to error.

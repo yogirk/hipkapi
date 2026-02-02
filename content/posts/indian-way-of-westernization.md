@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/26/indian-way-of-westernization/
 ---
 
 1. How the Indians learn whatever they learn will be in accordance with their ways of going-about in the world. That is to say, the configuration of learning determines how they learn whatever it is they learn.

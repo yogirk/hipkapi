@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/courting-controversy-in-the-west/
 ---
 
 *The sustained efforts by certain Hindu groups in the west to redefine and "correct" long existing Hindu traditions are perhaps reflective of their desire to put in place a cogent and structured religious system that is able to hold its own against other scripture-based religions. Concomitantly, American identity politics and European political correctness is also "forcing" minority communities to assert their separate "churches", as a way of emphasising their own distinct religious or ethnic identity.*

@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/secularism-and-absence-of-theory/
 ---
 
 A text like [my article on the secularism debate](/posts/the-vacuity-of-secularism/ "The Vacuity of Secularism") (*EPW*, September 28, 2002), is something more than a sequence of sentences. This is a scientific text, which builds an argument. Therefore, the different sentences have different status according to their function in the argument. Some are premises, and others state the conclusions that follow from these. Some sentences illustrate the point made, yet others provide evidence. To understand such a text, one has to grasp the logical relations between these different sentences.

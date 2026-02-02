@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/16/fuss-about-indic-categoriesconcepts/
 ---
 
 Let me give the gist of the consensus and overlook philosophical nuances about categories.

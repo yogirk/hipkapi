@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2022/12/01/balu-interview-with-swarajya/
 ---
 
 [Part I,](https://swarajyamag.com/books/what-we-lost-under-islamic-and-british-colonialism-a-conversation-with-s-n-balagangadhara) [Part II](https://swarajyamag.com/books/s-n-balagangadhara-interview-part-ii-brahminism-and-other-isms-are-inventions-of-western-indology), [Part III](https://swarajyamag.com/books/s-n-balagangadhara-interview-part-iii-gandhis-experiments-with-truth-are-linked-to-his-colonial-and-christian-experiential-background) , [Part IV](https://swarajyamag.com/books/s-n-balagangadhara-interview-part-iv-there-is-intellectual-poverty-in-islamised-regions-india-may-be-headed-the-same-way-if-it-does-not-watch-out) (Appeared on 04/13/2022 through 04/15/2022)

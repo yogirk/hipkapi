@@ -15,6 +15,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/03/24/belief-vs-faith/
 ---
 
 (a) It appears to me that in these discussions, a very vital issue (if we want to talk about Judaism, Christianity and Islam, and their 'problems' with 'Hinduism', etc) is not being recognized. and that is this: religious 'beliefs' are not accorded their place, and are talked about as though they are merely a subset of the class of 'beliefs'.

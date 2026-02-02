@@ -13,6 +13,8 @@ tags:
 - Aristotle
 summary: ''
 toc: true
+aliases:
+  - /2011/03/24/what-is-ethical-about-pursuit-of-happiness-ananda/
 ---
 
 Here is what I say in my article on 'how to speak for the Indian traditions': "Our middle-aged man is, thus, raising the question of Aristotle."I have pursued many things in life. I have acquired wealth and status, and aimed with varying degrees of success to become powerful and famous. I have been successful in some of my endeavors, while failing in yet others. I thought these things would make me happy, but I discover that, apart from moments when I felt 'good', these projects have only made me unhappy. What should I do? How should I live?" Today, these questions are not a part of ethical enquiry, any more than a quest for eudemonia is: at best, these are the 'esoteric' questions and quests of 'exotic' religions; at worst, one raises them with one's psychoanalyst during a 'mid-life crisis'. This situation should already indicate the distance between what is called an 'ethical enquiry' today, and what Aristotle thought was the subject of all such enquiries. But that is not the focus of this piece now. However, there is no need to confuse matters by continually drawing the distinction between 'modern' ethics and 'Aristotelian' ethics. So, let us follow the contemporary consensus and call the quest of our middle-aged man 'spiritual' (from now on without scare quotes). Seeking spirituality, and not having found it in those objects that he once so passionately pursued, he is now raising a spiritual question: in fact, he is undergoing a spiritual crisis."

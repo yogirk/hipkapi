@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2024/04/28/how-to-read-gita/
 ---
 
 1. If you insist that without situating Gita in the massive text that Mahabharata is, we cannot understand or interpret Gita, then you provide such a gigantic *con*-text to the 18 chapters that the Gita is, and because a move like this can only give interpretations of a small text by situating in such a huge *con*-text, any and almost every interpretation can become valid or acceptable or permissible. We will have on our hands a plethora of interpretations, many in conflict with the other, so that we cannot even decide whether there is even one or some interpretation(s) that is (are) better than the other. We end up formulating an impossible problem: which interpretation to choose and why? We cannot appeal to the implicit goal present in text interpretations, viz., consistency and completeness nor to criterion like coherence (because it is unclear what coherence would consist of in this case).

@@ -11,6 +11,8 @@ tags:
 - Romila Thapar
 summary: ''
 toc: true
+aliases:
+  - /2012/04/01/logical-acumen-of-romila-thapar/
 ---
 
 One of the debates in the Indian traditions is about the kind of creatures that exist in the world and about the reality of what exists. The Jains, for instance, disagreed that the "deva's" of other traditions (with the properties they were supposed to possess) existed in this world or were real. (Their so-called 'atheism' is a result of this debate.) Consequently, when they call Valmiki Ramayana false, they are making claims about the logical falsehood. They did not, on the basis of some or another empirical enquiry, establish that Ravana was a vegetarian or that Rakshasas were human beings (in fact, in many parts of India, people believe that Ravana was both a Brahmin and a rakshasa at the same time) or that Rama was different from what Valmiki said he was. The same applies to Anjaneya: the claim of some or another author that he was a human being and was married does not either 'prove' or 'disprove' the claim of Valmiki.

@@ -9,6 +9,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/11/10/butchered-in-bihar-a-view-from-the-outside/
 ---
 
 See Balu's [piece on Bihar elections, Nov 2015](http://indiafacts.co.in/butchered-in-bihar-a-view-from-the-outside/).

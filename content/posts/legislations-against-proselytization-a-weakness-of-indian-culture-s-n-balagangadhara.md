@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/04/legislations-against-proselytization-a-weakness-of-indian-culture-s-n-balagangadhara/
 ---
 
 Question: One thing that Balu says is that propping up legislations against tricky proselytizations reflects the weaknesses of Indian culture needs to be explained though. How is it a weakness? How is it not a strength?

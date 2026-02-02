@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/on-lorenzens-who-invented-hinduism-s-n-balagangadhara/
 ---
 
 Summary of Lorenzen's article: "Lorenzen doesn't only cite Jesuits and Muslims, but also 'Hindus' themselves. His main argument is that Hinduism isn't an invention by anyone in particular. It grew out of a need to establish an identity vis-à-vis foreigners (mlecchas). In other words, an identity by contrast with the 'others.'"

@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/01/why-insideroutsider-game-is-sterile-s-n-balagangadhara/
 ---
 
 1. The first point is the difficulty involved in specifying what the "real meaning of an experience" consists of. Asking an insider would not help us here: the insider may or may not know what the real meaning of his/her own experience is or even how to go about putting it in words.

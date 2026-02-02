@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/04/22/proselytization-vs-persecution/
 ---
 
 1. Most of us would not know the difference between the Syrian Orthodox, the Greek Orthodox and the Russian Orthodox Churches; many will be hard put to differentiate between the Pope and the Patriarch. In these circumstances, it is foolish to write *apologetica* for 'Eastern Christianity' and criticise 'Western Christianity'. Let those concerned with the nature of Christian theologies do that. But that does not concern us.

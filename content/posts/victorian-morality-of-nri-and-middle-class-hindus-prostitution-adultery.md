@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/victorian-morality-of-nri-and-middle-class-hindus-prostitution-adultery/
 ---
 
 1.1. The Indian traditions did not have the same attitude as Christianity towards prostitution or adultery. And the Indians of yesteryears were not defenders of the Victorian (and Christian) morality. Of course, I approvingly said that the "Indians are not prudes" but this approval has to do with the thrust of Indian thought, as I have understood it: the impossibility of prohibiting or making obligatory some or another action universally. (This is my formulation, of course.) I do believe that the Indians recognized the impossibility of abolishing prostitution (which is why it is called "the oldest profession"). Instead, therefore, of banning and condemning prostitution (and subsequently turn a blind eye towards its existence), Indian thinkers suggested that we treat the prostitutes humanely. I have never been to a prostitute nor will I ever go to one; but that does not mean that I want to ignore their existence and treat them as non-humans. Nor am I willing to call all those who visit prostitutes as criminals and perverts. I know of too many lonely men and women who have found human warmth and personal comfort in the arms and companionship of prostitutes to consider them as perverts.

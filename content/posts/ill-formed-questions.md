@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/08/05/ill-formed-questions/
 ---
 
 Assume that you get a Ph.D student who wants to do medical research. He comes to you and tells you that he wants to find out an answer to the burning question about why people get sick. Would you be able to guide this student in answering his question or give one answer to it? Your answer would be: it depends. You would also further say to him, ‘choose a particular disease, choose a particular domain and choose a particular approach within that domain, if you want to do research’. There is no ‘one answer’ to his question. As a research question, you would say it is ill-formed: you have to specify the disease, and choose whether you want to do, say, genetic research or epidemiological research or cell research or…

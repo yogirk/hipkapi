@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/26/apaurusheya-shruti-and-revelation-theoretical-dispute/
 ---
 
 The problem about translating 'sruti' is not as easy as it has been made out to be. Is it possible to translate it as 'revelation' or even as 'divine revelation'? Because it has so far been translated in this manner, we can only conclude that it is indeed possible to do so. Next issue: how accurate is this translation? The answer to this question depends upon what 'revelation' or 'divine revelation' is supposed to mean.

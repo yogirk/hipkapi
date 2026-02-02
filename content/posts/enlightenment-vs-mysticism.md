@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/06/enlightenment-vs-mysticism/
 ---
 
 (1) What is called 'mysticism' in the western culture is not the same *kind* of experience that the different Indian traditions talk about. (2) I do think, as a corollary, that to describe the Indian 'enlightenment' (let me use this word temporarily, the scare quotes indicate my reservations) as 'mysticism' is not to understand either. (3) There are different levels in and different ways to achieve 'enlightenment'. (4) It is extremely important and significant that finitely different means to achieve this state have been worked out by each of these ways. I want to go further in exploring the significance of these points and in exploring this state of 'enlightenment' that the Indian traditions talk about.

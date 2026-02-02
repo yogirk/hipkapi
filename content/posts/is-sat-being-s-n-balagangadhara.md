@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/is-sat-being-s-n-balagangadhara/
 ---
 
 To take German language, let us look at how Heidegger talks about 'being': there is the 'big Being' ('Sein') and there is the 'small being' ('Dasein' meaning 'there-being' or 'so-being'). And then there is 'Sein' and 'Seindes'. All these are translated by the word 'being'.

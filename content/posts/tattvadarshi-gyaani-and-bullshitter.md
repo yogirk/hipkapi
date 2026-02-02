@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/04/28/tattvadarshi-gyaani-and-bullshitter/
 ---
 
 Let us agree on the proposed division into two categories: “1) That which exists or could exist (2) That which could not and does not exist but is present (therefore ‘Real’)”. Let us also accept that (1) collects: “(a) everything that we know like Earth, stars, mud, (b) everything that we can think of or imagine - models, formulas, triangles, present and future scientific theories, tooth fairies, ‘murtis’ of Ganesha, methods or procedures of performing ‘abhisheka’ etc. (these exist and could exist in our minds, even the ‘Real’ we imagine still belongs here as long as it is an imagined object)”

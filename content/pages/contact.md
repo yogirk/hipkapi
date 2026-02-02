@@ -8,6 +8,8 @@ categories: []
 tags: []
 summary: ''
 toc: false
+aliases:
+  - /contact/
 ---
 
 1. Please direct your comments to raindoctor@gmail.com

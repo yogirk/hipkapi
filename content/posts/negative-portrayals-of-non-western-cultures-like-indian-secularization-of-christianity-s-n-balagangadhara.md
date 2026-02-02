@@ -14,6 +14,8 @@ tags:
 - Wendy Doniger
 summary: ''
 toc: true
+aliases:
+  - /2011/02/28/negative-portrayals-of-non-western-cultures-like-indian-secularization-of-christianity-s-n-balagangadhara/
 ---
 
 I want to raise three issues: (a) how to analyze what Rajiv portrays about Wendy and her children in the field of religious studies; (b) depending on that, what an adequate response consists of. Before we do either (this is one of the things I have discovered through my own research during the last two decades), we need to be clear about (c) how we *should not* analyze this situation. Given that all three (in their general form) have been my obsessions, I have been reflecting on them deeply, seriously and systematically for some time now. I would like to share some of the results of this reflection. In the first part, I will take a (rather slow) run up to tackling the third issue first. And even here, I look at RISA *lila* as an exemplification of a more general issue or as an expression of a much broader tendency.

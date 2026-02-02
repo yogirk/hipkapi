@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/04/13/two-kinds-of-research-in-social-sciences/
 ---
 
 There is, on the one hand, the intellectual tradition of expressing opinions and points of view. Here, as it suits thoughtful minds, one tries to express ideas carefully and in a nuanced fashion. Recent peer-opinions are taken into account; generalizations are avoided; the attention is on the specific and the concrete; and, where possible, one’s ideas are either founded upon or embroidered by some or another of the many philosophical stances that are available. The goal of the discussion is to endorse these opinions, or express disagreement on the broad idea expressed by the author. Any other kind of intellectual exercise of often seen as either nit-picking or engaging in polemics. To those who have grown up in this culture, it is obvious what the sought-after intellectual virtues are and how one should cultivate it. In other words, this culture surrounds itself with meta-arguments that is either founded upon or embroidered by some or another meta-philosophy about what intellectuals are, what their role in the realm of ideas should be and how they should relate to the rest of society.

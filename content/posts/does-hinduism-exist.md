@@ -11,6 +11,8 @@ tags:
 - hipkapi
 summary: ''
 toc: true
+aliases:
+  - /2011/03/17/does-hinduism-exist/
 ---
 
 (a) Which evidence (what kind of evidence) could prove the existence of Hinduism?

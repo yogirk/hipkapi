@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/on-assumptions-that-make-actions-corrupt-s-n-balagangadhara/
 ---
 
 The first thing to note is that there is no distance between how we use corruption in our daily language and the way it is used in political and sociological theories of corruption. You see, the problem we (Indians) face is the asymmetry *in the way the word is used* while talking about us and the way it is used when talking about India. I want to signal this by putting up the red flag: I want to suggest the reader not to assume the truth of these descriptions.

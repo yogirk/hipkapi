@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/01/10/nirvana-shatakam/
 ---
 
 If you want to use **Nirvana Shatkam***,* it might be more productive to choose translations which do the job that the text can. Because of that, a ‘faithful’ translation of Sanskrit into English is not the primary requirement; the process and the goal should determine how the words are best understood. With this in mind, some suggestions regarding the translation of the Sanskrit verses.

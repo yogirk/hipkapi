@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2018/02/01/hijabs-turbans-and-the-secular-state/
 ---
 
 1. Let us suppose that some school or another in India also prescribes uniform to its students. A Sikh boy and a Muslim girl enroll. They wear the colors of the school, including the right colored turban (or, if the Sikh kid is too young, his hair tied up in a knot) and the right-colored head scarf. From what I know of the Indian schools, most schools (including the fellow-students) would let the situation stand. Assume that some school makes an issue about this. The parents do not have many choices: either the Sikh family shaves the boy (unlikely), or step to the courts (more likely today than yesterday) or look for another school (most likely) if persuading the school authorities fails. If we look at the tolerance of the school authorities, it appears to me that the following can be said: in all probability, it does not occur to them that, in keeping the turban or the head scarf on, the kids are marking themselves off or that there is discrimination involved in allowing this. The question is: how do they look at the turban (or the tied knot of hair) or at the scarf?

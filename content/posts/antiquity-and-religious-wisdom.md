@@ -9,6 +9,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/antiquity-and-religious-wisdom/
 ---
 
 1. Let me focus on the citation "Ours is the true religion because, above all, it...stands up... to tell and to declare to the nations who are mere children of yesterday in  comparison with us Hindus - who own the hoary antiquity of the wisdom, discovered by our ancestors here in India."

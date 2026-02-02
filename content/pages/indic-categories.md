@@ -8,6 +8,8 @@ categories: []
 tags: []
 summary: ''
 toc: false
+aliases:
+  - /indic-categories/
 ---
 
 There is so much nonsense peddled by well-meaning Indians that  (a) one should use "Indian categories" to describe India; that (b) one should not use "Western categories" to describe India, her culture and her traditions; and that (c) one should not translate words from Indian languages, but retain them as "untranslatables". Such responses indicate the depth of ignorance of these Indians and of those who scholars who espouse that crap. Here are bunch of posts to illustrate why such responses are untenable.

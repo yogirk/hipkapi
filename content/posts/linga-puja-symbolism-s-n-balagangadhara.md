@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/linga-puja-symbolism-s-n-balagangadhara/
 ---
 
 **Symbolic interpretation of lingam from a netizen**: "In ancient India, there was a fertility cult; our ancestors *knew* that it was a fertility cult; Lingam was a symbol for the phallus then; it continues to be one even when many millions are ignorant of this now; and that the Modern Indians' attitude to sex is inhibiting because of which they do not see the symbolism."

@@ -14,6 +14,8 @@ tags:
 - linga
 summary: ''
 toc: true
+aliases:
+  - /2011/03/07/explanations-that-trivialize-experiences-s-n-balagangadhara/
 ---
 
 1. In many cultures, especially in the Indian case, it is important to understand that stories are *not* explanations. They are neither true nor false because they do not describe 'factual' events; they do not claim that they do either. Unlike the Bible, the Puranas do not have to be true or known to be true for them to play the role they do in the Indian culture. The Indian myths neither allegorize virtues nor are they 'disguised' histories. In other words, the presuppositions of your question (common ones in the western scholarship since the Enlightenment) are *false* and based on ignorance about the genre of the myth and the roles they play. (I can only assert these claims having argued them [elsewhere.](/posts/comparative-anthropology-and-action-sciences-an-essay-on-knowing-to-act-and-acting-to-know-s-n-balagangadhara/))

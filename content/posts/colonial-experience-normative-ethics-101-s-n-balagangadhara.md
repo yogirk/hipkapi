@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/colonial-experience-normative-ethics-101-s-n-balagangadhara/
 ---
 
 1. What is western normative ethics? It is a structure or style of thinking about ethics. What is its structure? It makes use of norms. What are norms? 'Rules' or 'principles' which have a characteristic structure that use certain concepts like the moral 'ought' and moral 'ought not'. That is, some actions *ought* to be performed (i.e. they are obligatory); some actions *ought not* to be performed (i.e. they are forbidden) and some actions are neither of the two (i.e. they are permitted). What is important to note is that these norms (i.e. for example, some action is obligatory) hold irrespective of time, place, condition or the person. In other words, norms are supposed to hold universally. From what I have said above, it logically follows that violation (or transgressing) some moral norm or the other is immoral (or unethical) and following some moral norm is moral (or ethical).

@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/25/stories-and-intelligibility/
 ---
 
 (I) In a Greek story, Persephone spends part of the year in the underworld and part of the year on earth, and winter is caused by her mother Demeter's sorrow at parting, and spring by her mother's joy at reuniting. When taken at face value, this story makes the change of seasons be because of someone's emotions, and hence intelligible.

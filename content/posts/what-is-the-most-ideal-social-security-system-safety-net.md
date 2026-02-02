@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/what-is-the-most-ideal-social-security-system-safety-net/
 ---
 
 Let me invite you to do a thought-experiment along with me.

@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/05/11/us-commission-for-international-religious-freedom/
 ---
 
 The annual reports of the US Commission for International Religious Freedom (USCIRF) have long irked politicians and citizens from countries placed on its ‘watch list’. This is no different in India. In the 2015 report released about a fortnight ago, the country again occupies an unenviable spot in Tier 2, which includes countries where the religious freedom violations engaged in or tolerated by the government are serious.

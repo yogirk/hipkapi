@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/10/04/how-free-are-we/
 ---
 
 This has been a tumultuous decade for the academic study of India. In his recent *Offence: The Hindu Case* (2009), Salil Tripathi provides a timely overview of the growing censorship and harassment that scholars working on India have faced. Not a pretty sight to behold: people have felt the need to ban books and terrorize authors, hassle teachers and disrupt classes, toss eggs at some and blacken others’ faces. Academics now run the risk of smear campaigns, court cases and physical intimidation; all because certain groups feel offended by what they write about the Indian past or the Hindu traditions. The facts are difficult to miss. Hence, the threat that Hindu nationalism poses to academic freedom has caused commotion around the world.

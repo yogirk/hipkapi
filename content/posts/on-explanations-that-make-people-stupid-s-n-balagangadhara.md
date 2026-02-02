@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/01/on-explanations-that-make-people-stupid-s-n-balagangadhara/
 ---
 
 I do not believe that *any* cultural practice (i.e. a practice that has survived and been transmitted through successive generations) should be explained by attributing beliefs to its practitioners in such a way that the beliefs make the practitioners come out stupid. Why do I say this? There are primarily two reasons: our ignorance and the principle of 'charity'. Let me explain.

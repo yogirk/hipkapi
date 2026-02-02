@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/moral-domain-not-defined-by-norms-s-n-balagangadhara/
 ---
 
 The inability of the Chinese language to express counterfactuals is even more intriguing. As you know, Confucius wrote his "Analects" in the Classical Chinese language. In order to see where I am heading, consider some of the thoughts that Rosemont, Jr. expresses. (Rosemont, Jr., H., "Against Relativism." In Larson G. J. and E. Deutsch (eds.), *Interpreting Across Boundaries: New Essays in Comparative Philosophy*. Princeton: Princeton University Press, 1988) Not only is there an absence of the concept of 'morality' in the Classical Chinese, but also the very cluster of concepts required to speak about moral issues.

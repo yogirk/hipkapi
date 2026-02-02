@@ -9,6 +9,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/11/22/an-open-letter-to-europa/
 ---
 
 Check this:

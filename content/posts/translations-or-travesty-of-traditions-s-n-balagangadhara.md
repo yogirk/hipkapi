@@ -14,6 +14,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/translations-or-travesty-of-traditions-s-n-balagangadhara/
 ---
 
 In one sense, the title of the piece captures the nature of the tasks facing the contemporary generation, whether in India or in the Diaspora. This generation, unlike many from mine, is confident and self-assured; perhaps, it is proud too about the strength of its culture and traditions. Rightly so. However, personal convictions about the value of our traditions and culture do not automatically guarantee the truth of such convictions. Not only that. It is also the case that the history of India, and that of the entire humankind, requires of us that we are able to say and show what is valuable and what is not in our traditions. This history is the history of colonialism, subservience, and is further weighed down by the scientific, technological, economic and the military weight of the western culture. Today, we need more than a mere practice and a further continuation of our traditions; we need also to examine them honestly and critically in order that we may transmit what we found valuable in them.

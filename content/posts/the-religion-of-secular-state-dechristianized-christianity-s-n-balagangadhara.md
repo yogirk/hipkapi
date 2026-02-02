@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/the-religion-of-secular-state-dechristianized-christianity-s-n-balagangadhara/
 ---
 
 Assuming that the distinction I [proposed](/posts/religious-intolerance-vs-civic-intolerance/ "Religious intolerance vs. civic intolerance I") between *civic tolerance* and *religious tolerance* is acceptable, let us proceed further to analyze the notion of civic tolerance more closely. (I am simply assuming that it is desirable and that, from now on, we are talking about religious matters.)

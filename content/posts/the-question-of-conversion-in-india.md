@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/the-question-of-conversion-in-india/
 ---
 
 *The Indian debate on religious conversion has been an ongoing one for a few centuries now. However, the mutual understanding between the advocates and the adversaries of conversion has not advanced much. This paper suggests that this is due to the fact that Hindus and Christians refer to two different objects when they discuss 'religion'. The traits which the Christians ascribe to religion account for the premium they put on the right to convert, while the traits of the Hindu view of religion explain the opposition to conversion. As the two parties attribute mutually exclusive properties to religion, they encounter difficulties while seeking to make sense of each other's claims about religion and conversion*

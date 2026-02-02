@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/08/27/what-is-rubbish-about-the-self-and-what-not/
 ---
 
 A few points about 'self' and about what I have said and have not.

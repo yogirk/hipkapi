@@ -8,6 +8,8 @@ categories: []
 tags: []
 summary: ''
 toc: false
+aliases:
+  - /maintenance-page/
 ---
 
 ![](https://demosites.io/otter/wp-content/uploads/sites/664/2022/09/placeholder-img-21-1.png)

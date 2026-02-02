@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/10/01/common-sense-ideas-about-the-caste-system/
 ---
 
 # I

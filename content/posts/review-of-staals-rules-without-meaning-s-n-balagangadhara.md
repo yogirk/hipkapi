@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/review-of-staals-rules-without-meaning-s-n-balagangadhara/
 ---
 
 FRITS STAAL. *Rules Without Meaning: Ritual, Mantras and the Human Sciences. Toronto Studies in Religion*, Vol. 4. New York and Bern: Peter Lang, 1989 xxii+490.

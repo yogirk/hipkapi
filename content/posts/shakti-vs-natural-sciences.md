@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/05/01/shakti-vs-natural-sciences/
 ---
 
 You say that you experienced Shakti as an emanation of a force that is overpowering and palpable; you also say that you felt the ‘presence’ of Shakti strongly. These two sentences make one think that you felt the presence of the force. In that case, there are only two routes open to us: (a) either reject that we have knowledge of the world which forbids linguistic utterances from infusing material objects with ‘life’ forces that can have causal impact in the world; (b) or ‘downgrade’ science as knowledge of the world by allowing ‘spiritual’ (or supra-mundane) worlds to causally interact with the ‘physical’ world. Your own process of thinking about this experience is rigidly hemmed in by these alternatives. Neither, I think, is what you are seeking. If you are, you cannot and will not find what you seek, even if it is to merely figure out your experience.

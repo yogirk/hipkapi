@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2018/04/11/real-and-practical-use-of-normative-ethics/
 ---
 
 When you provide a moral criticism of someone, you are saying that such a person is morally wrong. If you bracket, for a moment, my writings and talks on the subject, then you see that no moral criticisms are possible without using a normative language.

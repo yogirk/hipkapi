@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/01/25/truth-vs-usefulness-of-theories/
 ---
 
 1. Speaking about the 'use' or the 'results and effects' of theories has a very venerable ancestry in the western philosophy. It is called "pragmatism", if the 'truth' is coupled to the 'uses' and 'results and effects'; it becomes "instrumentalism", if the notion of truth is dispensed with. So, it might be useful if you were to familiarize with their arguments. (There is nothing specifically 'Indian' with these claims, nor is there (of course) any need for there to be something.)

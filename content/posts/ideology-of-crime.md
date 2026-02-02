@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/14/ideology-of-crime/
 ---
 
 1. The first thing to notice is that I use the word "ideology" in a technical sense, which is both counter-intuitive and, for the time being, idiosyncratic. It is the first, namely counter-intuitive, because, as I use it, my use of the word does not refer to any theory, or to sets of beliefs, or to what one believes in. Normally, as we use the word in English, 'ideology' has multiple meanings: a false consciousness; accepting a theory known to be false; presenting the interests of a small strata of people as the universal interests of all; subscribing to premises that are either unjustified or not-examined; and so on. My use has no such connotation. It is the second, namely idiosyncratic, because I have not yet developed a hypothesis about ideology that can explain and justify my use of the word.

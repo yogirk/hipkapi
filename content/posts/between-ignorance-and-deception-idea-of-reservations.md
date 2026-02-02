@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/01/06/between-ignorance-and-deception-idea-of-reservations/
 ---
 
 Clearly, advocates of the caste-based reservation system are worried by the recent upheavals in Gujarat and beyond. In his "The Patidar idea of reservations" (*The Hindu*, September 5), Delhi University sociologist Satish Deshpande attempts to ridicule the Patidars' demand for OBC status while expressing his support for the reservation system. In this piece, I do not wish to defend or attack any particular movement, such as that of the Patidars or the Gujjars, but merely draw attention to one simple point: Deshpande attempts to defend ignorance and immorality by drawing on arguments that exhibit the same properties.

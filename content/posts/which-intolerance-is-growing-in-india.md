@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/01/06/which-intolerance-is-growing-in-india/
 ---
 
 Increasingly loud voices are to be heard from different capital cities in India about growing intolerance in Indian society. The western press picks up echoes and magnifies them, while ridiculing Modi’s visit to Great Britain. While one can understand that Indians chant mantras, why are Europeans reproducing them? Looking from the outside, this is a very puzzling phenomenon. Because it is unclear what exactly is at stake here, I’d like to raise some questions and reflect about them.

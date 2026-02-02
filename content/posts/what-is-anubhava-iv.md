@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/17/what-is-anubhava-iv/
 ---
 
 1. Let us retain the translation of 'Anu' as 'appropriate' or 'apt'. Let us emphasize the active dimension of the word 'Bhava' to translate it as 'coming into existence'. ('Existence' and 'being' are also acceptable translations of the word 'Bhava'.) Then 'Anubhava' would mean an apt way of coming-into-existence. The problem here is this: we can ask the question, *coming into existence of what?* Of course, we can answer it easily by using hyphenation: it is not the coming-into-existence of any 'thing' but coming-into 'existence'. However, this might create more confusion than it solves. So, let us make a compromise here for the sake of clarity: coming-into-existence-of-being. We can also shorten it as coming-into-being, where we understand 'being' as 'origin'. We come into existence, we originate. In this sense, 'Anubhava' talks about "an appropriate originating". (This is all heavy-duty philosophy stuff, this is what 'ontology' is, the 'doctrine of being'.) As long as we keep these ideas in mind, we can say that 'bhava' can be translated also as 'being-there-in the world', or as 'being present in the world'. Thus, 'anubhava', or experience, is 'being appropriately present in the world' or 'being aptly present in the world'.

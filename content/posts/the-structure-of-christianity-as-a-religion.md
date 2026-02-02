@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/the-structure-of-christianity-as-a-religion/
 ---
 
 The logical steps that *inevitably* make the claim that God revealed His Will in Jesus Christ into an unconditional and exclusive truth claim are fairly simple:

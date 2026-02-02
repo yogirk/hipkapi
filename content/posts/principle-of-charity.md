@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/12/27/principle-of-charity/
 ---
 
 1. Before deciding about whether or not Vivekananda was ethnocentric, jingoistic or even plain intolerant, one has to understand what Vivekananda was saying. In doing so, the interpretative "principle of charity" requires us to render him maximally consistent.

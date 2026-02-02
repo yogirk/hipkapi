@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/10/31/erudition/
 ---
 
 I keep teaching my students the need to unlearn: unlearn the desire to 'show off' their erudition; unlearn shallowness and so on. I am more than convinced that whatever we have learnt about human beings can be formulated in a jargon-free language and in a simple manner. There is no need to appear 'mysterious and profound'; nor is there a need for exhibiting one's erudition or 'critical capacities'. On all these counts, most of Foucalt's writings (and that of his commentators) can only call forth anger and irritation.

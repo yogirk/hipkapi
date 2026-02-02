@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2018/03/11/naming-a-phenomenon/
 ---
 
 (a) Paolo Friere, a Brazilian educationalist, has spoken about such a phenomenon at length in his *Pedagogy of the Oppressed*. He calls it as an ‘internalisation of the oppressor by the oppressed’. Whether we use Paolo Friere’s terminology or the much later one of ‘Stockholm Syndrome’, the problem is the same: both *name* the phenomenon without *explaining it*. In and of itself, not such a big problem if it is not for a cognitive tendency that is **dominant** in the ‘social sciences’, which brings me to the second point.

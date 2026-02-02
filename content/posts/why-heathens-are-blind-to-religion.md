@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/26/why-heathens-are-blind-to-religion/
 ---
 
 Of course, the concept of explanatorily intelligible account is not easy to grasp: if it were, the 'heathens' would not be *blind* to the existence of religion. However, that does not mean we cannot grasp it either.

@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/01/04/caste-system-iii/
 ---
 
 1. As I have said before, my [hypothesis](/posts/caste-system-i/) is meant to guide the research and, as such, suggests that we find that the Brahmins will exhibit more of a heterarchical organization than a hierarchical one. Let us assume that what you say is true. In that case, this anomaly (or these anomalies) will become the problem(s) that my hypothesis has to solve. That is, the hypothesis will force one to look for an explanation in multiple directions: for instance, have these hierarchies emerged due to induction of new groups and individuals in the course of history? (That means, this hypothesis forces one to probe the truth of the statement that once one is born into a jati, there is no way of moving to another Jati. The Madhva conversion in South India has disproved it but no one I know has taken this fact into consideration.) Who were the majority jati's in the area and what was the nature of interaction between these Brahmin groups and other Jati's? And so on. In other words, each anomaly we confront forces further research. There is always the possibility that my research hypothesis will crumble under the weight of accumulated anomalies but that is not the case yet. At the moment, they merely call for further research.

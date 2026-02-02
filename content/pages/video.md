@@ -8,6 +8,8 @@ categories: []
 tags: []
 summary: ''
 toc: false
+aliases:
+  - /video/
 ---
 
 1. [Retrospective and Prospective at Indic Academy (2020)](https://www.youtube.com/playlist?list=PL4vWGgbfk-y_dk25DBU7Ot-YofbgHaqTf)

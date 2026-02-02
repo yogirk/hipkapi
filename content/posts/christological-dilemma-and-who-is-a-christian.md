@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/04/christological-dilemma-and-who-is-a-christian/
 ---
 
 1. Christians of all hue agree that the *figure of Christ* is central to the religion that Christianity is. This figure is "the promised one", the "messiah", the "anointed one", and so on. Kindly note that there is a difference between the Christ as a figure and *Jesus of Nazareth*. The Jews also believe in the Christ figure, but they figure that he has not yet come, and they are awaiting his arrival. The Christians reckon that the Christ has come and that Jesus of Nazareth was the "prophesied one".

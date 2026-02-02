@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/25/colonial-consciousness/
 ---
 
 Colonial consciousness incorporates the following element: in making statements about the colonized, the colonizer thinks that he is describing the colonizer. The latter, for his part, takes such statements as true descriptions of himself. What is involved is not the authority of the explainer (the colonizer) but the truth-value of the statements. How do we know this to be the case? Because we continue to think such statements are true even after 'direct' colonization has ended.

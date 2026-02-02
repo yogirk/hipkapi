@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/comparative-anthropology-and-rhetorics-in-cultures/
 ---
 
 ***Introduction***

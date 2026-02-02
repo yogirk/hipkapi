@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/25/intelligibility-religion-belief-meaning/
 ---
 
 **I**

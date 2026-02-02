@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/01/multiple-meanings-puja-thondam-s-n-balagangadhara/
 ---
 
 About the multiple meanings for the Puja of Ganesha. Of course, there is no one 'meaning' to this act either now, or before, or in the future, as far as Indians (and the Westerners) are concerned. But that is not being disputed. The dispute arises when some meaning is alleged to portray the 'experience' of a culture, when all it does is distort and deny the experience it is said to portray. However, there is an interesting question here, which is best illustrated using a contrast. In the Catholic Mass, there are *limits* on what it could be said to mean to a believer. These limits are set by the Catholic theology and belief. (For instance, to a believer, it *cannot* mean celebrating the Devil.) The puja of Ganesha does not set any such limits to the person who does this puja. (But if someone comes and tells me that I cook sweets on Ganesha Chaturthi because it expresses my 'subconscious' desire for Oral Sex, I am justified in challenging this claim as an 'explanation' of my cooking the sweets.) Here is the question: what is puja in the Indian traditions, if it does not have a particular meaning, and there are no limits on what it means? One thing is already clear: it cannot mean 'worship'! These are the kind of questions I would like to ask; not what 'interpretation' one gives to some action or the other. The answer I give should be capable of being 'tested' in the Indian culture. Then, I will have begun producing an 'objective' theory.

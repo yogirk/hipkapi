@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/09/23/is-maya-an-illusion-nonsense-sold-by-scholars/
 ---
 
 According to your account, Vedanta claims that the *world is an illusion* and that only the Brahman is real.

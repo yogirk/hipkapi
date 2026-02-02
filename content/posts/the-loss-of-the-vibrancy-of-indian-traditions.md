@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/04/02/the-loss-of-the-vibrancy-of-indian-traditions/
 ---
 
 I would like to address a very basic issue that many of us have confronted. In its simplest form, the question is this: What should we, a small slice of the Indian intelligentsia, be doing? We can vent our anger and frustration at the way the Indian politicians are handling (or mishandling) the Kashmiri situation; we can express hurt and outrage that 'Hindus' are singled out for special treatment both by the 'liberals' and by a section of the Muslim population; we can propose a trifurcation of Kashmir; or that the Muslims be 'taught' a lesson (whatever that lesson consists of); indulge in abuse and name-calling; or whatever else that takes our fancy at any particular moment.

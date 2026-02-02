@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/09/28/principle-of-charity-and-normativity/
 ---
 
 This one begins to reflect about the principle of charity in relationship to the current US President, Donald Trump (from now on, Trump).

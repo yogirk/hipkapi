@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/is-the-distinction-between-secularand-religious-neutral-s-n-balagangadhara/
 ---
 
 The question appears to be: need one accept certain premises of Christianity (whether Protestant or Catholic varieties) in order that the dominant understanding of, say, the secular state and the caste to make sense? That those to whom such accounts make sense do not explicitly subscribe to the premises of a specific religious appears to throw doubt on our claims.

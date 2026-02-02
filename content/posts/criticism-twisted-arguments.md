@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/criticism-twisted-arguments/
 ---
 
 Criticism: I use jargon and twisted arguments on a mundane topic. And that every Swami says that Hinduism is not a religion but a way of life. And so on.

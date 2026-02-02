@@ -17,6 +17,8 @@ tags:
 - Romila Thapar
 summary: ''
 toc: true
+aliases:
+  - /2017/09/20/bullshit-true-sentences-and-knowledge-balagangadhara/
 ---
 
 Why understanding bullshit is important?  Three reasons: (a) there is a very frequent use of the word ‘bullshit’ (mostly in my posts); (b) bullshit has been tied directly to truth in the literature on the subject, (c) far more important is the fact that it is much more connected to *knowledge* than has so far been acknowledged. In this post, the focus is on the third reason.

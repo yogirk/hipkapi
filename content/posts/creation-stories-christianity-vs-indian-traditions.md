@@ -9,6 +9,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/06/creation-stories-christianity-vs-indian-traditions/
 ---
 
 Of course there are any number of stories in other cultures, 'Hinduism' included, about the creation of the world and what happened ever since. However, not every story about the creation of the world (let us stick to these kind of stories) has the quality of making the world 'the Cosmos, that is' into an explanatorily intelligible entity. The Big-Bang theory is also a story about the creation of the world, but again, it misses the quality of the story told by religions, i.e. what *explains* the Cosmos is also what makes it *intelligible*. Or, as the Christians say: it was God's will to create the world and His will was also the cause of the world's existence. (Other dispositions attributed to God, such as His perfect goodness, etc. are important too, but I will ignore them here.) Given this, it is not clear to me what point you are trying to make. If it is your claim that the many stories in India are equivalent to the Biblical story in Christianity, you are wrong. This is exactly the assumption that was made by the missionaries when they confronted 'Hinduism'. The only difference is that, then, they were attacked as being 'false' and that, now, they are hailed for expressing the beauty of the Indian 'faith'.

@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/14/brig-sk-maliks-theory-of-war-and-justification-of-crimes/
 ---
 
 What Brig SK Malik says supports [my thesis](/posts/the-saint-the-criminal-and-the-terrorist-s-n-balagangadhara/)about terrorism, instead of making it redundant, as one suggests. Here is how.

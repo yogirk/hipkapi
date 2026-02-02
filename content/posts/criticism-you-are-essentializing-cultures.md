@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/criticism-you-are-essentializing-cultures/
 ---
 
 The first question: "By saying that there exist "Western" and "Indian" cultures aren't you somehow essentializing cultures into monoliths?"

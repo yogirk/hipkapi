@@ -11,6 +11,8 @@ tags:
 - Gita
 summary: ''
 toc: true
+aliases:
+  - /2011/02/28/how-to-go-about-developing-an-alternative-to-the-so-called-social-sciences-s-n-balagangadhara/
 ---
 
 I would like you to consider the following four *kinds* of answers, each pitched at a different level of generality and at a different level of description. One could provide more, but these four should be enough to give a *taste* of the kind of wine you might care to drink.

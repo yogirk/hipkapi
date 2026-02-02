@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/11/is-enlightenment-learnable/
 ---
 
 Is enlightenment learnable? (In a less loaded formulation: Can all people be happy?) My answer is an unequivocal 'yes'. Before we go further, we need to be clear what exactly this sentence says: enlightenment is not, say, the result of some genes (that explains why we get molars and not tusks, for instance), nor is it a law of nature (that explains why, say, water boils when heated and does not become gold instead) and so on. While individual psychology (and the combination of the chromosomes in each individual) does have a certain role to play in our lives, they cannot explain why I learnt something (say, English) at all. At best, if we are able to develop our understanding to the extent that we can explain such questions, they could explain why I learnt English slowly or mastered in two weeks' time. To understand why I learnt English, you have to look elsewhere: at my biography and not into the structure of my genes. However, that I could learn a natural language at all might be explained by evolutionary biology one day. But its explanation, in such a case, will encompass all human beings. It is in this sense that I say that Enlightenment is learnable or that all human beings can be happy. (This is something that out traditions have always taught and I think they are right.)

@@ -14,6 +14,8 @@ tags:
 - Wendy Doniger
 summary: ''
 toc: true
+aliases:
+  - /2011/03/01/how-to-produce-knowledge-about-people-and-their-cultures-s-n-balagangadhara/
 ---
 
 1. Let us begin in a very intuitive way and ask ourselves this question: where do we encounter 'cultural differences'? In human contacts, of course. What kind of human contacts? *In inter-individual contacts*. That is, we see (or sense, or intuit or whatever) cultural differences in our contacts with *individual* human beings. You do not meet 'the western culture' but individual Americans, Germans, French, etc. Neither do these individuals meet 'the Indian culture': they meet individual Indians (or, even better, a 'Madrasi Brahmin', a 'Gujerati Baniya' - even these are general categories but I use them just to get the point across.) And yet, we appear to see cultural differences in these contacts. How to make 'sense' of *this experience*? Let us first see what is partially involved to truly appreciate the complexity of our 'perception'.

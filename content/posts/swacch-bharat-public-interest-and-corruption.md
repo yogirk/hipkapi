@@ -16,6 +16,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2018/05/08/swacch-bharat-public-interest-and-corruption/
 ---
 
 Chairman Sir, Ladies and Gentlemen, Good Morning.

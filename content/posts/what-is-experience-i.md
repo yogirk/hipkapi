@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/17/what-is-experience-i/
 ---
 
 1.1. Let us begin with the word "Anubhava", which we use to translate the English word "experience". There are two sub-words here: Anu and Bhava. 'Anu' can be translated as 'apt', or 'appropriate', whereas 'Bhava' can be rendered as 'existence' or 'being'. (The word also has an active dimension of 'becoming' as one of its meanings.) So, 'anubhava' would mean having an appropriate existence or even an appropriate way of being-in-the-world. Appropriate to what though? Appropriate to the things, events, and the people one meets in the world. So, 'experience' means a way of being present in the world that is appropriate to whatever one encounters in the world. It is, if you like, 'being-present-with'. This means that we need time: to discover ways that are appropriate to the different things we relate to in the world, we have to take our time to get to know them. That is to say, if one wants to experience the world, one has to take the time, have patience and be there. In short, 'experience' indicates a stance or an attitude we assume in the world with respect to whatever we encounter (think, taste, perceive, hear, feel, touch) in the world. Experience, thus, includes sensations, perceptions, feelings, thoughts etc but is not co-extensive with any of them.

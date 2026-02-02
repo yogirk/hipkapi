@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/02/28/reductive-explanations-in-social-sciences-s-n-balagangadh/
 ---
 
 1. To begin with, there is the feeling that scientific explanations, with their emphasis on rationality and objectivity, are reductive in nature. Wherein lies the *root* of this feeling? Let us say that some physical theory describes the motion of a snow flake gently floating down to earth or a rose petal lazily spinning in the air. Or that some branch of human genetics computes the probability of a particular human child being born with absolutely dark eyes or ones that are brilliantly blue. Is either of these two explanations reductive in nature? Not quite: their mathematical calculations tell us very little about the laziness of the petal or about the brilliance of blue eyes, it is true, but it is not their 'job' to do so. If you want to relish descriptions of an autumn evening or a spring morning, you do not open Feynman's Lectures on Physics, do you? You go elsewhere. In other words, the theories in the natural sciences are not 'reductive' in the sense that they do not reduce the *beauty* of a particular sunset to the motion of earth around the Sun even if they explain sunrise and sunset.

@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/10/16/translation-or-random-substitution-worship-and-puja/
 ---
 
 1. Firstly, you want to know whether there is anything intrinsically  wrong with performing idol worship the way it is with robbery.

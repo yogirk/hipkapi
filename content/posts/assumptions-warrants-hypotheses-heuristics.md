@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/01/13/assumptions-warrants-hypotheses-heuristics/
 ---
 
 You say: "there seems to be an underlying assumption that all participants in the thread seem to be making. The assumption being that all these texts have the same end goal in mind, and that this end goal is enlightenment/eudaimonia/happiness. I submit that such an assumption is unwarranted."

@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2023/12/27/western-intellectuals-are-not-idiots/
 ---
 
 1. He says: "Doniger translates "dharma" as "religion". Apparently, Indians should not criticize that because we know neither what the English word "religion" means nor do we know what "dharma" means because neither English nor Sanskrit is our mother tongue."

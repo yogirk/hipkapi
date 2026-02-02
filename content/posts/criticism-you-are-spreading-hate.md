@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/04/criticism-you-are-spreading-hate/
 ---
 
 Criticism: You are spreading hate by citing Deschner's work–***Kriminalgeschichte des Christentums***and ANY idiot knows even the title is stupid.

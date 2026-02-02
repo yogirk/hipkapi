@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/01/21/falsification/
 ---
 
 Imagine I ‘hypothesize’ that I will win the lottery. If I buy a ticket and do not win, clearly my ‘hypothesis’ is ‘falsified’. Is it, therefore, scientific? Such silly hypotheses are dime a dozen. Do you think Popper was worried about this?

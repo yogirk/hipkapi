@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/secularism-colonialism-and-indian-intellectuals/
 ---
 
 In the last few decades, "secularism" has become the subject of caustic debate in the Indian media. The dispute about the value of this idea to contemporary India is no longer confined to the academic circles. Politicians, journalists and others have strong views on the topic. Secularism regularly surfaces in newspaper articles, speeches and public meetings. The critics of the idea, however, are not often taken seriously at the theoretical level. The proponents of secularism dismiss all objections against their pet idea as misguided. Critics are either considered to be naive obscurantists, who dream of a return to a romantic image of Indian traditional society; or they are condemned as Hindu fundamentalists, who resist modern secular values and strive for a Hindu religious state.

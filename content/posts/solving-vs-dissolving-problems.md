@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2022/08/01/solving-vs-dissolving-problems/
 ---
 
 In the examples you refer to, you touch on an approach to situations and problems that are Indian (in the sense of culture) contrasted to which stands another culture’s way of dealing with situations. The simplest way to explicate this difference in a general way, using your examples as a reference point, would be this: when we speak of problems and solutions, there are two ways of looking at them. In the first, an existing problem gets *resolved*: both the problem and its solution continue to exist (both in memory and in records) in their forms of appearance. They have their independent existence even though they are conceptually (and chronologically) linked to each other. That is, a problem does not ‘disappear’ after its resolution; the solution retains its status (as a solution to a particular problem) as does the problem. This is how the West looks at problems and their resolution (mostly). This is also how we think scientifically. To put it in the form of a slogan, which has its own limitations: a situation is transformed into a theoretical problem.

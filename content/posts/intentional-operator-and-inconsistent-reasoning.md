@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/intentional-operator-and-inconsistent-reasoning/
 ---
 
 1. A Christian netizen says:

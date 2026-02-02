@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/16/fuss-about-indic-categories-ii/
 ---
 
 1. Social psychology, for instance, speaks of 'categorization theory', and we do use 'categorization' also in the sense of classification. However, unless one gives a technical meaning to 'category' (which one can), these usages do not violate the primary distinction between a word from some natural language and its meaning.

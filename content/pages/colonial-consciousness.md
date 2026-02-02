@@ -8,5 +8,7 @@ categories: []
 tags: []
 summary: ''
 toc: false
+aliases:
+  - /colonial-consciousness/
 ---
 

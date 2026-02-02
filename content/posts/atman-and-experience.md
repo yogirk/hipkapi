@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/05/02/atman-and-experience/
 ---
 
 Some Swamiji claims: “One cannot experience the Atman[, the Atman] is the witness, it is what experiences.”

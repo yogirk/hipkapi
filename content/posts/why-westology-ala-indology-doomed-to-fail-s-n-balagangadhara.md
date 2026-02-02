@@ -12,6 +12,8 @@ tags:
 - Rajiv Malhotra
 summary: ''
 toc: true
+aliases:
+  - /2011/02/28/why-westology-ala-indology-doomed-to-fail-s-n-balagangadhara/
 ---
 
 1.1. The inherent logic of such an enterprise forces one, as it were, to build *alternate* theories to the existing, 'western' theories. Instead of explaining this statement in the abstract, let me take a concrete example to illustrate what I mean.

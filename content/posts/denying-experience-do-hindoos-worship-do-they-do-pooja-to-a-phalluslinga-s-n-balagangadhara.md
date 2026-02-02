@@ -13,6 +13,8 @@ tags:
 - Wendy Doniger
 summary: ''
 toc: true
+aliases:
+  - /2011/02/28/denying-experience-do-hindoos-worship-do-they-do-pooja-to-a-phalluslinga-s-n-balagangadhara/
 ---
 
 Someone, let's say her name is Wendy Doniger, comes along and sniggers 'when you worship the lingam, you worship a phallus'. I do not identify Wendy's statement as an 'ad hoc' explanation. I say that it trivializes what I am doing by providing a distorted description of what I do. Here is what I say: "I am doing Puja to Shiva." No discussion about 'Lingam' or its many meanings. This is a *wrong* way of conducting a discussion. She cannot, therefore, argue that I am giving an 'ad hoc' explanation because I am not giving an 'explanation' of what I am doing but merely describing it.

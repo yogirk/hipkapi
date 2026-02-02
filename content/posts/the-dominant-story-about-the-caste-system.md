@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2012/02/23/the-dominant-story-about-the-caste-system/
 ---
 
 You say: "If 'caste' or 'jati' has the same status as alumni associations and similar social groups, with their varying practices, it seems we are prepared to say that 'jati' has no special place in the Indian society in the same way that my alumni association has no special status in Indian society." This sentence is the problematic one.

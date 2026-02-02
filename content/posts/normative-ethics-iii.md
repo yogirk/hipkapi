@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/18/normative-ethics-iii/
 ---
 
 I still have some difficulty in figuring out the problem about normative ethics expressed on the Abhinavagupta forum. There is obviously something that bugs people, but I cannot make out what it is.

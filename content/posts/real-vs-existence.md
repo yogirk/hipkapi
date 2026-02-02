@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2012/04/01/real-vs-existence/
 ---
 
 With some justifiable distortion, one can claim that the Indian Adhyatmic traditions revolve partially around some 'philosophical' questions: what is real and what is existence? Is there a distinction between the two and, if yes, how to draw that line? This is a distortion because the debate never took this form; it is justifiable nonetheless to present it this way because it gives us a handle to tackle them today. However, we need to note that this is our way of posing the question, not theirs. Therefore, whether or not "believing" in Rama or Krishna entails the existence of such entities requires clarity about notions like 'existence' and 'belief' in the Indian traditions. I do not have this clarity and, only recently, I was told that the Indian intellectual traditions (in Sanskrit) do not have a word for 'belief'. (It is as yet unclear to me what this implies: does it have the same force as the statement that Indians did not have a word for 'gravitation' either or whether the notion of knowledge that we have is different from what we think knowledge is today.) Consequently, I cannot say much about this discussion today.

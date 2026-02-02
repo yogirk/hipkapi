@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/16/why-use-indic-categories-to-describe-the-world/
 ---
 
 The issue is simply this: why use Indic categories to describe the world? What is interesting or important about this goal or venture? This, as I said, is the issue but we need to do some amount of thinking before we can identify the real question. That is so because there is a lot of deadwood floating around that makes navigation difficult. So, let me begin the process of clearing some of the debris.

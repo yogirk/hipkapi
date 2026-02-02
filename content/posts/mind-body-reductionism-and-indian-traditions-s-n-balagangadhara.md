@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/mind-body-reductionism-and-indian-traditions-s-n-balagangadhara/
 ---
 
 1. Consider the everyday *phenomenon* of sunrise and sunset. We see the movement of the sun on the horizon and, for a very long period of time, people thought that they observed this because that is the way the reality is: the sun moves around the earth. With Galileo Galilei, two things happened. (a) He argued that the earth moves round the sun. (b) On the basis of this theory, he claimed that we are compelled to observe the movement of the sun around the earth. Because of this, a distinction became necessary: the movement of the sun is merely a phenomenon, whereas the movement of the earth is the real truth. What we previously thought as reality became downgraded to a mere appearance and something we did not know until then became the reality underlying this appearance.

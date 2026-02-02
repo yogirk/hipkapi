@@ -15,6 +15,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/comparative-anthropology-and-moral-domains-an-essay-on-selfless-morality-and-the-moral-self-s-n-balagangadhara/
 ---
 
 ***A Disquieting Suggestion***

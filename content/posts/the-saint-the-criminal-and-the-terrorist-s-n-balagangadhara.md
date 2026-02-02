@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/14/the-saint-the-criminal-and-the-terrorist-s-n-balagangadhara/
 ---
 
 Increasingly, the phenomenon of terrorism has begun to occupy the media, politics, and the lives of people in different parts of the world. The more the attention, however, the less the clarity: what kind of a phenomenon is terrorism? What generates it, what sustains it, and what allows it to expand on an ever-increasing scale?

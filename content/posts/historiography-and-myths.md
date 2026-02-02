@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/06/06/historiography-and-myths/
 ---
 
 The western intellectual tradition has bemoaned the fact that the Indians never indulged in history-writing (or historiography). In this tradition, there is an obsessive need for collecting "facts" about the past. This is partly the result of how Judaism, Christianity and Islam (the three Semitic religions) look at themselves and their own past: everything they claim about their past (the Flood, the temple of Solomon, the coming of Christ, etc.) should not only be true but proven so beyond all doubt. They have to be true (in the sense that their recounting of the past should also be confirmed by research) because these religions live or die accordingly as whether it is also true what they say effectively happened on earth. These facts (like the existence of, say, the Temple of Solomon in the Israel of today and the Judea of yesterday or the existence of Jesus of Nazareth), in their turn, prove the truth about Moses and his tablet and the truth of the promise of God to the children of Israel. If the recounting of their past turns out to be false (like, say, the absence of any of the above two) would destroy their existence: if there was never a historical Jesus of Nazareth, Christianity would collapse like a house of cards. (In fact, Julian the Apostate, the nephew of the Emperor Constantine, set out to rebuild the Temple of Solomon at its original site precisely in order to do this. His early death, viewed both by the Jews and the Christians as an act of God, put an end to this project.)

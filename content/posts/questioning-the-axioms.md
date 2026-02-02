@@ -14,6 +14,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2016/06/24/questioning-the-axioms/
 ---
 
 There are three ideas in the West about Law that are taken as axioms. The first: all societies are founded on Law; if they are not, they ought to be. The second is that Law teaches and educates a people. Third is their corollary: only thus do a people become a Nation. As far as I know, none has shown their empirical truth or proved that they are logically necessary. But their truth-value is undisputed. When they ruled India, the British followed these axioms: they tried to educate us through Law, interfered in our festivals and social practices and the State tried to educate a barbaric people by enacting  ‘just’ laws. Romulus gave Law and made a group into a people; Moses gave Law and made a people into a Nation; Mohammed gave Law and transformed multiple nations into a caliphate; Manu acquires the exalted status of a Law-giver for the ‘Hindus’. These ideas are not dated, apparently. Today, they enjoy the same privilege they had during the colonial rule.

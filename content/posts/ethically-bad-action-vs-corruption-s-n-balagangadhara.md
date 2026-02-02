@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/ethically-bad-action-vs-corruption-s-n-balagangadhara/
 ---
 
 1. The 'corruption' refers to the social phenomenon in India which makes about 20% of the adult population into immoral people. When I said that I refuse to call the clerk 'corrupt' or that the issue I raise is anterior, I am talking about this phenomenon. One uses the word 'cheating' (something like the Hindi 'Dhoka' probably). One could, for instance, use this word to describe the individual action of the clerk as an unethical one without *making* it into corruption.

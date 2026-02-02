@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/03/30/secular-theme-cognitive-stages-of-development-concrete-vs-abstract/
 ---
 
 1. The religious idea I am talking about in chapter 3 is this: Concrete and abstract characterize human thinking in the different phases of its development. By the time we reach chapter 7, and start thinking in terms of 'secularization’, I will be talking about secularizing religious themes with respect to the same.

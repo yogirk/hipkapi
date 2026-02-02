@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2013/03/10/the-secular-state-and-religious-conflict-liberal-neutrality-and-the-indian-case-of-pluralism/
 ---
 
 *Editor's Note: This article appeared in the Journal of Political Philosophy. Authored by SN Balagangadhara and Jakob De Roover. For an alternative research programme (paradigm)  for studying India, Indian culture and Indian culture, study Balagangadhara's **Reconceptualizing Indian Studies**, published by OUP, India.*

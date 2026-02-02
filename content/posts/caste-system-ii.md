@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/01/04/caste-system-ii/
 ---
 
 Two small points before I respond to your questions. One: all I have is [a hypothesis](/posts/caste-system-i/) that can guide research. In itself, it is not a theory and I cannot hope to convince anyone (at this stage) that this hypothesis is true. It requires years of research (of different kinds) before it can be made compelling. Therefore, please know that I understand your skepticism and find it only natural. Two: However, I will give you some indications about why I find the hypothesis interesting and worthy of further research. I will choose some examples at random to indicate the kind of problems that this hypothesis promises to solve.

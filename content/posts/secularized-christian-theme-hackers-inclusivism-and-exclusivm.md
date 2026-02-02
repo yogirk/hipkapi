@@ -17,6 +17,8 @@ tags:
 - Paul Hacker
 summary: ''
 toc: true
+aliases:
+  - /2011/12/12/secularized-christian-theme-hackers-inclusivism-and-exclusivm/
 ---
 
 1. When we consider  Paul Hacker's story on 'inclusivism as a typically Indian thought form', all we can conclude is that he has used a *typically Christian  thought form* to understand an aspect of the Indian cultural traditions, which he is unable to understand because it is completely different from what he knows. Hacker's inclusivism is merely an attempt to strip the following Christian account from its recognizably Christian characteristics: "When God created man he inscribed him with a sense of divinity, and when it is *not corrupted* this sense is the true religion. Throughout human history the devil and his minions corrupted this sense of divinity into false religion or worship of the devil among all human peoples. Until the good Lord brought mankind back to the true religion by revealing himself in Jesus Christ. Thus, Christianity is the one true religion. It is the message of self-disclosure in which God reveals his Will for the universe to the humankind. Of course, all other traditions contain traces of divine revelation, but these are nothing but the preparation of the Gospel. Once the true religion was revealed again, all non-Christian traditions could be nothing but pale and erring variants of Christianity." Now Hacker has merely taken this Christian conceptual scheme to make sense of the attitude the Indian traditions take towards other traditions. Although it happens unconsciously most of the time, this is *the basic method of Indology*: one looks at the Indian traditions, and the only way to make sense of them is to make them fit into a conceptual framework of secularized Christian theology.

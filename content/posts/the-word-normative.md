@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/18/the-word-normative/
 ---
 
 1. There are other normative statements besides ethical ones: even aesthetic statements are normative (when you judge something to be ugly or beautiful) or statements about the presence of other values (say, 'the meaning of life' questions). I have never denied it. As you rightly point out, legal norms are normative but they are not co-extensive with the ethical ones.

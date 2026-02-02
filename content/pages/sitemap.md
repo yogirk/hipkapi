@@ -8,6 +8,8 @@ categories: []
 tags: []
 summary: ''
 toc: false
+aliases:
+  - /sitemap/
 ---
 
 If you are new to this site, start with these posts. Majority of these posts are not written for this website, rather they were lifted from the conversations on the defunct sulekha.com, the defunct yahoo group, and other places. (Check [this forum](https://groups.io/g/TheHeathenInHisBlindness) for current connversations.) These posts serve three purposes: (a) to help newbies to understand Balagangadhara's research program called "Comparative Science of Cultures"; (b) to aid those who have read articles published in various journals and books; (c) to understand the studies of Indian culture and traditions in a different light---a framework different from that of current social sciences which take secularized Christian theological ideas as facts (or granted).

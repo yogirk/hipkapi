@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/06/09/long-live-edward-said/
 ---
 
 [[Original Dutch article](https://www.standaard.be/cnt/dss30092003_002) published on Sep 30, 2003; English version is due to google translate and some minor changes]

@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/are-muslims-mohammeddans/
 ---
 
 Let me begin by Mujeeb's objection to calling the Islamic people 'Mohammedans'. Mujib's objection was that the Muslims do not worship Mohammed, and Naseem spoke of it as an insulting appellation. They are right, of course, but they did not appear to get the authentic problem posed by a Raghavan and a Seshadri: surely 'Mohammedans' are those who follow the doctrines (or teachings) of Mohammed. Marxists, Buddhists, and even Christians were called in to bolster the applicability of such a language-use. Despite the acrimonious sphere among the participants, there is a very, very deep reason why neither understands the other's question.

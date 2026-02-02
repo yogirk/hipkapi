@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/towards-a-positive-portrayal-of-hindu-traditions/
 ---
 
 What is at stake in the California textbook controversy? Few would agree that it concerns only the image of Hinduism as offered to the pupils of the California state schools. The controversy involves much more than that alone. It is the next phase in the NRI community's struggle for a less biased and more benign portrayal of Hinduism in the educational system and in American society in general. In the last three years many similar incidents have occurred: the acrimonious debate about 'Wendy's Child Syndrome'; the Kripal and Courtright controversies; the indignation about the depiction of Hindu deities on bikini's, slippers and toilet seats; etc. These transient outbursts express a solid and growing concern about the derogatory conceptions of the Hindu traditions, which still dominate the western societies and academia. In very general terms, the aim of this struggle could be put as follows: to make the world aware of the positive contributions the Indian culture and its traditions have made and can make to humanity. Since this is an aim I share, I would like to assess the NRI community's progress towards its realization. This evaluation will take the California textbook controversy as a reference point, while addressing some of the broader issues involved.

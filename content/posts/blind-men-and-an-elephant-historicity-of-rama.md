@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/05/09/blind-men-and-an-elephant-historicity-of-rama/
 ---
 
 Let me begin with the following dialogue between a Swiss-German and a young Balinese (from Bichsel, Peter, *Der Leser, Das Erzählen: Frankfurter Poetik-Vorlesungen*, 1982, Darmstadt und Neuwied: Hermann Luchterhand Verlag. Pp. 13-14, my translation and italics):

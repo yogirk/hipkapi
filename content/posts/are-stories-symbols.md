@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/are-stories-symbols/
 ---
 
 1. Here is one way of looking at what stories are. They are symbols. What are they symbols of? Well, they could symbolize acts; they could also be symbolically interpreted as justifications of such acts. Under this construal, a story requires an interpretation: one has to interpret the story as a symbol of either an act or as its symbolic justification. (The same applies to looking at stories as symbols of values. The stories, for instance, could be seen to symbolize virtues. Stories could also symbolize passions, feelings, natural forces...) Then, stories are mostly, if not always, symbols of something or another. When you look at the issue this way, it is almost akin to saying that stories are "evidences" of sorts: some story or another provides "evidence" about the presence of "something else". (Let us leave aside the issue of what it means to talk of a symbol in all these contexts or what "evidence" means here. Both terms can be understood in a vague sense for our purposes.) In another language, we can say that all stories are signs. These signs must be turned into signifiers (this requires an act of interpretation) by showing or suggesting that they signify "something else" (called the signified).

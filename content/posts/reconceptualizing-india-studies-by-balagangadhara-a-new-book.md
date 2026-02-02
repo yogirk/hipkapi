@@ -11,6 +11,8 @@ tags:
 - published
 summary: ''
 toc: true
+aliases:
+  - /2012/08/28/reconceptualizing-india-studies-by-balagangadhara-a-new-book/
 ---
 
 What does it mean to be an Indian in this time and age? What does India have to give to the contemporary world? These overarching questions that echo in the mind of the post-colonial Indian cannot be truly answered by Western frameworks instituted at the behest of colonialism.

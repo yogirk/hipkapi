@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/04/how-to-produce-knowledge-about-who-is-a-christian-s-n-balagangadhara/
 ---
 
 Imagine that I were to say the following: Christ and *Ganesha* are manifestations of the same divinity; Christ came about 2000 years ago in the Middle East, whereas *Ganesha* is how he has appeared in India some 4000 years ago. Now no one can forbid me from saying this and *calling myself a Christian*. Question: what should a theory about Christianity do? Show *how* anyone who decides to call himself a 'Christian' is, in fact, also a Christian? In that case, all such a 'theory' can do is say something like the following: anyone who calls himself some name ('Christian', 'Democrat', 'Marxist', etc) is also whatever he calls himself. Such an attitude simply ends up making any knowledge of society and human beings impossible.

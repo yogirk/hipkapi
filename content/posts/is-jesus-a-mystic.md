@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/04/03/is-jesus-a-mystic/
 ---
 
 You claim that Jesus of Nazareth is a mystic. From the conversations so far, I presume that this is both your gut-feeling and conviction. The one deriving from your own mystical experience and the other because you find that mysticism, qua experience, does not distinguish between people on the basis of their color, creed, culture and country. I am perfectly willing to bow to authentic experience, but convictions? They need arguments and evidence, even if it is a subject as thorny as mystical experience. However, I will not ask you for your evidence but will try to present *counter-evidence* to your conviction.

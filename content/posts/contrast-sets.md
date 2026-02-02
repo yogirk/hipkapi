@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/contrast-sets/
 ---
 
 Contrast sets have multiple functions depending on the contexts in which they are used. For instance, in the case of theories about some phenomena, they can be used to test the robustness of the theories: why do unsupported objects on earth fall downwards instead of floating? Why did the Primitive Man invent 'religion' instead of doing any number of other things he could have done? And so on. In such cases, one might be looking for reasons to accept an explanation temporarily or one might even be comparing rival explanations.

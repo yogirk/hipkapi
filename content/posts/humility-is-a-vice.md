@@ -14,6 +14,8 @@ tags:
 - humility
 summary: ''
 toc: true
+aliases:
+  - /2017/01/13/humility-is-a-vice/
 ---
 
 1. Christianity (to some extent Judaism), presented an idea, unknown to the world in which it grew, namely the Pagan world of Rome. The idea was that human beings are creatures of God and that they belonged to His domain. He was the dominus or the Lord of the domain. As a result, human beings should not be arrogant, but must be humble instead. (As the ‘Book of Job’ in the Old Testament makes it clear, there is a very heavy price to be paid for arrogance.) Here, it belonged to the opposite spectrum in Ancient thought, which saw arrogance as a moral virtue and humility as a despicable vice. Protestant Christianity, especially Luther and Calvin, very forcefully propagated this idea: Man was a sinner, worse than the lowest worm, because of which God’s Grace becomes unfathomable and ungraspable.

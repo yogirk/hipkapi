@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/01/06/translating-vibhaktis/
 ---
 
 The problem is more complicated and the implications far more massive than either of us can even dream of. In fact, I think we are not even aware of the nature, size and the dimensions of the problem(s) today. We do not even know whether we are dealing with something called the ‘translation’ problem or whole sets of other issues and problems that also redefine what it is to ‘translate’ texts between different cultures.

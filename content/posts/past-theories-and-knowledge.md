@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2024/04/24/past-theories-and-knowledge/
 ---
 
 You raise the question whether using earlier theories, which are *superseded* by newer theories, one can (or even could ever) access knowledge? (I am not a physicist, but I do not think that physicists have junked Newtonian theories. I think that Newtonian physics retains its validity in the macroworld we live in and is not considered false. As far as I remember, I have not come across writings that claim that Newton’s theory is false but that most of its consequences (but not all) are derivable in Einsteinian theory, under some ‘limiting conditions’ (like mass remaining invariant, etc.) Anyway, I do not know enough Physics to enter a discussion about it. Arun and Kannan are more competent here than I am.) If we do not get stuck on any one example, it appears to me that there are three questions here: (a) Could defective, incomplete, partial theories help us access knowledge?; (b) Could false, or partially false and partially true, theories help us access knowledge?; (c) Was knowledge ever accessed by past theories, which, as we know today, expressed ignorance?

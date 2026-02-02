@@ -14,6 +14,8 @@ tags:
 - Patrick Hogan
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/on-patrick-hogans-why-hindus-should-be-grateful-to-wendy-doniger-s-n-balagangadhara/
 ---
 
 Dear Patrick Hogan,

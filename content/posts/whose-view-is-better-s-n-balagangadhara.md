@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/01/whose-view-is-better-s-n-balagangadhara/
 ---
 
 "Every one of us believes our own viewpoint to be the best one: such is human nature." This is not quite how I would put it. Let me, therefore say what I think with respect to this issue.

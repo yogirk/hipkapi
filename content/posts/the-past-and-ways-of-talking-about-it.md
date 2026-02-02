@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/the-past-and-ways-of-talking-about-it/
 ---
 
 1. What is history? In the first place, it is the subject matter of historiography, which is what historians write. What does historiography talk about? The human past. In other words, there is a distinction to be made between 'the past' and ways of talking about this past.

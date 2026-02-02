@@ -12,6 +12,8 @@ tags:
 - Wendy Doniger
 summary: ''
 toc: true
+aliases:
+  - /2011/02/28/does-shivalinga-mean-phallus-a-theoretical-dispute-s-n-balagangadhara/
 ---
 
 Question: "In the context of puja, does Shivalinga denote or connote anything other than Shiva, in particular "phallus"? A Wendy says "Yes", a Balu says "No". For some person, not on this board, there is not a dialog; it is a reading of Wendy, a reading of Balu - how to decide between the two answers, which one represents the truth about Hindus?"

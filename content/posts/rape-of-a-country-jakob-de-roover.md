@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/04/04/rape-of-a-country-jakob-de-roover/
 ---
 
 **Rape of a Country**

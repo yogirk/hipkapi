@@ -14,6 +14,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/mantras-of-anti-brahmanism-colonial-experience-of-indian-intellectuals/
 ---
 
 **Colonial Experience of Indian Intellectuals**

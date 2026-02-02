@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/08/27/does-feynman-know-about-his-culture/
 ---
 
 Paraphrasing Feynman: "the answers proposed like counting angels that can dance on the head of a pin are trivial."

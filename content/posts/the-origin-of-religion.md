@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/15/the-origin-of-religion/
 ---
 
 1. Are there accounts about the origin of religion? Yes, there are at least two kinds. One kind tries to localise the origin of religion in human beings and the other in God.

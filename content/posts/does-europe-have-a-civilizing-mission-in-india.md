@@ -9,6 +9,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/04/does-europe-have-a-civilizing-mission-in-india/
 ---
 
 Recently, the European Parliament hosted a meeting on "caste discrimination in South Asia". At the meeting, participants stated that "India is being ruled by castes not by laws" and that they demanded justice, because there "is one incredible India and one untouchable India." The EU was urged to come out with a policy statement on the subject. One MEP, referring to the caste system, said that "this barbarism has to end." This is not the first time. However, before the EU decides to publish policy statements on caste discrimination in India, we would do well to reflect on some simple facts.

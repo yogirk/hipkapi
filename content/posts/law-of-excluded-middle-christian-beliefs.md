@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/10/29/law-of-excluded-middle-christian-beliefs/
 ---
 
 I was expecting you to show me where [the reasoning I formulated goes wrong](/posts/intentional-operator-and-inconsistent-reasoning/), but you do not do so. The analogy you draw, I am afraid, does not quite do the job you want it to.

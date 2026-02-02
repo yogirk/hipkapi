@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/logic-of-normative-ethics-immorality-s-n-balagangadhara/
 ---
 
 Why does one bring up the issue of one's grandmother's judgment about a clerk taking bribes as a counter-example? First, what do I say? That he *calls* it as corruption has to do with western normative ethics. Does it follow from this that the action of the municipal clerk is ethically *good?* It does not, unless one assumes either (a) I am presenting an *alternate* moral principle, which will make the action of the clerk morally good; or that (b) the only morality that will make the action of the clerk ethically bad is the one that construes it as corruption. I am not presenting an alternate moral rule that justifies the action of the clerk. But I want to know why the so-called corruption comes about and whether it is that. My attempt at doing this is *assumed* to make the action of the clerk or the building contractor morally good. Why this assumption? I suggest that it comes about because of the assumption (b).

@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/01/13/is-real-explainable/
 ---
 
 No, I cannot explain the real; nor has anybody else in the world. Even more radically: the Real can never be ‘explained’, nor will there be an explanatory theory, ever (that is what is meant by ‘providing an explanation’ or speak of explaining) about the real.

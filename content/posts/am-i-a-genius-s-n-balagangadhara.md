@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/01/am-i-a-genius-s-n-balagangadhara/
 ---
 
 It appears that Sir Isaac Newton was frequently complimented for being the greatest genius the world had ever known. One of his replies is alleged to have been the following: "Even a pygmy sees further than the giants if he stands upon their shoulders. And I, Sir, stand upon the shoulders of giants." The extraordinary humility apart, there is something very important to what Newton is saying: his theory would not have been there, if the theories of Copernicus and Galileo were not there before him. It is, of course, a historical accident that certain people preceded Newton. This allowed Newton, however, to write his Principia.

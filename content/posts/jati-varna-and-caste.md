@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2012/04/01/jati-varna-and-caste/
 ---
 
 1. Are there Jati's in India? Yes, there are. What kind of units or entities are they? I do not know; neither does anybody for that matter. It is a matter of fact that (a) they are not occupational groups; (b) they are not social classes (that is, there is no correlation between Jati's and the 'means of production'); (c) appear hereditary (though one could obtain certificates that 'change' one's Jati legally). Some Jati's are organized as some kind of legal or semi-legal associations, some Jati's are not.

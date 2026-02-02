@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/04/is-the-distinction-between-laukika-and-adhyatimika-same-as-that-between-secular-and-religious/
 ---
 
 The theories (and discussions) about secularism constitute a test case for the claims advanced in 'The Heathen in his blindness: Asia, the West and the dynamic of religion' about the universalizing drive of religion. I have suggested that religion spreads by secularizing itself, and that the distinction between the secular and the religious is drawn by and within a religion. If this is the case, then it must be possible to show that the current theories of secularism are secularizations of a particular set of theological claims. (Theology draws these distinctions and defends them.)

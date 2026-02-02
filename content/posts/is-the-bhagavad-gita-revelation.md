@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/09/is-the-bhagavad-gita-revelation/
 ---
 
 Is the Bhagavad Gita revelation? E.g. 15:15, rendered by one translator as "And I am seated in the hearts of all; from Me are memory, knowledge, as well as their loss; I am verily that which has to be known by all the Vedas; I am indeed the author of the Vedanta as well as the knower of the Vedas".If nothing else, the authorship of Vedanta is what is revealed here. But the claim is there both to be the subject and author of revelation.

@@ -17,6 +17,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2022/09/28/truth-belief-intentionality-eudaimonia-ought/
 ---
 
 I want to respond to three of your points Claus. First you are not talking only about the Greeks and the Romans because all the problems arising with respect to the phenomena of non-Western societies and culture are/were equally the problems in the frameworks of different varieties of culture. You not only talk about the Greeks and the Romans, you gave examples about the French and the English as well.

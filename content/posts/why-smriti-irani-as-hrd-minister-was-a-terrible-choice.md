@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/01/06/why-smriti-irani-as-hrd-minister-was-a-terrible-choice/
 ---
 
 From the mouth of some babes, pearls of wisdom and truth fall like gentle rain from heaven. From the mouth of others, idiocies pour in a torrent and are considered truth only because they occupy positions of power. We leave it to the reader to decide to which group our minister of human resource development Smriti Irani belongs. Keep in mind that she determines to a large extent the course of education, including higher education policies in India. Irani's comments on education at the conclusion of the National Seminar on the New Education Policy in Kolkata would be shocking if they were made by a mature and intelligent human being. But, as is said, from the mouth of the babes...

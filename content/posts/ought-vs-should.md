@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/18/ought-vs-should/
 ---
 
 X asks: I am unable to figure out what the special significance is of not having a 'moral ought' in the Indian traditions. If 'should not' and 'must not' have the same practical consequences as 'ought not', that is we are obligated to behave in a certain way, why does it make a difference how it is expressed in our language?

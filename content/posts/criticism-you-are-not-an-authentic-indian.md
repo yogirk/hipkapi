@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/criticism-you-are-not-an-authentic-indian/
 ---
 
 About who the 'authentic Hind' or 'the authentic Indian' is. The greatest strength of our culture lies in the fact that this is a non-question as far as our traditions are concerned. Even though I have now spent nearly as many years outside India as I have spent inside, I do not feel an 'outsider'. Nor am I considered as one by the members my family, for instance, most of whom have never left India in their lives.

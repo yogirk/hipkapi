@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2012/02/23/caste-and-caste-system/
 ---
 
 I would like to pick up the thread on ‘the caste system’ and begin at the beginning. Let us find out what we are discussing about and disagreeing with.

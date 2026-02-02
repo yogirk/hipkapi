@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/02/01/akrasia-and-will/
 ---
 
 To begin with, it is a matter of scholarly consensus among Classicists and philosophers that the concept of "Will" was absent from Greek thought and that St. Augustine was the first to develop it. Aristotle, for instance, had the notion of practical cognition and not 'will'. "Akrasia" can only be loosely translated as "weakness of the will" simply because we do not quite know how to translate it otherwise.

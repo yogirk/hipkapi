@@ -8,6 +8,8 @@ categories: []
 tags: []
 summary: ''
 toc: false
+aliases:
+  - /colonialism/
 ---
 
 1. [Do we understand colonialism?](/posts/do-we-understand-colonialism/)

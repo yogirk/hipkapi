@@ -12,6 +12,8 @@ tags:
 - Rajiv Malhotra
 summary: ''
 toc: true
+aliases:
+  - /2014/03/24/westology-and-its-nonsense/
 ---
 
 What is the logic of [my argument](/posts/why-study-the-western-culture/)? Am I proposing a 'westology'? Let me briefly explicate my stances, beginning with the last question.

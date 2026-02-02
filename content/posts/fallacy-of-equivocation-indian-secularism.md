@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/16/fallacy-of-equivocation-indian-secularism/
 ---
 
 While reading Shabnum Tejani's *Indian Secularism: A Social and Intellectual History (*2008), I ran into the same weird point that Neera Chandhoke also tried to make at the RRI platform debate on secularism. This is a combination of the old claim that 'secularism' has acquired a different meaning in India and a general theoretical point: 'secularism does not have any essence or universal meaning, but gets different meanings dependent on the historical and cultural contexts in which it has developed'. There are different variations on this formulation, but the general point is one that is becoming increasingly popular (especially among historians), because of the influence of Talal Asad and other postmodernators. Hence, I wanted to try and address the point by taking the example of Tejani's work.

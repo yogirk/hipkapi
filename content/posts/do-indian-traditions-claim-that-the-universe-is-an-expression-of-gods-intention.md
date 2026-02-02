@@ -15,6 +15,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/10/24/do-indian-traditions-claim-that-the-universe-is-an-expression-of-gods-intention/
 ---
 
 If we want to grasp the nature of the discussions in the Indian traditions, there is much we need to do beforehand: (a) identify the entity they were talking about; (b) identify the specific questions they were answering; (c) identify the generic questions that defined both the outlines of the acceptable answers and the formulation of the specific questions; etc. (The 'cetera' indicates that I do not know how to enumerate all the things we need to grasp.) In the case of the propositions you have formulated, I assume that 'God' is Vishnu (or even Krishna) and not, say, Shiva or Brahma because you are talking about the Madhvas. However, to keep the discussion faithful to your formulations, I will use the word 'God' to refer to Vishnu.

@@ -15,6 +15,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/24/normative-assumptions-discriminations-and-caste-discriminations/
 ---
 
 1. I was invited by some Sadhus from Swami Narayan Temple (BAPS) to visit the temple and have a discussion with them. Because they practice very strict Brahmacharya (eight types of avoiding women, each correlated to an organ: it is called Ashtanga Brahmacharya), the Sadhus said that women could not be present during our discussions, while they were welcome to visit the temple. As I remember the incident, my female students were a bit 'upset' (hurt, insulted, indignant, or whatever) that the Sadhus were not able to meet them and felt **discriminated against** by virtue of their sex. A few years later, one of my teachers from Belgium visited another wing of the Swami Narayan people and found that 'women were discriminated against' because they were allowed only to come some distance from the temple when the Sadhus were present. In both cases, I was puzzled by their reaction: I explained that the action of the Sadhus should not be seen as an act of discrimination against women but as an expression of the strict Brahmacharya that the Sadhus practiced. The question here is: why did these people (my students and my teacher) experience 'discrimination', where I saw none and also knew that none was intended?

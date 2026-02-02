@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/10/09/shock-and-awe-of-enlightenment/
 ---
 
 To help you think through the problem you "whether Christians can get enlightened", try using this analogy. Something, let us call it ‘daffodil’, fascinates us. Let us also assume that a great deal of concern and interest is expressed about it. Consider two scenarios now, each of which testifies to our fascination.

@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/colonial-consciousness-burden-of-proof-s-n-balagangadhara/
 ---
 
 1. The first thing that is really striking involves what I will call the *burden of proof*. That is, I am being asked to prove that my assertions about corruption are true. In one sense, it appears an entirely reasonable demand to make: after all, one should not entertain gratuitous claims. But what seems to have escaped the attention of many is this: what precisely do I have to prove? Who has the burden of proof?

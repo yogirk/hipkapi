@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2022/10/09/experience-and-truth/
 ---
 
 Of course, you can use Kant (or anyone other philosopher of your liking) to talk about what experience is. But if you use these thinkers (of the last 1000 years or so) to think about experience, you will be trapped in a set of problems: (a) you will have to talk about sensory input (no matter what technical term you use here), which cognition works on; (b) the world as something that provides these inputs; (c) distinguishing subjectivity and objectivity of the perception of the world accordingly and so on. Ultimately, truth becomes the final arbiter of everything.

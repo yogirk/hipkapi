@@ -9,6 +9,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2018/11/22/support-balagangadhara-research-program/
 ---
 
 For more, check this post: [Freeing the Indian Traditions? Government Control of Temples in India and Freedom of Religion](https://witness-to-our-times.org/2018/11/19/263/)

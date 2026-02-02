@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/02/19/the-magic-of-radicalization/
 ---
 
 After the Paris attacks came the questions: Is this violence caused by Islam or unrelated to religion? Are the perpetrators believers or madmen? Do they represent the extremists that we find in any ideology?

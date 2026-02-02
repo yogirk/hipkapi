@@ -14,6 +14,8 @@ tags:
 - UR Ananthamurthy
 summary: ''
 toc: true
+aliases:
+  - /2012/04/25/what-makes-one-an-intellectual/
 ---
 
 Steve Farmer is not an expert on secularism only in the sense that he has followed it from the 'outside' (meaning, probably, he has not written anything about the issue himself). Apparently, the reason why he has not contributed to the debate has to do with the fact that (a) no legitimate researcher can take the debate seriously; and (b) Farmer is one such. Witness how he describes it: "I've watched this so-called debate for nearly a decade now from the outside, and nothing whatsoever has changed. Nor have I ever met a single legitimate researcher who took it seriously." I wish some of the Indian intellectuals who have participated in the debate would read this judgment and digest what Farmer thinks of them. They will be thrilled to know that they are 'illegitimate' scholars!

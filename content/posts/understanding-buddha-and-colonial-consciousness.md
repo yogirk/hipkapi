@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/26/understanding-buddha-and-colonial-consciousness/
 ---
 
 "How do we understand the idea that an enlightened person has no wants?" Before we understand what the idea says, it would be good to find out what it does not say. Understanding this would also allow us to appreciate the depth and extent of colonial consciousness.

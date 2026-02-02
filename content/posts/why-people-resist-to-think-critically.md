@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/25/why-people-resist-to-think-critically/
 ---
 
 I have also come across expressions of similar thoughts and feelings both in India and in Europe and the United States. However, I think there are multiple grounds that generate such questions. Here are some I have been able to identify.

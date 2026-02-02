@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/24/how-religion-spreads-the-uselessness-of-reinforcers-and-reinforcement/
 ---
 
 Ideas have impact on people. Theological dilemmas have impact on those who formulate such dilemmas and on the future generations. They undertake actions (of whatever type) to solve these dilemmas, where and when these people find such dilemmas important. In this way, one can make some sense of the claim that Christological dilemma propels Christianity forward. However, this explanation cannot (at the stage our knowledge is in) be incorporated into a historical explanation: was Thomas Aquinas responding to the state of theology during his time, or was he a fame-hungry man who wrote his Summa Theologica in order to become famous, or was he afflicted by a rare disease?.? In other words, if we try to explain why St. Thomas wrote Summa, there are so many possibilities that a selection of any one possibility becomes a matter of taste and of one's pet theory. Moreover, even then, such a selection fails to tell us much about western history. Consequently, such an explanation cannot become a part of historical explanation, if the idea is to make history intelligible and coherent.

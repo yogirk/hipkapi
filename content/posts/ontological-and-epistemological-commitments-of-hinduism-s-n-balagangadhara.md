@@ -11,6 +11,8 @@ tags:
 - hipkapi
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/ontological-and-epistemological-commitments-of-hinduism-s-n-balagangadhara/
 ---
 
 1. The English word 'Hinduism' not only carries multiple meanings it also appears to refer to many different things. If the context of the discussion were to help us disambiguate the reference of this word, it might not pose many problems for a serious discussion. Unfortunately, the context itself gets muddled. Each understands the question '[Does Hinduism Exist?](/posts/does-hinduism-exist/)' in a different fashion. As though this is not enough, this confusion enters into other areas as well: witness the challenge for people to prove that Sikhism does not exist. The prima facie evidence seems to be the following: the word 'Hinduism' seems to carry many different kinds of (ontological) commitments (i.e. when we use the word, we seem to make assumptions about the kind of entities that exist in the world), many different epistemological positions (i.e. how can either know or not know what that word refers to).

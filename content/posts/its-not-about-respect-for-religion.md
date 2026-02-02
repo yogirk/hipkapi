@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2022/08/01/its-not-about-respect-for-religion/
 ---
 
 Sacred determines what profane is; it is not about respect for religion.

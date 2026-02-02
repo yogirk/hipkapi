@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/02/vacuity-of-essentialism-s-n-balagangadhara/
 ---
 
 I have had difficulties in understanding the use and meaning of some words, especially 'essentialism' and its cognates. Here are some uses of "essentialism" I am familiar with.

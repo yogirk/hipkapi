@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/15/secularized-christian-belief-worldview-is-a-cultural-universal/
 ---
 
 Lets become clear about the nature of my claims about worldviews.

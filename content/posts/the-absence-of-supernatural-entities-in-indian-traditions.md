@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/17/the-absence-of-supernatural-entities-in-indian-traditions/
 ---
 
 1. The absence of supernatural entities in the Indian traditions may seem counterintuitive to many. We can let someone else do the talking for us, namely Dale B. Martin in his interesting book *Inventing Superstition: from the Hippocratics to the Christians* (Harvard University Press, 2004):

@@ -14,6 +14,8 @@ tags:
 - Steve Farmer
 summary: ''
 toc: true
+aliases:
+  - /2012/05/19/intellectual-prowess-of-michael-witzel/
 ---
 
 I would have liked to make the following points on the IER forum but either of the two moderators are (obviously) willing to be courteous enough to post my letter on their forum, despite my explicit request. Let me react to their letters on this forum, and I shall leave it there for the time being.

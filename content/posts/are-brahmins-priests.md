@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/25/are-brahmins-priests/
 ---
 
 I do not have a theory of meaning. I do not know which of the many fragmentary theories of meaning I should choose from and why. Even though I acknowledge the importance of the topic, I do not feel called upon to do research on it. So far, I have been able to steer clear of the topic in *an interesting way*: I am able to show that what appears as translation problem or a meaning problem (how should Sanskrit words be translated or the definition of 'religion', etc) is, at least in some instances, actually not that kind of a problem at all. Such an attitude has generated a psychological bonus for me: I do not go around criticizing Jeffrey Kripal for not knowing Bengali well enough, or for Wendy Doniger for not realizing that Dharma is not religion or that Brahmins are not priests, when my knowledge of either Bengali or Sanskrit does not match up to what they know.

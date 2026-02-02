@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/11/18/self-reflexivity-of-religion/
 ---
 
 > It would be interesting to answer the question of whether or not The Lord of the Rings (LOTR) is a religious story by testing against 'religion is an explanatorily intelligible account of the Cosmos'. Does the Lord of the Rings give an account in which the causal and intentional explanations for the happenings in Middle Earth fall together?

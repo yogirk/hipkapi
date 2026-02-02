@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/09/22/the-swami-the-priest-and-the-rediscovery-of-the-indian-traditions/
 ---
 
 I will take up some of the general points, which I think are relevant to the Indian American community at large. First, let me say I am impressed by the dynamism present in this community. In spite of the demands of daily life, Indian Americans find the time and energy to engage in intellectual debates about the nature of their traditions. In spite of the discrimination and "religion oppression" [1] faced by them, there is a general sense of optimism about the future of these traditions.

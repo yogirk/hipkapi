@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/04/28/para-vs-apara/
 ---
 
 **Question**: I have some problems understanding *apara, para, existence, and presence*. Apara exists, but is not present; para is present but does not exist. Are you saying that what is present does not exist, what exists is not present? If so, how can you reconcile with our common sense notion that what exists is present?  Even though presence doesn’t imply existence, we can’t say that existence imply non-presence. So, this is an issue of definitional equivalence: para = presence; apara = existence.

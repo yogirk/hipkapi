@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/04/22/vibrancy-of-indian-traditions/
 ---
 
 The discussion about re-accessing the vibrancy of the Indian culture and the question whether or not to legislate against conversion, are best treated separately. An answer to the latter does not necessarily count as an answer to the first. In fact, the tendency to counter the proselytising drive of Christianity and Islam by voting laws against conversion is itself an *indication* of India’s cultural weakness. Hence, it cannot be a means to re-kindle the flame of India’s pluralistic tradition. 

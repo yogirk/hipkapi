@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/01/25/is-worship-a-human-invention/
 ---
 
 1. Let us assume that the Church Fathers (or the Apostles or whoever else) planned to introduce an eschatological doctrine and some mode of worship. (Let us further assume that their reasoning or their strategy was something analogous to your impressions: their intention was to induce a sense of urgency and guilt.) Our problem is not to explain their possible motives but to explain the *success* of these strategies. Our questions are: why do all the Semitic religions (this reference to the Semitic religions is meant only keep the discussion simple) follow these strategies? Why are these strategies successful? (You can also go further and raise questions about their relative lack of success today in the western world, but we will ignore all such complications.)

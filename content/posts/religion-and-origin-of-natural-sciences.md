@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/17/religion-and-origin-of-natural-sciences/
 ---
 
 My proposal addresses itself to the following observation: the natural sciences, *as we know them today*, arise in the western culture. What 'natural sciences' mean in the above statement is clarified by other sentences that say, for example, 'the rest of the world has accepted the western science and technology..' or 'we need to learn science and technology form the west..' When we make these kinds of statements, what do we have in mind? Do we suggest that we need to learn some scientific formula from the west, or that we have to learn the proof of a theorem from the west? We do not. We are looking at sciences at a different level of abstraction. We are suggesting that there is a *way of going about the world* that we need to learn from the west. My hypothesis about science and religion is pitched at this level of abstraction. That is to say, I answer the following question: in which way is the growth of sciences a cultural phenomenon?

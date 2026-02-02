@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/02/28/denying-experience-in-intra-cultural-communication-s-n-balagangadhara/
 ---
 
 1. Let us begin with one of the minimal conditions for inter-cultural (verbal) communication. And that is: people should be able to have conversations with each other. It is legitimate to claim that one does not need to know what a 'conversation' is in order to have a conversation. Therefore, whatever else we may want to say, it would be very difficult to maintain that there is no conversation in other cultures. Equally difficult would it be to hold that some cultures are inferior to others regarding their practice of conversational activity. In other words, our intuitions do not allow us to assert either a factual or a normative claim, which would either deny the existence of conversation in other cultures or suggest that members from some cultures are incompetent conversationalists.

@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/does-one-need-a-theory-to-discuss-about-phenomena/
 ---
 
 X says: "Modern prostitution is a very specific institution with the features of pimps, forced sex, kidnapped women, drug addicted women, immigrants lured to foreign shores on false pretences, and so on. If we insist on precision in ideas, then it is counterproductive to confuse matters by calling Apsaras prostitutes without first showing that at least some of the above conditions hold true and there is some structural similarity."

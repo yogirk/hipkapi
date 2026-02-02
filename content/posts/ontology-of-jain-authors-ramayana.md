@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2023/01/28/ontology-of-jain-authors-ramayana/
 ---
 
 I

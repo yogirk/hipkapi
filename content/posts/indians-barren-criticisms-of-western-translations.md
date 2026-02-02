@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/16/indians-barren-criticisms-of-western-translations/
 ---
 
 X says: "Wendy Doniger translates all the Sanskrit words into English and thereby ends up distorting their meaning. Dharma becomes religion, Varna becomes color, and apparently she ends up even translating the names of some tribes into English." Assuming that this is the case (assumption is on my part because I have neither read her translation nor do I intend reading it), what is the problem? Out of the conversation, the following considerations came to the fore: (a) if she had retained some of these Sanskrit words, the Indian scholars could have made more sense of the translation; (b) Dharma and religion are not co-extensive in meaning, any more than Varna is with color; (c) consequently, there is a great distortion in translation. Underlying this discussion was a (fragmentarily explicit) view about translation that if we do not find 'accurate' translations of words form one language into another, we should retain the original words, assign them the status of `technical' terms, and not translate them any further.

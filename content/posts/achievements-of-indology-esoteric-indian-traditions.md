@@ -14,6 +14,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/21/achievements-of-indology-esoteric-indian-traditions/
 ---
 
 A science of cultures is not Atmagyaana or Brahmagyaana. Let me also add that I find a quest for happiness a normal human striving.

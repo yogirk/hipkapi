@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/10/05/ancient-roman-culture-and-early-christianity-a-pagan-perspective-from-india/
 ---
 
 [Original.](https://www.academia.edu/5497450/A_Pagan_Perspective_on_Early_Christianity_and_Ancient_Rome)  [ Appeared in  [*Christendom en filosofie : opstellen over wijsbegeerte, wereldbeeld en wetenschappen van het antieke christendom over Nietzsche tot fundamentalisme vandaag*.](https://biblio.ugent.be/publication/4259026) p.51-82]

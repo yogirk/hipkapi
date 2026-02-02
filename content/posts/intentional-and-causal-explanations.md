@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/26/intentional-and-causal-explanations/
 ---
 
 The first question: could we have EIA of units smaller than the Cosmos?

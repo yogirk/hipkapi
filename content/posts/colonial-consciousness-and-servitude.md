@@ -15,6 +15,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2022/10/26/colonial-consciousness-and-servitude/
 ---
 
 [ Published on [swarjyamag](https://swarajyamag.com/politics/prime-ministers-panch-pran-and-decoloniality-indian-servility-may-have-roots-in-secularised-islam) Aug 26, 2022]

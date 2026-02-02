@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/the-vacuity-of-secularism/
 ---
 
 **On the Indian Debate and Its Western Origins**

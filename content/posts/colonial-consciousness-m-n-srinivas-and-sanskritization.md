@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2013/04/03/colonial-consciousness-m-n-srinivas-and-sanskritization/
 ---
 
 1. M. N. Srinivas (MNS) claims that "a caste was able, in a generation or two, to rise to a higher position in the hierarchy by adopting vegetarianism and teetotalism and by changing its rituals and deities." The first basic problem here is how one can establish the position of a jati in the supposed hierarchy and measure it in such detail that one can see over two generations that the jati has attained a higher position. Which standard does one use to establish the position of jati x? What members of jati x say about its position relative to other jatis? What members of other jatis say about the position of x relative to their own jatis? As our fieldwork in Karnataka has already shown, it is impossible to infer any hierarchy from such empirical data, because all one gets is a series of inconsistent statements with regard to the relative positions of jatis. This basic problem becomes even more intractable when we take into account the history of assigning positions to jatis in the so-called "caste hierarchy". When the British had their caste census in the late nineteenth and early twentieth century, many jatis classified as shudras or untouchables sent in petitions arguing that they held higher positions; they were kshatriyas, they said. Today, the same jatis insist that they are really shudras or untouchables and should be classified as OBCs or SCs. When jatis can radically revise their 'position in the hierarchy' according to the status or benefits they win by doing so, what could one ever conclude about their position and how it changes over generations?

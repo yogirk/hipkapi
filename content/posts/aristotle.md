@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/25/aristotle/
 ---
 
 What Aristotle is doing in my piece on the Indian traditions? He is doing many things actually.

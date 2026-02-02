@@ -15,6 +15,8 @@ tags:
 - Rajiv Malhotra
 summary: ''
 toc: true
+aliases:
+  - /2014/03/24/why-study-the-western-culture/
 ---
 
 Two substantial questions have been raised in response to [what I wrote](/posts/vacuity-of-intellectual-svaraj/): (a) why do we need to study and understand the Western culture in order to access our own traditions? (b) Is it my claim that Buddha and Shankara (for example) are irrelevant to us? One other sort of 'objection' too has surfaced, albeit disguised as a characterization of what I have said: (c) is not my position itself illustrative of 'Eurocentrism'? These issues are intertwined.  Hopefully, addressing them together will lend some clarity.

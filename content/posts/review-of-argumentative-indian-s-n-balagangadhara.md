@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/review-of-argumentative-indian-s-n-balagangadhara/
 ---
 
 Today, there are multiple images of India current in the West. There is the mystic India, an image that the German Romantics created and the 'flower children' of the sixties made popular. There is the third world India with enormous poverty and suffering, which the developmental workers have projected. There is also the India, the centre of IT outsourcing, which the developments in the last decade have brought into existence, and so on. Amartya Sen, the Indian noble prize-winner in Economics, has written a book on "The Argumentative Indian" which speaks of an India that he wants us to consider. This India is an India with a history of toleration and pluralism, an India that has brought forth its own version of 'secularism', and an India that is every bit rational, discursive and analytical as the western culture itself.

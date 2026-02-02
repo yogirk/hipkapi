@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/01/law-secularization-and-religious-attitudes/
 ---
 
 1. So far, our answers have always taken this form: in the moment of secularization, the formal structures or cognitive schemes of Christianity are diffused accordingly as they lose their specific doctrinal content. In this formulation, it is as though the logical form of religion is able to spread itself by disposing of its semantic content. Thus, both the common sense of the West and the scholarly consensus of the academia accept the background assumptions of Christian doctrine, while they do not adopt its specific teachings. Balu has always been somewhat unhappy about this formulation. As he argues in [chapter 11 of `The Heathen in his blindness: Asia, the West and the dynamic of religion'](http://sites.google.com/site/colonialconsciousness/theheatheninhisblindness), it is not a specific set of assumptions which spreads in society, but rather certain attitudes. The claims about the universality of religion, the meaning of life, the necessity of norms, the superiority of liberal democracy, etc. do not generally appear as explicit premises held by a group of people. Then, it seems the only explanation one can give is to ascribe them to these people as implicit assumptions. To some extent, this works: theories about the origin of religion, or the nature of morality, or human psychology all presuppose that certain assumptions are true. So if one intends to reveal the conceptual problems of these theories, it is fruitful to analyze these assumptions as the hidden premises of theorizing.

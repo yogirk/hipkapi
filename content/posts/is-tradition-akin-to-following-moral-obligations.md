@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/is-tradition-akin-to-following-moral-obligations/
 ---
 
 Traditions are inherited practices, which mean two things: they are both transmitted and learnt. The learning occurs through imitation, following instructions, through stories and so on. Consequently, traditions 'change' (i.e. undergo modifications) even as they are being transmitted and learnt. This makes traditions flexible and adaptive.

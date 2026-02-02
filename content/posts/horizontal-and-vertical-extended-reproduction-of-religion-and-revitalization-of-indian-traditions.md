@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/19/horizontal-and-vertical-extended-reproduction-of-religion-and-revitalization-of-indian-traditions/
 ---
 
 1. Why did Christianity become a 'universal' religion? How did Christians replace the 'chosen' people? What was the logic behind the transformation of the Jewish god into God of the humankind?

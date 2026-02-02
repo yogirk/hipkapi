@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/colonial-consciousness-and-victorian-morality/
 ---
 
 1. You suggest that calling Apsaras as "prostitutes in the court of Indra" is an extreme statement. Of course, you would be right if you mean that the English word does not carry all the connotations of 'Veshya' or even that our current usage of the word 'Veshya' is not as rich as the earlier uses of the same word were. You are right too when you point out that the word 'Kama', as a pursushartha, embraces a bigger set than sexual pleasure or romantic love. Perhaps, one might prefer the word 'courtesan' to 'prostitute' but that distorts the Indian 'Veshya' too: a courtesan was either a mistress of the wealthy or a prostitute who entertained only the rich. However, I am not sure whether my claim is really that extreme (with the proviso that we keep in mind the current-day changes in the meanings of the words in both English and Indian languages). Let me explain why.

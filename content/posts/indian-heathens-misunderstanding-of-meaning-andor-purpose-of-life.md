@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2012/06/08/indian-heathens-misunderstanding-of-meaning-andor-purpose-of-life/
 ---
 
 I

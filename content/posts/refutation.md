@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/refutation/
 ---
 
 1. My book is not about India but about the western culture. It is a study of the western culture using one thread, namely, religion. To the extent I talk about India, I do so using some of the 'facts' that Indologists (and others) have so far used. My use of their facts (to show the opposite of what they believe they have shown) illustrates the consensus in the philosophies of sciences (of the last hundred years or more) that ['facts' are mostly facts of a theory.](/posts/facts-are-facts-of-a-theory/)

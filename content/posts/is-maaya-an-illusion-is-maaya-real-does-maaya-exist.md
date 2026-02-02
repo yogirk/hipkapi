@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/17/is-maaya-an-illusion-is-maaya-real-does-maaya-exist/
 ---
 
 According to your account, Vedanta claims that the *world is an illusion* and that only the Brahman is real.

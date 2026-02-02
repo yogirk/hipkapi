@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2018/02/13/heuristics-traps-to-avoid/
 ---
 
 1. Perhaps, one of the ways to test whether your search is taking you in the right direction is by seeing whether it solves a well-known paradox, or explicates it in a novel way. If after research, your hypothesis leads you to a well-known discussion in theology (but *lacks* the latter's sophistication), then you could be on an uninteresting track.

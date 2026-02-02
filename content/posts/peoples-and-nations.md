@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2023/03/29/peoples-and-nations/
 ---
 
 The Ancient Romans spoke of ‘Peoples’ and ‘Nations’. They saw traditions making a group into a people and distinguishing people (and, sometimes, ‘nations’) from each other. Different peoples (distinguished from each other on the basis of ancestral traditions) could live together in a nation and a nation itself could host multiple peoples and traditions. Consequently, they did not see Christians as a people because they did not have ancestral traditions to follow.

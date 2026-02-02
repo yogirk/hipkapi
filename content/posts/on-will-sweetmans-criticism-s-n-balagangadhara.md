@@ -11,6 +11,8 @@ tags:
 - Will Sweetman
 summary: ''
 toc: true
+aliases:
+  - /2011/03/04/on-will-sweetmans-criticism-s-n-balagangadhara/
 ---
 
 Let me just focus on one important and one not-so-important claim from Will Sweetman's article *"Hinduism" and the history of "religion": Protestant presuppositions in the critique of the concept of Hinduism.* He suggests that I argue the following.

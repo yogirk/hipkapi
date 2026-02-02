@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/01/13/is-humility-a-virtue/
 ---
 
 First: there is nothing morally wrong in posting an opinion. My problem is that (a) it occurs within the context of generating and criticising knowledge; (b) its cognitive value is either zero or negative; (c) it is presented as though thoughtless opinions (almost all opinions are thoughtless) form a counterpoint to knowledge or are themselves candidates for knowledge (the latter are the hypotheses); (d) one acts as though the fact that opinions could have some moral value (because a human being expresses them) is sufficient to make them cognitively worthy; (e) cognitive nonsense is provided with a foundation in Christian (and Semitic) religious value (like ‘IMHO’, ‘humility’ for example), which is itself placed beyond discussion as though its importance is universally recognized; (Neither the Ancient Pagans nor the Asian traditions consider ‘humility’ a moral virtue. It is immoral to these traditions because it is seen as dissimulation and deception.); and so on. There is place on this forum for dissent, disagreement and criticism, but their foundation is not moral but cognitive. I do not tolerate opinions on this board, but I am willing to think about any hypothesis that appears reasonable. I will respond to misunderstandings, queries and criticisms. However, those who find my reactions (to their ‘humble opinions’) offensive should leave this group.

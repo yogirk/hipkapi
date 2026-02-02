@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2012/11/16/profound-criticism-1-the-logic-is-different/
 ---
 
 Many come up with criticisms like 'Buddhist logics are different' or 'one has to follow Indian logics'. These criticisms sound profound! They are damn shallow, unless they answer the following questions.

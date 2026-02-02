@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/23/ad-hoc-explanations-i-why-do-puja-to-cows/
 ---
 
 1. When we provide explanations, we should also look at their contrastive nature: why do puja to cows and not to buffalos? The problem in this case, however, is this: the explanation one gives about a tradition (you will soon see that one of the problems is to identify the explanandum itself) must also incorporate this contrast. Someone like Kanch Ilaiah has answered this question thus: the puja to cows and not to the buffalos expresses racism (that is at the origin of the caste system) because cows are white and buffaloes are always dark. In other words, you cannot simply ask for a contrastive explanation without incorporating it in a 'bigger' explanation that explains the explanandum.

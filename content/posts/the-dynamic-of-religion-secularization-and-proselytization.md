@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/19/the-dynamic-of-religion-secularization-and-proselytization/
 ---
 
 1. Let us begin with the idea that religion is some kind of a system (or structure or whatever you feel like using) that maintains itself. That is to say, it is able to reproduce itself, and sustain itself. I call this the `simple reproduction' of religion. This dynamic enables not only the reproduction of the community of believers but also the experiential intelligibility that the Cosmos has for them. (Worship, for instance, is one such means for the reproduction of religion.)

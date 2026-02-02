@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/05/03/brahman-and-atman/
 ---
 
 I

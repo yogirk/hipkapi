@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/19/norm-utilitarian-ought-patanjali/
 ---
 
 1. Assume that India (or any other society) does not have an ethics. What would happen? Surely, if ethics has something to do with coordinating human actions, we know of several ways to do the same without taking recourse to ethical thinking: laws, rules (like those in games), agreements, pacts, covenants, ... are some of the candidates.

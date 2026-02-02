@@ -14,6 +14,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2012/04/21/how-to-access-indian-traditions/
 ---
 
 1. As I have often said, the most intriguing aspect of the Indian culture is the kind of knowledge it produced and encouraged people to produce: experiential knowledge which emerges by systematically reflecting on our (human) experiences in the world. As human beings, our experiences are many: no one set, no one kind of experience exhausts what we go through. From the purely personal experiences of the world (our ambitions, hopes, dreams, frustrations, etc) to the entirely social ones (the experiences of sorrow and injustice that other human beings in the world experience). So, knowledge that reflects on or thinks about and systematizes such experiences presupposes multiple learning sites, many diverse perspectives and varied kinds of intellectual skills.

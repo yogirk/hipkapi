@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2013/02/13/how-do-we-understand-the-concept-of-communal-violence/
 ---
 
 We all agree that events like the Gujarat riots are tragic and terrible. But what is the role of intellectuals in avoiding similar tragedies in the future?

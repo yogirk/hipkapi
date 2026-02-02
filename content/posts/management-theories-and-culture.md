@@ -9,6 +9,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2018/05/22/management-theories-and-culture/
 ---
 
 > Here is how, rightly in my view, you formulate the challenge facing us:  So, the challenge you (and people like me who find your explanations very interesting) face is to figure out a comprehensive, viable and sustainable alternate ‘clustering structure’ (the modern complex organization) that will deliver the complex goods and services needed in today’s economy while getting rid of the cultural distortions which give rise to ‘corruption’.

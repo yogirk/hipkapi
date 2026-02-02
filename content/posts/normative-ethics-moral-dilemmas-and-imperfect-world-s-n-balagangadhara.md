@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/normative-ethics-moral-dilemmas-and-imperfect-world-s-n-balagangadhara/
 ---
 
 Let us say that 'X' does something which 'Y' considers corrupt. To keep it simple, let us say that 'Y' expresses the aforementioned judgment. In order to express it, or persuade others about the validity of this moral judgment, 'Y' will have to do something like this:

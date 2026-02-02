@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/23/arguments-vs-theories/
 ---
 
 I have discovered that there is a fundamental difference between arguments and theory-building. As a philosopher, I have come to think that one could argue almost any position, within reasonable limits. Mostly, they consist of putting across plausible, or even logically possible considerations in order to show that either some point is plausible or that it could be true. Up to a point, arguments have a function: they force you to reason, check for inconsistencies, train your thinking process, etc. However, you must remember that ultimately all you have done is make a sentence or a set of sentences sound plausible or shown it to be logically consistent and possible. More often than not, it has a psychological purpose as well: that of shooting down some person, demonstrate intelligence, exhibit stupidity and so on. However exhilarating it might be at times, this is a very unproductive occupation, if carried on too far: one does not advance knowledge a great deal.

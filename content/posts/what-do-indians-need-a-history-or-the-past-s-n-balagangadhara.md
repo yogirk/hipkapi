@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2012/02/16/what-do-indians-need-a-history-or-the-past-s-n-balagangadhara/
 ---
 
 Today, both in India and abroad, we see the emergence of a new intellectual trend: based on painstaking research, to write an accurate history of India. What is *new* about this approach? In one sense, as I shall explain in this article, this attempt is not novel; in another sense, which too shall be explained, there is something very new in it. I shall talk about both in the course of answering the question raised in the title, which contrasts ‘the past’ with ‘a history’. This contrast needs explication because historiography is seen as an ‘accurate recording of the past’. Yet, I am going to contrast the product of historiography, ‘a history’, with something called ‘the past’.

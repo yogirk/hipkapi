@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/09/religious-tolerance-and-ecumenism-s-n-balagangadhara/
 ---
 
 1. One has faith in God and, therefore, trusts that His message is also The Truth. That is to say, one should not predicate the attitude of having `faith in' to the EI account directly. There is a very important additional reason for being clear about our terminologies.

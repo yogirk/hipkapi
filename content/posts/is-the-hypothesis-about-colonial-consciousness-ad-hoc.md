@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/25/is-the-hypothesis-about-colonial-consciousness-ad-hoc/
 ---
 
 1. I have come to accept that the most interesting facts that a theory explains are those of the theory itself. Furthermore, a 'theory', which collects all kinds of facts first and tries to 'explain' them subsequently, is worse than having no theory. Such a theory is completely ad hoc and is cognitively uninteresting. It is pernicious too because it generates the belief that one understands such facts, when, in fact, all one has is an ad hoc explanation. In this sense, I have not collected evidence for the statement that 'Indians accept European reports as descriptions of their world'; nor am I explaining these assembled facts.

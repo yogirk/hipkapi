@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/07/christological-dilemma-again/
 ---
 
 X says that Christological dilemma is some kind of theological logic and suggests that ordinary Christians are not affected by this artificial problematic.

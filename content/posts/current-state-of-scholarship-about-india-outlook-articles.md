@@ -10,6 +10,8 @@ tags:
 - Wendy Doniger
 summary: ''
 toc: true
+aliases:
+  - /2014/03/07/current-state-of-scholarship-about-india-outlook-articles/
 ---
 
 1. [Jakob de Roover's *Untangling the knot*](https://web.archive.org/web/20140529022325/http://www.outlookindia.com/article.aspx?289559)

@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2018/03/23/stupidity-of-indian-meanings-of-english-words/
 ---
 
 Note: For a broader application and context, please read this paper: [translation, interpretation and culture](https://sites.google.com/site/colonialconsciousness/2014-comparative-theology.pdf)

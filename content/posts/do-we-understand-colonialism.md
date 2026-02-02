@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/01/do-we-understand-colonialism/
 ---
 
 Colonialism has been one of the most significant phenomena in the history of humankind in the last three hundred years or so. Its importance can hardly be overstated. Yet, as many have said before, it has not been adequately theorized. There is of course a great deal of material on the histories, the effects, and the political resistances to colonialism. Reading them, however, **merely increases the puzzlement about colonialism**: though it seems to be at **the root of all the ills** of the modern world, what is not clear is how or why that is the case. Perhaps, that has to do with an implicit consensus shared by many: everyone appears to know what it is and most agree about its immoral nature. *Colonialism emerges as a self-clarifying and a self-explaining phenomenon. If it is self-luminescent and so manifest an evil, why did many people in the Metropolis argue both about the nature of the phenomenon and its moral status for centuries on end?*

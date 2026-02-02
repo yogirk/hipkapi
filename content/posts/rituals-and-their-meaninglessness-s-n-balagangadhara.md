@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/rituals-and-their-meaninglessness-s-n-balagangadhara/
 ---
 
 1. Consider, say, a ritual like sandhyaavandanam. Here are two extremes, when it comes to saying what it is: (a) one goes very deeply into what Mudras mean, which of the mudras occur in this daily ritual; analyses the praanayaama as it is taught; goes into what the Gaayathri mantra really means; and so on. (b) The other extreme is an ordinary Brahmin who performs all the prescribed actions without knowing what any of them mean.

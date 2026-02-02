@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/06/what-exists-in-india-given-hinduism-buddhism-etc-do-not-exist/
 ---
 
 1. The first thing is that [my book](http://colonial.consciousness.googlepages.com/HeatheninHisBlindness.pdf) is about the western culture and a specific religion, which brought the former forth. It is only *indirectly* about India because I interrogate the way India was looked at by the western culture. I proffer some hypotheses about India there by consciously remaining within the western framework.

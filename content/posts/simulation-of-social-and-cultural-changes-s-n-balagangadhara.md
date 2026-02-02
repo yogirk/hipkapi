@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/01/simulation-of-social-and-cultural-changes-s-n-balagangadhara/
 ---
 
 A question: Is it desirable to have a model that can simulate social and cultural changes?

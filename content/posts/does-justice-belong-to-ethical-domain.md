@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/24/does-justice-belong-to-ethical-domain/
 ---
 
 1. In "An Enquiry Concerning the Principles of Morals", David Hume, the philosopher of the Scottish Enlightenment, raises a question, which has always been one of the basic concerns of ethical investigations in the modern western intellectual tradition: what theory of morals could serve any useful purpose, he asks, unless it can be shown that all the duties it recommends are also in the true interest of each individual? Even though there are several interesting things about this question, I will just indicate two of them. Firstly, the belief is that an individual requires reasons to behave morally which is what a theory of morals is supposed to provide. Secondly, he requires reasons to be moral because moral rules constrain his actions. Since it is rational that each individual pursues his 'own' interests, any constraint placed on his behavior requires some kind of justification. Together, these two assumptions yield us the better-known question in ethical theorizing: is it rational to be moral? Or, more imply put in terms of an even older question: why ought we to be moral?

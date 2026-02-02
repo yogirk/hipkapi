@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2012/04/01/historicity-of-rama-krishna-anjaneya-s-n-balagangadhara/
 ---
 
 One of the questions that has come up in this discussion is the following: are we logically forced to assume the 'existence' of, say, Rama or Krishna, when we 'believe' in them? This question has partly been responsible for the discussion about the 'historicity' of Ramayana. Here is my answer as I see the situation today.

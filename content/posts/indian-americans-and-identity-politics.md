@@ -9,6 +9,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/indian-americans-and-identity-politics/
 ---
 
 We do not have any clear explanation of the nature and rise of American identity politics as yet. But here are a few speculative intuitions:

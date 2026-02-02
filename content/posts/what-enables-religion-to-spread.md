@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/what-enables-religion-to-spread/
 ---
 
 Question: why religion spreads among (some) human beings? What is it about them that enables the transmission of religion?

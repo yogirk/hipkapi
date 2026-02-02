@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/09/vivekananda-and-caste-theory-ladenness/
 ---
 
 1. You ask whether or not it was 'factual' that a 'paraiah' was not allowed on the same street as a Nair or a Brahmin. The evidence we have says that a Paraiah was not allowed to be on the same street as a Nair, but it is not clear whether it also applies to the presence of a Brahmin. First, here is some of the evidence.

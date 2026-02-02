@@ -8,6 +8,8 @@ categories: []
 tags: []
 summary: ''
 toc: false
+aliases:
+  - /about/
 ---
 
 This site hosts a collection of posts and articles (both publish and unpublished) about many things related to India, her culture and her traditions.

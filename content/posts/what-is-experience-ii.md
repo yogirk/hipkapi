@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/17/what-is-experience-ii/
 ---
 
 1. If we take our English language use as a reference point, it appears as though we can speak sensibly about experiencing our feelings ('I experience sadness'), experiencing thoughts ('I can even now experience my jumbled thoughts when ...'), experiencing colour ('I experience a redness'), experiencing actions ('I still experience my shaking limbs when I...') and so on. That is, we can experience the 'inputs' of all our five senses. From this, it follows that experience *cannot be* identical to any of them. Experience might contain, as its elements, inputs from these five senses in the form of thoughts, feelings, sensations, etc. but it cannot be coextensive with any one of them.

@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/christian-theology-and-linguistic-intuitions-prostitute/
 ---
 
 1. In so far as the suggestion is that the English word 'prostitute' does not capture the connotations of the earlier uses of 'Veshya', as I said, I agree with all of you. In this sense, if you further suggest that 'Apsara' should not be considered as a synonym for 'prostitute', I would also agree. I do not suggest that 'apsara' and 'prostitute' are synonyms: for two words to be synonymous in this context, we need that both words refer to one and the same set of objects. This cannot be the case here because 'apsara' picks out only non-human entities, whereas 'prostitute' can also refer to human beings. I would also be grateful if anyone has a better suggestion for translating 'Veshya'. As I said in an earlier post,'courtesan' is an alternative. However, a 'courtesan' is also a prostitute, whatever else she is. On this, linguistic part, there are no disagreements.

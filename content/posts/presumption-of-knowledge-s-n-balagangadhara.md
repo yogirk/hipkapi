@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/04/presumption-of-knowledge-s-n-balagangadhara/
 ---
 
 The first striking thing is their *presumption of knowledge* at several levels. Yet, they display abysmal ignorance.

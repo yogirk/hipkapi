@@ -12,6 +12,8 @@ tags:
 - hipkapi
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/hinduism-and-hipkapi-an-imaginary-entity-s-n-balagangadhara/
 ---
 
 1. What did the theory of gravitation do? Apart from describing the fall of bodies on earth, it also tied the motion of planets and the ebb and tide in the sea to each other. This theory allowed us to predict the motion of the planets and helped us discover a new planet in the solar system. In other words, it provided a theory that unified phenomena. Until that stage, we did not know that these three phenomena were linked together, and we had independent explanations for each of them. This is one of the things that a theory does: it identifies the phenomena that belong together.

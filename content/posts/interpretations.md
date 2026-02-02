@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/06/06/interpretations/
 ---
 
 There are multiple kinds of interpretation. For instance, there is interpretation of symbols in a domain like Physics: μ (in elementary optics) is "interpreted" as the refraction index of a substance. We use a more or less analogous notion of "interpretation" in Chemistry, Mathematics and so on. In logic, we speak of "interpretation of variables" like *p*, *q*, etc. Here, it means that the letters stand-in for arbitrary sentences with truth-values.

@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2024/04/03/what-happened-in-ayodhya/
 ---
 
 A three-part series by SN Balagangadhara

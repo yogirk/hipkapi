@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/rationality-and-rhetoric/
 ---
 
 1. It is in the nature of a rhetorical text that the author uses linguistic 'tropes' (metaphors, similes, analogies, imagery, etc) to persuade a reader about the reasonableness of a specific standpoint. It does not build arguments that systematically lead to a stand point but instead tries to convince the readers (or listeners) by using the abilities built into natural languages. Such texts do not easily lend themselves to a discussion regarding the steps taken in developing a stand point, unlike, say, a mathematical proof or a philosophical argument. Of course, I do not find such texts 'irrational'.

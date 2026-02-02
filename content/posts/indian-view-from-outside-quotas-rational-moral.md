@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/09/10/indian-view-from-outside-quotas-rational-moral/
 ---
 
 Read Jakob de Roover's piece on [reservations on dailyon.in](http://www.dailyo.in/politics/satish-deshpande-patidar-reservation-system-india-dalits-obcs-hardik-patel/story/1/6119.html) & on [swarjyamag](http://swarajyamag.com/politics/counterview-ambedkar-was-wrong-about-hinduism-the-right-can-stop-trying-to-appropriate-him/). From the perspective of constitution, constitution debates, check <https://www.academia.edu/16478230/Caste-based_reservation_and_social_justice_in_India>

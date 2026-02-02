@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2020/04/28/examples-of-real-vs-existence/
 ---
 
 Two points should be kept in mind before using these examples: (a) the examples illustrate that the distinctions are not unknown to an English language-user (b) the distinction does not require denying the knowledge that we have about the world. These merely indicate that the distinction between ‘real’ and ‘existence’ might be worth a serious investigation.

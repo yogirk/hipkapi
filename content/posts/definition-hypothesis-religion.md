@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/12/26/definition-hypothesis-religion/
 ---
 
 1. One confuses between a definition and a hypothesis. Definitions tell us how we use a word and which objects it refers to. In the case of the term ‘religion’, a definition should merely address this referential task: which things are we referring to, when we use this word. It cannot give us any understanding of the structure or properties of religion and does not have empirical consequences (much as defining any other word, say ‘species’ or ‘psychosis’, does not have empirical consequences). It merely points out the phenomena that are to be theorized. The result of this second process of theorizing is a hypothesis, which characterizes the properties or structure of a phenomenon.

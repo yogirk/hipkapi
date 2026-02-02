@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/04/16/is-wearing-a-bindi-religious/
 ---
 
 Depending on the context of the discussion (say a dispute about some aspect of the Indian culture), the disputants can treat wearing the bindi or a saree as facts. However, in another context of the discussion, these facts might become theoretical claims. For instance, is the Indian woman wearing a bindi or an Indian male wearing kumkum on his forehead being religious or not? Consider, for instance, the recent French legislation about wearing religious 'symbols' in the public. If someone decides to take an Indian to the court, then wearing bindi or kumkum becomes an issue of dispute. Then we will have disputes: one side will claim that it is religious, and the other will probably want to say that it is not religious. (If it happens, I suggest they use 'The Heathen in His Blindness: Asia, the West and the dynamic of religion'!) In such a case, wearing a bindi will be described using two kinds of theories about wearing a bindi.

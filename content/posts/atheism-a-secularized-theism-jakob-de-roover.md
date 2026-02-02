@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/atheism-a-secularized-theism-jakob-de-roover/
 ---
 
 1: Atheism is a phenomenon that came into being in the western culture at around the time of the so-called Enlightenment. The West claims that it liberated itself from the dogmas of the Christian religion in this Enlightenment, and those who call themselves atheists mean by this that they belong to the enlightened people who "have escaped from the dogmatic illusions of religion." Now, as it has always done, Christian Europe simply identified its own history with human history in general, and it claimed that all cultures had so far been under the ignorant spell of religion, but that they could now be liberated by the Enlightened West. This claim needs two separate premises: (a) That all cultures have religion (b) That atheism was a new and rational system of beliefs that could liberate people from all cultures from this illusion of religion.

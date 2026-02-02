@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/03/24/vacuity-of-intellectual-svaraj/
 ---
 
 In so far as one sees [this article](http://creative.sulekha.com/the-axis-of-neocolonialism_103313_blog) as a beginning of a certain type of enquiry, it is excellent. However, it is not adequate as a formulation of either the problem that confronts the Indian intellectuals (and not merely them) or the solutions. The problems are far more complex and the task is far more daunting than they appear at first sight.

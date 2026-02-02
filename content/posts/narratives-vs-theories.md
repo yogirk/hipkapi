@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2022/09/28/narratives-vs-theories/
 ---
 
 The question requires deeper handling so you will forgive me for the brevity of my response but you will get some idea of where I stand.

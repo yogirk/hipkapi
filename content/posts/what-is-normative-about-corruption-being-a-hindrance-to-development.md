@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/24/what-is-normative-about-corruption-being-a-hindrance-to-development/
 ---
 
 While translating Russell L. Ackoff, you say that such a translation is "not a moral judgment now, but a statement about the state of the economy". But your claim, according to Ackoff's own argument, is untrue.

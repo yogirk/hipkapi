@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/mitigating-circumstances-normative-ethics/
 ---
 
 The universalisability of norms does not mean that the western people all factually follow these norms. Even if everyone were to lie, the ethical statement "No one ought to lie" is a universal moral statement.

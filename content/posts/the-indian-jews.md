@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/10/04/the-indian-jews/
 ---
 
 social science debate in India has been hijacked by the struggle between secularism and*Hindutva* for decades now. usually the *Sangh Parivar* is blamed for this turn of events. However, it could well be argued that the *Hindutva* ideologues simply adopted the stance of the secularists.  Perhaps the best illustration is the case of anti-Brahminism.

@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/could-religion-be-a-neural-disorder/
 ---
 
 Religion lays claim to truth, both about itself and the Cosmos. It is true the way no other account (that we know of) is. However, religion also generates (or brings into being) a configuration of learning. That is, it enables a coordination of different learning processes into a configuration. A culture is such a configuration of learning.

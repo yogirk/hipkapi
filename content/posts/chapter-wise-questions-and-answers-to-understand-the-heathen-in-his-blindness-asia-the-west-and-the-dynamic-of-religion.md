@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/07/chapter-wise-questions-and-answers-to-understand-the-heathen-in-his-blindness-asia-the-west-and-the-dynamic-of-religion/
 ---
 
 Each time I tell someone, whether in a one-to-one discussion or in a conference, "there is no religion in India", I get the following answer: "Of course, that depends on how you define 'religion'". I answer as follows: "In that case, here is my definition: 'Religion=what does not exist in India'. Will that do? If it is really a question of the definition of a word, why does one need to write such a big book?"

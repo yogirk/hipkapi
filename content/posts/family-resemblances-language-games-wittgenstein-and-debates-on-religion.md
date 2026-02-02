@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/01/family-resemblances-language-games-wittgenstein-and-debates-on-religion/
 ---
 
 Balagangadhara points out an inconsistent reasoning of  the western and westernized Scholars, as well as the last 400 years of humanities scholarship.

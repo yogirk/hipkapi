@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2024/04/28/indian-education-system-is-a-social-parasite/
 ---
 
 You ask: “(a) Do you mean Islamic colonial rule affected our attitude towards knowledge (how we learn)? And (b) How do we fix the colonial era bureaucracy?” Because of their relevance, my answer is posted on the forum.

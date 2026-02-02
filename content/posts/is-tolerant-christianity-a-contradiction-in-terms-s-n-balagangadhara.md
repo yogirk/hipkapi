@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/03/is-tolerant-christianity-a-contradiction-in-terms-s-n-balagangadhara/
 ---
 
 1. Even if one insists (wrongly in my view) that I am suggesting that Alex Alexander is not a Christian, there are two ways of looking at the *object* of my assertion: (a) it is about the *unique* individual that Alex Alexander is; (b) it is about him in so far as he is an *instance* of the tolerant Christianity that some Indian Churches are supposed to be. I am **not** discussing (a): I do not know this unique individual, his history, his feelings and such like. Let us look at what discussing (b) entails.

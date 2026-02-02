@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/05/colonial-consciousness-as-a-process-and-as-an-event/
 ---
 
 It is an event because the colonial consciousness that I am talking about comprises of multiplicity of actions executed by indefinitely many Indians over a long period. It is a process because colonial consciousness reproduces itself, colonial consciousness is transmitted from generation to generation and it is learnt. Consequently, we need to understand the mechanisms of this process and the structure of that event.

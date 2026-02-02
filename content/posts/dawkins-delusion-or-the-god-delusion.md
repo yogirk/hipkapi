@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2012/06/23/dawkins-delusion-or-the-god-delusion/
 ---
 
 While re-reading certain passages from Richard Dawkins' The God Delusion (2006), I was so shocked by his combination of ignorance and arrogance. Forgive me for some Dawkins- bashing:

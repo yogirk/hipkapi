@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/03/25/believers-vs-their-religion/
 ---
 
 There are two distinct problems: one involving religions (like Christianity, Judaism and Islam) and the other involving the believers.

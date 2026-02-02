@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2014/04/09/what-is-critique/
 ---
 
 There is a very interesting notion of "critique": it begins with Kant and stretches through Marx in the German philosophical tradition. In fact, it is most developed in Marx when he says he develops a "critique" of the "science" of political economy, a "critique", which, he says, is nonetheless a "science". He does not develop a "scientific critique" of political economy: he develops a critique of the science of political economy.

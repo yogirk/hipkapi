@@ -9,6 +9,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/26/african-culture-tribes/
 ---
 
 One of the most common characteristics of the African culture is supposed to be its tribal nature. You could begin a study of 'how' European intellectuals came to this characterization. It will have something to do with the way the Jews are differentiated internally, the novelty of what they confronted in Africa, and the inability to conceptualize what 'tribes' really are. Such a research, which begins here in Europe, is likely to provide you with the initial questions that you need. Depending on the nature of these questions, you could gather the relevant data. Your hypothesis will be subject to one basic constraint: namely, it will have to provide an 'explanation' (which is not ad hoc) about why the intellectuals in the West look at Africa in terms of tribes. And so on.

@@ -14,6 +14,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/02/12/proselytizing-drive-of-the-eastern-christianity-in-india/
 ---
 
 1. Actually, there are two questions that need to be distinguished from each other. There is, firstly, the question about the nature of 'Eastern' Christianity. If it is muted in its proselytizing drive in all cultures the *same way* and if it is 'tolerant' in *exactly the same way* in all cultures, it makes sense to ask the question whether (a) different factors in all these cultures have brought about the same effect (different 'causes' can generate one and the same effect in differing circumstances) or (b) it is due to the nature of the 'Eastern' Christianity itself. Nobody is able to make such a claim today. We do not possess the theoretical apparatus which would allow us to make sense of the remarks I have made in italics.

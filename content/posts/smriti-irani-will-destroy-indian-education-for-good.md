@@ -12,6 +12,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2017/01/06/smriti-irani-will-destroy-indian-education-for-good/
 ---
 
 Our [recent piece](/posts/why-smriti-irani-as-hrd-minister-was-a-terrible-choice/) on the valedictory speech of the minister of HRD at a Kolkata workshop elicited many replies from the readers. Some found that we indulged in a personal attack, our piece lacked "logic" and "argumentation" and one of her secret admirers, in her defence, even sent us a link to a report by Saptadwipa Ghosal in *The Echo of India*. Such responses demand an adequate reply. Actually, we wanted to show how profound her new education policy is and we failed in demonstrating it. In this piece, through the use of sophisticated hermeneutics, we shall make our mistake good.

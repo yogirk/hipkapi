@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/04/are-indian-christians-not-bound-by-christian-theology-s-n-balagangadhara/
 ---
 
 You say: Thus when one says that many Indian Christians are pluralistic ... it cannot be refuted simply by saying, well Christian doctrine fundamentally cannot be pluralistic -- because all doctrine ultimately always gets interpreted at the level of the individual.

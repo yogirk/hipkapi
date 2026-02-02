@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/15/do-practices-need-a-rational-justification/
 ---
 
 If we understand the word 'tradition' to mean 'a set of practices', then the question is this: why continue a set of practices? When someone 'justifies' (I will soon explain why I use scare quotes for this) this by referring to the existence of a set of practices, what exactly is the person doing?

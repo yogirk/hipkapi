@@ -14,6 +14,8 @@ tags:
 - reduction
 summary: ''
 toc: true
+aliases:
+  - /2013/12/23/on-the-disingenuity-of-a-comparative-theology/
 ---
 
 Check Balu's paper on comparative theology, and in particular Francis Clooney's:

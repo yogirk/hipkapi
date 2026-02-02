@@ -16,6 +16,8 @@ tags:
 - Wittgenstein
 summary: ''
 toc: true
+aliases:
+  - /2011/02/28/why-social-sciences-are-not-providing-knowledge-including-the-likes-of-wendy-doniger-and-her-children/
 ---
 
 1. The general pattern that has come to the fore is that Wendy and her children (including Jeffrey Kripal) *systematically* portray the Indian traditions in an unfavorable light, even when compared to how religions like Christianity, Islam and Judaism are portrayed. This claim is made in several articles, independent of whether these religions and the Indian traditions are true or false, whether they are irrational or rational, and so on. The discussion is not about the truth-claims of these religions and traditions but about their depictions.

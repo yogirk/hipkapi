@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/02/facing-the-challenge-of-american-pluralism-on-the-future-of-nri-community/
 ---
 
 In years to come, the Indian community in the U.S. will face a major challenge from American pluralism. This is the first time a powerful community of pagans has to be accommodated within the American society. The NRI community is well-educated, well-to-do and proud of its cultural traditions. At the same time, the representation of the Indian traditions in the U.S. educational system shows a pathetic level of understanding. I will argue that recent events like the California textbook controversy point to a profound problem: *the American model of pluralism is unable to accommodate these pagan traditions*. This is the case, because its structure has emerged from a co-existence of Protestant denominations. Maximally, the resulting model could encompass other variants of the religions of the book: Catholicism, Judaism and Islam. Incorporating the pagan traditions of India, however, will require a fundamental rethinking of American pluralism.

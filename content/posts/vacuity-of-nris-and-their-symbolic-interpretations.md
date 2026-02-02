@@ -13,6 +13,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/23/vacuity-of-nris-and-their-symbolic-interpretations/
 ---
 
 1. Vyasa's argument (to the extent we can speak of an argument in this context) is quite subtle: When Urvasi comes to Arjuna at the behest of his father, and when she is possessed by desire, and when the Apsaras choose freely and unconfined, then (a) one cannot reject her; (b) and with the argument that she is a superior to him. If you split this conjunction and cast in normative terms, it says something like this: (a) Rejection of a woman is not permitted when one's father indicates that a son should sleep with a woman; (b) Rejection of a woman is not permitted when the woman is sexually attracted to oneself; (c) Rejection of a woman, whoever she might be, is not permitted when she chooses freely and without confines. Because such a rejection is triply prohibited (or forbidden), Arjuna's argument that he 'ought not' to sleep with the parent of his race (which has only one prohibition) possesses less value. So, Urvasi is justified in her curse of Arjuna. In other words, if we read this fragment of Mahabharata in normative terms, Arjuna was wrong in not having an incestuous relationship with one of his great-great-grandparents.

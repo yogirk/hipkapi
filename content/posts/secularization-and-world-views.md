@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/15/secularization-and-world-views/
 ---
 
 To begin with the question raised in `The Heathen in his blindness: Asia, the West and the dynamic of religion': Do all cultures, peoples, and individuals need a world view to navigate themselves in the world? The answer is in the negative because religion is not a cultural universal and the only examples we have of world views are religions.

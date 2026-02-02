@@ -10,6 +10,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2015/01/04/caste-system-i/
 ---
 
 1. Let me reconsider the hypothesis I propose: what we call 'the caste system' in India today is a hybrid beast. It is not a social structure but a linguistic entity (i.e., a set of sentences) which is an incoherent admixture to two unconnected descriptions (of the world): a generalization of the description of a structured set of interactions (let us leave aside the question of what kind of mathematical properties that this 'structured set' has: how it is ordered, whether the ordering is strong or weak and so on) among [the so-called 'lower castes'](/posts/caste-hierarchies/), while fitting this description within the framework of the varna system, which, I say, is a description of social stratification at a very high level of abstraction or generality. It is incoherent by virtue of its claim to being a 'unified' (and unifying) description of the social structure of Indian society: it collapses descriptions of different things at different levels (of descriptions) into a single alleged description of social reality. That is why these 'theories' of caste are either incoherent, nonsensical or, where neither, false.

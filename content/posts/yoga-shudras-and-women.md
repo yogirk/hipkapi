@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/03/17/yoga-shudras-and-women/
 ---
 
 X says: Yoga practice of self attainment without the help of external deity worship so common in those days of Patanjali as today was restricted to very few as it required proper initiation from the guru and renunciation of normal humdrum lifestyle of a common man. I say man because fewer women go for that kind of ascetic lifestyle.

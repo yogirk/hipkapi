@@ -11,6 +11,8 @@ categories:
 tags: []
 summary: ''
 toc: true
+aliases:
+  - /2011/04/09/bhakti/
 ---
 
 Is bhakti what the bhaktas do, or are people bhaktas because they 'follow' (bad choice of words, but there is no other way to put it) the 'bhakti marga', or is bhakti *neither* of the two? I mean: is the bhakta moved because, for example, the child who stole the butter happens to be the *Kannan*, or because the *child*, who also happens to be the Lord, stole the butter? If it is the first, it is *worthless*: it is the same as being a sycophant (as the Americans would put it: one sucks up to ...). If the second, it is false: surely, we are not moved to tears when our children steal and the lie about it. When the mother gets to hear from a child: "'I' did not steal" and, as proof, gets to see the 'vishwarupa' (in the mouth where the speech manifests itself) and 'sees' the Cosmos (all that ever was, is and shall be) in an 'I' -- what is the question, and what the answer?
