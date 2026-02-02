@@ -12,7 +12,7 @@ categories:
 - vibrancy
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/04/legislations-against-proselytization-a-weakness-of-indian-culture-s-n-balagangadhara/
 ---

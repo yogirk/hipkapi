@@ -10,7 +10,7 @@ categories:
 - truth
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/01/25/truth-vs-usefulness-of-theories/
 ---

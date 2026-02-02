@@ -11,7 +11,7 @@ categories:
 - real
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2020/05/27/brahman-brihadaranyaka-upanishad-1-iv-10/
 ---

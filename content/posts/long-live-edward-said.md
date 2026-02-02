@@ -11,7 +11,7 @@ categories:
 - orientalism
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2020/06/09/long-live-edward-said/
 ---

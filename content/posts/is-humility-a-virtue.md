@@ -10,7 +10,7 @@ categories:
 - secularization
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/01/13/is-humility-a-virtue/
 ---

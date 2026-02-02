@@ -9,7 +9,7 @@ categories:
 - criticism
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/06/criticism-are-we-living-in-barrenness/
 ---

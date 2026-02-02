@@ -14,7 +14,7 @@ categories:
 - faith
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2014/03/24/belief-vs-faith/
 ---

@@ -11,7 +11,7 @@ categories:
 - explanatorily intelligible
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/19/the-dynamic-of-religion-secularization-and-proselytization/
 ---

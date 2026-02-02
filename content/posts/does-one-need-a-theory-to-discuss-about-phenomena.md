@@ -9,7 +9,7 @@ categories:
 - basics
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/23/does-one-need-a-theory-to-discuss-about-phenomena/
 ---

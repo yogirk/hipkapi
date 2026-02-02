@@ -10,7 +10,7 @@ categories:
 - interests
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/04/secularized-christian-theme-interests-of-a-social-institutionchristian-church/
 ---

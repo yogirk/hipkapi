@@ -10,7 +10,7 @@ categories:
 - religion
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2014/12/26/definition-hypothesis-religion/
 ---

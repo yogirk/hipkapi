@@ -10,7 +10,7 @@ categories:
 - secularization
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/04/christological-dilemma-and-who-is-a-christian/
 ---

@@ -11,7 +11,7 @@ categories:
 - explanatorily intelligible
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/15/secularized-christian-belief-worldview-is-a-cultural-universal/
 ---

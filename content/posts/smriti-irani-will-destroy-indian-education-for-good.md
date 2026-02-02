@@ -11,7 +11,7 @@ categories:
 - dailyo
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/01/06/smriti-irani-will-destroy-indian-education-for-good/
 ---

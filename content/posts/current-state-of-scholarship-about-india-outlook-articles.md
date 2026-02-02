@@ -9,7 +9,7 @@ categories:
 tags:
 - Wendy Doniger
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2014/03/07/current-state-of-scholarship-about-india-outlook-articles/
 ---

@@ -10,7 +10,7 @@ categories:
 - knowledge
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2024/04/28/how-to-read-gita/
 ---

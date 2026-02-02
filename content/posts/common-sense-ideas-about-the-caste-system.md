@@ -9,7 +9,7 @@ categories:
 - caste
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2015/10/01/common-sense-ideas-about-the-caste-system/
 ---

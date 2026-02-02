@@ -10,7 +10,7 @@ categories:
 - swarjyamag
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2022/12/01/balu-interview-with-swarajya/
 ---

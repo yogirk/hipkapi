@@ -12,7 +12,7 @@ categories:
 tags:
 - Gita
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2018/03/11/enlightenment-by-grace-or-efforts/
 ---

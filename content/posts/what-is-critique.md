@@ -10,7 +10,7 @@ categories:
 - explication
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2014/04/09/what-is-critique/
 ---

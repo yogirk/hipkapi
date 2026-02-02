@@ -9,7 +9,7 @@ categories:
 - published
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2015/05/11/us-commission-for-international-religious-freedom/
 ---

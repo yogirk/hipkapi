@@ -9,7 +9,7 @@ categories:
 - colonialism
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2024/04/28/indian-education-system-is-a-social-parasite/
 ---

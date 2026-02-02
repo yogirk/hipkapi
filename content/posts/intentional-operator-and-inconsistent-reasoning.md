@@ -10,7 +10,7 @@ categories:
 - Christianity
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/03/intentional-operator-and-inconsistent-reasoning/
 ---

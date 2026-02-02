@@ -12,7 +12,7 @@ categories:
 - Buddha
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/01/13/alleged-conflict-between-buddhism-and-brahmanism/
 ---

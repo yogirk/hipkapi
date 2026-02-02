@@ -10,7 +10,7 @@ categories:
 tags:
 - Will Sweetman
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/04/on-will-sweetmans-criticism-s-n-balagangadhara/
 ---

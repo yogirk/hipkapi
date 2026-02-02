@@ -11,7 +11,7 @@ categories:
 - secularization
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/04/is-the-distinction-between-laukika-and-adhyatimika-same-as-that-between-secular-and-religious/
 ---

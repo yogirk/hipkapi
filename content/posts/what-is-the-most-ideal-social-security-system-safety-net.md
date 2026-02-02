@@ -9,7 +9,7 @@ categories:
 - colonial consciousness
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/23/what-is-the-most-ideal-social-security-system-safety-net/
 ---

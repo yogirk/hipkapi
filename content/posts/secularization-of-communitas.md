@@ -9,7 +9,7 @@ categories:
 - secularization
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/01/21/secularization-of-communitas/
 ---

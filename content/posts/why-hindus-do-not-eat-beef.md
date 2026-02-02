@@ -8,7 +8,7 @@ categories:
 - Balagangadhara
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/23/why-hindus-do-not-eat-beef/
 ---

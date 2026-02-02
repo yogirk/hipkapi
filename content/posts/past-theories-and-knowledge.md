@@ -11,7 +11,7 @@ categories:
 - truth
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2024/04/24/past-theories-and-knowledge/
 ---

@@ -10,7 +10,7 @@ categories:
 - normative
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/09/28/principle-of-charity-and-normativity/
 ---

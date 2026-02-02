@@ -11,7 +11,7 @@ categories:
 - sat(asat)
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/05/avidya-ajnana-ignorance-a-learning-process-s-n-balagangadhara/
 ---

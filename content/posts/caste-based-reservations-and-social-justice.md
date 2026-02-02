@@ -9,7 +9,7 @@ categories:
 - reservations
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2015/10/05/caste-based-reservations-and-social-justice/
 ---

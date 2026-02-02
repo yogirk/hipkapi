@@ -12,7 +12,7 @@ categories:
 - religion
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2013/01/10/neuro-biological-theory-of-religion/
 ---

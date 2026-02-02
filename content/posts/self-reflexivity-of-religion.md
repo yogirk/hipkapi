@@ -11,7 +11,7 @@ categories:
 - explanatorily intelligible
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/11/18/self-reflexivity-of-religion/
 ---

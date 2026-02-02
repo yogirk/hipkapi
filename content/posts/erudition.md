@@ -10,7 +10,7 @@ categories:
 - erudition
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/10/31/erudition/
 ---

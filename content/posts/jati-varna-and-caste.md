@@ -9,7 +9,7 @@ categories:
 - caste
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2012/04/01/jati-varna-and-caste/
 ---

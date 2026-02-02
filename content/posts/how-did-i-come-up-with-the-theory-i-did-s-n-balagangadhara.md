@@ -9,7 +9,7 @@ categories:
 - criticism
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/07/how-did-i-come-up-with-the-theory-i-did-s-n-balagangadhara/
 ---

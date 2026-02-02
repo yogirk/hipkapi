@@ -16,7 +16,7 @@ categories:
 - truth
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2022/09/28/truth-belief-intentionality-eudaimonia-ought/
 ---

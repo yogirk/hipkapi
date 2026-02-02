@@ -12,7 +12,7 @@ categories:
 - bullshit
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/10/05/colonial-consciousness-and-enlightenment/
 ---

@@ -12,7 +12,7 @@ categories:
 - symbolism
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/23/vacuity-of-nris-and-their-symbolic-interpretations/
 ---

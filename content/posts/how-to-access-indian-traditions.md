@@ -13,7 +13,7 @@ categories:
 - knowledge
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2012/04/21/how-to-access-indian-traditions/
 ---

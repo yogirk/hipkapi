@@ -9,7 +9,7 @@ categories:
 - psychology
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/02/01/akrasia-and-will/
 ---

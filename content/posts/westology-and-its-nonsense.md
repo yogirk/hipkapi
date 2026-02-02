@@ -11,7 +11,7 @@ categories:
 tags:
 - Rajiv Malhotra
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2014/03/24/westology-and-its-nonsense/
 ---

@@ -10,7 +10,7 @@ categories:
 - knowledge
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/04/presumption-of-knowledge-s-n-balagangadhara/
 ---

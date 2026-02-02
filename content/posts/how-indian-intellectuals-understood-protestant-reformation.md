@@ -9,7 +9,7 @@ categories:
 - Gelders
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/25/how-indian-intellectuals-understood-protestant-reformation/
 ---

@@ -10,7 +10,7 @@ categories:
 - world view
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2020/06/09/who-needs-a-world-view/
 ---

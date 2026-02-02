@@ -10,7 +10,7 @@ categories:
 - religion
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/05/could-religion-be-a-neural-disorder/
 ---

@@ -10,7 +10,7 @@ categories:
 - Indian traditions
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/01/10/nirvana-shatakam/
 ---

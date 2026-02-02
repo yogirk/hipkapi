@@ -11,7 +11,7 @@ categories:
 - Indian traditions
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/01/13/assumptions-warrants-hypotheses-heuristics/
 ---

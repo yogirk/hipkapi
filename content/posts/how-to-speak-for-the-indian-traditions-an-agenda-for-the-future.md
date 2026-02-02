@@ -13,7 +13,7 @@ categories:
 - published
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2013/02/13/how-to-speak-for-the-indian-traditions-an-agenda-for-the-future/
 ---

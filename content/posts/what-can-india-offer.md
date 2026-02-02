@@ -11,7 +11,7 @@ categories:
 - outlook
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2015/10/01/what-can-india-offer/
 ---

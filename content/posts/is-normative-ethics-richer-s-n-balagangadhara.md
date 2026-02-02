@@ -9,7 +9,7 @@ categories:
 - normative
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/03/is-normative-ethics-richer-s-n-balagangadhara/
 ---

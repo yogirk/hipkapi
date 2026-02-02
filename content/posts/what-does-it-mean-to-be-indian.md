@@ -9,7 +9,7 @@ categories:
 - books
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2021/08/31/what-does-it-mean-to-be-indian/
 ---

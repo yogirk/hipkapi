@@ -8,7 +8,7 @@ categories:
 - stories
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/06/creation-stories-christianity-vs-indian-traditions/
 ---

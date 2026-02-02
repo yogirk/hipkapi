@@ -10,7 +10,7 @@ categories:
 - knowledge
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2022/08/01/solving-vs-dissolving-problems/
 ---

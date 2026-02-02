@@ -10,7 +10,7 @@ categories:
 - language
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/11/24/usefulness-of-dictionaries/
 ---

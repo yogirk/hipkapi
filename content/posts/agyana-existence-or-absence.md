@@ -9,7 +9,7 @@ categories:
 - ignorance
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2022/07/26/agyana-existence-or-absence/
 ---

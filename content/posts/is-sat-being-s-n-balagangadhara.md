@@ -11,7 +11,7 @@ categories:
 - sat(asat)
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/05/is-sat-being-s-n-balagangadhara/
 ---

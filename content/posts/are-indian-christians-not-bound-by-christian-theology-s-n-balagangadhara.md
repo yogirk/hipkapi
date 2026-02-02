@@ -9,7 +9,7 @@ categories:
 - Christianity
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/04/are-indian-christians-not-bound-by-christian-theology-s-n-balagangadhara/
 ---

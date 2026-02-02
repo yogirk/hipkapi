@@ -15,7 +15,7 @@ tags:
 - rain dance
 - Wittgenstein
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/02/28/why-social-sciences-are-not-providing-knowledge-including-the-likes-of-wendy-doniger-and-her-children/
 ---

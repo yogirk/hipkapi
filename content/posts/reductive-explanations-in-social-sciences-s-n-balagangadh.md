@@ -9,7 +9,7 @@ categories:
 - social sciences
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/02/28/reductive-explanations-in-social-sciences-s-n-balagangadh/
 ---

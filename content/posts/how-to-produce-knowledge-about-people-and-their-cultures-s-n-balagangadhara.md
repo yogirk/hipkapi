@@ -13,7 +13,7 @@ tags:
 - Jeffrey Kripal
 - Wendy Doniger
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/01/how-to-produce-knowledge-about-people-and-their-cultures-s-n-balagangadhara/
 ---

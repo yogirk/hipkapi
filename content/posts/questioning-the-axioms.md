@@ -13,7 +13,7 @@ categories:
 - tradition
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2016/06/24/questioning-the-axioms/
 ---

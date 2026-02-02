@@ -10,7 +10,7 @@ categories:
 - tolerance
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/03/the-religion-of-secular-state-dechristianized-christianity-s-n-balagangadhara/
 ---

@@ -11,7 +11,7 @@ categories:
 tags:
 - Wendy Doniger
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/02/28/does-shivalinga-mean-phallus-a-theoretical-dispute-s-n-balagangadhara/
 ---

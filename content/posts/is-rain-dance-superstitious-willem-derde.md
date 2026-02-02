@@ -12,7 +12,7 @@ categories:
 - Willem
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/01/is-rain-dance-superstitious-willem-derde/
 ---

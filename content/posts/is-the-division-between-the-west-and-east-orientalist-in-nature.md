@@ -10,7 +10,7 @@ categories:
 - orientalism
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/03/is-the-division-between-the-west-and-east-orientalist-in-nature/
 ---

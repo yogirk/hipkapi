@@ -13,7 +13,7 @@ categories:
 - swarjyamag
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2015/10/14/how-about-speaking-the-truth-about-reservations/
 ---

@@ -10,7 +10,7 @@ categories:
 - theory-ladenness
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/09/facts-are-facts-of-a-theory/
 ---

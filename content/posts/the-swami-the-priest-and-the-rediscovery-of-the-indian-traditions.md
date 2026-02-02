@@ -10,7 +10,7 @@ categories:
 - Jakob
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2020/09/22/the-swami-the-priest-and-the-rediscovery-of-the-indian-traditions/
 ---

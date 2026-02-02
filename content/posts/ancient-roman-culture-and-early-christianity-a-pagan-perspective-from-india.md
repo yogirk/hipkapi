@@ -10,7 +10,7 @@ categories:
 - Sarah
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/10/05/ancient-roman-culture-and-early-christianity-a-pagan-perspective-from-india/
 ---

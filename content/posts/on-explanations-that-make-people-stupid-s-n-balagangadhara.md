@@ -10,7 +10,7 @@ categories:
 - social sciences
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/01/on-explanations-that-make-people-stupid-s-n-balagangadhara/
 ---

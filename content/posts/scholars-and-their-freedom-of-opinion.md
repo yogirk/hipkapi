@@ -8,7 +8,7 @@ categories:
 - Balagangadhara
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/06/scholars-and-their-freedom-of-opinion/
 ---

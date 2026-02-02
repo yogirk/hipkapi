@@ -10,7 +10,7 @@ categories:
 - explanatorily intelligible
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/26/intentional-and-causal-explanations/
 ---

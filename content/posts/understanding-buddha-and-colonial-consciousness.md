@@ -10,7 +10,7 @@ categories:
 - Buddha
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/26/understanding-buddha-and-colonial-consciousness/
 ---

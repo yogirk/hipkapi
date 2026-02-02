@@ -10,7 +10,7 @@ categories:
 tags:
 - Derrida
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2015/11/10/an-indian-view-on-derrida-and-post-modernists/
 ---

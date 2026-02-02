@@ -13,7 +13,7 @@ categories:
 - vibrancy
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/02/12/proselytizing-drive-of-the-eastern-christianity-in-india/
 ---

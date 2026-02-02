@@ -10,7 +10,7 @@ categories:
 - religion
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/12/21/religion-sui-generis/
 ---

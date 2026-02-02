@@ -13,7 +13,7 @@ categories:
 - translation
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/02/translations-or-travesty-of-traditions-s-n-balagangadhara/
 ---

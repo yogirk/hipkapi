@@ -10,7 +10,7 @@ categories:
 - religion
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/01/family-resemblances-language-games-wittgenstein-and-debates-on-religion/
 ---

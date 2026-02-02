@@ -10,7 +10,7 @@ categories:
 - social sciences
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/08/27/does-feynman-know-about-his-culture/
 ---

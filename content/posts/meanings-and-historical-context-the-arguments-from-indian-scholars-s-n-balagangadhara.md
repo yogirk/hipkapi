@@ -11,7 +11,7 @@ categories:
 - secularism
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/04/meanings-and-historical-context-the-arguments-from-indian-scholars-s-n-balagangadhara/
 ---

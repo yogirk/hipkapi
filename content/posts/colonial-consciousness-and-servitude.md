@@ -14,7 +14,7 @@ categories:
 - Islam
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2022/10/26/colonial-consciousness-and-servitude/
 ---

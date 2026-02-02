@@ -10,7 +10,7 @@ categories:
 - secularization
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2015/03/30/secular-theme-cognitive-stages-of-development-concrete-vs-abstract/
 ---

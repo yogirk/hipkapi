@@ -9,7 +9,7 @@ categories:
 - secular
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2018/01/19/secular-state-and-hijab/
 ---

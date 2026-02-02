@@ -10,7 +10,7 @@ categories:
 - swarjyamag
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2024/04/03/what-happened-in-ayodhya/
 ---

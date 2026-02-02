@@ -8,7 +8,7 @@ categories:
 - Balagangadhara
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2015/11/10/butchered-in-bihar-a-view-from-the-outside/
 ---

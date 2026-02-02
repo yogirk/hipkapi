@@ -9,7 +9,7 @@ categories:
 - basics
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2014/08/05/ill-formed-questions/
 ---

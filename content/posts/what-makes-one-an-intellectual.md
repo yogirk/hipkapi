@@ -13,7 +13,7 @@ tags:
 - Steve Farmer
 - UR Ananthamurthy
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2012/04/25/what-makes-one-an-intellectual/
 ---

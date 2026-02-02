@@ -14,7 +14,7 @@ categories:
 - stories
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/05/comparative-anthropology-and-action-sciences-an-essay-on-knowing-to-act-and-acting-to-know-s-n-balagangadhara/
 ---

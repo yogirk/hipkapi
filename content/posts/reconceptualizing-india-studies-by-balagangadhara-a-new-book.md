@@ -10,7 +10,7 @@ categories:
 tags:
 - published
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2012/08/28/reconceptualizing-india-studies-by-balagangadhara-a-new-book/
 ---

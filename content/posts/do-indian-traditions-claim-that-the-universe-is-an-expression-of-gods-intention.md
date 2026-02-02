@@ -14,7 +14,7 @@ categories:
 - explanatorily intelligible
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/10/24/do-indian-traditions-claim-that-the-universe-is-an-expression-of-gods-intention/
 ---

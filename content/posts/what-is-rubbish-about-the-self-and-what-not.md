@@ -12,7 +12,7 @@ categories:
 - explication
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/08/27/what-is-rubbish-about-the-self-and-what-not/
 ---

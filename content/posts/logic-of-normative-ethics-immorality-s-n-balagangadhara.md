@@ -11,7 +11,7 @@ categories:
 - normative
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/03/logic-of-normative-ethics-immorality-s-n-balagangadhara/
 ---

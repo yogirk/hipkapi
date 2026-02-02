@@ -10,7 +10,7 @@ categories:
 - psychology
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2012/05/21/intelligibility-of-advaita/
 ---

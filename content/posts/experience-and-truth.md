@@ -11,7 +11,7 @@ categories:
 - truth
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2022/10/09/experience-and-truth/
 ---

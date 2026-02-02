@@ -11,7 +11,7 @@ categories:
 - knowledge
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/04/how-to-produce-knowledge-about-who-is-a-christian-s-n-balagangadhara/
 ---

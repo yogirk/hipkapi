@@ -10,7 +10,7 @@ categories:
 - secularization
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/01/law-secularization-and-religious-attitudes/
 ---

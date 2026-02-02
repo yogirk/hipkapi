@@ -11,7 +11,7 @@ categories:
 - real
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2012/04/01/historicity-of-rama-krishna-anjaneya-s-n-balagangadhara/
 ---

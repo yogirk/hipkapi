@@ -13,7 +13,7 @@ categories:
 - normative
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/02/colonial-consciousness-and-the-logic-of-india-is-corrupt-s-n-balagangadhara/
 ---

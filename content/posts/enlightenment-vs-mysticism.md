@@ -11,7 +11,7 @@ categories:
 - Indian traditions
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/06/enlightenment-vs-mysticism/
 ---

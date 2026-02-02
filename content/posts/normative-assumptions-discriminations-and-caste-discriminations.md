@@ -14,7 +14,7 @@ categories:
 - interests
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/24/normative-assumptions-discriminations-and-caste-discriminations/
 ---

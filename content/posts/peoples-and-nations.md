@@ -9,7 +9,7 @@ categories:
 - secularization
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2023/03/29/peoples-and-nations/
 ---

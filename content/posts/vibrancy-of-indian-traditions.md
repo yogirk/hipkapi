@@ -10,7 +10,7 @@ categories:
 - vibrancy
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2014/04/22/vibrancy-of-indian-traditions/
 ---

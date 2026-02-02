@@ -9,7 +9,7 @@ categories:
 - concept(category)
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/16/why-use-indic-categories-to-describe-the-world/
 ---

@@ -10,7 +10,7 @@ categories:
 - secularization
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/03/secularized-christian-theme-moral-certainty-and-proof-beyond-a-reasonable-doubt/
 ---

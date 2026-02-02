@@ -13,7 +13,7 @@ tags:
 - Wittgenstein
 - linga
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/07/explanations-that-trivialize-experiences-s-n-balagangadhara/
 ---

@@ -10,7 +10,7 @@ categories:
 - bullshit
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/02/is-every-description-knowledge/
 ---

@@ -12,7 +12,7 @@ categories:
 - transcript
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2022/09/30/how-to-understand-corruption/
 ---

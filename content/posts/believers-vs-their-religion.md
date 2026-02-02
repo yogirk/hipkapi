@@ -11,7 +11,7 @@ categories:
 - tolerance
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2014/03/25/believers-vs-their-religion/
 ---

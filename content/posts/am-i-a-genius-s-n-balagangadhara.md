@@ -9,7 +9,7 @@ categories:
 - criticism
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/01/am-i-a-genius-s-n-balagangadhara/
 ---

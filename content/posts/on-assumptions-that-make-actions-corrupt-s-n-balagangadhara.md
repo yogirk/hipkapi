@@ -11,7 +11,7 @@ categories:
 - normative
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/03/on-assumptions-that-make-actions-corrupt-s-n-balagangadhara/
 ---

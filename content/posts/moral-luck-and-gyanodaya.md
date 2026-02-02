@@ -9,7 +9,7 @@ categories:
 - enlightenment
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2022/07/24/moral-luck-and-gyanodaya/
 ---

@@ -10,7 +10,7 @@ categories:
 - secular
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/16/fallacy-of-equivocation-indian-secularism/
 ---

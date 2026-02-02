@@ -13,7 +13,7 @@ tags:
 - Paul Courtright
 - Wendy Doniger
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/02/28/negative-portrayals-of-non-western-cultures-like-indian-secularization-of-christianity-s-n-balagangadhara/
 ---

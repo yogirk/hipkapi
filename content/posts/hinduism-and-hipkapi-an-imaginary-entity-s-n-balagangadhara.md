@@ -11,7 +11,7 @@ categories:
 tags:
 - hipkapi
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/05/hinduism-and-hipkapi-an-imaginary-entity-s-n-balagangadhara/
 ---

@@ -13,7 +13,7 @@ categories:
 - vibrancy
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/02/to-follow-our-forefathers-the-nature-of-tradition-s-n-balagangadhara/
 ---

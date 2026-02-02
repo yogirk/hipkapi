@@ -10,7 +10,7 @@ categories:
 - outlook
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2015/10/04/how-free-are-we/
 ---

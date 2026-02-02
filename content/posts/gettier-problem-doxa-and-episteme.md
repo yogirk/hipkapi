@@ -10,7 +10,7 @@ categories:
 - knowledge
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/01/21/gettier-problem-doxa-and-episteme/
 ---

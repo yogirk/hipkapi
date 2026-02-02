@@ -13,7 +13,7 @@ categories:
 tags:
 - humility
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/01/13/humility-is-a-vice/
 ---

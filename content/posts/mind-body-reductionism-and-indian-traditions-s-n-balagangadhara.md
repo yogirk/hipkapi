@@ -9,7 +9,7 @@ categories:
 - Indian traditions
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/03/mind-body-reductionism-and-indian-traditions-s-n-balagangadhara/
 ---

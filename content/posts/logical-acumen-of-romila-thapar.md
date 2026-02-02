@@ -10,7 +10,7 @@ categories:
 tags:
 - Romila Thapar
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2012/04/01/logical-acumen-of-romila-thapar/
 ---

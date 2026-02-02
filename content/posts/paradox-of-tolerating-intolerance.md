@@ -10,7 +10,7 @@ categories:
 - tolerance
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/07/paradox-of-tolerating-intolerance/
 ---

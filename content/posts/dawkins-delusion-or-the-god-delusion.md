@@ -11,7 +11,7 @@ categories:
 - secularization
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2012/06/23/dawkins-delusion-or-the-god-delusion/
 ---

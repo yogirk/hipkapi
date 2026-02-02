@@ -9,7 +9,7 @@ categories:
 - Balagangadhara
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/02/28/denying-experience-in-intra-cultural-communication-s-n-balagangadhara/
 ---

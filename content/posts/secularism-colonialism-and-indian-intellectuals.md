@@ -11,7 +11,7 @@ categories:
 - secularism
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/02/secularism-colonialism-and-indian-intellectuals/
 ---

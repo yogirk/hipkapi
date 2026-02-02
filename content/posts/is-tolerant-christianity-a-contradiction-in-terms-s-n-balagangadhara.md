@@ -10,7 +10,7 @@ categories:
 - tolerance
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/03/is-tolerant-christianity-a-contradiction-in-terms-s-n-balagangadhara/
 ---

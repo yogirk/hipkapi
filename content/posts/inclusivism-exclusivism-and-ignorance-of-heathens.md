@@ -14,7 +14,7 @@ tags:
 - Inklusivismus
 - Paul Hacker
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/03/inclusivism-exclusivism-and-ignorance-of-heathens/
 ---

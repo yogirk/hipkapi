@@ -9,7 +9,7 @@ categories:
 - colonial consciousness
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/27/religious-colonialism-islamic-vs-christian/
 ---

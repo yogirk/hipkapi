@@ -9,7 +9,7 @@ categories:
 - criticism
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/02/criticism-one-need-to-be-indian-to-study-indian-culture/
 ---

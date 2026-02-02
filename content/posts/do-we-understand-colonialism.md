@@ -10,7 +10,7 @@ categories:
 - colonialism
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/01/do-we-understand-colonialism/
 ---

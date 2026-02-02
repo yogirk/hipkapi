@@ -11,7 +11,7 @@ categories:
 - theory-ladenness
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/09/vivekananda-and-caste-theory-ladenness/
 ---

@@ -10,7 +10,7 @@ categories:
 - terrorism
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2015/02/19/the-magic-of-radicalization/
 ---

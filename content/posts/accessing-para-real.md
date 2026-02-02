@@ -9,7 +9,7 @@ categories:
 - real
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2020/04/28/accessing-para-real/
 ---

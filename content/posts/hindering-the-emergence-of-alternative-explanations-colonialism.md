@@ -11,7 +11,7 @@ categories:
 tags:
 - Wendy Doniger
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/06/hindering-the-emergence-of-alternative-explanations-colonialism/
 ---

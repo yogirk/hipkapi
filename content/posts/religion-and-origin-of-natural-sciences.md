@@ -9,7 +9,7 @@ categories:
 - natural sciences
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/17/religion-and-origin-of-natural-sciences/
 ---

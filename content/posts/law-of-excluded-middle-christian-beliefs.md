@@ -11,7 +11,7 @@ categories:
 - indexical
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/10/29/law-of-excluded-middle-christian-beliefs/
 ---

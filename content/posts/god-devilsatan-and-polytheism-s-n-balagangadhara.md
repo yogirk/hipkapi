@@ -11,7 +11,7 @@ categories:
 - worship
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/02/god-devilsatan-and-polytheism-s-n-balagangadhara/
 ---

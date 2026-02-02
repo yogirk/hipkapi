@@ -10,7 +10,7 @@ categories:
 - stories
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/03/the-past-and-ways-of-talking-about-it/
 ---

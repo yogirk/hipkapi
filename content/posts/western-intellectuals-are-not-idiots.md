@@ -10,7 +10,7 @@ categories:
 - translation
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2023/12/27/western-intellectuals-are-not-idiots/
 ---

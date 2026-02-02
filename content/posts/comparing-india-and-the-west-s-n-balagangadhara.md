@@ -11,7 +11,7 @@ categories:
 - published
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/02/comparing-india-and-the-west-s-n-balagangadhara/
 ---

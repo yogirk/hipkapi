@@ -12,7 +12,7 @@ categories:
 - immoral
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/03/colonial-consciousness-burden-of-proof-s-n-balagangadhara/
 ---

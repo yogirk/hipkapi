@@ -13,7 +13,7 @@ categories:
 - Willem
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/02/mantras-of-anti-brahmanism-colonial-experience-of-indian-intellectuals/
 ---

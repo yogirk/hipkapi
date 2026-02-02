@@ -9,7 +9,7 @@ categories:
 - caste
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/01/simulation-of-social-and-cultural-changes-s-n-balagangadhara/
 ---

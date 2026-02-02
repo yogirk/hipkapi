@@ -9,7 +9,7 @@ categories:
 - religion
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/24/how-religion-spreads-the-uselessness-of-reinforcers-and-reinforcement/
 ---

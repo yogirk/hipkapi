@@ -11,7 +11,7 @@ categories:
 - bullshit
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2017/10/09/shock-and-awe-of-enlightenment/
 ---

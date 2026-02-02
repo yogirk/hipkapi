@@ -10,7 +10,7 @@ categories:
 - real
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2020/05/09/blind-men-and-an-elephant-historicity-of-rama/
 ---

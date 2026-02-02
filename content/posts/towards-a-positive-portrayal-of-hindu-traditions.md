@@ -9,7 +9,7 @@ categories:
 - Jakob
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/04/02/towards-a-positive-portrayal-of-hindu-traditions/
 ---

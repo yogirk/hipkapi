@@ -9,7 +9,7 @@ categories:
 - caste
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2012/02/23/the-dominant-story-about-the-caste-system/
 ---

@@ -11,7 +11,7 @@ categories:
 - Indian traditions
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/11/is-enlightenment-learnable/
 ---

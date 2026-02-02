@@ -9,7 +9,7 @@ categories:
 - basics
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2018/02/13/heuristics-traps-to-avoid/
 ---

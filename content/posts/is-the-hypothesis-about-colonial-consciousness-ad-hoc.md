@@ -10,7 +10,7 @@ categories:
 - colonial consciousness
 tags: []
 summary: ''
-toc: true
+toc: false
 aliases:
   - /2011/03/25/is-the-hypothesis-about-colonial-consciousness-ad-hoc/
 ---
