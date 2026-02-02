@@ -10,7 +10,12 @@
     {{ end }}
   </ul>
   {{ if gt $total $limit }}
-  <button class="categories-toggle" aria-expanded="false">Show all ({{ $total }})</button>
+  <button class="categories-toggle" aria-expanded="false">
+    <span class="categories-toggle-text">Show all ({{ $total }})</span>
+    <svg class="categories-toggle-icon" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M2.5 4.5L6 8L9.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </button>
   <script>
   (function() {
     var btn = document.currentScript.previousElementSibling;
@@ -18,7 +23,7 @@
     btn.addEventListener('click', function() {
       var expanded = this.getAttribute('aria-expanded') === 'true';
       this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-      this.textContent = expanded ? 'Show all (' + total + ')' : 'Show less';
+      this.querySelector('.categories-toggle-text').textContent = expanded ? 'Show all (' + total + ')' : 'Show fewer';
       this.closest('.widget-categories').classList.toggle('categories-expanded');
     });
   })();
@@ -31,17 +36,27 @@
     display: flex !important;
   }
   .categories-toggle {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
     margin-top: var(--space-s, 0.5rem);
     padding: 0;
     background: none;
     border: none;
-    color: var(--color-primary, #1a73e8);
+    color: var(--color-text-offset, #5f6368);
     cursor: pointer;
-    font-size: 0.85em;
+    font-family: var(--font-body);
+    font-size: var(--text-sm);
+    transition: color 0.15s ease;
   }
   .categories-toggle:hover {
-    text-decoration: underline;
+    color: var(--color-primary, #1a73e8);
+  }
+  .categories-toggle-icon {
+    transition: transform 0.2s ease;
+  }
+  .categories-toggle[aria-expanded="true"] .categories-toggle-icon {
+    transform: rotate(180deg);
   }
   </style>
   {{ end }}
