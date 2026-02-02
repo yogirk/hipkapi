@@ -100,8 +100,21 @@ Site configuration lives in `config.toml`. Key settings include:
 - **Navigation menu** with weighted ordering
 - **Sidebar widgets:** recent posts, categories, tags
 - **Related content** matching on tags (weight 100), categories (weight 80), and date (weight 10)
-- **Typography:** Google Sans Flex body font, 75ch content width
+- **Typography:** Google Sans Flex body font, 75ch content width, justified text
 - **Dark mode** with automatic detection
+
+### Text Alignment
+
+All posts use justified text alignment by default. To disable justification on a specific post, add `justify: false` to its front matter:
+
+```yaml
+---
+title: My Post
+justify: false
+---
+```
+
+This is controlled by the layout override in `layouts/_default/single.html`.
 
 ## About
 
